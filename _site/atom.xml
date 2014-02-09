@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Tom Preston-Werner</title>
+ <link href="http://tom.preston-werner.com/atom.xml" rel="self"/>
+ <link href="http://tom.preston-werner.com/"/>
+ <updated>2014-02-09T12:42:39+08:00</updated>
+ <id>http://tom.preston-werner.com/</id>
+ <author>
+   <name>Tom Preston-Werner</name>
+   <email>tom@mojombo.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>The Next Big Thing In Technology</title>
+   <link href="http://tom.preston-werner.com/2014/02/08/The-Next-Big-Thing-In-Technology.html"/>
+   <updated>2014-02-08T00:00:00+08:00</updated>
+   <id>http://tom.preston-werner.com/2014/02/08/The-Next-Big-Thing-In-Technology</id>
+   <content type="html">&lt;p&gt;I would like to use a word to describe the next big thing in technology:connect.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>World's first argumented reliaty note app -ARNote</title>
+   <link href="http://tom.preston-werner.com/2014/02/06/ARNote-World%27s-First-Argumented-Reliaty-Note.html"/>
+   <updated>2014-02-06T00:00:00+08:00</updated>
+   <id>http://tom.preston-werner.com/2014/02/06/ARNote-World's-First-Argumented-Reliaty-Note</id>
+   <content type="html">&lt;h1&gt;World&#39;s first argumented reliaty note app -ARNote&lt;/h1&gt;
+
+&lt;p class=&quot;meta&quot;&gt;6 Feb 2014 - Beijing&lt;/p&gt;
+
+
+&lt;p&gt;&lt;img src=&quot;/images/arnote_ad.png&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;ARNote&lt;/em&gt;  means AR+Note,maybe the world&#39;s first Note app with Augmented Reality feature.I wrote this demo almost two years ago and it was hidden in my laptop for a long time.All UI and code were done by myself in a month,the crazy Month,and now I think I should share with you guys.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.slideshare.net/chunjianye/ar-note&quot;&gt;Introduction PDF in Slide Share&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=48ZjmsYss5c&quot;&gt;Vedio in Youtube&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Some works in 2013</title>
+   <link href="http://tom.preston-werner.com/2014/02/05/Some-Works-In-2013.html"/>
+   <updated>2014-02-05T00:00:00+08:00</updated>
+   <id>http://tom.preston-werner.com/2014/02/05/Some-Works-In-2013</id>
+   <content type="html">&lt;h1&gt;Some works in 2013&lt;/h1&gt;
+
+&lt;p class=&quot;meta&quot;&gt;5 Feb 2014 - Hainan&lt;/p&gt;
+
+
+&lt;p&gt;&lt;img src=&quot;https://lh3.ggpht.com/AZWCml2bESwI89oDFuJFh4F4tazX0yPuk4bEakNCUuctARE-rtEgimxWg-MTIn90JA=w125-rw&quot; alt=&quot;Mou icon&quot; /&gt;&lt;/p&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=home.solo.launcher.free&quot;&gt;Solo Launcher&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Android 4.4 ★KitKat UI★&lt;/p&gt;
+
+&lt;p&gt;Solo Launcher is one of the fastest Android Launcher for your Android Devices! Your best choice!
+It is a fast, stable, highly customizable home launcher application which helps you create a fascinating customized home screen experience on your Android device. Get it now!&lt;/p&gt;
+
+&lt;p&gt;★ ★ ★ It&#39;s totally a FREE App! ★ ★ ★&lt;/p&gt;
+
+&lt;p&gt;★ ★ ★ More than 300 personalized settings ★ ★ ★&lt;/p&gt;
+
+&lt;p&gt;★ ★ ★ Faster and smoother than other Launchers ★ ★ ★&lt;/p&gt;
+
+&lt;p&gt;★ ★ ★ With more than 5000 themes, live wallpapers, lockscreens and fonts for FREE ★ ★ ★&lt;/p&gt;
+
+&lt;h4&gt;FEATURES:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Free Unread Mail Count, never miss out your unread emails&lt;/li&gt;
+&lt;li&gt;Gestures, quick start actions and apps or widgets&lt;/li&gt;
+&lt;li&gt;Unlimited Custom Groups in drawer, keep apps in order&lt;/li&gt;
+&lt;li&gt;Customized widgets for weather, quick check today’s weather&lt;/li&gt;
+&lt;li&gt;Clock weather, battery saver and task manager widgets, better manage your settings&lt;/li&gt;
+&lt;li&gt;Compatible with themes of GO Launcher EX, Nova, ADW, Apex and even buzz launcher and dodol launcher.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h4&gt;HIGHLIGHTS:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Complete customization: more than 258 personalized settings&lt;/li&gt;
+&lt;li&gt;Completely FREE/Ad-free (other launchers may cost you $4-5)&lt;/li&gt;
+&lt;li&gt;Unread message count: SMS, telephone, mail (Nova, Holo and Apex need payment)&lt;/li&gt;
+&lt;li&gt;9 kinds of complex gestures: combination of single finger, double fingers, sliding, rotation, etc.&lt;/li&gt;
+&lt;li&gt;The drawer groups: organize apps into tabs and folders in the app drawer&lt;/li&gt;
+&lt;li&gt;Customized handy clock weather (global) and one-click memory booster widgets&lt;/li&gt;
+&lt;li&gt;Faster and smoother than Next, Holo, Apex, Holo and Go launcher&lt;/li&gt;
+&lt;li&gt;The interface is simple, light, which has more personality&lt;/li&gt;
+&lt;li&gt;Fresh and fabulous themes and wallpapers for you to choose&lt;/li&gt;
+&lt;li&gt;Hiding Apps to protect your privacy&lt;/li&gt;
+&lt;li&gt;Free widgets of weather clock, battery saver and cleaner&lt;/li&gt;
+&lt;li&gt;Google Services are supported perfectly&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;img src=&quot;https://lh3.ggpht.com/yBPg5OJ51DIWOGjQwGMmu17bSLMucrT9zhOxqzBwg56OXIqYmVMZiR-eWbPdd9_KtA=w125-rw&quot; alt=&quot;Mou icon&quot; /&gt;&lt;/p&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=home.solo.plugin.locker&quot;&gt;Solo Locker&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Solo Lock screen easily and stylishly with the fastest screen locker! 5-star rating, that is Solo Locker! You may go to SMS messages, call logs and control the music player, all from the Lock Screen.&lt;/p&gt;
+
+&lt;p&gt;■ User Reviews&lt;/p&gt;
+
+&lt;p&gt;“Love it, excellent lock with many different backgrounds to choose from, I recommend this app to anyone looking for cool wallpapers n locks for their phones.” -Tom&lt;/p&gt;
+
+&lt;p&gt;“I love this app it is so much better then the regular lock screens for cellphones.” - Lucy&lt;/p&gt;
+
+&lt;p&gt;“Live and so cool And I cant believe it&#39;s free! So worth it” - Harry&lt;/p&gt;
+
+&lt;h4&gt;■ Free Features&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Display current weather with live animation effects on lock screen&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Add Everything to your lock screen and quick launch apps directly from the lock (Compatible for all Android Versions)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Security protection with pin, pattern and gesture&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;A vast number of themes with plenty of unlocking style, iphone style, android style and other styles beyond your imagination&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Easily customizable lockscreen to make it personal&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h4&gt;■ Permissions Explain&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Location &amp;amp; Access WIFI state ：support the weather themes in locating with GPS&amp;amp;WIFI&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Read Calendar : display agenda on the lockscreen for some themes&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Accessibility: display apps&#39; notifications on the lockscreen&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Write SMS&amp;amp;Contacts：to mark SMS as read, and clear missed calls for themes&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Kill processes: the default theme add a new function - Kill tasks&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;img src=&quot;https://lh3.ggpht.com/DZWSGymcAG0L3DjF5VopowzJZAI9dYy3mT0ICidhLYz7_4DjOi8oudN0sn8Xt327GP4=w125-rw&quot; alt=&quot;Mou icon&quot; /&gt;&lt;/p&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=home.solo.plugin.weather&quot;&gt;Solo Weather&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Solo Weather(Beta) is an easy app with elegant UI,provides detailed weather for all cities worldwide.Life should be simple and beautiful,and why not try this Solo Weather!It is free,for real.No fees, no ads, no gimmicks.&lt;/p&gt;
+
+&lt;h4&gt;Favorite features:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Provides current weather condition and five days weather forecast&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Searches for all cities worldwide by country and city or zip code&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Humidity sensor, UV index, and chance of precipitation&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Sunrise and Sunset time&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Up to 9 different locations&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Easily swipe for the most accurate weather forecasts&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Auto location detection&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Ability to set your preferred temperature unit, Celsius or Fahrenheit&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;img src=&quot;https://lh4.ggpht.com/4fGpfkuFIo2WtEsnNuDaXL1CNsL9J7CkzzNo9utig_nVG_3gSQK8QHXwPHgafnd7McA=w125-rw&quot; alt=&quot;Mou icon&quot; /&gt;&lt;/p&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=home.solo.plugin.batterysaver&quot;&gt;Solo Battery Saver&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Yes!!! You will see the most clear and simple UI but powerful feature battery saver!
+Solo Battery Saver is one of the best FREE battery saving app that can prolong your battery life.&lt;/p&gt;
+
+&lt;h4&gt;★★★Feature Overview★★★&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Simple easy-to-use and elegant UI design&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Disable unnecessary apps that drain your battery!&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Kill apps when screen is off!&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Task Killer kills tasks with just one click!&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Accurate battery remaining time!&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Accurate charging remaining time!&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Battery Charging Tips!&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;★FREE&amp;amp;NO ADS!!!&lt;/p&gt;
+
+&lt;p&gt;★Prolong your battery life use in 3 Modes:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;General Mode(Basic network function opened, meet normal battery saving needs);&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Long Standby (Close all except dialing and SMS, prolong battery to the longest standby time);&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Sleep Mode(Close all except clock, save battery a lot while sleeping);&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Customize your own mode, setup whatever you prefer and find out the most suitable one!&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Regularly closing power-draining tasks;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Accurately Estimates Remaining Battery Time&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Tells how long battery will last under a variety of situations (playing games, wifi on or off, etc)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Professional Charging
+Solo Battery Saver regulates the manner in which your device is charged with a Unique 3 Stage Charging system to ensure you get the most out of your battery and reminds you not to over charge. It also has features that can monitor and regulate power consumption.
+Widget Included
+Our &quot;Task Killer&quot; widget will optimize your power consumption conveniently. The 4x1 widget makes it easier to manage Wifi, Data, Brightness, etc, and set power saving modes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh3.ggpht.com/u-sNlDkYCvp4iUYC_BaPqu4zl9x22D2guKKac3QT0P1TYWwIHadxEvMPioss6p_U=w125-rw&quot; alt=&quot;Mou icon&quot; /&gt;&lt;/p&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=home.solo.plugin.calculator&quot;&gt;Solo Calculator&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;World&#39;s first Great Scientific Calculator supporting Matrix Operations!&lt;/p&gt;
+
+&lt;h4&gt;Features:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Result history&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Traditional algebraic or RPN operation&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Unit conversions&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Percentages&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Physical constants table&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;10 memories&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;General Arithmetic Functions&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Trigonometric Functions - radians, degrees &amp;amp; gradients - including hyperbolic option&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Power &amp;amp; Root Functions&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Binary, octal, and hexadecimal (can be enabled in Settings)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Scientific, engineering and fixed-point display modes&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Configurable digit grouping and decimal point&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Fraction calculations and conversion to/from decimal&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Degrees/minutes/seconds calculations and conversion&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Landscape mode&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;User-customizable unit conversions&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;User-customizable constants&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Log Functions&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Modulus Function&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Random Number Functions&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Permutations (nPr) &amp;amp; Combinations (nCr)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Highest Common Factor &amp;amp; Lowest Common Multiple&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Statistics Functions - Statistics Summary (returns the count (n), sum, product, sum of squares, minimum, maximum, median, mean, geometric mean, variance, coefficient of variation &amp;amp; standard deviation of a series of numbers), Confidence Interval, Digamma Function, Exponential Density, Gamma Function, Hypergeometric Distribution, Normal Distribution, Poisson Distribution&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Conversion Functions: area, distance, volume, weight, density, speed, pressure, energy, power, frequency, magnetic flux density, dynamic viscosity, temperature, heat transfer coefficient, time, angles, data size, fuel efficiency &amp;amp; exchange rates&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;img src=&quot;https://lh6.ggpht.com/VzLu3k1sXQ57ptIe4uue4z1BPfO98Bs6u6TCTf2toY6X74jQH_xkcFGXixPsmPVAgw=w125-rw&quot; alt=&quot;Mou icon&quot; /&gt;&lt;/p&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.solo.theme.colorfulflat&quot;&gt;Colorful Flat Theme&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;The classic Colorful Flat theme with gorgeous UI is now available for solo launcher!&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Brand new Flat style,5-STARS quality&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;More than 80+ beautiful redesigned HD (148*148) icons&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;8 colorful icon backs&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;5 HD colorful wallpapers!&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Totally FREE,NO Ads,with continuous update&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;This theme is just perfect for you to renew your phone with Solo Launcher!&lt;/p&gt;
+
+&lt;h4&gt;Notice:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;REMEMBER Before enjoying your exclusive Colorful Flat theme, you need to make sure you have had the latest Solo Launcher installed in your phone. The theme can only run on Solo Launcher.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;We will designed more icons with successive update&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Great things in 2013</title>
+   <link href="http://tom.preston-werner.com/2014/01/25/Great-Things-In-2013.html"/>
+   <updated>2014-01-25T00:00:00+08:00</updated>
+   <id>http://tom.preston-werner.com/2014/01/25/Great-Things-In-2013</id>
+   <content type="html">&lt;h1&gt;Great things in 2013&lt;/h1&gt;
+
+&lt;p class=&quot;meta&quot;&gt;25 Jan 2014 - Beijing&lt;/p&gt;
+
+
+&lt;p&gt;There is a quote in the end of the &lt;em&gt;Into The Wild&lt;/em&gt; :Happiness only real when shared,and in &lt;em&gt;Great thing in 2013&lt;/em&gt; ,I would like to begin with:Knowledge can be happiness when shared.&lt;/p&gt;
+
+&lt;h4&gt;Content&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Book&lt;/li&gt;
+&lt;li&gt;Article&lt;/li&gt;
+&lt;li&gt;Movie&lt;/li&gt;
+&lt;li&gt;Music&lt;/li&gt;
+&lt;li&gt;Reading List&lt;/li&gt;
+&lt;li&gt;Website&lt;/li&gt;
+&lt;li&gt;Software&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h4&gt;Book&lt;/h4&gt;
+
+&lt;p&gt;My annual books of 2013: &lt;em&gt;The Design of Everyday Things&lt;/em&gt; &amp;amp; *Code:The hidden language behind *&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/0465067107/ref=sr_1_2?ie=UTF8&amp;amp;qid=1390541184&amp;amp;sr=8-2&amp;amp;keywords=the+design+of+everyday+things&quot;&gt;&lt;strong&gt; &lt;em&gt;The Design of Everyday Things&lt;/em&gt; &lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;&lt;a href=&quot;https://www.evernote.com/shard/s80/sh/f576774e-9f3d-42ff-a5cc-b90f352fb875/beade5debad40a246c6553d4cee2fe65&quot;&gt;Reading Notes&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319/ref=sr_1_1?ie=UTF8&amp;amp;qid=1391588607&amp;amp;sr=8-1&amp;amp;keywords=code+the+hidden+language+of+computer+hardware+and+software&quot;&gt;&lt;strong&gt; &lt;em&gt;Code: The Hidden Language of Computer Hardware and Software&lt;/em&gt; &lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://book.douban.com/subject/1815640/&quot;&gt;&lt;em&gt;王小波杂文第一卷&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;&lt;a href=&quot;http://www.evernote.com/shard/s80/sh/d8dc9137-cff0-4adf-9451-9267a8b5b395/dbae20b491c6ff1fc18be68077e3820e&quot;&gt;Reading Notes&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://www.duokan.com/book/42974&quot;&gt;&lt;em&gt;信息简史&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;&lt;a href=&quot;https://www.evernote.com/shard/s80/sh/2ebe0433-c6c9-43a6-a3b0-1260f529c69e/56077e6fcd9c2430934fc8a4adac336d&quot;&gt;Reading Notes&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://www.duokan.com/book/11407&quot;&gt;&lt;em&gt;上帝掷骰子吗：量子物理史话&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;&lt;a href=&quot;https://www.evernote.com/shard/s80/sh/0871675a-c9a5-45b0-8aa9-ea14e2b5f952/094dd4a5ccb567c38f5a81ddce184fe5&quot;&gt;Reading Notes&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://www.amazon.com/Algorithms-4th-Edition-Robert-Sedgewick/dp/032157351X/ref=sr_1_1?ie=UTF8&amp;amp;qid=1390638053&amp;amp;sr=8-1&amp;amp;keywords=algorithms&quot;&gt;&lt;em&gt;Algorithms&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;&lt;a href=&quot;https://www.evernote.com/shard/s80/sh/0c6e9abf-a3f3-426a-826b-e3d2ad2a29b6/60852e102e0251bb541b787225b0819c&quot;&gt;Reading List&lt;/a&gt;
+&lt;a href=&quot;http://algs4.cs.princeton.edu/home/&quot;&gt;Website&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.coursera.org/course/algs4partI&quot;&gt;Coursera I&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.coursera.org/course/algs4partII&quot;&gt;Coursera II&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://www.amazon.com/Computer-Systems-Programmers-Perspective-Edition/dp/0136108040/ref=sr_1_1?ie=UTF8&amp;amp;qid=1390638674&amp;amp;sr=8-%20%20%20%20%20%20%20%201&amp;amp;keywords=computer+system+a+programmer%27s+perspective&quot;&gt;&lt;em&gt;Computer Systems: A Programmer&#39;s Perspective&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;&lt;a href=&quot;https://www.evernote.com/shard/s80/sh/850d02e5-f929-4a48-81a1-19ea062c35a4/c25aada4e678767df57d571abe530d15&quot;&gt;Reading Notes&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X/ref=sr_1_1?ie=UTF8&amp;amp;qid=1390640183&amp;amp;sr=8-1&amp;amp;keywords=cracking+the+coding+interview&quot;&gt;&lt;em&gt;Cracking the Coding Interview: 150 Programming Questions and Solutions&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;&lt;a href=&quot;https://www.evernote.com/shard/s80/sh/f01356d2-8709-420f-98c5-8355ae3cc66e/7ab25d12d741377999309035abffd416&quot;&gt;Reading List&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://www.amazon.com/Programming-Pearls-2nd-Edition-Bentley/dp/0201657880/ref=sr_1_1?ie=UTF8&amp;amp;qid=1390640594&amp;amp;sr=8-1&amp;amp;keywords=programming+pearls&quot;&gt;&lt;em&gt;Programming Peals&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;&lt;a href=&quot;https://www.evernote.com/shard/s80/sh/4fa8396c-1d02-40f7-b245-124c3078e770/eb415c4644be0824cf01f7a5fb7f3fe4&quot;&gt;Reading List&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://book.douban.com/subject/3037562/&quot;&gt;&lt;em&gt;汇编语言&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;&lt;a href=&quot;https://www.evernote.com/shard/s80/sh/0f13ae3b-c1c7-41d6-8ee2-b2c98996de08/abc3999cf4ae8150f67c83274d3ba10a&quot;&gt;Reading List&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://book.douban.com/subject/6522893/&quot;&gt;&lt;em&gt;深入理解Java虚拟机：JVM高级特性与最佳实践&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;&lt;a href=&quot;https://www.evernote.com/shard/s80/sh/16680ba3-74ee-4071-ac7c-72705eb4f4d2/e7529e1709539d3d4eb274e3cf5aaf60&quot;&gt;Reading List&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://pan.baidu.com/s/1i30tQGt&quot;&gt;I have shared some PDF and ppt in web.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4&gt;Article&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.yinwang.org/blog-cn/2014/01/04/authority/&quot;&gt;我和权威的故事&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.china30s.com/1340.html&quot;&gt;西乔：我在过着很奢侈的生活&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://warp.povusers.org/Mandelbrot/&quot;&gt;The Mandelbrot Set&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.shuoyangdesign.com/?p=755&quot;&gt;Media for Thinking the Unthinkable&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://book.douban.com/review/4975394/&quot;&gt;登峰造极的艺术&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://norvig.com/21-days.html&quot;&gt;Teach Yourself Programming in Ten Years&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.programcreek.com/2011/02/how-compiler-works/&quot;&gt;How compiler works?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://net.tutsplus.com/articles/general/10-tips-for-learning-a-new-technology/&quot;&gt;10 Tips for Learning a New Technology&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.tianyabook.com/ceshi/duxinshu.htm&quot;&gt;吉普赛人的读心术&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://toastytech.com/guis/guitimeline4.html&quot;&gt;Graphical User Interface Timeline&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://cstheory.stackexchange.com/questions/19759/core-algorithms-deployed&quot;&gt;Core algorithms deployed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.evernote.com/shard/s80/sh/43b300f7-6685-426c-9b03-1e789cc814fe/dc0a4a6de33f65b4798f184f2b854679&quot;&gt;哥德尔，埃舍尔和巴赫--论计算理论与艺术的美妙关系&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.evernote.com/shard/s80/sh/c1dde15d-dccb-42ea-9818-f08e580b3bdd/80f7203f0aa99319c3250abd5cf83bdc&quot;&gt;读&lt;em&gt;哥德尔，艾舍尔，巴赫-集异壁之大成&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h4&gt;Movie&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.imdb.com/title/tt0038650/?ref_=nv_sr_1&quot;&gt;&lt;em&gt;It&#39;s a Wonderful Life&lt;/em&gt;&lt;/a&gt;（1946）&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.imdb.com/title/tt0107822/?ref_=fn_al_tt_1&quot;&gt;&lt;em&gt;The Piano&lt;/em&gt;&lt;/a&gt;(1993)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.imdb.com/title/tt1399683/?ref_=fn_al_tt_1&quot;&gt;&lt;em&gt;Winter&#39;s Bone&lt;/em&gt;&lt;/a&gt;(2010)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h4&gt;Music&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=jaxZeisCHv8&quot;&gt;《The Ludlows》&lt;/a&gt;The soundtrack of &lt;a href=&quot;http://www.imdb.com/title/tt0110322/?ref_=fn_al_tt_1&quot;&gt;《Legends of the Fall》&lt;/a&gt;(1994)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=tkIpmSf3drM&quot;&gt;《The heart asks pleasure first》&lt;/a&gt; The soundtrack of &lt;a href=&quot;http://www.imdb.com/title/tt0107822/?ref_=fn_al_tt_1&quot;&gt;《The Piano》&lt;/a&gt;(1993)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h4&gt;Reading List&lt;/h4&gt;
+
+&lt;p&gt;There are some great reading list collected from Internet:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://wp.kjro.se/2013/12/27/5-insanely-great-books-about-mathematics-you-should-read/&quot;&gt;5 insanely great books about mathematics you should read&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://programmers.stackexchange.com/questions/870/if-you-could-only-have-one-programming-related-book-on-your-bookshelf-what-would&quot;&gt;If you could only have one programming related book on your bookshelf what would it be and why?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.fromdev.com/2011/08/11-most-influential-books-every.html&quot;&gt;11 Most Influential Books Every Programmer / Developer Must Read&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.evernote.com/shard/s80/sh/211f886d-0fd7-40f6-91cf-12b4f36c069e/ffb037ba815d2bdb34bd031d061ceb78&quot;&gt;Learn Startup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.evernote.com/shard/s80/sh/8c0bb959-27cb-42c1-85d6-fbeaf53fadf3/0c103e3f6422987acfe1092c326544cd&quot;&gt;Time Management&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#algorithms--datastructures&quot;&gt;Free Programming Books&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://dl.acm.org/classics.cfm&quot;&gt;ACM Classic Books Series&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read?page=1&amp;amp;tab=votes#tab-top&quot;&gt;What is the single most influential book every programmer should read?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.codinghorror.com/blog/2004/02/recommended-reading-for-developers.html&quot;&gt;Recommended Reading for Developers-Jeff Atwood&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://techwikasta.com/2013/04/12-best-books-for-computer-science-students-professionals/&quot;&gt;12-best-books-for-computer-science-students-professionals&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.evernote.com/shard/s80/sh/7d7dfa68-4c0a-4a76-9b48-8a75281922fc/f544545196d9d0c00e94bf5e056a23b9&quot;&gt;推荐技术书单&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://book.douban.com/doulist/1246984/&quot;&gt;各学科领域入门书籍&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.yangzhiping.com/psy/mindbook.html&quot;&gt;心智十二宫：聪明人写的关于心智的书&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h4&gt;Website&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.quora.com/&quot;&gt;Quora&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.slideshare.net/&quot;&gt;Slide Share&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://worrydream.com/&quot;&gt;Bret Victor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.udacity.com/&quot;&gt;Udacity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.ureddit.com/&quot;&gt;UReddit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.coursera.org/&quot;&gt;Coursera&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h4&gt;Software&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.evernote.com/&quot;&gt;Evernote&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.duokan.com/&quot;&gt;Pocker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.duokan.com/&quot;&gt;多看阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ 
+</feed>

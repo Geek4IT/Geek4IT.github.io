@@ -1,0 +1,1 @@
+I would like to use a word to describe the next big thing in technology:connect.
