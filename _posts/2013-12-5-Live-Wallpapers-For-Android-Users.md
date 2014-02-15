@@ -12,7 +12,7 @@ title: Live Wallpapers For Android Users
 
 [Earth 3D](https://play.google.com/store/apps/details?id=com.geek4it.earth3d)
 
-[Fork me on GitHub](https://github.com/Geek4IT/Earth3D)
+Some objects and earth map are available on [GitHub](https://github.com/Geek4IT/Earth3D)
 
 Earth Live Wallpaper with lots of customization!
 User Comments
