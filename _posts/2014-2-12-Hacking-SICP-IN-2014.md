@@ -1,1 +1,10 @@
-My Hacking-SICP plan in 2014
+---
+layout: post
+title:  Hacking-SICP in 2014
+---
+
+{{ page.title }}
+================
+
+<p class="meta">12 Feb 2014 - Beijing</p>
+
