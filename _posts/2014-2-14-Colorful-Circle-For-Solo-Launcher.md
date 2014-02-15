@@ -40,5 +40,7 @@ Solo Launcher,Solo Locker,Solo Weather,Solo Battery,Solo Calculator,Colorful Fla
 
  ![Mou icon](https://lh6.ggpht.com/CpOBrNAmlr8z-Rtomo6oMW2CkdkRpCSNkNjnaB9mgGfAG1EtomxWXynjtqLSjUMHvXdB=w600-rw)
  
- ![Mou icon](https://lh6.ggpht.com/1ZdrbnMpuRbVpBmHuPSz5y5UUDOoGkB7N1cqKkkIeto0ZqD39jH4p-glph5DviFl0F3X=w600-rw)
+ ![Mou icon](https://lh6.ggpht.com/hM2uEFNUkWUwzd3kTpGCsSrDDqecfSnLg1d-AlXr4tthqjYLcUFLJZ4UELYBvMJc9mM=w600-rw)
+
+ ![Mou icon](https://lh3.ggpht.com/3Vpi5ZQveCC_LvrmhcEZDHzgtk4fooqaFmk08GBs8fCQMNl_TAprst5loy_reQcbVVwe=w600-rw)
 
