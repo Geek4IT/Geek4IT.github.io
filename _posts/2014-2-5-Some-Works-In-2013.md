@@ -49,7 +49,6 @@ It is a fast, stable, highly customizable home launcher application which helps 
 * Free widgets of weather clock, battery saver and cleaner
 * Google Services are supported perfectly
 
-![Mou icon](https://lh4.ggpht.com/FAAE9RUTCV7F4Xi9a0j0EHfBBFXCvSbesay936PA1ogO3nvhCjWgYgYYJGmavUIwlhw=w600-rw)
 
 ![Mou icon](https://lh3.ggpht.com/yBPg5OJ51DIWOGjQwGMmu17bSLMucrT9zhOxqzBwg56OXIqYmVMZiR-eWbPdd9_KtA=w125-rw)
 ###[Solo Locker](https://play.google.com/store/apps/details?id=home.solo.plugin.locker)
@@ -87,8 +86,6 @@ Solo Lock screen easily and stylishly with the fastest screen locker! 5-star rat
 * Write SMS&Contacts：to mark SMS as read, and clear missed calls for themes
 
 * Kill processes: the default theme add a new function - Kill tasks
-
-![Mou icon](https://lh5.ggpht.com/f9BOgCiI4KSsPBseHAQ0yIvi5vbIssvFw2Nsbkn4QtruB2IKcBSikvIYJNXyC3T_Peo=w600-rw)
 
 
 ![Mou icon](https://lh3.ggpht.com/DZWSGymcAG0L3DjF5VopowzJZAI9dYy3mT0ICidhLYz7_4DjOi8oudN0sn8Xt327GP4=w125-rw)
