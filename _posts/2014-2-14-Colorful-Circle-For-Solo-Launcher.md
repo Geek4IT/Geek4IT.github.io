@@ -29,7 +29,7 @@ Notice:
  - 2.We will designed more icons with successive update
   
 
- ![Mou icon](https://lh6.ggpht.com/CpOBrNAmlr8z-Rtomo6oMW2CkdkRpCSNkNjnaB9mgGfAG1EtomxWXynjtqLSjUMHvXdB=h900-rw)
+ ![Mou icon](https://lh6.ggpht.com/CpOBrNAmlr8z-Rtomo6oMW2CkdkRpCSNkNjnaB9mgGfAG1EtomxWXynjtqLSjUMHvXdB=w600-rw)
  
- ![Mou icon](https://lh6.ggpht.com/1ZdrbnMpuRbVpBmHuPSz5y5UUDOoGkB7N1cqKkkIeto0ZqD39jH4p-glph5DviFl0F3X=h900-rw)
+ ![Mou icon](https://lh6.ggpht.com/1ZdrbnMpuRbVpBmHuPSz5y5UUDOoGkB7N1cqKkkIeto0ZqD39jH4p-glph5DviFl0F3X=w600-rw)
 
