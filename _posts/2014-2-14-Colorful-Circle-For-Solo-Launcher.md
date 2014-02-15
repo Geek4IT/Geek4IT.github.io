@@ -30,7 +30,7 @@ Notice:
  - 1.REMEMBER Before enjoying your exclusive Colorful Circle theme, you need to make sure you have had the latest Solo Launcher installed in your phone. The theme can only run on Solo Launcher.
  - 2.We will designed more icons with successive update
   
-How do I use this?
+How to use this?
 
  - Inside the Colorful Circle app,make sure you have installed Solo Launcher,and just click the Apply button.
   - Or inside the Solo Launcher,go to Solo Play > THEMES >Installed,and find the app,then apply the theme
