@@ -1,3 +1,13 @@
+---
+layout: post
+title: Colorful Circle Theme For Solo Launcher
+---
+
+{{ page.title }}
+================
+
+<p class="meta">14 Feb 2014 - Beijing</p>
+
 ![Mou icon](https://lh3.ggpht.com/50Ls-XCaAQ_3j_oscQqJQb2T6mFZIkmXw2VKYXPlUkF5z2Wq8K_2VJaJwaqRzZLIlA=w200-rw)
 
 The classic [Colorful Circle Theme](https://play.google.com/store/apps/details?id=com.solo.theme.colorfulcircle&hl=en) with gorgeous UI is now available for solo launcher!
