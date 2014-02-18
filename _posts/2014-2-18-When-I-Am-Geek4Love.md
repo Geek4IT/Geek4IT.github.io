@@ -8,7 +8,7 @@ title: When I am Geek4Love
 
 <p class="meta">18 Feb 2014 - Beijing</p>
 
-![Alt text](/images/arnote_ad.png)
+![Alt text](/images/geek4love.png)
 
 ###当月光洒满了一地澄澈
 
