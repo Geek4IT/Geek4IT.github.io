@@ -8,6 +8,8 @@ title: When I am Geek4Love
 
 <p class="meta">18 Feb 2014 - Beijing</p>
 
+![Alt text](/images/arnote_ad.png)
+
 ###当月光洒满了一地澄澈
 
 诗人止住了脚步，仰望那一帘幽蓝
