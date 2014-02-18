@@ -1,3 +1,13 @@
+---
+layout: post
+title: When I am Geek4Love
+---
+
+{{ page.title }}
+================
+
+<p class="meta">18 Feb 2014 - Beijing</p>
+
 ###当月光洒满了一地澄澈
 
 诗人止住了脚步，仰望那一帘幽蓝
