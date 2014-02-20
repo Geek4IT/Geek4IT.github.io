@@ -10,7 +10,9 @@ title: When I am Geek4Love
 
 ![Alt text](/images/geek4love.png)
 
-Several years ago,when I geek4love,I wrote these poems for a girl,the bright star in my Laputa.
+Several years ago,when I geek4love,I wrote these poems for a girl,
+
+the bright star in my Laputa.
 
 ###当月光洒满了一地澄澈
 
