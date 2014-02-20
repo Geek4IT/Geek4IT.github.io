@@ -7,7 +7,7 @@ __*Geek*__ means the passion,love and concentration for something.
 
 __*IT*__   represents the thing that want to do when I wake up in the morning.
 
-[ɡi:k'fɔrit]
+*Phonetics*:[ɡi:k'fɔrit]
 
 ###License
 
