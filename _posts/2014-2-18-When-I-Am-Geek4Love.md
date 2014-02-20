@@ -79,3 +79,12 @@ the bright star in my Laputa.
 
 漪沦，在有风的地方飞起~
 
+PS:
+Geek4IT = Geek for IT
+
+Geek means the passion,love and concentration for something.
+
+IT represents the thing that want to do when I wake up in the morning.
+
+Geek4Love means the passion when fall in love
+
