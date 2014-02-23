@@ -37,7 +37,7 @@ Here are some of the listed launchers available in market:
 
 So,the theme is the decoration of your house(launcher),
 
-![alt text](/images/house.png)
+![Alt text](/images/house.png)
 
 ![Mou icon](https://lh6.ggpht.com/l8rup8brAtymf7WF0jjBi7B6dWrieHf6ydLPxfByZS0RbIiHLjKd0D7nqMPlvsBT4cs=h300-rw)
 ![Mou icon](https://lh6.ggpht.com/hM2uEFNUkWUwzd3kTpGCsSrDDqecfSnLg1d-AlXr4tthqjYLcUFLJZ4UELYBvMJc9mM=h300-rw)
