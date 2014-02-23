@@ -21,6 +21,8 @@ Android Launcher aka Home Replacement,presents the main view of your phone,and i
 
 Let me give you it an analogy:A Launcher is like your house,you can place your furnishing(apps) as you like,you can open the refrigerator(launching the apps) when you need to find something to eat.
 
+![Alt text](/images/house.jpg)
+
 Here are some of the listed launchers available in market:
 
 * [Solo Launcher](https://play.google.com/store/apps/details?id=home.solo.launcher.free)
@@ -34,11 +36,7 @@ Here are some of the listed launchers available in market:
 
 * [Aviate](https://play.google.com/store/apps/details?id=ginlemon.flowerfree)
 
-The theme is the decoration of your house(launcher):
-
-![Alt text](/images/house.jpg)
-
-So rightnow you must have many ideas to decorate your room,diy your own style:
+The theme is the decoration of your house(launcher),so rightnow you must have many ideas to decorate your room,diy your own style:
 
 ![Alt text](/images/house_style1.jpg)
 
