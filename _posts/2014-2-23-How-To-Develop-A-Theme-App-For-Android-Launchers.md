@@ -39,8 +39,8 @@ Here are some of the listed launchers available in market:
 The theme is the decoration of your house(launcher),so rightnow you must have many ideas to decorate your room,diy your own style:
 
 
-<img src="http://media-cache-ak0.pinimg.com/736x/ab/74/92/ab7492d23cec75323d4e0b151c83cc21.jpg" alt="GitHub" title="GitHub,Social Coding" height="250" />
-<img src="http://media-cache-ak0.pinimg.com/736x/c1/45/29/c14529aceffb5486f90f9eb8e1dda360.jpg" alt="GitHub" title="GitHub,Social Coding" height="250" />
+<img src="http://media-cache-ak0.pinimg.com/736x/ab/74/92/ab7492d23cec75323d4e0b151c83cc21.jpg" alt="GitHub" title="GitHub,Social Coding" height="200" />
+<img src="http://media-cache-ak0.pinimg.com/736x/c1/45/29/c14529aceffb5486f90f9eb8e1dda360.jpg" alt="GitHub" title="GitHub,Social Coding" height="200" />
 
 
 ![Mou icon](https://lh6.ggpht.com/l8rup8brAtymf7WF0jjBi7B6dWrieHf6ydLPxfByZS0RbIiHLjKd0D7nqMPlvsBT4cs=h300-rw)
