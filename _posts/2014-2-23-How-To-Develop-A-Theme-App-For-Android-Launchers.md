@@ -21,7 +21,7 @@ Android Launcher aka Home Replacement,presents the main view of your phone,and i
 
 Let me give you it an analogy:A Launcher is like your house,you can place your furnishing(apps) as you like,you can open the refrigerator(launching the apps) when you need to find something to eat.
 
-![Alt text](/images/house.jpg)
+<img src="http://media-cache-ak0.pinimg.com/736x/e3/75/b1/e375b182d273a1305619127e785e9232.jpg" alt="GitHub" title="GitHub,Social Coding" width="300" />
 
 Here are some of the listed launchers available in market:
 
@@ -38,15 +38,15 @@ Here are some of the listed launchers available in market:
 
 The theme is the decoration of your house(launcher),so rightnow you must have many ideas to decorate your room,diy your own style:
 
-![Alt text](/images/house_style1.jpg)
 
-![Alt text](/images/house_style2.jpg)
+<img src="http://media-cache-ak0.pinimg.com/736x/ab/74/92/ab7492d23cec75323d4e0b151c83cc21.jpg" alt="GitHub" title="GitHub,Social Coding" height="250" />
+<img src="http://media-cache-ak0.pinimg.com/736x/c1/45/29/c14529aceffb5486f90f9eb8e1dda360.jpg" alt="GitHub" title="GitHub,Social Coding" height="250" />
+
 
 ![Mou icon](https://lh6.ggpht.com/l8rup8brAtymf7WF0jjBi7B6dWrieHf6ydLPxfByZS0RbIiHLjKd0D7nqMPlvsBT4cs=h300-rw)
 ![Mou icon](https://lh6.ggpht.com/hM2uEFNUkWUwzd3kTpGCsSrDDqecfSnLg1d-AlXr4tthqjYLcUFLJZ4UELYBvMJc9mM=h300-rw)
 
-Did you get it?These are two different style of icons,that is the theme,
-
+Did you get it?These are two different style of icons,that is the theme.
 
 
 __Steps to build your favorite theme?__
