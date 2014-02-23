@@ -7,14 +7,12 @@ title: How to develop a theme app for Android launchers
 ================
 
 <p class="meta">23 Feb 2014 - Beijing</p>
-- - -
-
 Here I am going to guide you through all the steps to build your favourite theme.
 
 
-① . What is the Launcher and the Theme?
+>① . What is the Launcher and the Theme?
 
-② . Steps to build your favorite theme
+>② . Steps to build your favorite theme
 
 
 __What is the Launcher and the Theme?__
@@ -28,16 +26,16 @@ Let me give you it an analogy:A Launcher is like your house,you can place your f
 
 Here are some of the listed launchers available in market:
 
-* [Solo Launcher](https://play.google.com/store/apps/details?id=home.solo.launcher.free)
+>* [Solo Launcher](https://play.google.com/store/apps/details?id=home.solo.launcher.free)
 
-* [Go Launcher](https://play.google.com/store/apps/details?id=com.gau.go.launcherex
+>* [Go Launcher](https://play.google.com/store/apps/details?id=com.gau.go.launcherex
 )
 
-* [Nova Launcher](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher)
+>* [Nova Launcher](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher)
 
-* [Smart Launcher](https://play.google.com/store/apps/details?id=ginlemon.flowerfree)
+>* [Smart Launcher](https://play.google.com/store/apps/details?id=ginlemon.flowerfree)
 
-* [Aviate](https://play.google.com/store/apps/details?id=ginlemon.flowerfree)
+>* [Aviate](https://play.google.com/store/apps/details?id=ginlemon.flowerfree)
 
 The theme is the decoration of your house(launcher),so rightnow you must have many ideas to decorate your room,diy your own style:
 
@@ -53,12 +51,12 @@ Got it?These are two different style of icons,just like the two types of house,t
 
 I have designed some icons and released two theme apps in Market
 
-[Colorful Flat Theme](https://play.google.com/store/apps/details?id=com.solo.theme.colorfulflat)
+>[Colorful Flat Theme](https://play.google.com/store/apps/details?id=com.solo.theme.colorfulflat)
 
-[Colorful Circle Theme](https://play.google.com/store/apps/details?id=com.solo.theme.colorfulcircle)
+>[Colorful Circle Theme](https://play.google.com/store/apps/details?id=com.solo.theme.colorfulcircle)
 
 For you guys,If you are a designer,I will guide you how to turn your designed icons into a app in store,if you are a developer,I will guide you how to design your own style icons,if you aren't none of them,congratulation!You will learn a lot,and mayne earn a lot :)
 
 
-__Steps to build your favorite theme?__
+__Steps to build your favorite theme__
 --------
