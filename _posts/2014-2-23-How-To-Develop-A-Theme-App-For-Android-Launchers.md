@@ -34,12 +34,14 @@ Here are some of the listed launchers available in market:
 
 * [Aviate](https://play.google.com/store/apps/details?id=ginlemon.flowerfree)
 
-The theme is the decoration of your house(launcher)
+The theme is the decoration of your house(launcher):
 
 ![Alt text](/images/house.jpg)
 
-So rightnow you must have many ideas to diy your own room
+So rightnow you must have many ideas to decorate your room,diy your own style:
+
 ![Alt text](/images/house_style1.jpg)
+
 ![Alt text](/images/house_style2.jpg)
 
 ![Mou icon](https://lh6.ggpht.com/l8rup8brAtymf7WF0jjBi7B6dWrieHf6ydLPxfByZS0RbIiHLjKd0D7nqMPlvsBT4cs=h300-rw)
