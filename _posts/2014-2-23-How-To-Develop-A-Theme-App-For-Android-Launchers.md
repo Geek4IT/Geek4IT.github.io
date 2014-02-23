@@ -7,15 +7,18 @@ title: How to develop a theme app for Android launchers
 ================
 
 <p class="meta">23 Feb 2014 - Beijing</p>
+- - -
+
 Here I am going to guide you through all the steps to build your favourite theme.
 
 
-1. What is the Launcher and the Theme?
+① . What is the Launcher and the Theme?
 
-2. Steps to build your favorite theme
+② . Steps to build your favorite theme
 
 
 __What is the Launcher and the Theme?__
+--------
 
 Android Launcher aka Home Replacement,presents the main view of your phone,and is responsible for launching almpost all [apps](http://en.wikipedia.org/wiki/Mobile_apps) and hosting [widgets](http://en.wikipedia.org/wiki/Software_widget).
 
@@ -58,4 +61,4 @@ For you guys,If you are a designer,I will guide you how to turn your designed ic
 
 
 __Steps to build your favorite theme?__
-
+--------
