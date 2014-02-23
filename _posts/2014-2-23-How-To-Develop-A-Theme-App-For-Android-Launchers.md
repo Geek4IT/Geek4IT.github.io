@@ -7,7 +7,6 @@ title: How to develop a theme app for Android launchers
 ================
 
 <p class="meta">23 Feb 2014 - Beijing</p>
-
 Here I am going to guide you through all the steps to build your favourite theme.
 
 
@@ -35,9 +34,13 @@ Here are some of the listed launchers available in market:
 
 * [Aviate](https://play.google.com/store/apps/details?id=ginlemon.flowerfree)
 
-So the theme is the decoration of your house(launcher),
+The theme is the decoration of your house(launcher)
 
 ![Alt text](/images/house.jpg)
+
+so you must have many ideas to decorate a room,
+![Alt text](/images/house_style1.jpg)
+![Alt text](/images/house_style2.jpg)
 
 ![Mou icon](https://lh6.ggpht.com/l8rup8brAtymf7WF0jjBi7B6dWrieHf6ydLPxfByZS0RbIiHLjKd0D7nqMPlvsBT4cs=h300-rw)
 ![Mou icon](https://lh6.ggpht.com/hM2uEFNUkWUwzd3kTpGCsSrDDqecfSnLg1d-AlXr4tthqjYLcUFLJZ4UELYBvMJc9mM=h300-rw)
@@ -47,6 +50,4 @@ Did you get it?These are two different style of icons,that is the theme,
 
 
 __Steps to build your favorite theme?__
-
-
 
