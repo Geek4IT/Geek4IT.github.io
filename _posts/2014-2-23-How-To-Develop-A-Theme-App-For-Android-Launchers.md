@@ -46,7 +46,15 @@ The theme is the decoration of your house(launcher),so rightnow you must have ma
 ![Mou icon](https://lh6.ggpht.com/l8rup8brAtymf7WF0jjBi7B6dWrieHf6ydLPxfByZS0RbIiHLjKd0D7nqMPlvsBT4cs=h300-rw)
 ![Mou icon](https://lh6.ggpht.com/hM2uEFNUkWUwzd3kTpGCsSrDDqecfSnLg1d-AlXr4tthqjYLcUFLJZ4UELYBvMJc9mM=h300-rw)
 
-Did you get it?These are two different style of icons,that is the theme.
+Got it?These are two different style of icons,just like the two type of house,that is the theme.
+
+I have designed some icons and released two theme apps in Market
+
+[Colorful Flat Theme](https://play.google.com/store/apps/details?id=com.solo.theme.colorfulflat)
+
+[Colorful Circle Theme](https://play.google.com/store/apps/details?id=com.solo.theme.colorfulcircle)
+
+For you guys,If you are a designer,I will guide you how to turn your designed icons into a app in store,if you are a developer,I will guide you how to design your own style icons,if you aren't none of them,congratulation!You will learn a lot,and mayne earn a lot :)
 
 
 __Steps to build your favorite theme?__
