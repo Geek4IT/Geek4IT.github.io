@@ -20,7 +20,7 @@ __What is the Launcher and the Theme?__
 
 Android Launcher aka Home Replacement,presents the main view of your phone,and is responsible for launching almpost all [apps](http://en.wikipedia.org/wiki/Mobile_apps) and hosting [widgets](http://en.wikipedia.org/wiki/Software_widget).
 
-Let me give you it an analogy:A Launcher is like your house,you can place your furnishing(apps) as you like,you can open the refrigerator(launching the apps) when you need to find something to eat.
+Just give it an analogy:A Launcher is like your house,you can place your furnishing(apps) as you like,you can open the refrigerator(launching the apps) when you need to find something to eat.
 
 <img src="http://media-cache-ak0.pinimg.com/736x/e3/75/b1/e375b182d273a1305619127e785e9232.jpg" alt="GitHub" title="GitHub,Social Coding" width="300" />
 
