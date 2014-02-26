@@ -35,3 +35,23 @@ Most people don¡¯t read an entire web page, but simply scan it for the first thi
 
 >* Try and avoid ¡°noise¡±.
 
+###Chapter 4 Animal, vegetable, or mineral?
+
+###Chapter 5 Omit needless words
+
+###Chapter 6 Street signs and Breadcrumbs 
+
+###Chapter 7 The first step in recovery is admitting the Home page is beyond your control
+
+###Chapter 8 "The Farmer and the Cowman Should Be Friends"
+
+###Chapter 9 Usability testing on 10 cents a day
+
+###Chapter 10 Usability as common courtesy
+
+###Chapter 11 Accessibility, Cascading StyleSheets, and you
+
+###Chapter 12 Help! My boss wants me to ________
+
+
+
