@@ -14,7 +14,7 @@ title: Don't make me think
 
 ##Key Points
 
-¡°Don¡¯t make me think¡± refers to the idea that when a web site makes you stop and think about what you¡¯re doing, it¡¯s making your life harder, and perhaps isn¡¯t designed as well as it could be.
+??Don??t make me think?? refers to the idea that when a web site makes you stop and think about what you??re doing, it??s making your life harder, and perhaps isn??t designed as well as it could be.
 
 ##Chapter highlights
 
@@ -22,7 +22,7 @@ title: Don't make me think
 Acts as an introduction to the rest of the book. It also explains the two types of thinking your users engage in and why one of them is bad. Hint: if your users are busy thinking about how to navigate though your site, they aren't thinking about buying your product or service.
 
 ###Chapter 2 How we really use the web 
-Most people don¡¯t read an entire web page, but simply scan it for the first thing that looks good, which they then proceed to click. People don¡¯t attempt a thorough understanding of a web site, but prefer to satisfice - making do with what seems like pretty good choices.
+Most people don??t read an entire web page, but simply scan it for the first thing that looks good, which they then proceed to click. People don??t attempt a thorough understanding of a web site, but prefer to satisfice - making do with what seems like pretty good choices.
 
 ###Chapter 3 Billboard Design 101
 >* Create a clear visual hierarchy.
@@ -33,7 +33,7 @@ Most people don¡¯t read an entire web page, but simply scan it for the first thi
 
 >* Clearly define portions of a page.It should be very clear what is clickable.
 
->* Try and avoid ¡°noise¡±.
+>* Try and avoid ??noise??.
 
 ###Chapter 4 Animal, vegetable, or mineral?
 
