@@ -14,7 +14,7 @@ title: Don't make me think
 
 ##Key Points
 
-Don't make me think? refers to the idea that when a web site makes you stop and think about what you??re doing, it's making your life harder, and perhaps isn't designed as well as it could be.
+Don't make me think? refers to the idea that when a web site makes you stop and think about what you are doing, it's making your life harder, and perhaps isn't designed as well as it could be.
 
 ##Chapter highlights
 
