@@ -10,10 +10,18 @@ title: Book Notes:Don't make me think
 ##Don't Make Me Think: A Common Sense Approach to Web Usability (2nd Edition) Summary
 --------
 
-Key PointsDon't make me think? refers to the idea that when a web site makes you stop and think about what you are doing, it's making your life harder, and perhaps isn't designed as well as it could be.
-Chapter highlightsChapter 1 Don't make me think!
+Key Points:
 
-Acts as an introduction to the rest of the book. It also explains the two types of thinking your users engage in and why one of them is bad. Hint: if your users are busy thinking about how to navigate though your site, they aren't thinking about buying your product or service.
+Don't make me think? refers to the idea that when a web site makes you stop and think about what you are doing, 
+
+it's making your life harder, and perhaps isn't designed as well as it could be.
+
+##Chapter highlights
+
+###Chapter 1 Don't make me think!
+
+Acts as an introduction to the rest of the book. It also explains the two types of thinking your users engage in and why one of them is bad. 
+Hint: if your users are busy thinking about how to navigate though your site, they aren't thinking about buying your product or service.
 
 Dozens of other things that visitors to a site shouldn’t spend their time
 thinking about, like:
@@ -24,7 +32,7 @@ thinking about, like:
 	* What are the most important things on this page?
 	* Why did they call it that?
 
-Chapter 2 How we really use the web
+###Chapter 2 How we really use the web
 Scanning , satisficing, and muddling through
 
      Most people don't read an entire web page, but simply scan it for the first thing that looks good, which they then proceed to click. People don't attempt a thorough understanding of a web site, but prefer to satisfice - making do with what seems like pretty good choices.
@@ -54,7 +62,7 @@ Why don’t Web users look for the best choice?
 
 
 
-Chapter 3 Billboard Design 101
+###Chapter 3 Billboard Design 101
 
 Designing pages for scanning, not reading
 Faced with the fact that your users are whizzing by, there are five
@@ -70,27 +78,22 @@ much of your site as possible.
 
 	* Clearly define portions of a page.It should be very clear what is clickable.
 
-	* 
-Try and avoid noise.
+	* Try and avoid noise.
 
-
-
-
-
-Create a clear visual hierarchy
+####Create a clear visual hierarchy
 
 	* The more important something is, the more prominent it is.
 	* Things that are related logically are also related visually
 	* Things are “nested” visually to show what’s part of what
 
-Conventions are you friends
+####Conventions are you friends
 Conventions enable users to figure out a lot about a Web page, even if they
 can’t understand a word of it.
 
 	* They’re very useful
 	* Designers are often reluctant to take advantage of them.
 
-Try and avoid noise
+####Try and avoid noise
 One of the great enemies of easy-to-grasp pages is visual noise. There are
 really two kinds of noise:
 
@@ -102,6 +105,22 @@ have no problem with busy pages and background noise, but many do.
 When you’re designing Web pages, it’s probably a good idea to assume
 that everything is visual noise until proven otherwise.
 
-Chapter 4 Animal, vegetable, or mineral?Chapter 5 Omit needless wordsChapter 6 Street signs and BreadcrumbsChapter 7 The first step in recovery is admitting the Home page is beyond your controlChapter 8 "The Farmer and the Cowman Should Be Friends"Chapter 9 Usability testing on 10 cents a dayChapter 10 Usability as common courtesyChapter 11 Accessibility, Cascading StyleSheets, and youChapter 12 Help! My boss wants me to ________
+###Chapter 4 Animal, vegetable, or mineral?
+
+###Chapter 5 Omit needless words
+
+###Chapter 6 Street signs and BreadcrumbsChapter 
+
+###7 The first step in recovery is admitting the Home page is beyond your controlChapter 
+
+###8 "The Farmer and the Cowman Should Be Friends"
+
+###Chapter 9 Usability testing on 10 cents a day
+
+###Chapter 10 Usability as common courtesy
+
+###Chapter 11 Accessibility, Cascading StyleSheets, and you
+
+###Chapter 12 Help! My boss wants me to ________
 
 
