@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Book Notes:Don't make me think
 ---
@@ -7,7 +7,6 @@ title: Book Notes:Don't make me think
 ================
 
 <p class="meta">2 Mar 2014 - Beijing</p>
-
 ##Don't Make Me Think: A Common Sense Approach to Web Usability (2nd Edition) Summary
 --------
 
