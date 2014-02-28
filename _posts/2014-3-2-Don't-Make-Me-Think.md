@@ -54,9 +54,9 @@ Why don’t Web users look for the best choice?
 
 	*  We’re usually in a hurry.
 	* There’s not much of a penalty for guessing wrong.
-	* Weighing options may not improve our chances On poorly designed sites, putting effort into making the best choice doesn’t really help. You’re usually better off going with your first guess and using the Back button if it doesn’t work out
-
-
+	* Weighing options may not improve our chances On poorly designed sites, 
+	putting effort into making the best choice doesn’t really help. 
+	You’re usually better off going with your first guess and using the Back button if it doesn’t work out
 	* Guessing is more fun.
 
 
@@ -109,11 +109,11 @@ that everything is visual noise until proven otherwise.
 
 ###Chapter 5 Omit needless words
 
-###Chapter 6 Street signs and BreadcrumbsChapter 
+###Chapter 6 Street signs and Breadcrumbs
 
-###7 The first step in recovery is admitting the Home page is beyond your controlChapter 
+###Chapter 7 The first step in recovery is admitting the Home page is beyond your control
 
-###8 "The Farmer and the Cowman Should Be Friends"
+###Chapter 8 "The Farmer and the Cowman Should Be Friends"
 
 ###Chapter 9 Usability testing on 10 cents a day
 
