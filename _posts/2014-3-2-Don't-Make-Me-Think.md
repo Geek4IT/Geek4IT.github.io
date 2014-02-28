@@ -25,8 +25,6 @@ thinking about, like:
 	* What are the most important things on this page?
 	* Why did they call it that?
 
-
-
 Chapter 2 How we really use the web
 Scanning , satisficing, and muddling through
 
