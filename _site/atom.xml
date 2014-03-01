@@ -4,7 +4,7 @@
  <title>Tom Preston-Werner</title>
  <link href="http://tom.preston-werner.com/atom.xml" rel="self"/>
  <link href="http://tom.preston-werner.com/"/>
- <updated>2014-03-02T00:20:27+08:00</updated>
+ <updated>2014-03-02T01:03:15+08:00</updated>
  <id>http://tom.preston-werner.com/</id>
  <author>
    <name>Tom Preston-Werner</name>
@@ -22,17 +22,15 @@
 &lt;p class=&quot;meta&quot;&gt;2 Mar 2014 - Beijing&lt;/p&gt;
 
 
-&lt;h2&gt;Don&#39;t Make Me Think: A Common Sense Approach to Web Usability (2nd Edition) Summary&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;http://media-cache-ec0.pinimg.com/736x/6b/9a/bd/6b9abd3db65f8d000b68662cd5876796.jpg&quot; alt=&quot;GitHub&quot; title=&quot;GitHub,Social Coding&quot; width=&quot;200&quot; /&gt;&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;h2&gt;Don&#39;t Make Me Think: A Common Sense Approach to Web Usability (2nd Edition)&lt;/h2&gt;
 
-&lt;p&gt;Key Points:&lt;/p&gt;
+&lt;h4&gt;Key Points:&lt;/h4&gt;
 
-&lt;p&gt;Don&#39;t make me think? refers to the idea that when a web site makes you stop and think about what you are doing,&lt;/p&gt;
+&lt;p&gt;Don&#39;t make me think? refers to the idea that when a web site makes you stop and think about what you are doing,it&#39;s making your life harder, and perhaps isn&#39;t designed as well as it could be.&lt;/p&gt;
 
-&lt;p&gt;it&#39;s making your life harder, and perhaps isn&#39;t designed as well as it could be.&lt;/p&gt;
-
-&lt;h2&gt;Chapter highlights&lt;/h2&gt;
+&lt;h3&gt;Chapter Highlights&lt;/h3&gt;
 
 &lt;h3&gt;Chapter 1 Don&#39;t make me think!&lt;/h3&gt;
 
@@ -53,32 +51,30 @@ thinking about, like:&lt;/p&gt;
 
 &lt;p&gt;Scanning , satisficing, and muddling through&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt; Most people don&#39;t read an entire web page, but simply scan it for the first thing that looks good, which they then proceed to click. People don&#39;t attempt a thorough understanding of a web site, but prefer to satisfice - making do with what seems like pretty good choices.
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Most people don&#39;t read an entire web page, but simply scan it for the first thing that looks good, which they then proceed to click. People don&#39;t attempt a thorough understanding of a web site, but prefer to satisfice - making do with what seems like pretty good choices.&lt;/p&gt;
 
 &lt;p&gt;We don’t read pages. We scan them.&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;* We’re usually in a hurry.
 * We know we don’t need to read everything.
 * We’re good at it. We’ve been scanning newspapers, magazines, and books all our lives to find the parts we’re interested in , and we know that it works.We don’t make optical choice s. We satisfice.
-
-
-
- In reality, though, most of the time we don’t choose the best option- we 
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;choose the first reasonable option, a strategy known as satisfying. As soon as
-we find a link that seems like it might lead to what we’re looking for, there’s a
+&lt;p&gt;In reality, though, most of the time we don’t choose the best option,we choose the first reasonable option, a strategy known as satisfying. As soon as we find a link that seems like it might lead to what we’re looking for, there’s a
 very good chance that we’ll click it.&lt;/p&gt;
 
 &lt;p&gt;Why don’t Web users look for the best choice?&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;*  We’re usually in a hurry.
-* There’s not much of a penalty for guessing wrong.
-* Weighing options may not improve our chances On poorly designed sites, 
+&lt;pre&gt;&lt;code&gt;*We’re usually in a hurry.
+
+*There’s not much of a penalty for guessing wrong.
+
+*Weighing options may not improve our chances On poorly designed sites, 
 putting effort into making the best choice doesn’t really help. 
+
 You’re usually better off going with your first guess and using the Back button if it doesn’t work out
-* Guessing is more fun.
+
+*Guessing is more fun.
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;h3&gt;Chapter 3 Billboard Design 101&lt;/h3&gt;
@@ -102,7 +98,9 @@ much of your site as possible.&lt;/p&gt;
 &lt;h4&gt;Create a clear visual hierarchy&lt;/h4&gt;
 
 &lt;pre&gt;&lt;code&gt;* The more important something is, the more prominent it is.
+
 * Things that are related logically are also related visually
+
 * Things are “nested” visually to show what’s part of what
 &lt;/code&gt;&lt;/pre&gt;
 
@@ -112,6 +110,7 @@ much of your site as possible.&lt;/p&gt;
 can’t understand a word of it.&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;* They’re very useful
+
 * Designers are often reluctant to take advantage of them.
 &lt;/code&gt;&lt;/pre&gt;
 
@@ -121,6 +120,7 @@ can’t understand a word of it.&lt;/p&gt;
 really two kinds of noise:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;* Busy-ness
+
 * Background noise.
 &lt;/code&gt;&lt;/pre&gt;
 
