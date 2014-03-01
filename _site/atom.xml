@@ -4,7 +4,7 @@
  <title>Tom Preston-Werner</title>
  <link href="http://tom.preston-werner.com/atom.xml" rel="self"/>
  <link href="http://tom.preston-werner.com/"/>
- <updated>2014-02-09T12:42:39+08:00</updated>
+ <updated>2014-03-02T00:20:27+08:00</updated>
  <id>http://tom.preston-werner.com/</id>
  <author>
    <name>Tom Preston-Werner</name>
@@ -13,11 +13,352 @@
 
  
  <entry>
-   <title>The Next Big Thing In Technology</title>
-   <link href="http://tom.preston-werner.com/2014/02/08/The-Next-Big-Thing-In-Technology.html"/>
-   <updated>2014-02-08T00:00:00+08:00</updated>
-   <id>http://tom.preston-werner.com/2014/02/08/The-Next-Big-Thing-In-Technology</id>
-   <content type="html">&lt;p&gt;I would like to use a word to describe the next big thing in technology:connect.&lt;/p&gt;
+   <title>Book Notes:Don't make me think</title>
+   <link href="http://tom.preston-werner.com/2014/03/02/Don%27t-Make-Me-Think.html"/>
+   <updated>2014-03-02T00:00:00+08:00</updated>
+   <id>http://tom.preston-werner.com/2014/03/02/Don't-Make-Me-Think</id>
+   <content type="html">&lt;h1&gt;Book Notes:Don&#39;t make me think&lt;/h1&gt;
+
+&lt;p class=&quot;meta&quot;&gt;2 Mar 2014 - Beijing&lt;/p&gt;
+
+
+&lt;h2&gt;Don&#39;t Make Me Think: A Common Sense Approach to Web Usability (2nd Edition) Summary&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Key Points:&lt;/p&gt;
+
+&lt;p&gt;Don&#39;t make me think? refers to the idea that when a web site makes you stop and think about what you are doing,&lt;/p&gt;
+
+&lt;p&gt;it&#39;s making your life harder, and perhaps isn&#39;t designed as well as it could be.&lt;/p&gt;
+
+&lt;h2&gt;Chapter highlights&lt;/h2&gt;
+
+&lt;h3&gt;Chapter 1 Don&#39;t make me think!&lt;/h3&gt;
+
+&lt;p&gt;Acts as an introduction to the rest of the book. It also explains the two types of thinking your users engage in and why one of them is bad.
+Hint: if your users are busy thinking about how to navigate though your site, they aren&#39;t thinking about buying your product or service.&lt;/p&gt;
+
+&lt;p&gt;Dozens of other things that visitors to a site shouldn’t spend their time
+thinking about, like:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;* Where am I?
+* Where should I begin?
+* Where did they put ____ ?
+* What are the most important things on this page?
+* Why did they call it that?
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3&gt;Chapter 2 How we really use the web&lt;/h3&gt;
+
+&lt;p&gt;Scanning , satisficing, and muddling through&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt; Most people don&#39;t read an entire web page, but simply scan it for the first thing that looks good, which they then proceed to click. People don&#39;t attempt a thorough understanding of a web site, but prefer to satisfice - making do with what seems like pretty good choices.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;We don’t read pages. We scan them.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;* We’re usually in a hurry.
+* We know we don’t need to read everything.
+* We’re good at it. We’ve been scanning newspapers, magazines, and books all our lives to find the parts we’re interested in , and we know that it works.We don’t make optical choice s. We satisfice.
+
+
+
+ In reality, though, most of the time we don’t choose the best option- we 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;choose the first reasonable option, a strategy known as satisfying. As soon as
+we find a link that seems like it might lead to what we’re looking for, there’s a
+very good chance that we’ll click it.&lt;/p&gt;
+
+&lt;p&gt;Why don’t Web users look for the best choice?&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;*  We’re usually in a hurry.
+* There’s not much of a penalty for guessing wrong.
+* Weighing options may not improve our chances On poorly designed sites, 
+putting effort into making the best choice doesn’t really help. 
+You’re usually better off going with your first guess and using the Back button if it doesn’t work out
+* Guessing is more fun.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3&gt;Chapter 3 Billboard Design 101&lt;/h3&gt;
+
+&lt;p&gt;Designing pages for scanning, not reading
+Faced with the fact that your users are whizzing by, there are five
+important things you can do to make sure they see- and understand- as
+much of your site as possible.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;* Create a clear visual hierarchy.
+
+* Nest text to show what belongs to what.
+
+* Conventions are useful,Stick to them unless you have a really good reason, because they help people to avoid thinking.
+
+* Clearly define portions of a page.It should be very clear what is clickable.
+
+* Try and avoid noise.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4&gt;Create a clear visual hierarchy&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code&gt;* The more important something is, the more prominent it is.
+* Things that are related logically are also related visually
+* Things are “nested” visually to show what’s part of what
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4&gt;Conventions are you friends&lt;/h4&gt;
+
+&lt;p&gt;Conventions enable users to figure out a lot about a Web page, even if they
+can’t understand a word of it.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;* They’re very useful
+* Designers are often reluctant to take advantage of them.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4&gt;Try and avoid noise&lt;/h4&gt;
+
+&lt;p&gt;One of the great enemies of easy-to-grasp pages is visual noise. There are
+really two kinds of noise:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;* Busy-ness
+* Background noise.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Users have varying tolerance for complexity and distractions: some people
+have no problem with busy pages and background noise, but many do.
+When you’re designing Web pages, it’s probably a good idea to assume
+that everything is visual noise until proven otherwise.&lt;/p&gt;
+
+&lt;h3&gt;Chapter 4 Animal, vegetable, or mineral?&lt;/h3&gt;
+
+&lt;h3&gt;Chapter 5 Omit needless words&lt;/h3&gt;
+
+&lt;h3&gt;Chapter 6 Street signs and Breadcrumbs&lt;/h3&gt;
+
+&lt;h3&gt;Chapter 7 The first step in recovery is admitting the Home page is beyond your control&lt;/h3&gt;
+
+&lt;h3&gt;Chapter 8 &quot;The Farmer and the Cowman Should Be Friends&quot;&lt;/h3&gt;
+
+&lt;h3&gt;Chapter 9 Usability testing on 10 cents a day&lt;/h3&gt;
+
+&lt;h3&gt;Chapter 10 Usability as common courtesy&lt;/h3&gt;
+
+&lt;h3&gt;Chapter 11 Accessibility, Cascading StyleSheets, and you&lt;/h3&gt;
+
+&lt;h3&gt;Chapter 12 Help! My boss wants me to ________&lt;/h3&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How to develop a theme app for Android launchers</title>
+   <link href="http://tom.preston-werner.com/2014/02/23/How-To-Develop-A-Theme-App-For-Android-Launchers.html"/>
+   <updated>2014-02-23T00:00:00+08:00</updated>
+   <id>http://tom.preston-werner.com/2014/02/23/How-To-Develop-A-Theme-App-For-Android-Launchers</id>
+   <content type="html">&lt;h1&gt;How to develop a theme app for Android launchers&lt;/h1&gt;
+
+&lt;p class=&quot;meta&quot;&gt;23 Feb 2014 - Beijing&lt;/p&gt;
+
+
+&lt;p&gt;Here I am going to guide you through all the steps to build your favourite theme.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;① . What is the Launcher and the Theme?&lt;/p&gt;
+
+&lt;p&gt;② . Steps to build your favorite theme&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;h2&gt;&lt;strong&gt;What is the Launcher and the Theme?&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Android Launcher aka Home Replacement,presents the main view of your phone,and is responsible for launching almpost all &lt;a href=&quot;http://en.wikipedia.org/wiki/Mobile_apps&quot;&gt;apps&lt;/a&gt; and hosting &lt;a href=&quot;http://en.wikipedia.org/wiki/Software_widget&quot;&gt;widgets&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Just give it an analogy:A Launcher is like your house,you can place your furnishing(apps) as you like,you can open the refrigerator(launching the apps) when you need to find something to eat.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://media-cache-ak0.pinimg.com/736x/e3/75/b1/e375b182d273a1305619127e785e9232.jpg&quot; alt=&quot;GitHub&quot; title=&quot;GitHub,Social Coding&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here are some of the listed launchers available in market:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=home.solo.launcher.free&quot;&gt;Solo Launcher&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.gau.go.launcherex&quot;&gt;Go Launcher&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&quot;&gt;Nova Launcher&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=ginlemon.flowerfree&quot;&gt;Smart Launcher&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=ginlemon.flowerfree&quot;&gt;Aviate&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The theme is the decoration of your house(launcher),so rightnow you must have many ideas to decorate your room,diy your own style:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://media-cache-ak0.pinimg.com/736x/ab/74/92/ab7492d23cec75323d4e0b151c83cc21.jpg&quot; alt=&quot;GitHub&quot; title=&quot;GitHub,Social Coding&quot; height=&quot;200&quot; /&gt;
+&lt;img src=&quot;http://media-cache-ak0.pinimg.com/736x/c1/45/29/c14529aceffb5486f90f9eb8e1dda360.jpg&quot; alt=&quot;GitHub&quot; title=&quot;GitHub,Social Coding&quot; height=&quot;200&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh6.ggpht.com/l8rup8brAtymf7WF0jjBi7B6dWrieHf6ydLPxfByZS0RbIiHLjKd0D7nqMPlvsBT4cs=h300-rw&quot; alt=&quot;Mou icon&quot; /&gt;
+&lt;img src=&quot;https://lh6.ggpht.com/hM2uEFNUkWUwzd3kTpGCsSrDDqecfSnLg1d-AlXr4tthqjYLcUFLJZ4UELYBvMJc9mM=h300-rw&quot; alt=&quot;Mou icon&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Got it?These are two different style of icons,just like the two types of house,that is the Theme.&lt;/p&gt;
+
+&lt;p&gt;I have designed some icons and released two theme apps in Market&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.solo.theme.colorfulflat&quot;&gt;Colorful Flat Theme&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.solo.theme.colorfulcircle&quot;&gt;Colorful Circle Theme&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;For you guys,If you are a designer,I will guide you how to turn your designed icons into a app in store,if you are a developer,I will guide you how to design your own style icons,if you aren&#39;t none of them,congratulation!You will learn a lot,and mayne earn a lot :)&lt;/p&gt;
+
+&lt;h2&gt;&lt;strong&gt;Steps to build your favorite theme&lt;/strong&gt;&lt;/h2&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>When I am Geek4Love</title>
+   <link href="http://tom.preston-werner.com/2014/02/18/When-I-Am-Geek4Love.html"/>
+   <updated>2014-02-18T00:00:00+08:00</updated>
+   <id>http://tom.preston-werner.com/2014/02/18/When-I-Am-Geek4Love</id>
+   <content type="html">&lt;h1&gt;When I am Geek4Love&lt;/h1&gt;
+
+&lt;p class=&quot;meta&quot;&gt;18 Feb 2014 - Beijing&lt;/p&gt;
+
+
+&lt;p&gt;&lt;img src=&quot;/images/geek4love.png&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Several years ago,when I geek4love,I wrote these poems for a girl,&lt;/p&gt;
+
+&lt;p&gt;the bright star in my Laputa.&lt;/p&gt;
+
+&lt;h3&gt;当月光洒满了一地澄澈&lt;/h3&gt;
+
+&lt;p&gt;诗人止住了脚步，仰望那一帘幽蓝&lt;/p&gt;
+
+&lt;p&gt;那银河该是她挽起的轻纱&lt;/p&gt;
+
+&lt;p&gt;微风一拂&lt;/p&gt;
+
+&lt;p&gt;就是缀满银河的一河星辰&lt;/p&gt;
+
+&lt;p&gt;月半弯&lt;/p&gt;
+
+&lt;p&gt;她的笑靥在斑斓中绽放&lt;/p&gt;
+
+&lt;p&gt;倾斜而下的柔光，照亮诗人的生命&lt;/p&gt;
+
+&lt;p&gt;从此，女孩便化作了诗人心湖的音符&lt;/p&gt;
+
+&lt;p&gt;起跃腾伏&lt;/p&gt;
+
+&lt;p&gt;诗人乘上那流星追赶，想把她看入永恒&lt;/p&gt;
+
+&lt;p&gt;而女孩早已经从滚滚红尘中升华&lt;/p&gt;
+
+&lt;p&gt;成为了星空中的璀璨&lt;/p&gt;
+
+&lt;p&gt;诗人又迈开了步伐，脚下延伸的是铺满月光的路&lt;/p&gt;
+
+&lt;p&gt;他想：女孩，若月光可以倒流，你的世界里&lt;/p&gt;
+
+&lt;p&gt;也会降临我的 温柔&lt;/p&gt;
+
+&lt;h3&gt;漪沦，从有风的湖面飞起&lt;/h3&gt;
+
+&lt;p&gt;我是静谧的山野，守候着一潭寂寞&lt;/p&gt;
+
+&lt;p&gt;我是绝望的死水，等候着几波微澜&lt;/p&gt;
+
+&lt;p&gt;我是飞不起的断翅涟漪，等候风的讯息&lt;/p&gt;
+
+&lt;p&gt;你是撒哈拉的热风，舞起我生命的长袍&lt;/p&gt;
+
+&lt;p&gt;我是撒哈拉的沙荒，戥你一克拉的眼泪&lt;/p&gt;
+
+&lt;p&gt;你我是飘渺纤尘，何时会有相遇的一刻？&lt;/p&gt;
+
+&lt;p&gt;皑皑白雪原上一朵雪莲绽放千年啊，恋蝶苦苦寻觅&lt;/p&gt;
+
+&lt;p&gt;太阳恋念皓月，却一个是白天，一个是黑夜&lt;/p&gt;
+
+&lt;p&gt;呵，微笑天使，驻人间！&lt;/p&gt;
+
+&lt;p&gt;大西洋幽蓝的海水里沉睡着永恒之心&lt;/p&gt;
+
+&lt;p&gt;雷峰塔上爬满爱的藤蔓&lt;/p&gt;
+
+&lt;p&gt;康桥的柔波里，摇曳着稚子情怀&lt;/p&gt;
+
+&lt;p&gt;我不知道爱的呓语是什么？&lt;/p&gt;
+
+&lt;p&gt;我只知道&lt;/p&gt;
+
+&lt;p&gt;漪沦，在有风的地方飞起~&lt;/p&gt;
+
+&lt;p&gt;PS:
+Geek4IT = Geek for IT&lt;/p&gt;
+
+&lt;p&gt;Geek means the passion,love and concentration for something.&lt;/p&gt;
+
+&lt;p&gt;IT represents the thing that want to do when I wake up in the morning.&lt;/p&gt;
+
+&lt;p&gt;Geek4Love means the passion when fall in love&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Colorful Circle Theme For Solo Launcher</title>
+   <link href="http://tom.preston-werner.com/2014/02/14/Colorful-Circle-For-Solo-Launcher.html"/>
+   <updated>2014-02-14T00:00:00+08:00</updated>
+   <id>http://tom.preston-werner.com/2014/02/14/Colorful-Circle-For-Solo-Launcher</id>
+   <content type="html">&lt;h1&gt;Colorful Circle Theme For Solo Launcher&lt;/h1&gt;
+
+&lt;p class=&quot;meta&quot;&gt;14 Feb 2014 - Beijing&lt;/p&gt;
+
+
+&lt;p&gt;&lt;img src=&quot;https://lh3.ggpht.com/50Ls-XCaAQ_3j_oscQqJQb2T6mFZIkmXw2VKYXPlUkF5z2Wq8K_2VJaJwaqRzZLIlA=w200-rw&quot; alt=&quot;Mou icon&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The classic &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.solo.theme.colorfulcircle&amp;amp;hl=en&quot;&gt;Colorful Circle Theme&lt;/a&gt; with gorgeous UI is now available for solo launcher!&lt;/p&gt;
+
+&lt;p&gt;★★★Brand new Flat style,5-STARS quality&lt;/p&gt;
+
+&lt;p&gt;★★★More than 50+ beautiful redesigned HD (148*148) icons&lt;/p&gt;
+
+&lt;p&gt;★★★5 colorful icon backs&lt;/p&gt;
+
+&lt;p&gt;★★★HD colorful wallpapers!&lt;/p&gt;
+
+&lt;p&gt;★★★Totally FREE,NO Ads,with continuous update&lt;/p&gt;
+
+&lt;p&gt;★★★Design for you! If you really want some other icons to be designed,just email us.&lt;/p&gt;
+
+&lt;p&gt;This theme is just perfect for you to renew your phone with Solo Launcher!&lt;/p&gt;
+
+&lt;p&gt;Notice:
+ - 1.REMEMBER Before enjoying your exclusive Colorful Circle theme, you need to make sure you have had the latest Solo Launcher installed in your phone. The theme can only run on Solo Launcher.
+ - 2.We will designed more icons with successive update&lt;/p&gt;
+
+&lt;p&gt;How to use this?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Inside the Colorful Circle app,make sure you have installed Solo Launcher,and just click the Apply button.&lt;/li&gt;
+&lt;li&gt;Or inside the Solo Launcher,go to Solo Play &gt; THEMES &gt;Installed,and find the app,then apply the theme
+Please rate/review and check out other work by Solo Team. Enjoy!&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Solo Launcher,Solo Locker,Solo Weather,Solo Battery,Solo Calculator,Colorful Flat Free Theme&lt;/p&gt;
+
+&lt;p&gt; &lt;img src=&quot;https://lh6.ggpht.com/CpOBrNAmlr8z-Rtomo6oMW2CkdkRpCSNkNjnaB9mgGfAG1EtomxWXynjtqLSjUMHvXdB=w600-rw&quot; alt=&quot;Mou icon&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;img src=&quot;https://lh6.ggpht.com/hM2uEFNUkWUwzd3kTpGCsSrDDqecfSnLg1d-AlXr4tthqjYLcUFLJZ4UELYBvMJc9mM=w600-rw&quot; alt=&quot;Mou icon&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;img src=&quot;https://lh3.ggpht.com/3Vpi5ZQveCC_LvrmhcEZDHzgtk4fooqaFmk08GBs8fCQMNl_TAprst5loy_reQcbVVwe=w600-rw&quot; alt=&quot;Mou icon&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Hacking-SICP in 2014</title>
+   <link href="http://tom.preston-werner.com/2014/02/12/Hacking-SICP-IN-2014.html"/>
+   <updated>2014-02-12T00:00:00+08:00</updated>
+   <id>http://tom.preston-werner.com/2014/02/12/Hacking-SICP-IN-2014</id>
+   <content type="html">&lt;h1&gt;Hacking-SICP in 2014&lt;/h1&gt;
+
+&lt;p class=&quot;meta&quot;&gt;12 Feb 2014 - Beijing&lt;/p&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/Geek4IT/HACKING-SICP&quot;&gt;Fork me on GitHub&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -405,6 +746,125 @@ Our &quot;Task Killer&quot; widget will optimize your power consumption convenie
 &lt;li&gt;&lt;a href=&quot;http://www.duokan.com/&quot;&gt;多看阅读&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Live Wallpapers For Android Users</title>
+   <link href="http://tom.preston-werner.com/2013/12/05/Live-Wallpapers-For-Android-Users.html"/>
+   <updated>2013-12-05T00:00:00+08:00</updated>
+   <id>http://tom.preston-werner.com/2013/12/05/Live-Wallpapers-For-Android-Users</id>
+   <content type="html">&lt;h1&gt;Live Wallpapers For Android Users&lt;/h1&gt;
+
+&lt;p class=&quot;meta&quot;&gt;5 Dec 2013 - Beijing&lt;/p&gt;
+
+
+&lt;p&gt;&lt;img src=&quot;https://lh4.ggpht.com/9zE3rC5TqfFzqiMu3rMWVP5wZJKpDciWqLVKRBj_p3TkeSELOSX38Cy-3PD4kjXkhHa-=w125-rw&quot; alt=&quot;Mou icon&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.geek4it.earth3d&quot;&gt;Earth 3D&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Some 3D Models and maps of more than 200+ earths are available on &lt;a href=&quot;https://github.com/Geek4IT/Earth3D&quot;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Earth Live Wallpaper with lots of customization!&lt;/p&gt;
+
+&lt;h2&gt;Make For Solo Launcher&lt;/h2&gt;
+
+&lt;h3&gt;User Comments:&lt;/h3&gt;
+
+&lt;p&gt;Pamela Mcilroy: This is a fantastic free app..Thank you very much to the developer of this marvelous Earth app. The free settings are awesome.so many to choose from. I hope I don&#39; lose this app off my phone like I have with my paid apps thanks to faulty google&lt;/p&gt;
+
+&lt;p&gt;Andrew Lontok: Cool &amp;amp; Unique This live wallpaper of Earth is currently my preferred live wallpaper. You have the option to have the wallpaper tailored to however you want it to appear which makes it unique. The bottom line , is that this realistic live wallpaper is one of the coolest live wallpaper to have! AND IT&#39;S FREE! DOWNLOAD NOW!
+Beautiful Earth Live Wallpaper highlight&lt;/p&gt;
+
+&lt;p&gt;★★★Totally free forever.&lt;/p&gt;
+
+&lt;p&gt;★★★17 HD wallpapers,very beautiful,gorgeous!&lt;/p&gt;
+
+&lt;h2&gt;★★★Make your phone became a galaxy in a second.&lt;/h2&gt;
+
+&lt;p&gt;★ Earth map with topography and ocean depth&lt;/p&gt;
+
+&lt;p&gt;★ Latest Earth night city lights from NASA&lt;/p&gt;
+
+&lt;p&gt;★ Bumpy earth surface simulation&lt;/p&gt;
+
+&lt;p&gt;★ Set sunlight colour and sun XYZ position&lt;/p&gt;
+
+&lt;p&gt;★ Moving cloud over earth globe&lt;/p&gt;
+
+&lt;p&gt;★ Option to show or hide moon&lt;/p&gt;
+
+&lt;p&gt;★ Background animated stars&lt;/p&gt;
+
+&lt;p&gt;★ Custom background scene using own image&lt;/p&gt;
+
+&lt;p&gt;★ Extra effect with Meteor &amp;amp; Santa Claus &amp;amp; UFO&lt;/p&gt;
+
+&lt;p&gt;★ All planets from our solar system&lt;/p&gt;
+
+&lt;p&gt;★ Change earth map with swipe&lt;/p&gt;
+
+&lt;p&gt;★ Zoom earth with double tap&lt;/p&gt;
+
+&lt;p&gt;★ All features are FREE&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh6.ggpht.com/6jKQHZ6yJH5CkluRP3dKlJE4KpNFq1SDJ0YQ59pkkPyAV-bFLJcAmFqhJFenrzZXfw=w125-rw&quot; alt=&quot;Mou icon&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.geek4it.matrix&quot;&gt;Matrix&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The coolest Matrix live wallpaper, beautiful abstract interactive digital pixels.&lt;/p&gt;
+
+&lt;p&gt;Beautiful &quot;Matrix&quot; effect! Enable this effect in the settings screen.&lt;/p&gt;
+
+&lt;h3&gt;Features&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Beautiful abstract digital pixels&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;3 cool shapes&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Customized with different color&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Touch the matrix&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Change speed&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;img src=&quot;https://lh5.ggpht.com/7vkAwHlVjOmoj_gCXD2K8nDMz47F2YaGLMHo3GaPmXfHylbwNs_6iCfFsobShU3qVbRT=w125-rw&quot; alt=&quot;Mou icon&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.geek4it.xperia&quot;&gt;XperiaZ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A very gorgeous,simply lightweight live wallpaper inspired by the new Sony Xperia Z device background with floating particles.&lt;/p&gt;
+
+&lt;p&gt;To use live wallpaper: Home -&gt; Menu -&gt; Wallpapers -&gt; Live Wallpapers&lt;/p&gt;
+
+&lt;p&gt;To use wallpaper: Home -&gt; Menu -&gt; Wallpapers -&gt; xPeria Z Wallpapers&lt;/p&gt;
+
+&lt;p&gt;★★★Totally free forever.&lt;/p&gt;
+
+&lt;p&gt;★★★17 HD wallpapers,very beautiful,gorgeous!&lt;/p&gt;
+
+&lt;p&gt;★★★Make your phone became new Sony Xperia Z in a second.&lt;/p&gt;
+
+&lt;h3&gt;★Feature★&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;17 kinds of background styles&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;7 kinds of bubble styles&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Change speed as you like&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Smooth animation&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;The application has been tested extensively on various models of Samsung galaxy ace, Sony Xperia, HTC One V, Samsung Tablet.
+HTC Desire S
+HTC Explorer price
+HTC One S
+HTC One X
+LG Optimus 3D Max P725
+Motorola Atrix 2
+Samsung Galaxy Note
+Samsung Galaxy S Duos
+Samsung Galaxy S3
+Sony Ericsson Xperia
+Sony Xperia Tipo&lt;/p&gt;
 </content>
  </entry>
  

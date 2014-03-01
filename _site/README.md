@@ -7,6 +7,8 @@ __*Geek*__ means the passion,love and concentration for something.
 
 __*IT*__   represents the thing that want to do when I wake up in the morning.
 
+__*Phonetics*__:[ɡi:k'fɔrit]
+
 ###License
 
 The following directories and their contents are Copyright Geek4IT. You may not reuse anything therein without my permission:
