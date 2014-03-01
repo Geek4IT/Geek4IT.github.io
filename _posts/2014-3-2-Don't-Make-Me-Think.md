@@ -35,7 +35,7 @@ thinking about, like:
 ###Chapter 2 How we really use the web
 Scanning , satisficing, and muddling through
 
-     Most people don't read an entire web page, but simply scan it for the first thing that looks good, which they then proceed to click. People don't attempt a thorough understanding of a web site, but prefer to satisfice - making do with what seems like pretty good choices.
+Most people don't read an entire web page, but simply scan it for the first thing that looks good, which they then proceed to click. People don't attempt a thorough understanding of a web site, but prefer to satisfice - making do with what seems like pretty good choices.
 
 We don’t read pages. We scan them.
 
@@ -45,19 +45,21 @@ We don’t read pages. We scan them.
 
 
 
-     In reality, though, most of the time we don’t choose the best option- we 
-choose the first reasonable option, a strategy known as satisfying. As soon as 
-we find a link that seems like it might lead to what we’re looking for, there’s a
+In reality, though, most of the time we don’t choose the best option,we choose the first reasonable option, a strategy known as satisfying. As soon as we find a link that seems like it might lead to what we’re looking for, there’s a
 very good chance that we’ll click it.
 
 Why don’t Web users look for the best choice?
 
-	*  We’re usually in a hurry.
-	* There’s not much of a penalty for guessing wrong.
-	* Weighing options may not improve our chances On poorly designed sites, 
+	*We’re usually in a hurry.
+	
+	*There’s not much of a penalty for guessing wrong.
+	
+	*Weighing options may not improve our chances On poorly designed sites, 
 	putting effort into making the best choice doesn’t really help. 
+	
 	You’re usually better off going with your first guess and using the Back button if it doesn’t work out
-	* Guessing is more fun.
+	
+	*Guessing is more fun.
 
 
 
@@ -83,7 +85,9 @@ much of your site as possible.
 ####Create a clear visual hierarchy
 
 	* The more important something is, the more prominent it is.
+	
 	* Things that are related logically are also related visually
+	
 	* Things are “nested” visually to show what’s part of what
 
 ####Conventions are you friends
@@ -91,6 +95,7 @@ Conventions enable users to figure out a lot about a Web page, even if they
 can’t understand a word of it.
 
 	* They’re very useful
+	
 	* Designers are often reluctant to take advantage of them.
 
 ####Try and avoid noise
@@ -98,6 +103,7 @@ One of the great enemies of easy-to-grasp pages is visual noise. There are
 really two kinds of noise:
 
 	* Busy-ness
+	
 	* Background noise.
 
 Users have varying tolerance for complexity and distractions: some people
