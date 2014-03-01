@@ -9,14 +9,14 @@ title: Book Notes:Don't make me think
 <p class="meta">2 Mar 2014 - Beijing</p>
 ##Don't Make Me Think: A Common Sense Approach to Web Usability (2nd Edition) Summary
 --------
+<img src="http://media-cache-ec0.pinimg.com/736x/6b/9a/bd/6b9abd3db65f8d000b68662cd5876796.jpg" alt="GitHub" title="GitHub,Social Coding" width="200" />
+
 
 Key Points:
 
-Don't make me think? refers to the idea that when a web site makes you stop and think about what you are doing, 
+Don't make me think? refers to the idea that when a web site makes you stop and think about what you are doing,it's making your life harder, and perhaps isn't designed as well as it could be.
 
-it's making your life harder, and perhaps isn't designed as well as it could be.
-
-##Chapter highlights
+###Chapter highlights
 
 ###Chapter 1 Don't make me think!
 
