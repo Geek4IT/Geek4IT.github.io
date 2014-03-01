@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book Notes:Don't make me think
+title: Summary:Don't make me think
 ---
 
 {{ page.title }}
