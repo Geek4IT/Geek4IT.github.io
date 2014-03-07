@@ -14,6 +14,13 @@ Several years ago,when I geek4love,I wrote these poems for a girl,
 
 the bright star in my Laputa.
 
+*   爱，在寂寞中花开
+*   当月光洒满了一地澄澈
+*   漪沦，从有风的湖面飞起
+*   梦飞时节
+*   遗失
+*   故事
+
 ![Alt text](/images/geek4love_brightstar.png)
 
 爱，在寂寞中花开 
