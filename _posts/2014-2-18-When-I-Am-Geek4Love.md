@@ -14,11 +14,12 @@ Several years ago,when I geek4love,I wrote these poems for a girl,
 
 the bright star in my Laputa.
 
-![Alt text](/images/brightstar.png)
+![Alt text](/images/geek4love_brightstar.png)
 
-## 爱，在寂寞中花开 
+爱，在寂寞中花开 
+=============
 
- 我抬头，你是繁星如沸的星空
+我抬头，你是繁星如沸的星空
  
 你回头，我却是躲藏在人间的纤尘
                   
@@ -65,8 +66,9 @@ the bright star in my Laputa.
 忽然间明白，暗恋是一颗最洁净的泪滴~
              
              
-![Alt text](/images/moon.png)
-##当月光洒满了一地澄澈
+![Alt text](/images/geek4love_moon.png)
+当月光洒满了一地澄澈
+=============
 
 当月光洒满了一地澄澈
 
@@ -100,8 +102,9 @@ the bright star in my Laputa.
 
 也会降临我的 温柔
 
-![Alt text](/images/lake.png)
-##漪沦，从有风的湖面飞起
+![Alt text](/images/geek4love_lake.png)
+漪沦，从有风的湖面飞起
+=============
 
 我是静谧的山野，守候着一潭寂寞
 
@@ -133,8 +136,9 @@ the bright star in my Laputa.
 
 漪沦，在有风的地方飞起~
 
-![Alt text](/images/angel.png)
-##梦飞时节
+![Alt text](/images/geek4love_angel.png)
+梦飞时节
+=============
 
 安琪儿与我绅士约定
 
@@ -170,7 +174,9 @@ the bright star in my Laputa.
 
 何处不是奇葩，请卫戍你的激情
 
-##遗失 
+![Alt text](/images/geek4love_bluesky.png)
+遗失 
+=============
 
 神采飞扬的我们遗失了那份乳嗅未干的稚气,
 
@@ -188,8 +194,10 @@ the bright star in my Laputa.
 
 却筛掉了许多东西?
 
+![Alt text](/images/geek4love_seed.png)
+故事
+=============
 
-##故事
 一个小男生拖着沉重的脚步在黑暗的山里面迷失了，
 
 一个带着光环的小女孩出现了，
