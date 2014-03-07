@@ -40,7 +40,7 @@ Please rate/review and check out other work by Solo Team. Enjoy!
 
 Solo Launcher,Solo Locker,Solo Weather,Solo Battery,Solo Calculator,Colorful Flat Free Theme
 
- ![Mou icon](https://lh3.ggpht.com/1bvX5KU-qKF4q0_MA7yAQeXDWO7t4CnnyLDEQ8fxZfwk7O_K6g0dkkbjN59ukhooDYI=h600-rw)
+ ![Mou icon](https://lh3.ggpht.com/1bvX5KU-qKF4q0_MA7yAQeXDWO7t4CnnyLDEQ8fxZfwk7O_K6g0dkkbjN59ukhooDYI=w600-rw)
  
  ![Mou icon](https://lh6.ggpht.com/CpOBrNAmlr8z-Rtomo6oMW2CkdkRpCSNkNjnaB9mgGfAG1EtomxWXynjtqLSjUMHvXdB=w600-rw)
  
