@@ -28,9 +28,9 @@ This theme is just perfect for you to renew your phone with Solo Launcher!
 
 Notice:
 
- - 1.REMEMBER Before enjoying your exclusive Colorful Circle theme, you need to make sure you have had the latest Solo Launcher installed in your phone. The theme can only run on Solo Launcher.
- - 
- - 2.We will designed more icons with successive update
+1.REMEMBER Before enjoying your exclusive Colorful Circle theme, you need to make sure you have had the latest Solo Launcher installed in your phone. The theme can only run on Solo Launcher.
+
+2.We will designed more icons with successive update
   
 How to use this?
 
