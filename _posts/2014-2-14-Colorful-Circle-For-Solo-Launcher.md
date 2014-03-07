@@ -27,7 +27,9 @@ The classic [Colorful Circle Theme](https://play.google.com/store/apps/details?i
 This theme is just perfect for you to renew your phone with Solo Launcher!
 
 Notice:
+
  - 1.REMEMBER Before enjoying your exclusive Colorful Circle theme, you need to make sure you have had the latest Solo Launcher installed in your phone. The theme can only run on Solo Launcher.
+ - 
  - 2.We will designed more icons with successive update
   
 How to use this?
@@ -38,6 +40,8 @@ Please rate/review and check out other work by Solo Team. Enjoy!
 
 Solo Launcher,Solo Locker,Solo Weather,Solo Battery,Solo Calculator,Colorful Flat Free Theme
 
+ ![Mou icon](https://lh3.ggpht.com/1bvX5KU-qKF4q0_MA7yAQeXDWO7t4CnnyLDEQ8fxZfwk7O_K6g0dkkbjN59ukhooDYI=h600-rw)
+ 
  ![Mou icon](https://lh6.ggpht.com/CpOBrNAmlr8z-Rtomo6oMW2CkdkRpCSNkNjnaB9mgGfAG1EtomxWXynjtqLSjUMHvXdB=w600-rw)
  
  ![Mou icon](https://lh6.ggpht.com/hM2uEFNUkWUwzd3kTpGCsSrDDqecfSnLg1d-AlXr4tthqjYLcUFLJZ4UELYBvMJc9mM=w600-rw)
