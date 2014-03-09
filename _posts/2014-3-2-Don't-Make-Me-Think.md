@@ -113,11 +113,63 @@ that everything is visual noise until proven otherwise.
 
 ###Chapter 4 Animal, vegetable, or mineral?
 
+Over the years, web designers and usability professionals have spent lots of time debating 
+how many clicks you should expect a user to go through to get what they want without getting too frustrated…many designers in fact have rules specifying the maximum number of clicks to get to any page on a site.
+
+Krug thinks numbers aren’t so important though – while it seems like a useful criteria to him, it’s generally safe to assume most users don’t mind a lot of clicks as long as they’re effortless.
+
+Making choices as mindless as possible is in fact one main task to making a site easy to use. Be sure links and drop-down menus are clear in what they offer.
+
+
 ###Chapter 5 Omit needless words
 
+Considering the vast majority of web users scan web pages and don’t read them word for word, having needless words in your copy will only frustrate matters from a usability perspective.
+In his Elements of Style book, E.B. White details several rules, the 17th of which is the following:
+
+####Omit needless words
+
+Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary parts.
+Omitting needless words has several benefits, including:
+
+   * Reducing noise level on a page
+   
+   * Making useful content more prominent
+   
+   * Making pages shorter, which allows users to see more of the page without having to scroll
+
+Therefore, if you’re going to omit needless words, all the happy talk (i.e. self-congratulatory promotional writing) must go. You can tell when you’re reading some. In the back of your head, you hear voices saying, “Blah, blah, blah, blah, blah…”
+
+
 ###Chapter 6 Street signs and Breadcrumbs
+Krug explains how he finds driving in LA an absolute pleasure compared to Boston because the signage is so good - never any question about where you currently are and where you can go next. As he puts it, he is not forced to think. It's the same with web pages and sites, as this chapter demonstrates.
+
+Breadcrumb trails are analysed, broken apart and generally tested to see how effective they are (not so when they double up as page titles), while tabs get a very thorough look at. 
+
+Almost half of the chapter appears to be devoted to Amazon and why they are doing things right. Admittedly, Amazon's site has changed somewhat since this book was published but the basic theory still exists on their site.
+
+'the trunk test'. Krug gives the metaphor that you have been bundled blindfolded into the trunk of a car driven about a bit then landed on a web page. 
+
+Well designed pages answer the following questions without hesitation:
+
+   * What site is this? (Site ID)
+   
+   * What page am I on? (Page name)
+   
+   * What are the major sections of this site (Sections)
+   
+   * What are my options at this level? (Local navigation)
+   
+   * Where am I in the scheme of things? (“You are here” indicators)
+   
+   * How can I search?
+
+Very rarely do information architects, web designers or project managers think much beyond the third tier of navigation, an area where much of the browsing takes place. This is usally borne out when you try the trunk test on some of the lower level pages of many sites - they just scream 'afterthought'!
 
 ###Chapter 7 The first step in recovery is admitting the Home page is beyond your control
+Homepages are the water-front property of a website. They have to accommodate several things like site identity and mission, site hierarchy, site search, teases, promos, timely content, deals, shortcuts and registration if that applies to your situation.
+
+This is prime real estate - it's where everybody wants to be, and therein lies your battle - you have to structure something that is usable for the person browsing your site, not pander to management or marketing desires to have 'shortcuts' to something that is important to them. As Krug puts it "Everybody wants a piece".
+
 
 ###Chapter 8 "The Farmer and the Cowman Should Be Friends"
 
