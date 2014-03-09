@@ -10,7 +10,7 @@ title: Summary:Don't make me think
  
 <img src="http://media-cache-ec0.pinimg.com/736x/6b/9a/bd/6b9abd3db65f8d000b68662cd5876796.jpg" alt="GitHub" title="GitHub,Social Coding" width="200" />
 
-##Don't Make Me Think: A Common Sense Approach to Web Usability (2nd Edition)
+##[Don't Make Me Think: A Common Sense Approach to Web Usability (2nd Edition)](http://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?ie=UTF8&qid=1394328375&sr=8-1&keywords=don%27t+make+me+think)
 
 
 ####Key Points:
