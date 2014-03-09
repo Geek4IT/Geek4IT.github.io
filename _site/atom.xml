@@ -4,7 +4,7 @@
  <title>Tom Preston-Werner</title>
  <link href="http://tom.preston-werner.com/atom.xml" rel="self"/>
  <link href="http://tom.preston-werner.com/"/>
- <updated>2014-03-02T01:15:46+08:00</updated>
+ <updated>2014-03-09T10:58:46+08:00</updated>
  <id>http://tom.preston-werner.com/</id>
  <author>
    <name>Tom Preston-Werner</name>
@@ -13,18 +13,34 @@
 
  
  <entry>
-   <title>Book Notes:Don't make me think</title>
+   <title>Summary:The Algorithm Design Manual</title>
+   <link href="http://tom.preston-werner.com/2014/03/09/The-Algorithm-Design-Manual.html"/>
+   <updated>2014-03-09T00:00:00+08:00</updated>
+   <id>http://tom.preston-werner.com/2014/03/09/The-Algorithm-Design-Manual</id>
+   <content type="html">&lt;h1&gt;Summary:The Algorithm Design Manual&lt;/h1&gt;
+
+&lt;p class=&quot;meta&quot;&gt;9 Mar 2014 - Beijing&lt;/p&gt;
+
+
+&lt;p&gt;&lt;img src=&quot;http://media-cache-ec0.pinimg.com/736x/38/de/86/38de868837cb6409e13f90b307033fa0.jpg&quot; width=&quot;200&quot; /&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a href=&quot;http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693/ref=sr_1_1?ie=UTF8&amp;amp;qid=1394328274&amp;amp;sr=8-1&amp;amp;keywords=the+algorithm+design+manual&quot;&gt;The Algorithm Design Manual&lt;/a&gt;&lt;/h2&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Summary:Don't make me think</title>
    <link href="http://tom.preston-werner.com/2014/03/02/Don%27t-Make-Me-Think.html"/>
    <updated>2014-03-02T00:00:00+08:00</updated>
    <id>http://tom.preston-werner.com/2014/03/02/Don't-Make-Me-Think</id>
-   <content type="html">&lt;h1&gt;Book Notes:Don&#39;t make me think&lt;/h1&gt;
+   <content type="html">&lt;h1&gt;Summary:Don&#39;t make me think&lt;/h1&gt;
 
 &lt;p class=&quot;meta&quot;&gt;2 Mar 2014 - Beijing&lt;/p&gt;
 
 
 &lt;p&gt;&lt;img src=&quot;http://media-cache-ec0.pinimg.com/736x/6b/9a/bd/6b9abd3db65f8d000b68662cd5876796.jpg&quot; alt=&quot;GitHub&quot; title=&quot;GitHub,Social Coding&quot; width=&quot;200&quot; /&gt;&lt;/p&gt;
 
-&lt;h2&gt;Don&#39;t Make Me Think: A Common Sense Approach to Web Usability (2nd Edition)&lt;/h2&gt;
+&lt;h2&gt;&lt;a href=&quot;http://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?ie=UTF8&amp;amp;qid=1394328375&amp;amp;sr=8-1&amp;amp;keywords=don%27t+make+me+think&quot;&gt;Don&#39;t Make Me Think: A Common Sense Approach to Web Usability (2nd Edition)&lt;/a&gt;&lt;/h2&gt;
 
 &lt;h4&gt;Key Points:&lt;/h4&gt;
 
@@ -40,12 +56,14 @@ Hint: if your users are busy thinking about how to navigate though your site, th
 &lt;p&gt;Dozens of other things that visitors to a site shouldn’t spend their time
 thinking about, like:&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;* Where am I?
-* Where should I begin?
-* Where did they put ____ ?
-* What are the most important things on this page?
-* Why did they call it that?
-&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Where am I?&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Where should I begin?&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Where did they put ____ ?&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;What are the most important things on this page?&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Why did they call it that?&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 
 &lt;h3&gt;Chapter 2 How we really use the web&lt;/h3&gt;
 
@@ -55,74 +73,74 @@ thinking about, like:&lt;/p&gt;
 
 &lt;p&gt;We don’t read pages. We scan them.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;* We’re usually in a hurry.
-* We know we don’t need to read everything.
-* We’re good at it. We’ve been scanning newspapers, magazines, and books all our lives to find the parts we’re interested in , and we know that it works.We don’t make optical choice s. We satisfice.
-&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;We’re usually in a hurry.&lt;/li&gt;
+&lt;li&gt;We know we don’t need to read everything.&lt;/li&gt;
+&lt;li&gt;We’re good at it. We’ve been scanning newspapers, magazines, and books all our lives to find the parts we’re interested in , and we know that it works.&lt;/li&gt;
+&lt;li&gt;We don’t make optical choice s. We satisfice.&lt;/li&gt;
+&lt;/ul&gt;
+
 
 &lt;p&gt;In reality, though, most of the time we don’t choose the best option,we choose the first reasonable option, a strategy known as satisfying. As soon as we find a link that seems like it might lead to what we’re looking for, there’s a
 very good chance that we’ll click it.&lt;/p&gt;
 
 &lt;p&gt;Why don’t Web users look for the best choice?&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;*We’re usually in a hurry.
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;We’re usually in a hurry.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;There’s not much of a penalty for guessing wrong.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Weighing options may not improve our chances On poorly designed sites,putting effort into making the best choice doesn’t really help.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Guessing is more fun.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-*There’s not much of a penalty for guessing wrong.
-
-*Weighing options may not improve our chances On poorly designed sites, 
-putting effort into making the best choice doesn’t really help. 
-
-You’re usually better off going with your first guess and using the Back button if it doesn’t work out
-
-*Guessing is more fun.
-&lt;/code&gt;&lt;/pre&gt;
 
 &lt;h3&gt;Chapter 3 Billboard Design 101&lt;/h3&gt;
 
-&lt;p&gt;Designing pages for scanning, not reading
-Faced with the fact that your users are whizzing by, there are five
+&lt;p&gt;Designing pages for scanning, not reading&lt;/p&gt;
+
+&lt;p&gt;Faced with the fact that your users are whizzing by, there are five
 important things you can do to make sure they see- and understand- as
 much of your site as possible.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;* Create a clear visual hierarchy.
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Create a clear visual hierarchy.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Nest text to show what belongs to what.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Conventions are useful,Stick to them unless you have a really good reason, because they help people to avoid thinking.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Clearly define portions of a page.It should be very clear what is clickable.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Try and avoid noise.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-* Nest text to show what belongs to what.
-
-* Conventions are useful,Stick to them unless you have a really good reason, because they help people to avoid thinking.
-
-* Clearly define portions of a page.It should be very clear what is clickable.
-
-* Try and avoid noise.
-&lt;/code&gt;&lt;/pre&gt;
 
 &lt;h4&gt;Create a clear visual hierarchy&lt;/h4&gt;
 
-&lt;pre&gt;&lt;code&gt;* The more important something is, the more prominent it is.
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;The more important something is, the more prominent it is.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Things that are related logically are also related visually&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Things are “nested” visually to show what’s part of what&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-* Things that are related logically are also related visually
-
-* Things are “nested” visually to show what’s part of what
-&lt;/code&gt;&lt;/pre&gt;
 
 &lt;h4&gt;Conventions are you friends&lt;/h4&gt;
 
 &lt;p&gt;Conventions enable users to figure out a lot about a Web page, even if they
 can’t understand a word of it.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;* They’re very useful
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;They’re very useful&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Designers are often reluctant to take advantage of them.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-* Designers are often reluctant to take advantage of them.
-&lt;/code&gt;&lt;/pre&gt;
 
 &lt;h4&gt;Try and avoid noise&lt;/h4&gt;
 
 &lt;p&gt;One of the great enemies of easy-to-grasp pages is visual noise. There are
 really two kinds of noise:&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;* Busy-ness
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Busy-ness&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Background noise.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-* Background noise.
-&lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;Users have varying tolerance for complexity and distractions: some people
 have no problem with busy pages and background noise, but many do.
@@ -222,7 +240,71 @@ that everything is visual noise until proven otherwise.&lt;/p&gt;
 
 &lt;p&gt;the bright star in my Laputa.&lt;/p&gt;
 
-&lt;h3&gt;当月光洒满了一地澄澈&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;爱，在寂寞中花开&lt;/li&gt;
+&lt;li&gt;当月光洒满了一地澄澈&lt;/li&gt;
+&lt;li&gt;漪沦，从有风的湖面飞起&lt;/li&gt;
+&lt;li&gt;梦飞时节&lt;/li&gt;
+&lt;li&gt;遗失&lt;/li&gt;
+&lt;li&gt;故事&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;img src=&quot;/images/geek4love_brightstar.png&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;h1&gt;爱，在寂寞中花开 &lt;/h1&gt;
+
+&lt;p&gt;我抬头，你是繁星如沸的星空&lt;/p&gt;
+
+&lt;p&gt;你回头，我却是躲藏在人间的纤尘&lt;/p&gt;
+
+&lt;p&gt;微笑是你唇间的代言&lt;/p&gt;
+
+&lt;p&gt;悸动是我必备的功课&lt;/p&gt;
+
+&lt;p&gt;我是你沿途的擦肩而过&lt;/p&gt;
+
+&lt;p&gt;你却铺就了我所有的青春年少&lt;/p&gt;
+
+&lt;p&gt;爱，原本只是一排无声的音节&lt;/p&gt;
+
+&lt;p&gt;我却将它拼成了旋律&lt;/p&gt;
+
+&lt;p&gt;爱，原本只是宁静的一湾&lt;/p&gt;
+
+&lt;p&gt;我却幻化成了逶迤奔腾的江河&lt;/p&gt;
+
+&lt;p&gt;爱，原本只是美酒佳酿&lt;/p&gt;
+
+&lt;p&gt;我却碰到了一杯愁思&lt;/p&gt;
+
+&lt;p&gt;爱，原本只是两个人的故事&lt;/p&gt;
+
+&lt;p&gt;我却一个人在旅行&lt;/p&gt;
+
+&lt;p&gt;在时空的荒野里，我撒下寂寞的种子&lt;/p&gt;
+
+&lt;p&gt;你不经意的轻风一拂&lt;/p&gt;
+
+&lt;p&gt;我的春天摇曳而出&lt;/p&gt;
+
+&lt;p&gt;北有你的归宿&lt;/p&gt;
+
+&lt;p&gt;南才是我的方向&lt;/p&gt;
+
+&lt;p&gt;有我，就有你&lt;/p&gt;
+
+&lt;p&gt;有你，却没有我&lt;/p&gt;
+
+&lt;p&gt;我潇洒扬鞭。打马而过。不再回头。&lt;/p&gt;
+
+&lt;p&gt;忽然间明白，暗恋是一颗最洁净的泪滴~&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/geek4love_moon.png&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;h1&gt;当月光洒满了一地澄澈&lt;/h1&gt;
+
+&lt;p&gt;当月光洒满了一地澄澈&lt;/p&gt;
 
 &lt;p&gt;诗人止住了脚步，仰望那一帘幽蓝&lt;/p&gt;
 
@@ -254,7 +336,9 @@ that everything is visual noise until proven otherwise.&lt;/p&gt;
 
 &lt;p&gt;也会降临我的 温柔&lt;/p&gt;
 
-&lt;h3&gt;漪沦，从有风的湖面飞起&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/geek4love_lake.png&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;h1&gt;漪沦，从有风的湖面飞起&lt;/h1&gt;
 
 &lt;p&gt;我是静谧的山野，守候着一潭寂寞&lt;/p&gt;
 
@@ -285,6 +369,116 @@ that everything is visual noise until proven otherwise.&lt;/p&gt;
 &lt;p&gt;我只知道&lt;/p&gt;
 
 &lt;p&gt;漪沦，在有风的地方飞起~&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/geek4love_angel.png&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;h1&gt;梦飞时节&lt;/h1&gt;
+
+&lt;p&gt;安琪儿与我绅士约定&lt;/p&gt;
+
+&lt;p&gt;只要我朝乾夕惕，在秋风拂动生命的风铃之前&lt;/p&gt;
+
+&lt;p&gt;寻得奇葩&lt;/p&gt;
+
+&lt;p&gt;她就能我的乌托邦&lt;/p&gt;
+
+&lt;p&gt;我开始了流星赶月的探幽生涯&lt;/p&gt;
+
+&lt;p&gt;在山间挥霍过我的年华&lt;/p&gt;
+
+&lt;p&gt;在水里荡漾过我的足迹&lt;/p&gt;
+
+&lt;p&gt;离开了喧嚣&lt;/p&gt;
+
+&lt;p&gt;落日与我同醉&lt;/p&gt;
+
+&lt;p&gt;月色同我辉映&lt;/p&gt;
+
+&lt;p&gt;一个不知名的早晨&lt;/p&gt;
+
+&lt;p&gt;滂沱大雨冲破了静谧&lt;/p&gt;
+
+&lt;p&gt;秋风在洼陷的水中凼中显现了我&lt;/p&gt;
+
+&lt;p&gt;褶皱的双颊&lt;/p&gt;
+
+&lt;p&gt;在懵懂，迷惘中 。安琪儿挥动了生命双翼&lt;/p&gt;
+
+&lt;p&gt;别让生命起茧，尘寰茧何时不年轻&lt;/p&gt;
+
+&lt;p&gt;何处不是奇葩，请卫戍你的激情&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/geek4love_bluesky.png&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;h1&gt;遗失 &lt;/h1&gt;
+
+&lt;p&gt;神采飞扬的我们遗失了那份乳嗅未干的稚气,&lt;/p&gt;
+
+&lt;p&gt;是否能轻轻的拾回?&lt;/p&gt;
+
+&lt;p&gt;五彩纷杂的色泽改染了原本湛蓝的天空,&lt;/p&gt;
+
+&lt;p&gt;纯真是否长驻天边?新知,愿望到心机欲望.&lt;/p&gt;
+
+&lt;p&gt;是否在颠峰触手可及的那刻,&lt;/p&gt;
+
+&lt;p&gt;心中的湛蓝已随风而逝?&lt;/p&gt;
+
+&lt;p&gt;是否我们捧着簸箕盛着那一刻的兴奋,&lt;/p&gt;
+
+&lt;p&gt;却筛掉了许多东西?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/geek4love_seed.png&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;h1&gt;故事&lt;/h1&gt;
+
+&lt;p&gt;一个小男生拖着沉重的脚步在黑暗的山里面迷失了，&lt;/p&gt;
+
+&lt;p&gt;一个带着光环的小女孩出现了，&lt;/p&gt;
+
+&lt;p&gt;牵着他的手一起爬到了山顶上，&lt;/p&gt;
+
+&lt;p&gt;那天，天上出奇的闪亮，&lt;/p&gt;
+
+&lt;p&gt;分开时男生和女孩互相为对方埋下了一件东西，女孩说：如果有童话，四年以后我们会同时回到这个地方，&lt;/p&gt;
+
+&lt;p&gt;一齐挖开我们的心愿~&lt;/p&gt;
+
+&lt;p&gt;然后女孩消失了~&lt;/p&gt;
+
+&lt;p&gt;星光开始黯淡~&lt;/p&gt;
+
+&lt;p&gt;男孩又开始了跋涉，这一次，带上微笑~步伐轻盈~&lt;/p&gt;
+
+&lt;p&gt;四年恍惚而过~&lt;/p&gt;
+
+&lt;p&gt;男孩爬回到了当初的山巅，女孩并没有回来~&lt;/p&gt;
+
+&lt;p&gt;男孩十分失落&lt;/p&gt;
+
+&lt;p&gt;他挖开了自己埋下的没有花开的种子：童话~&lt;/p&gt;
+
+&lt;p&gt;然后挖开了女生当年埋下的种子~~~~~&lt;/p&gt;
+
+&lt;p&gt;什么也没有发现~&lt;/p&gt;
+
+&lt;p&gt;忽然间~&lt;/p&gt;
+
+&lt;p&gt;热泪盈眶~&lt;/p&gt;
+
+&lt;p&gt;她埋下的是开出的一串串星光~照亮前行的路&lt;/p&gt;
+
+&lt;p&gt;是四年间伴随着他的自信 阳光 乐观 健康 开心 幸福&lt;/p&gt;
+
+&lt;p&gt;男孩抬头看看天空之城  ：那里才是童话盛开的地方~可是&lt;/p&gt;
+
+&lt;p&gt;这一次我是路人，看着你走~&lt;/p&gt;
+
+&lt;p&gt;男孩很幸福地微笑~&lt;/p&gt;
+
+&lt;p&gt;勇敢地走&lt;/p&gt;
+
+&lt;p&gt;下去~&lt;/p&gt;
 
 &lt;p&gt;PS:
 Geek4IT = Geek for IT&lt;/p&gt;
@@ -325,9 +519,11 @@ Geek4IT = Geek for IT&lt;/p&gt;
 
 &lt;p&gt;This theme is just perfect for you to renew your phone with Solo Launcher!&lt;/p&gt;
 
-&lt;p&gt;Notice:
- - 1.REMEMBER Before enjoying your exclusive Colorful Circle theme, you need to make sure you have had the latest Solo Launcher installed in your phone. The theme can only run on Solo Launcher.
- - 2.We will designed more icons with successive update&lt;/p&gt;
+&lt;p&gt;Notice:&lt;/p&gt;
+
+&lt;p&gt;1.REMEMBER Before enjoying your exclusive Colorful Circle theme, you need to make sure you have had the latest Solo Launcher installed in your phone. The theme can only run on Solo Launcher.&lt;/p&gt;
+
+&lt;p&gt;2.We will designed more icons with successive update&lt;/p&gt;
 
 &lt;p&gt;How to use this?&lt;/p&gt;
 
@@ -340,9 +536,11 @@ Please rate/review and check out other work by Solo Team. Enjoy!&lt;/li&gt;
 
 &lt;p&gt;Solo Launcher,Solo Locker,Solo Weather,Solo Battery,Solo Calculator,Colorful Flat Free Theme&lt;/p&gt;
 
+&lt;p&gt; &lt;img src=&quot;https://lh3.ggpht.com/1bvX5KU-qKF4q0_MA7yAQeXDWO7t4CnnyLDEQ8fxZfwk7O_K6g0dkkbjN59ukhooDYI=w600-rw&quot; alt=&quot;Mou icon&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt; &lt;img src=&quot;https://lh6.ggpht.com/CpOBrNAmlr8z-Rtomo6oMW2CkdkRpCSNkNjnaB9mgGfAG1EtomxWXynjtqLSjUMHvXdB=w600-rw&quot; alt=&quot;Mou icon&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt; &lt;img src=&quot;https://lh6.ggpht.com/hM2uEFNUkWUwzd3kTpGCsSrDDqecfSnLg1d-AlXr4tthqjYLcUFLJZ4UELYBvMJc9mM=w600-rw&quot; alt=&quot;Mou icon&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;img src=&quot;https://lh3.ggpht.com/sfKooStU5htYNeAay_6S_josr4baAjDt2buel9KoKh5uHGyJlUkrR4LhCtwnn1sbREut=w600-rw&quot; alt=&quot;Mou icon&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt; &lt;img src=&quot;https://lh3.ggpht.com/3Vpi5ZQveCC_LvrmhcEZDHzgtk4fooqaFmk08GBs8fCQMNl_TAprst5loy_reQcbVVwe=w600-rw&quot; alt=&quot;Mou icon&quot; /&gt;&lt;/p&gt;
 </content>
@@ -358,7 +556,17 @@ Please rate/review and check out other work by Solo Team. Enjoy!&lt;/li&gt;
 &lt;p class=&quot;meta&quot;&gt;12 Feb 2014 - Beijing&lt;/p&gt;
 
 
+&lt;p&gt;&lt;img src=&quot;http://media-cache-ec0.pinimg.com/736x/de/62/72/de6272c701552fa39a1673641b42d339.jpg&quot; alt=&quot;SICP&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;a href=&quot;https://github.com/Geek4IT/HACKING-SICP&quot;&gt;Fork me on GitHub&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I have heard the SICP for a while,and always want to find some time to go through it.&lt;/p&gt;
+
+&lt;p&gt;The SICP written in 1984,and is unlikely to give you any concrete skills or directly applicable&lt;/p&gt;
+
+&lt;p&gt;methods for a software developer job,but I think it will give you a different angle view&lt;/p&gt;
+
+&lt;p&gt;of the essence of programming.&lt;/p&gt;
 </content>
  </entry>
  
