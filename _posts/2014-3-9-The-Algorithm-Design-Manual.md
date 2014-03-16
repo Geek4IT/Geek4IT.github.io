@@ -12,6 +12,7 @@ title: Summary:The Algorithm Design Manual
 
 ##[The Algorithm Design Manual](http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693/ref=sr_1_1?ie=UTF8&qid=1394328274&sr=8-1&keywords=the+algorithm+design+manual)
 
+ISBN: 1848000693 READ: 2014-03-9 RATING: 
 
 ##I Practical Algorithm Design 1
 

@@ -12,6 +12,8 @@ title: Summary:Don't make me think
 
 ##[Don't Make Me Think: A Common Sense Approach to Web Usability (2nd Edition)](http://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?ie=UTF8&qid=1394328375&sr=8-1&keywords=don%27t+make+me+think)
 
+ISBN: 0321965515 READ: 2014-03-2 RATING: 9/10
+
 
 ####Key Points:
 Don't make me think? refers to the idea that when a web site makes you stop and think about what you are doing,it's making your life harder, and perhaps isn't designed as well as it could be.
