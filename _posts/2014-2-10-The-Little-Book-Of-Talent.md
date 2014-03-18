@@ -6,7 +6,7 @@ title: Summary:The Little Book of Talent: 52 Tips for Improving Your Skills
 {{ page.title }}
 ================
 
-<p class="meta">10 Feb 2014 - Airplane</p>
+<p class="meta">2 Mar 2014 - Beijing</p>
  
 <img src="http://ecx.images-amazon.com/images/I/41cVsbHoXEL._BO2,204,203,200_PIsitb-sticker-v3-big,TopRight,0,-55_SX278_SY278_PIkin4,BottomRight,1,22_AA300_SH20_OU01_.jpg" width="200" />
 
