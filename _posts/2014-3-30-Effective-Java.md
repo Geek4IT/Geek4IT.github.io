@@ -54,3 +54,20 @@ Disadvantages:
 ###Item 9:  Always override hashCode when you override equals.
 
 ###Item 10:  Always override toString.
+
+###Item 11:  Override clone judiciously.
+
+###Item 12:  Consider implementing Comparable.
+
+
+##Classes and Interfaces
+
+###Item 13:  Minimize the accessibility of classes and interfaces.
+
+###Item 14:  In public classes, use accessor methods not public fields.
+
+###Item 15:  Minimize mutability.
+
+###Item 16:  Favor composition over inheritance.
+
+
