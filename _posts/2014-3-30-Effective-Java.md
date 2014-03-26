@@ -16,6 +16,8 @@ title: Summary:Effective Java(2nd Edition)
 ISBN: 0321356683 READ: 2014-03-30 RATING: 9/10
 
 
+I spent a week on this book,nice read：）
+
 ##Creating and Destroying Objects
 
 ###Item 1:  Consider static factory methods instead of constructors.
@@ -87,14 +89,43 @@ own memory, caches,listeners and other callbacks.
 
 ###Item 8:  Obey the general contract when overriding equals.
 
+Conditions do not need overriding equals():
+
+> .Instances are distinguished by reference.
+
+> .Equals() defined in superclass works.
+
+> .You do not care the equals() function.
+
+
+Contract when overriding equals():
+
+> .Use the == operator to check if the argument is a reference to this object.
+Use the instanceof operator to check if the argument has the correct type.
+
+> .Reflexivee (x.equals(x) ==true), Symmetric (x.equals(y)==y.equals(x)), Transitivee (x==y,y==z then
+x==z), Consistent(x !=null x.equals(null)==false).
+
+> .Notice the @Override annotation.
+
 ###Item 9:  Always override hashCode when you override equals.
 
+> .Whenever invoked in the same run, must return the same integer
+provided no information used in equals is modified
+
 ###Item 10:  Always override toString.
+
+> .Return all of the interesting information contained in the object.
 
 ###Item 11:  Override clone judiciously.
 
 ###Item 12:  Consider implementing Comparable.
 
+> .If you override the clone() method in a nonfinal class, you should return an object obtained by invoking super.clone()
+
+> .Never make the client do anything the library can do for the client.
+
+> .
 
 ##Classes and Interfaces
 
