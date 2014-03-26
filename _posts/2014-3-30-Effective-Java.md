@@ -37,15 +37,51 @@ Disadvantages:
 
 ###Item 2:  Consider a builder when faced with many constructor parameters.
 
+> .Builder pattern is a good choice when designing classes whose constructors or static factories would have more than a handful of parameters
+
+> .Builder is set as a static inner class. Builder makes the object initialized immutable.
+
+
 ###Item 3:  Enforce the singleton property with a private constructor or an enum type.
+
+Three ways to implement Singleton pattern:
+
+> .Public field
+
+> .Static factory method
+
+> .Enum Singleton
 
 ###Item 4:  Enforce non-instantiability with a private constructor
 
+Some utility classes like java.lang.Math or java.util.Arrays are not designed to be instantiated. For preventing them from instantiation and subclassing, make the constructor to be private.
+
 ###Item 5:  Avoid creating unnecessary objects.
+
+> .Prefer primitives to boxed primitives, and watch out for unintentional autoboxing.
+
+> .An object can always be reused if it is immutable.
+
+> /Ex: Do not do this BAD String s = new String("string"); Do
+this instead String s = "string";String appending, Boxed primitives
 
 ###Item 6:  Eliminate obsolete object references.
 
+> .Although Java has garbage collector, memory leak can still happen. GC reclaims the memory by inspecting the references of objects.
+
+> .Nulling out object references should be the exception rather than the norm.
+
+> .Common source of memory leaks, whenever a class manages its
+own memory, caches,listeners and other callbacks.
+
+> .Common memory leak scenarios: Objects constructed inside classes, Cache, Callbacks
+
+
 ###Item 7:  Avoid finalizers
+
+> .Severe performance penalty for using finalizers.
+
+> .No guarantee that it will actually run.
 
 ##Methods Common to All Objects
 
