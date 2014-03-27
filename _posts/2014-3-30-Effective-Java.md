@@ -185,15 +185,15 @@ protected.
 
 * Interfaces are usually the best way to implement a type.
 
-Advantages:
+*Advantages:
 
-> .1).Existing classes can easily be retrofitted to implement a new interface.
+> 1).Existing classes can easily be retrofitted to implement a new interface.
 
-> .2).Interfaces are ideal for defining mixins.  Mixin is a type that a class can implement in addition to its primary type to show that it can provide additional behaviour.
+> 2).Interfaces are ideal for defining mixins.  Mixin is a type that a class can implement in addition to its primary type to show that it can provide additional behaviour.
 
-> .3).Interfaces allow the construction of non-hierarchial type frameworks.  If you use abstract classes, you risk a combinatorial explosion of classes to take care of each choice.
+> 3).Interfaces allow the construction of non-hierarchial type frameworks.  If you use abstract classes, you risk a combinatorial explosion of classes to take care of each choice.
 
-> .4).Interfaces enable safe, powerful functionality enhancements via the wrapper class idiom.
+> 4).Interfaces enable safe, powerful functionality enhancements via the wrapper class idiom.
    
 * Abstract classes have one advantage over interfaces in that they are easier to evolve.  In general, once an interface is published, it is not possible to change it any more.
 
@@ -210,6 +210,10 @@ Advantages:
 ###Item 21: Use function objects to represent strategies
 
 ###Item 22: Favor static member classes over nonstatic
+
+* Four kinds of nested classes: static member classes, nonstatic member classes, anonymous classes, and local classes.
+
+* A nested class should only exist to serve its enclosing class.
 
 ##Generics
 
