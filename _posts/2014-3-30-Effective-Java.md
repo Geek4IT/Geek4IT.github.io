@@ -183,9 +183,29 @@ protected.
 
 ###Item 18: Prefer interfaces to abstract classes
 
+* Interfaces are usually the best way to implement a type.
+
+Advantages:
+
+> .1).Existing classes can easily be retrofitted to implement a new interface.
+
+> .2).Interfaces are ideal for defining mixins.  Mixin is a type that a class can implement in addition to its primary type to show that it can provide additional behaviour.
+
+> .3).Interfaces allow the construction of non-hierarchial type frameworks.  If you use abstract classes, you risk a combinatorial explosion of classes to take care of each choice.
+
+> .4).Interfaces enable safe, powerful functionality enhancements via the wrapper class idiom.
+   
+* Abstract classes have one advantage over interfaces in that they are easier to evolve.  In general, once an interface is published, it is not possible to change it any more.
+
 ###Item 19: Use interfaces only to define types
 
 ###Item 20: Prefer class hierarchies to tagged classes
+
+* Tagged classes are cluttered with tag fields, and switch statements, messing the encapsulation and  being prone to run-time errors.
+
+* Tagged classes are verbose, error-prone, and inefficient.
+
+* Tagged class should be abandoned and replaced by abstract classes.
 
 ###Item 21: Use function objects to represent strategies
 
