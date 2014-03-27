@@ -169,3 +169,31 @@ super class.Use composition and forwarding instead
 
 * Inheritance is appropriate only in circumstances where the subclass really is a subtype of the superclass. 
 
+###Item 17: Design and document for inheritance or else prohibit it
+
+* You must test your class by writing subclasses before you release it,
+this will make it obvious what methods need to be private and
+protected.
+
+* The only way to test a class designed for inheritance is to write at least three subclasses and test.
+
+* Constructors (as well as clone and readObject) methods must not invoke overridable methods.
+
+* Prohibit subclassing in classes that are not designed and documented to be safely subclassed by “final” or making the constructor “private”.
+
+###Item 18: Prefer interfaces to abstract classes
+
+###Item 19: Use interfaces only to define types
+
+###Item 20: Prefer class hierarchies to tagged classes
+
+###Item 21: Use function objects to represent strategies
+
+###Item 22: Favor static member classes over nonstatic
+
+##Generics
+
+
+
+
+
