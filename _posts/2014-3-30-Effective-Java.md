@@ -230,8 +230,7 @@ Set<?>
 * Generic type information is erased at runtime
 
 * You must use raw types in class literals(List.class,
-String[].class, and int.classare all legal, but List<String>.classand
-List<?>.class are not.)
+String[].class, and int.classare all legal, but List<String>.class and List<?>.class are not.)
 
 ###Item 24: Eliminate unchecked warnings
 
