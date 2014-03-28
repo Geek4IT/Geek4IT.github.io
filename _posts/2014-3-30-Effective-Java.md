@@ -16,7 +16,7 @@ title: Summary:Effective Java(2nd Edition)
 ISBN: 0321356683 READ: 2014-03-30 RATING: 9/10
 
 
-I spent a week on this book,nice read：）,this book give you the best practices,every chapter focus on
+I spent a week on this book,nice read：）,it gives you the best practices,every chapter focus on
 different best pratice about java,if you have known the basic of java,you should definitly read this book.
 
 ##Creating and Destroying Objects
