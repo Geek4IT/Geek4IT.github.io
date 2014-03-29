@@ -17,7 +17,8 @@ ISBN: 0321356683 READ: 2014-03-30 RATING: 9/10
 
 
 I spent a week on this book,nice read：）,it gives you the best practices,every chapter focus on
-different best pratice about java,if you have known the basic of java,you should definitly read this book.
+different best pratice about java,if you have known the basic of java,you should definitly read this book.There are 
+a lot of advises how to make your code more correct and perfect.
 
 ##Creating and Destroying Objects
 
@@ -256,7 +257,32 @@ annotation.
 * Arrays and generics don't mix well since they have very different type rules.
 
 
+###Item 26: Favor generic types
 
+###Item 27: Favor generic methods
+
+###Item 28: Use bounded wildcards to increase API flexibility
+
+##General Programming
+
+###Item 45: Minimize the scope of local variables
+
+* The most powerful technique for minimizing the scope of a local variable is to declare it where it is first used.
+
+* Prefer for loop to whie loops.
+
+###Item 46: Prefer for-each loops to traditional for loops
+
+###Item 47: Know and use the libraries
+
+###Item 48: Avoid float and double if exact answers are required
+
+* Use BigDecimal, it gives you full control over rounding.
+
+
+###Item 49: Prefer primitive types to boxed primitives
+
+###Item 50: Avoid strings where other types are more appropriate
 
 
 
