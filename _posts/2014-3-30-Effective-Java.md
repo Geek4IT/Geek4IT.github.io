@@ -221,29 +221,28 @@ protected.
 
 ###Item 23: Don’t use raw types in new code
 
-* If you use raw types, you lose all the safety and expressiveness benefits of generics.
+	* If you use raw types, you lose all the safety and expressiveness benefits of generics.
 
-* List<String> is a sub type of the List but not of the parameterized type List<Object>.
+	* List<String> is a sub type of the List but not of the parameterized type List<Object>.
 
-* If you want to use a generic type but don't know or care what the
-actual type parameter is you can use a question mark instead ex:
-Set<?>
+	* If you want to use a generic type but don't know or care what the
+	actual type parameter is you can use a question mark instead ex:Set<?>
 
-* Generic type information is erased at runtime
+	* Generic type information is erased at runtime
 
-* You must use raw types in class literals(List.class,
-String[].class, and int.classare all legal, but List<String>.class and List<?>.class are not.)
+	* You must use raw types in class literals(List.class,String[].class, and int.classare all legal, but List<String>.class and List<?>.class are not.)
+
 
 ###Item 24: Eliminate unchecked warnings
 
-* Eliminate every unchecked exception that you can and only after
-you prove that the code that provoked warning is type-safe
-suppress the warning with a @SuppressWarnings("unchecked")
-annotation.
+	* Eliminate every unchecked exception that you can and only after
+	you prove that the code that provoked warning is type-safe
+	suppress the warning with a @SuppressWarnings("unchecked")
+	annotation.
 
-* Always use the @SuppressWarnings annotation on the smallest scope possible.
+	* Always use the @SuppressWarnings annotation on the smallest scope possible.
 
-* Every time you use an @SuppressWarnings("unchecked") - annotation, add a comment saying why its safe to do so.
+	* Every time you use an @SuppressWarnings("unchecked") - annotation, add a comment saying 	why its safe to do so.
 
 
 ###Item 25: Prefer lists to arrays
@@ -283,6 +282,8 @@ annotation.
 ###Item 49: Prefer primitive types to boxed primitives
 
 ###Item 50: Avoid strings where other types are more appropriate
+
+
 
 
 
