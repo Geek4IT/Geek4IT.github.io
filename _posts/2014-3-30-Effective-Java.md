@@ -10,7 +10,7 @@ title: Summary:Effective Java(2nd Edition)
  
 <img src="http://ecx.images-amazon.com/images/I/51Om5Z2IiML._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg" width="200" />
 
-##[Effective Java](http://www.amazon.com/Effective-Java-Edition-Joshua-Bloch/dp/0321356683/ref=sr_1_1?ie=UTF8&qid=1395706824&sr=8-1&keywords=effective+java)
+#[Effective Java](http://www.amazon.com/Effective-Java-Edition-Joshua-Bloch/dp/0321356683/ref=sr_1_1?ie=UTF8&qid=1395706824&sr=8-1&keywords=effective+java)
 
 
 ISBN: 0321356683 READ: 2014-03-30 RATING: 9/10
@@ -20,7 +20,31 @@ I spent a week on this book,nice read：）,it gives you the best practices,ever
 different best pratice about java,if you have known the basic of java,you should definitly read this book.There are 
 a lot of advises how to make your code more correct and perfect.
 
-##Creating and Destroying Objects
+The book is structured in 11 Chapters containing 78 items.There items covers these themes:
+
+> Creating and Destroying Objects
+
+> Methods Common to All Objects
+
+> Classes and Interfaces
+
+> Generics
+
+> Enum and Annitations
+
+> Methods
+
+> General Programming
+
+> Exceptions
+
+> Concurrency
+
+> Serialization
+ 
+
+#Creating and Destroying Objects
+--------------
 
 ###Item 1:  Consider static factory methods instead of constructors.
 Advantages:
@@ -87,7 +111,8 @@ own memory, caches,listeners and other callbacks.
 
 * No guarantee that it will actually run.
 
-##Methods Common to All Objects
+#Methods Common to All Objects
+--------------
 
 ###Item 8:  Obey the general contract when overriding equals.
 
@@ -128,7 +153,8 @@ provided no information used in equals is modified
 * Never make the client do anything the library can do for the client.
 
 
-##Classes and Interfaces
+#Classes and Interfaces
+--------------
 
 ###Item 13:  Minimize the accessibility of classes and interfaces.
 
@@ -217,32 +243,22 @@ protected.
 
 * A nested class should only exist to serve its enclosing class.
 
-##Generics
+
+#Generics
+--------------
 
 ###Item 23: Don’t use raw types in new code
 
-	* If you use raw types, you lose all the safety and expressiveness benefits of generics.
-
-	* List<String> is a sub type of the List but not of the parameterized type List<Object>.
-
-	* If you want to use a generic type but don't know or care what the
-	actual type parameter is you can use a question mark instead ex:Set<?>
-
-	* Generic type information is erased at runtime
-
-	* You must use raw types in class literals(List.class,String[].class, and int.classare all legal, but List<String>.class and List<?>.class are not.)
-
-
 ###Item 24: Eliminate unchecked warnings
 
-	* Eliminate every unchecked exception that you can and only after
-	you prove that the code that provoked warning is type-safe
-	suppress the warning with a @SuppressWarnings("unchecked")
-	annotation.
+* Eliminate every unchecked exception that you can and only after
+you prove that the code that provoked warning is type-safe
+suppress the warning with a @SuppressWarnings("unchecked")
+annotation.
 
-	* Always use the @SuppressWarnings annotation on the smallest scope possible.
+* Always use the @SuppressWarnings annotation on the smallest scope possible.
 
-	* Every time you use an @SuppressWarnings("unchecked") - annotation, add a comment saying 	why its safe to do so.
+* Every time you use an @SuppressWarnings("unchecked") - annotation, add a comment saying why its safe to do so.
 
 
 ###Item 25: Prefer lists to arrays
@@ -262,7 +278,9 @@ protected.
 
 ###Item 28: Use bounded wildcards to increase API flexibility
 
-##General Programming
+
+#General Programming
+--------------
 
 ###Item 45: Minimize the scope of local variables
 
@@ -270,7 +288,11 @@ protected.
 
 * Prefer for loop to whie loops.
 
+* Keep methods small and focused. 
+
+
 ###Item 46: Prefer for-each loops to traditional for loops
+
 
 ###Item 47: Know and use the libraries
 
@@ -281,7 +303,56 @@ protected.
 
 ###Item 49: Prefer primitive types to boxed primitives
 
+* Applying the == operator to boxed primitives is almost always wrong.
+
+* There are three differences between the primitives and the boxed primitives.
+
+> 1).Primitives only have their values, boxed primitives have their identities distinct from values.
+
+> 2).Boxed primitive have only non-functional value - null.
+
+> 3).Primitives are generally time and space efficient as compared to boxed primitives.
+
+
 ###Item 50: Avoid strings where other types are more appropriate
+
+* Using string concatenation operator repeatedly to concatenate n
+strings requires time quadratic in n use StringBuilder instead.
+
+* Strings are more cumbersome, less flexible, slower and error-prone than other types, if they are used inappropriately.  Do not use strings in place of primitive types, enums and aggregate types.
+
+###Item 51: Beware the performance of string concatenation
+
+###Item 52: Refer to objects by their interfaces
+
+* If appropriate interface types exist, then parameters, return values, variables, and fields should all be declared using interface types.
+
+* It is entirely appropriate to refer to an object by a class rather than aninterface if no appropriate interface exists.
+
+###Item 53: Prefer interfaces to reflection
+
+###Item 54: Use native methods judiciously
+
+* Objects should not be accessed reflectively in normal applications at runtime. Reflection uses verbose code and does not perform well.
+
+* It is rarely advisable to use native methods for improved performance.
+
+
+###Item 55: Optimize judiciously
+
+* Strive to write good programs rather than fast ones.
+
+* Strive to avoid design decisions that would limit performance
+
+* It is a very bad idea to warp an API to achieve good performance.
+
+
+
+###Item 56: Adhere to generally accepted naming conventions
+
+See [Java Language Specification,Chapter 6. Names](http://docs.oracle.com/javase/specs/jls/se8/html/jls-6.html#jls-6.7)
+
+
 
 
 

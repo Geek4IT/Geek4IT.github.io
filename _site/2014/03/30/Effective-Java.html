@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+   <title>Summary:Effective Java(2nd Edition)</title>
+   <meta name="author" content="Geek4IT" />
+   <link href="http://feeds.feedburner.com/geek4it" rel="alternate" title="Geek4IT" type="application/atom+xml" />
+   <meta name="readability-verification" content="QCzSs992GxmRYRKVpPeZ6LE2tS8aYKxsSSQKV8YM"/>
+
+   <!-- syntax highlighting CSS -->
+   <link rel="stylesheet" href="/css/syntax.css" type="text/css" />
+
+   <!-- Homepage CSS -->
+   <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
+
+   <!-- Typekit -->
+   <script type="text/javascript" src="http://use.typekit.com/jpd0pfm.js"></script>
+   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+</head>
+<body>
+
+<!-- ClickTale Top part -->
+<script type="text/javascript">
+var WRInitTime=(new Date()).getTime();
+</script>
+<!-- ClickTale end of Top part -->
+
+<div class="site">
+  <div class="title">
+    <a href="/">Geek4IT</a>
+    <a class="extra" href="/">Home</a>
+  </div>
+  
+  <div id="post">
+<h1>Summary:Effective Java(2nd Edition)</h1>
+
+<p class="meta">30 Mar 2014 - Beijing</p>
+
+
+<p><img src="http://ecx.images-amazon.com/images/I/51Om5Z2IiML._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg" width="200" /></p>
+
+<h1><a href="http://www.amazon.com/Effective-Java-Edition-Joshua-Bloch/dp/0321356683/ref=sr_1_1?ie=UTF8&amp;qid=1395706824&amp;sr=8-1&amp;keywords=effective+java">Effective Java</a></h1>
+
+<p>ISBN: 0321356683 READ: 2014-03-30 RATING: 9/10</p>
+
+<p>I spent a week on this book,nice read：）,it gives you the best practices,every chapter focus on
+different best pratice about java,if you have known the basic of java,you should definitly read this book.There are
+a lot of advises how to make your code more correct and perfect.</p>
+
+<h1>Creating and Destroying Objects</h1>
+
+<hr />
+
+<h3>Item 1:  Consider static factory methods instead of constructors.</h3>
+
+<p>Advantages:</p>
+
+<ul>
+<li><p>1.Can have descriptive names, unlike constructors.</p></li>
+<li><p>2.Not required to create new object, each time they are called.</p></li>
+<li><p>3.Can return any subtype of their return type.</p></li>
+<li><p>4.Reduce the verbosity of creating parameterized types. (Obviated by diamond in Java 7).</p></li>
+</ul>
+
+
+<p>Disadvantages:</p>
+
+<ul>
+<li><p>1.Classes with only static factory methods without non-private constructors cannot be sub-classed.</p></li>
+<li><p>2.Not readily distinguishable from other static methods.  Follow conventional names like valueOf, of, getInstance, newInstance, getType, and newType.</p></li>
+</ul>
+
+
+<h3>Item 2:  Consider a builder when faced with many constructor parameters.</h3>
+
+<ul>
+<li><p>Builder pattern is a good choice when designing classes whose constructors or static factories would have more than a handful of parameters</p></li>
+<li><p>Builder is set as a static inner class. Builder makes the object initialized immutable.</p></li>
+</ul>
+
+
+<h3>Item 3:  Enforce the singleton property with a private constructor or an enum type.</h3>
+
+<p>Three ways to implement Singleton pattern:</p>
+
+<ul>
+<li><p>Public field</p></li>
+<li><p>Static factory method</p></li>
+<li><p>Enum Singleton</p></li>
+</ul>
+
+
+<h3>Item 4:  Enforce non-instantiability with a private constructor</h3>
+
+<p>Some utility classes like java.lang.Math or java.util.Arrays are not designed to be instantiated. For preventing them from instantiation and subclassing, make the constructor to be private.</p>
+
+<h3>Item 5:  Avoid creating unnecessary objects.</h3>
+
+<ul>
+<li><p>Prefer primitives to boxed primitives, and watch out for unintentional autoboxing.</p></li>
+<li><p>An object can always be reused if it is immutable.</p></li>
+<li><p>Ex: Do not do this BAD String s = new String("string"); Do
+this instead String s = "string";String appending, Boxed primitives</p></li>
+</ul>
+
+
+<h3>Item 6:  Eliminate obsolete object references.</h3>
+
+<ul>
+<li><p>Although Java has garbage collector, memory leak can still happen. GC reclaims the memory by inspecting the references of objects.</p></li>
+<li><p>Nulling out object references should be the exception rather than the norm.</p></li>
+<li><p>Common source of memory leaks, whenever a class manages its
+own memory, caches,listeners and other callbacks.</p></li>
+<li><p>Common memory leak scenarios: Objects constructed inside classes, Cache, Callbacks</p></li>
+</ul>
+
+
+<h3>Item 7:  Avoid finalizers</h3>
+
+<ul>
+<li><p>Severe performance penalty for using finalizers.</p></li>
+<li><p>No guarantee that it will actually run.</p></li>
+</ul>
+
+
+<h1>Methods Common to All Objects</h1>
+
+<hr />
+
+<h3>Item 8:  Obey the general contract when overriding equals.</h3>
+
+<p>Conditions do not need overriding equals():</p>
+
+<ul>
+<li><p>Instances are distinguished by reference.</p></li>
+<li><p>Equals() defined in superclass works.</p></li>
+<li><p>You do not care the equals() function.</p></li>
+</ul>
+
+
+<p>Contract when overriding equals():</p>
+
+<ul>
+<li><p>Use the == operator to check if the argument is a reference to this object.
+Use the instanceof operator to check if the argument has the correct type.</p></li>
+<li><p>Reflexivee (x.equals(x) ==true), Symmetric (x.equals(y)==y.equals(x)), Transitivee (x==y,y==z then
+x==z), Consistent(x !=null x.equals(null)==false).</p></li>
+<li><p>Notice the @Override annotation.</p></li>
+</ul>
+
+
+<h3>Item 9:  Always override hashCode when you override equals.</h3>
+
+<ul>
+<li>Whenever invoked in the same run, must return the same integer
+provided no information used in equals is modified</li>
+</ul>
+
+
+<h3>Item 10:  Always override toString.</h3>
+
+<ul>
+<li>Return all of the interesting information contained in the object.</li>
+</ul>
+
+
+<h3>Item 11:  Override clone judiciously.</h3>
+
+<h3>Item 12:  Consider implementing Comparable.</h3>
+
+<ul>
+<li><p>If you override the clone() method in a nonfinal class, you should return an object obtained by invoking super.clone()</p></li>
+<li><p>Never make the client do anything the library can do for the client.</p></li>
+</ul>
+
+
+<h1>Classes and Interfaces</h1>
+
+<hr />
+
+<h3>Item 13:  Minimize the accessibility of classes and interfaces.</h3>
+
+<ul>
+<li><p>Make each class or member as inaccessible as possible.</p></li>
+<li><p>Don't provide any methods that modify the objects state.</p></li>
+<li><p>Make all fields final.</p></li>
+<li><p>Make all fields private.</p></li>
+<li><p>Top level Classes and interfaces have only two possible levels
+package-private and public</p></li>
+<li><p>Members can be private,package-private (default) ,protected,public</p></li>
+</ul>
+
+
+<h3>Item 14:  In public classes, use accessor methods not public fields.</h3>
+
+<ul>
+<li>Exception to this rule is, if a class is package private or is a private
+nested class, you could expose its data fields</li>
+</ul>
+
+
+<h3>Item 15:  Minimize mutability.</h3>
+
+<ul>
+<li><p>Do not have a public static final array of things (cause it is not immutable).In general make sure public static final fields are immutable</p></li>
+<li><p>Immutable objects are inherently thread-safe; they require no synchronization</p></li>
+<li><p>Classes should be immutable unless there is a very good reason to make them mutable</p></li>
+<li><p>If a class cannot be made immutable, limit its mutability as much as possible</p></li>
+<li><p>Make every field final unless there is a compelling reason to make it nonfinal</p></li>
+</ul>
+
+
+<h3>Item 16:  Favor composition over inheritance.</h3>
+
+<ul>
+<li><p>Inheritance violates encapsulation, subclass depend on internals of
+super class.Use composition and forwarding instead</p></li>
+<li><p>Inheritance is appropriate only in circumstances where the subclass really is a subtype of the superclass.</p></li>
+</ul>
+
+
+<h3>Item 17: Design and document for inheritance or else prohibit it</h3>
+
+<ul>
+<li><p>You must test your class by writing subclasses before you release it,
+this will make it obvious what methods need to be private and
+protected.</p></li>
+<li><p>The only way to test a class designed for inheritance is to write at least three subclasses and test.</p></li>
+<li><p>Constructors (as well as clone and readObject) methods must not invoke overridable methods.</p></li>
+<li><p>Prohibit subclassing in classes that are not designed and documented to be safely subclassed by “final” or making the constructor “private”.</p></li>
+</ul>
+
+
+<h3>Item 18: Prefer interfaces to abstract classes</h3>
+
+<ul>
+<li>Interfaces are usually the best way to implement a type.</li>
+</ul>
+
+
+<p>*Advantages:</p>
+
+<blockquote><p>1).Existing classes can easily be retrofitted to implement a new interface.</p>
+
+<p>2).Interfaces are ideal for defining mixins.  Mixin is a type that a class can implement in addition to its primary type to show that it can provide additional behaviour.</p>
+
+<p>3).Interfaces allow the construction of non-hierarchial type frameworks.  If you use abstract classes, you risk a combinatorial explosion of classes to take care of each choice.</p>
+
+<p>4).Interfaces enable safe, powerful functionality enhancements via the wrapper class idiom.</p></blockquote>
+
+<ul>
+<li>Abstract classes have one advantage over interfaces in that they are easier to evolve.  In general, once an interface is published, it is not possible to change it any more.</li>
+</ul>
+
+
+<h3>Item 19: Use interfaces only to define types</h3>
+
+<h3>Item 20: Prefer class hierarchies to tagged classes</h3>
+
+<ul>
+<li><p>Tagged classes are cluttered with tag fields, and switch statements, messing the encapsulation and  being prone to run-time errors.</p></li>
+<li><p>Tagged classes are verbose, error-prone, and inefficient.</p></li>
+<li><p>Tagged class should be abandoned and replaced by abstract classes.</p></li>
+</ul>
+
+
+<h3>Item 21: Use function objects to represent strategies</h3>
+
+<h3>Item 22: Favor static member classes over nonstatic</h3>
+
+<ul>
+<li><p>Four kinds of nested classes: static member classes, nonstatic member classes, anonymous classes, and local classes.</p></li>
+<li><p>A nested class should only exist to serve its enclosing class.</p></li>
+</ul>
+
+
+<h1>Generics</h1>
+
+<hr />
+
+<h3>Item 23: Don’t use raw types in new code</h3>
+
+<ul>
+<li><p>List<String> is a sub type of the List but not of the parameterized type List<Object>.</p></li>
+<li><p>If you want to use a generic type but don't know or care what the
+actual type parameter is you can use a question mark instead ex:Set&lt;?></p></li>
+<li><p>Generic type information is erased at runtime</p></li>
+<li><p>You must use raw types in class literals(List.class,String[].class, and int.classare all legal, but List<String>.class and List&lt;?>.class are not.)</p></li>
+</ul>
+
+
+<h3>Item 24: Eliminate unchecked warnings</h3>
+
+<ul>
+<li><p>Eliminate every unchecked exception that you can and only after
+you prove that the code that provoked warning is type-safe
+suppress the warning with a @SuppressWarnings("unchecked")
+annotation.</p></li>
+<li><p>Always use the @SuppressWarnings annotation on the smallest scope possible.</p></li>
+<li><p>Every time you use an @SuppressWarnings("unchecked") - annotation, add a comment saying why its safe to do so.</p></li>
+</ul>
+
+
+<h3>Item 25: Prefer lists to arrays</h3>
+
+<ul>
+<li><p>Arrays are covariant and reifiable. Generics are invariant and erased in run-time.</p></li>
+<li><p>Arrays enforce their type at runtime, generics enforce their type only at compile time.</p></li>
+<li><p>Generics enforce their type constraints only at compile time and discard (or erase) their element type information at runtime.</p></li>
+<li><p>Arrays and generics don't mix well since they have very different type rules.</p></li>
+</ul>
+
+
+<h3>Item 26: Favor generic types</h3>
+
+<h3>Item 27: Favor generic methods</h3>
+
+<h3>Item 28: Use bounded wildcards to increase API flexibility</h3>
+
+<h1>General Programming</h1>
+
+<hr />
+
+<h3>Item 45: Minimize the scope of local variables</h3>
+
+<ul>
+<li><p>The most powerful technique for minimizing the scope of a local variable is to declare it where it is first used.</p></li>
+<li><p>Prefer for loop to whie loops.</p></li>
+<li><p>Keep methods small and focused.</p></li>
+</ul>
+
+
+<h3>Item 46: Prefer for-each loops to traditional for loops</h3>
+
+<h3>Item 47: Know and use the libraries</h3>
+
+<h3>Item 48: Avoid float and double if exact answers are required</h3>
+
+<ul>
+<li>Use BigDecimal, it gives you full control over rounding.</li>
+</ul>
+
+
+<h3>Item 49: Prefer primitive types to boxed primitives</h3>
+
+<h3>Item 50: Avoid strings where other types are more appropriate</h3>
+
+</div>
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'geek4it'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+<div id="related">
+  <h2>Related Posts</h2>
+  <ul class="posts">
+    
+      <li><span>16 Mar 2014</span> &raquo; <a href="/2014/03/16/%E6%AF%95%E5%8A%A0%E7%B4%A2%E5%8E%9F%E6%9D%A5%E5%8F%AF%E4%BB%A5%E8%BF%99%E6%A0%B7%E7%9C%8B.html">Summary:毕加索原来可以这样看</a></li>
+    
+      <li><span>15 Mar 2014</span> &raquo; <a href="/2014/03/15/%E6%8B%89%E6%96%90%E5%B0%94%E5%8E%9F%E6%9D%A5%E5%8F%AF%E4%BB%A5%E8%BF%99%E6%A0%B7%E7%9C%8B.html">Summary:拉斐尔原来可以这样看</a></li>
+    
+      <li><span>09 Mar 2014</span> &raquo; <a href="/2014/03/09/The-Algorithm-Design-Manual.html">Summary:The Algorithm Design Manual</a></li>
+    
+  </ul>
+</div>
+
+  
+  <div class="footer">
+    <div class="contact">
+      <p>
+        <a href="http://geek4it.com/about.html">Geek4IT</a><br />
+        Cofounder of <a href="http://newborn-town.com/">New Born Town</a><br />
+        chunjianye@gmail.com
+      </p>
+    </div>
+    <div class="contact">
+      <p>
+        <a href="http://github.com/geek4it/">github.com/Geek4IT</a><br />
+        <a href="http://www.quora.com/ChunJian-Ye">quora.com/ChunJian Ye</a><br />
+        <a href="http://www.douban.com/people/63682992/">douban.com/Geek4IT</a>
+      </p>
+    </div>
+    
+  </div>
+</div>
+
+
+<!-- ClickTale Bottom part -->
+<div id="ClickTaleDiv" style="display: none;"></div>
+<script type="text/javascript">
+if(document.location.protocol!='https:')
+  document.write(unescape("%3Cscript%20src='http://s.clicktale.net/WRb.js'%20type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+if(typeof ClickTale=='function') ClickTale(206,0.3,"www03");
+</script>
+<!-- ClickTale end of Bottom part -->
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-6016902-1");
+pageTracker._trackPageview();
+</script>
+<!-- Google Analytics end -->
+
+</body>
+</html>
