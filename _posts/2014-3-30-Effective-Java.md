@@ -16,7 +16,7 @@ title: Summary:Effective Java(2nd Edition)
 ISBN: 0321356683 READ: 2014-03-30 RATING: 9/10
 
 
-I spent a week on this book,nice read：）,it gives you the best practices,every chapter focus on
+I spent two weeks on this book,nice read：）,it gives you the best practices,every chapter focus on
 different best pratice about java,if you have known the basic of java,you should definitly read this book.There are 
 a lot of advises how to make your code more correct and perfect.
 
@@ -278,6 +278,53 @@ annotation.
 
 ###Item 28: Use bounded wildcards to increase API flexibility
 
+#Enums and Annotations
+--------------
+
+###Item 30: Use enums instead of int constants.
+
+###Item 31:  Use instance fields instead of ordinals.
+
+###Item 32:  Use EnumSet instead of bit fields.
+
+###Item 33:  Use EnumMap instead of ordinal indexing.
+
+###Item 34:  Emulate extensible enums with interfaces.
+
+###Item 35:  Prefer annotations to naming patterns.
+
+###Item 36: Consistently use the override annotation.
+
+###Item 37:  Use marker interfaces to define types.
+
+#Methods
+--------------
+
+###Item 38: Check parameters for validity.
+
+###Item 39: Make defensive copies when needed.
+
+###Item 40: Design method signatures carefully.
+
+###Item 41:  Use overloading judiciously.
+
+###Item 42:  Use varargs judiciously.
+
+###Item 43: Return empty arrays or collections, not nulls.
+
+###Item 44: Write doc comments for all exposed API elements.
+
+* Use @param, @return and @throws tags.  You can use HTML tags in your comment.
+
+* Use @code instead of <code> because it eliminates the need to escape HTML metacharacters.
+
+* The first sentence of each doc comment becomes the summary description of the element. No two members or constructors should have the same summary description.
+
+* When documenting a generic type or method, be sure to document all type parameters.
+
+* When documenting an enum type, be sure to document the constants as well as the type and all public methods.
+
+* When documenting an annotation type, be sure to document any members as well as the type itself.
 
 #General Programming
 --------------
@@ -351,6 +398,72 @@ strings requires time quadratic in n use StringBuilder instead.
 ###Item 56: Adhere to generally accepted naming conventions
 
 See [Java Language Specification,Chapter 6. Names](http://docs.oracle.com/javase/specs/jls/se8/html/jls-6.html#jls-6.7)
+
+#Exceptions
+--------------
+
+###Item 57:  Use exceptions only for exceptional conditions.
+
+###Item 58: Use checked exceptions for recoverable conditions and runtime exceptions for programming errors.
+
+###Item 59: Avoid unnecessary use of checked exceptions.
+
+###Item 60: Favor the use of standard exceptions.
+
+* Use IllegalArgumentException when you are passed an argument whose value is inappropriate.  
+
+* Use IllegalStateException when you the caller attempted to use an object before it was properly initialized.
+
+* Use a NullPointerException when a caller passes null for a parameter for which null values are prohibited.  
+
+* Use IndexOutOfBoundsException on receiving an out-of-range value for a parameter representing an index into a sequence.
+
+* Use ConcurrentModificationException if an object designed for use b a single thread (or with external synchronization) is being concurrently modified.  
+
+* Use UnSupportedOperationException if an object does not support an attempted operation.
+
+###Item 61 Throw exceptions appropriate to the abstraction.
+
+###tem 62  Document all exceptions thrown by each method.
+
+###Item 63 Include failure-capture information in detail messages.
+
+###Item 64  Strive for failure atomicity.
+
+###Item 65  Don't ignore exceptions.
+
+
+#Concurrency
+--------------
+
+###Item 66:  Synchronize access to shared mutable data.
+
+###Item 67:  Avoid excessive synchronization.
+
+###Item 68:  Prefer executors and tasks to threads.
+
+###Item 69:  Prefer concurrency utilities to wait and notify.
+
+###Item 70:  Document thread safety.
+
+###Item 71:  Use lazy initialization judiciously.
+
+###Item 72:  Don't depend on the thread scheduler.
+
+###Item 73:  Avoid thread groups.
+
+#Serialization
+--------------
+
+###Item 74:  Implement Serializable judiciously.
+
+###Item 75:  Consider using a custom serialized form.
+
+###Item 76:  Write readObject methods defensively.
+
+###Item 77:  For instance control, prefer enum types to readResolve.
+
+###Item 78:  Consider serialization proxies instead of serialized instances.
 
 
 
