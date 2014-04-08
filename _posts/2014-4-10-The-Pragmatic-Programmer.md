@@ -15,3 +15,19 @@ title: Summary:The Pragmatic Programmer
 
 
 ISBN: 020161622X READ: 2014-04-10 RATING: */10
+
+###Care About Your Craft
+
+Why spend your life developing software unless you care about doing it well?
+
+###Think! About Your Work
+
+Turn off the autopilot and take control. Constantly critique and appraise your work.
+
+###Don’t Live with Broken Windows
+
+Fix bad designs, wrong decisions, and poor code when you see them.
+
+Invest Regularly in Your Knowledge Portfolio
+
+Make learning a habit.
