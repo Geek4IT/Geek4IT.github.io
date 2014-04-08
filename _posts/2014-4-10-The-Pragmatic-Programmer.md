@@ -1,7 +1,7 @@
 ---
 ---
 layout: post
-title: Summary:The Pragmatic Programmer: From Journeyman to Master 
+title: Summary:The Pragmatic Programmer
 ---
 
 {{ page.title }}
