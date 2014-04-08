@@ -16,6 +16,8 @@ title: Summary:The Pragmatic Programmer
 
 ISBN: 020161622X READ: 2014-04-10 RATING: */10
 
+This book about sfortware engineering and best pratices was first published in 1999.
+
 ###Care About Your Craft
 
 Why spend your life developing software unless you care about doing it well?
