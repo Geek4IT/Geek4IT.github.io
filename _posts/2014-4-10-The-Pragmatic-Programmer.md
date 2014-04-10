@@ -19,13 +19,13 @@ This book about sfortware engineering and best pratices was first published in 1
 
 Table of Contents
 
-1.A Pragmatic Philosophy
+#1.A Pragmatic Philosophy
 
 * The Cat Ate My Source Code
 
 * Software Entropy
 
-* Stone Soup and Boiled Frongs
+* Stone Soup and Boiled Frogs
 
 * Good Enough Software
 
@@ -154,3 +154,58 @@ Fix bad designs, wrong decisions, and poor code when you see them.
 Invest Regularly in Your Knowledge Portfolio
 
 Make learning a habit.
+
+
+###Tip 1: Care about your craft.
+
+###Tip 2: Think! about your work.
+
+###Tip 3: Provide options, don’t make lame excuses.
+
+###Tip 4: Don’t live with Broken Windows.
+
+Bugs lead to bugs.
+
+###Tip 5: Be a catalyst for change.
+
+Willing to change, and change the way others do things if it helps.
+
+###Tip 6: Remember the big picture.
+
+###Tip 7: Make quality a requirements issue.
+
+###Tip 8: Invest regularly in your knowledge portfolio.
+
+New knowledge brings new thinking.
+
+###Tip 9: Critically analyze what you read and hear.
+
+Not all info are valuable. Don’t get info overloaded.
+
+###Tip 10: It’s both what you say and the way you say it.
+
+Great programmer communicates well.
+
+###Tip 11: DRY—Don’t repeat yourself.
+
+###Tip 12:  Make it easy to reuse.
+
+###Tip 13: Eliminate effects between unrelated things.
+
+Complication comes with relationship.
+
+###Tip 14: There are no final decisions.
+
+###Tip 15: Use tracer bullets to find the target.
+
+###Tip 16: Prototype to learn.
+
+Small program to test is almost always good.
+
+###Tip 17: Program close to the problem domain.
+
+
+
+
+
+
