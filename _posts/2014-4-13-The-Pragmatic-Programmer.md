@@ -212,6 +212,28 @@ Prove your assumptions in the actual environment – with real data and boundary
 
 Great programmers produce software they’re pround of, and they’re responsible for the work they do, and they take credit. Sign the work!
 
+###How to Maintain Orthogonality
+
+> .Design independent, well-defined components.
+
+> .Keep your code decoupled.
+
+> .> Avoid global data.
+
+> .Refactor similar functions.
+
+
+###When to Refactor
+> .You discover a violation of the DRY principle.
+
+> .You find things that could be more orthogonal.
+
+> .Your knowledge improves.
+
+> .The requirements evolve.
+
+> .You need to improve performance.
+
 
 
 
