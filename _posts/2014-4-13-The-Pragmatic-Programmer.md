@@ -18,6 +18,7 @@ ISBN: 020161622X READ: 2014-04-13 RATING: 9/10
 I recently finished the Pragmatic Programmer,this book about sfortware engineering and best pratices was first published in 1999.The authors
 boiled down all the practical approaches that they've found to work in the real world into this one book.
 
+More detail:www.pragmaticprogrammer.com
 
 ###Tip 1: Care about your craft.
 
