@@ -224,6 +224,7 @@ Great programmers produce software they’re pround of, and they’re responsibl
 
 
 ###When to Refactor
+
 > .You discover a violation of the DRY principle.
 
 > .You find things that could be more orthogonal.
