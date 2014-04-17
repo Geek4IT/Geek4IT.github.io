@@ -31,9 +31,52 @@ var WRInitTime=(new Date()).getTime();
     <a class="extra" href="/">Home</a>
   </div>
   
-  <div id="home">
+  <head>
+  <title>Timeline | Basic demo</title>
+
+  <style type="text/css">
+    body, html {
+      font-family: sans-serif;
+    }
+  </style>
+
+  <script src="http://visjs.org/dist/vis.js"></script>
+  <link href="http://visjs.org/dist/vis.css" rel="stylesheet" type="text/css" />
+
+  <style type="text/css">
+    body, html {
+      font-family: sans-serif;
+    }
+  </style>
+  
+</head>
+<body>
+<div id="visualization"></div>
+
+<script type="text/javascript">
+  var container = document.getElementById('visualization');
+  var items = [
+    {id: 1, content: '拉斐尔原来可以这样看', start: '2014-03-15'},
+    {id: 2, content: '毕加索原来可以这样看', start: '2014-03-16'},
+    {id: 3, content: 'Effective Java', start: '2014-03-30'},
+    {id: 4, content: 'Ant', start: '2014-04-5'},
+    {id: 5, content: 'The Pragmatic Programmer', start: '2013-04-13'},
+    {id: 6, content: 'Rework', start: '2014-04-20'}
+  ];
+  var options = {};
+  var timeline = new vis.Timeline(container, items, options);
+</script>
+</body>
+
+<div id="home">
   <h1>Blog</h1>
   <ul class="posts">
+    
+      <li><span>20 Apr 2014</span> &raquo; <a href="/2014/04/20/Rework.html">Summary:Rework</a></li>
+    
+      <li><span>13 Apr 2014</span> &raquo; <a href="/2014/04/13/The-Pragmatic-Programmer.html">Summary:The Pragmatic Programmer</a></li>
+    
+      <li><span>05 Apr 2014</span> &raquo; <a href="/2014/04/05/Using-Ant-To-Build-Android-Applications-Automatically.html">Using Ant to build Android applications automatically</a></li>
     
       <li><span>30 Mar 2014</span> &raquo; <a href="/2014/03/30/Effective-Java.html">Summary:Effective Java(2nd Edition)</a></li>
     
@@ -69,6 +112,7 @@ var WRInitTime=(new Date()).getTime();
   <ul class="posts">
   	<li><span>05 Feb 2014 </span> &raquo; <a href="http://www.slideshare.net/chunjianye/ar-note">The introduction of ARNote（PDF/Slide Share）</a></li>
   	<li><span>May 2013 - ∞</span> &raquo; <a href="http://geek4it.com/books.html">Book House</a></li>
+  	<li><span>Apr 2014 - ∞</span> &raquo; <a href="http://geek4it.com/talks.html">Good Talks</a></li>
    </ul>
  
 </div>

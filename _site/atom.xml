@@ -4,13 +4,282 @@
  <title>Tom Preston-Werner</title>
  <link href="http://tom.preston-werner.com/atom.xml" rel="self"/>
  <link href="http://tom.preston-werner.com/"/>
- <updated>2014-03-30T10:24:40+08:00</updated>
+ <updated>2014-04-17T13:51:42+08:00</updated>
  <id>http://tom.preston-werner.com/</id>
  <author>
    <name>Tom Preston-Werner</name>
    <email>tom@mojombo.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Summary:Rework</title>
+   <link href="http://tom.preston-werner.com/2014/04/20/Rework.html"/>
+   <updated>2014-04-20T00:00:00+08:00</updated>
+   <id>http://tom.preston-werner.com/2014/04/20/Rework</id>
+   <content type="html">&lt;h1&gt;Summary:Rework&lt;/h1&gt;
+
+&lt;p class=&quot;meta&quot;&gt;20 April 2014 - Beijing&lt;/p&gt;
+
+
+&lt;p&gt;&lt;img src=&quot;http://ecx.images-amazon.com/images/I/419F9j3GqxL._SY344_BO1,204,203,200_.jpg&quot; width=&quot;200&quot; /&gt;&lt;/p&gt;
+
+&lt;h1&gt;&lt;a href=&quot;http://www.amazon.com/Rework-Jason-Fried/dp/0307463745/ref=sr_1_1?ie=UTF8&amp;amp;qid=1397450877&amp;amp;sr=8-1&amp;amp;keywords=rework&quot;&gt;Rework&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;ISBN: 0307463745 READ: 2014-04-20 RATING: 8/10&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://37signals.com/&quot;&gt;37 Signals&lt;/a&gt;’ Rework by Jason Fried and David Heinemeier Hansson would make you rethink something you known about the startup,enterprise,business.It gives you a bunch of advice from their experience running 37Signal,and it aims to rewrite the rules of succeeding in business with a diferrrent,fresh,down-to-earth approach.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Summary:The Pragmatic Programmer</title>
+   <link href="http://tom.preston-werner.com/2014/04/13/The-Pragmatic-Programmer.html"/>
+   <updated>2014-04-13T00:00:00+08:00</updated>
+   <id>http://tom.preston-werner.com/2014/04/13/The-Pragmatic-Programmer</id>
+   <content type="html">&lt;h1&gt;Summary:The Pragmatic Programmer&lt;/h1&gt;
+
+&lt;p class=&quot;meta&quot;&gt;13 April 2014 - Beijing&lt;/p&gt;
+
+
+&lt;p&gt;&lt;img src=&quot;http://ecx.images-amazon.com/images/I/41BKx1AxQWL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg&quot; width=&quot;200&quot; /&gt;&lt;/p&gt;
+
+&lt;h1&gt;&lt;a href=&quot;http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=sr_1_1?ie=UTF8&amp;amp;qid=1396931270&amp;amp;sr=8-1&amp;amp;keywords=the+pragmatic+programmer&quot;&gt;The Pragmatic Programmer: From Journeyman to Master&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;ISBN: 020161622X READ: 2014-04-13 RATING: 9/10&lt;/p&gt;
+
+&lt;p&gt;I recently finished the Pragmatic Programmer,this book about sfortware engineering and best pratices was first published in 1999.The authors
+boiled down all the practical approaches that they&#39;ve found to work in the real world into this one book.&lt;/p&gt;
+
+&lt;p&gt;More detail:www.pragmaticprogrammer.com&lt;/p&gt;
+
+&lt;h3&gt;Tip 1: Care about your craft.&lt;/h3&gt;
+
+&lt;p&gt;Why spend your life developing software unless you care about doing it well?&lt;/p&gt;
+
+&lt;p&gt;Programming is half art half engineering. Great programmers are craftsman. And they wrote software with heart.&lt;/p&gt;
+
+&lt;h3&gt;Tip 2: Think! about your work.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 3: Provide options, don’t make lame excuses.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 4: Don’t live with Broken Windows.&lt;/h3&gt;
+
+&lt;p&gt;Bugs lead to bugs.&lt;/p&gt;
+
+&lt;h3&gt;Tip 5: Be a catalyst for change.&lt;/h3&gt;
+
+&lt;p&gt;Willing to change, and change the way others do things if it helps.&lt;/p&gt;
+
+&lt;h3&gt;Tip 6: Remember the big picture.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 7: Make quality a requirements issue.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 8: Invest regularly in your knowledge portfolio.&lt;/h3&gt;
+
+&lt;p&gt;New knowledge brings new thinking.&lt;/p&gt;
+
+&lt;h3&gt;Tip 9: Critically analyze what you read and hear.&lt;/h3&gt;
+
+&lt;p&gt;Not all info are valuable. Don’t get info overloaded.&lt;/p&gt;
+
+&lt;h3&gt;Tip 10: It’s both what you say and the way you say it.&lt;/h3&gt;
+
+&lt;p&gt;Great programmer communicates well.&lt;/p&gt;
+
+&lt;h3&gt;Tip 11: DRY—Don’t repeat yourself.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 12:  Make it easy to reuse.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 13: Eliminate effects between unrelated things.&lt;/h3&gt;
+
+&lt;p&gt;Complication comes with relationship.&lt;/p&gt;
+
+&lt;h3&gt;Tip 14: There are no final decisions.&lt;/h3&gt;
+
+&lt;p&gt;No decision is cast in stone. Instead, consider each as being written in the sand at the beach, and plan for change.&lt;/p&gt;
+
+&lt;p&gt;Evolution theory applies to software development. We tried different approaches to get to the better one, and there’s always room to improve. That’s why software dev never ends.&lt;/p&gt;
+
+&lt;h3&gt;Tip 15: Use tracer bullets to find the target.&lt;/h3&gt;
+
+&lt;p&gt;Tracer bullets let you home in on your target by trying things and seeing how close they land.&lt;/p&gt;
+
+&lt;h3&gt;Tip 16: Prototype to learn.&lt;/h3&gt;
+
+&lt;p&gt;Small program to test is almost always good.&lt;/p&gt;
+
+&lt;h3&gt;Tip 17: Program close to the problem domain.&lt;/h3&gt;
+
+&lt;p&gt;Programming is the tool for problem solving. The key point is, solve the problem.&lt;/p&gt;
+
+&lt;p&gt;Design and code in your user&#39;s language.&lt;/p&gt;
+
+&lt;h3&gt;Tip 18: Estimate to avoid surprises.&lt;/h3&gt;
+
+&lt;p&gt;Estimate before you start. You&#39;ll spot potential problems up front.&lt;/p&gt;
+
+&lt;p&gt;Estimate helps, but it hardly get close.&lt;/p&gt;
+
+&lt;h3&gt;Tip 19: Iterate the schedule with the code.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 20: Keep Knowledge in Plain Text&lt;/h3&gt;
+
+&lt;p&gt;Plain text won&#39;t become obsolete. It helps leverage your work and simplifies debugging and testing.&lt;/p&gt;
+
+&lt;h3&gt;Tip 21: Use the power of command shell.&lt;/h3&gt;
+
+&lt;p&gt;Commands help in automation.&lt;/p&gt;
+
+&lt;p&gt;learn to use a command prompt is a great way to improve our performance bay reducing the time we expend searching for some files, we can filtrate our search by date, name, extension, and so on, even we can install or modify features in our OS that we can’t do in the GUI.&lt;/p&gt;
+
+&lt;h3&gt;Tip 22: Use a single editor well.&lt;/h3&gt;
+
+&lt;p&gt;The editor should be an extension of your hand; make sure your editor is configurable, extensible, and programmable.&lt;/p&gt;
+
+&lt;h3&gt;Tip 23: Always use source code control.&lt;/h3&gt;
+
+&lt;p&gt;Source code control is a time machine for your work – you can go back.&lt;/p&gt;
+
+&lt;h3&gt;Tip 24: Fix the problem, not the blame.&lt;/h3&gt;
+
+&lt;p&gt;It doesn&#39;t really matter whether the bug is your fault or someone else&#39;s – it is still your problem, and it still needs to be fixed.&lt;/p&gt;
+
+&lt;h3&gt;Tip 25: Don’t panic.&lt;/h3&gt;
+
+&lt;p&gt;Take a deep breath and THINK! about what could be causing the bug.&lt;/p&gt;
+
+&lt;h3&gt;Tip 26: “select” isn’t broken.&lt;/h3&gt;
+
+&lt;p&gt;It is rare to find a bug in the OS or the compiler, or even a third-party product or library. The bug is most likely in the application.&lt;/p&gt;
+
+&lt;h3&gt;Tip 27: Don’t assume it—prove it.&lt;/h3&gt;
+
+&lt;p&gt;Prove your assumptions in the actual environment – with real data and boundary conditions.&lt;/p&gt;
+
+&lt;h3&gt;Tip 28: Learn a text manipulation language.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 29: Write code that writes code.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 30: You can’t write perfect software.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 31: Design with contracts.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 32: Crash early.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 33: If it can’t happen, use assertions to ensure that it won’t.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 34: Use exceptions for exceptional problems.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 35: Finish what you start.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 36: Minimize coupling between modules.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 37: Configure, don’t integrate.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 38: Put abstractions in code details in metadata.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 39: Analyze workflow to improve concurrency.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 40: Design using services.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 41: Always design for concurrency.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 42: Separate views from models.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 43: Use blackboards to coordinate workflow.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 44: Don’t program by coincidence.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 45: Estimate the order of your algorithms.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 46: Test your estimates.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 47: Refactor early, refactor often.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 48: Design to test.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 49: Test your software, or your users will.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 50: Don’t use wizard code you don’t understand.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 51: Don’t gather for requirements—dig for them.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 52: Work with a user to think like a user.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 53: Abstractions live longer than details.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 54: Use a project glossary.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 55: Don’t think outside the box—find the box.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 56: Listen to nagging doubts—start when you’re ready.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 57: Some things are better done than described.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 58: Don’t be a slave to formal methods.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 59: Expensive too do not produce better designs.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 60: Organize around functionality, not job functions.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 61: Don’t use manual procedures.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 62: Test early. Test often. Test automatically.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 63: Coding aren’t done until all the tests run.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 64: Use saboteurs to test your testing.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 65: Test state coverage, not code coverage.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 66: Find bugs once.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 67: Treat English as just another programming language.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 68: Build documentation in, don’t bolt it on.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 69: Gently exceed your users’ expectations.&lt;/h3&gt;
+
+&lt;h3&gt;Tip 70: Sign your work.&lt;/h3&gt;
+
+&lt;p&gt;Great programmers produce software they’re pround of, and they’re responsible for the work they do, and they take credit. Sign the work!&lt;/p&gt;
+
+&lt;h3&gt;How to Maintain Orthogonality&lt;/h3&gt;
+
+&lt;blockquote&gt;&lt;p&gt;.Design independent, well-defined components.&lt;/p&gt;
+
+&lt;p&gt;.Keep your code decoupled.&lt;/p&gt;
+
+&lt;p&gt;.&gt; Avoid global data.&lt;/p&gt;
+
+&lt;p&gt;.Refactor similar functions.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;h3&gt;When to Refactor&lt;/h3&gt;
+
+&lt;blockquote&gt;&lt;p&gt;.You discover a violation of the DRY principle.&lt;/p&gt;
+
+&lt;p&gt;.You find things that could be more orthogonal.&lt;/p&gt;
+
+&lt;p&gt;.Your knowledge improves.&lt;/p&gt;
+
+&lt;p&gt;.The requirements evolve.&lt;/p&gt;
+
+&lt;p&gt;.You need to improve performance.&lt;/p&gt;&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Using Ant to build Android applications automatically</title>
+   <link href="http://tom.preston-werner.com/2014/04/05/Using-Ant-To-Build-Android-Applications-Automatically.html"/>
+   <updated>2014-04-05T00:00:00+08:00</updated>
+   <id>http://tom.preston-werner.com/2014/04/05/Using-Ant-To-Build-Android-Applications-Automatically</id>
+   <content type="html">&lt;h1&gt;Using Ant to build Android applications automatically&lt;/h1&gt;
+
+&lt;p class=&quot;meta&quot;&gt;5 April 2014 - Beijing&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Summary:Effective Java(2nd Edition)</title>
@@ -28,9 +297,31 @@
 
 &lt;p&gt;ISBN: 0321356683 READ: 2014-03-30 RATING: 9/10&lt;/p&gt;
 
-&lt;p&gt;I spent a week on this book,nice read：）,it gives you the best practices,every chapter focus on
+&lt;p&gt;I spent two weeks on this book,nice read：）,it gives you the best practices,every chapter focus on
 different best pratice about java,if you have known the basic of java,you should definitly read this book.There are
 a lot of advises how to make your code more correct and perfect.&lt;/p&gt;
+
+&lt;p&gt;The book is structured in 11 Chapters containing 78 items.There items covers these themes:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Creating and Destroying Objects&lt;/p&gt;
+
+&lt;p&gt;Methods Common to All Objects&lt;/p&gt;
+
+&lt;p&gt;Classes and Interfaces&lt;/p&gt;
+
+&lt;p&gt;Generics&lt;/p&gt;
+
+&lt;p&gt;Enum and Annitations&lt;/p&gt;
+
+&lt;p&gt;Methods&lt;/p&gt;
+
+&lt;p&gt;General Programming&lt;/p&gt;
+
+&lt;p&gt;Exceptions&lt;/p&gt;
+
+&lt;p&gt;Concurrency&lt;/p&gt;
+
+&lt;p&gt;Serialization&lt;/p&gt;&lt;/blockquote&gt;
 
 &lt;h1&gt;Creating and Destroying Objects&lt;/h1&gt;
 
@@ -265,15 +556,6 @@ protected.&lt;/p&gt;&lt;/li&gt;
 
 &lt;h3&gt;Item 23: Don’t use raw types in new code&lt;/h3&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;List&lt;String&gt; is a sub type of the List but not of the parameterized type List&lt;Object&gt;.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;If you want to use a generic type but don&#39;t know or care what the
-actual type parameter is you can use a question mark instead ex:Set&amp;lt;?&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Generic type information is erased at runtime&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;You must use raw types in class literals(List.class,String[].class, and int.classare all legal, but List&lt;String&gt;.class and List&amp;lt;?&gt;.class are not.)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-
 &lt;h3&gt;Item 24: Eliminate unchecked warnings&lt;/h3&gt;
 
 &lt;ul&gt;
@@ -302,6 +584,54 @@ annotation.&lt;/p&gt;&lt;/li&gt;
 
 &lt;h3&gt;Item 28: Use bounded wildcards to increase API flexibility&lt;/h3&gt;
 
+&lt;h1&gt;Enums and Annotations&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;h3&gt;Item 30: Use enums instead of int constants.&lt;/h3&gt;
+
+&lt;h3&gt;Item 31:  Use instance fields instead of ordinals.&lt;/h3&gt;
+
+&lt;h3&gt;Item 32:  Use EnumSet instead of bit fields.&lt;/h3&gt;
+
+&lt;h3&gt;Item 33:  Use EnumMap instead of ordinal indexing.&lt;/h3&gt;
+
+&lt;h3&gt;Item 34:  Emulate extensible enums with interfaces.&lt;/h3&gt;
+
+&lt;h3&gt;Item 35:  Prefer annotations to naming patterns.&lt;/h3&gt;
+
+&lt;h3&gt;Item 36: Consistently use the override annotation.&lt;/h3&gt;
+
+&lt;h3&gt;Item 37:  Use marker interfaces to define types.&lt;/h3&gt;
+
+&lt;h1&gt;Methods&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;h3&gt;Item 38: Check parameters for validity.&lt;/h3&gt;
+
+&lt;h3&gt;Item 39: Make defensive copies when needed.&lt;/h3&gt;
+
+&lt;h3&gt;Item 40: Design method signatures carefully.&lt;/h3&gt;
+
+&lt;h3&gt;Item 41:  Use overloading judiciously.&lt;/h3&gt;
+
+&lt;h3&gt;Item 42:  Use varargs judiciously.&lt;/h3&gt;
+
+&lt;h3&gt;Item 43: Return empty arrays or collections, not nulls.&lt;/h3&gt;
+
+&lt;h3&gt;Item 44: Write doc comments for all exposed API elements.&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Use @param, @return and @throws tags.  You can use HTML tags in your comment.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Use @code instead of &lt;code&gt; because it eliminates the need to escape HTML metacharacters.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;The first sentence of each doc comment becomes the summary description of the element. No two members or constructors should have the same summary description.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;When documenting a generic type or method, be sure to document all type parameters.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;When documenting an enum type, be sure to document the constants as well as the type and all public methods.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;When documenting an annotation type, be sure to document any members as well as the type itself.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
 &lt;h1&gt;General Programming&lt;/h1&gt;
 
 &lt;hr /&gt;
@@ -328,7 +658,125 @@ annotation.&lt;/p&gt;&lt;/li&gt;
 
 &lt;h3&gt;Item 49: Prefer primitive types to boxed primitives&lt;/h3&gt;
 
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Applying the == operator to boxed primitives is almost always wrong.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;There are three differences between the primitives and the boxed primitives.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;blockquote&gt;&lt;p&gt;1).Primitives only have their values, boxed primitives have their identities distinct from values.&lt;/p&gt;
+
+&lt;p&gt;2).Boxed primitive have only non-functional value - null.&lt;/p&gt;
+
+&lt;p&gt;3).Primitives are generally time and space efficient as compared to boxed primitives.&lt;/p&gt;&lt;/blockquote&gt;
+
 &lt;h3&gt;Item 50: Avoid strings where other types are more appropriate&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Using string concatenation operator repeatedly to concatenate n
+strings requires time quadratic in n use StringBuilder instead.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Strings are more cumbersome, less flexible, slower and error-prone than other types, if they are used inappropriately.  Do not use strings in place of primitive types, enums and aggregate types.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;Item 51: Beware the performance of string concatenation&lt;/h3&gt;
+
+&lt;h3&gt;Item 52: Refer to objects by their interfaces&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;If appropriate interface types exist, then parameters, return values, variables, and fields should all be declared using interface types.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;It is entirely appropriate to refer to an object by a class rather than aninterface if no appropriate interface exists.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;Item 53: Prefer interfaces to reflection&lt;/h3&gt;
+
+&lt;h3&gt;Item 54: Use native methods judiciously&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Objects should not be accessed reflectively in normal applications at runtime. Reflection uses verbose code and does not perform well.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;It is rarely advisable to use native methods for improved performance.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;Item 55: Optimize judiciously&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Strive to write good programs rather than fast ones.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Strive to avoid design decisions that would limit performance&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;It is a very bad idea to warp an API to achieve good performance.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;Item 56: Adhere to generally accepted naming conventions&lt;/h3&gt;
+
+&lt;p&gt;See &lt;a href=&quot;http://docs.oracle.com/javase/specs/jls/se8/html/jls-6.html#jls-6.7&quot;&gt;Java Language Specification,Chapter 6. Names&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1&gt;Exceptions&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;h3&gt;Item 57:  Use exceptions only for exceptional conditions.&lt;/h3&gt;
+
+&lt;h3&gt;Item 58: Use checked exceptions for recoverable conditions and runtime exceptions for programming errors.&lt;/h3&gt;
+
+&lt;h3&gt;Item 59: Avoid unnecessary use of checked exceptions.&lt;/h3&gt;
+
+&lt;h3&gt;Item 60: Favor the use of standard exceptions.&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Use IllegalArgumentException when you are passed an argument whose value is inappropriate.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Use IllegalStateException when you the caller attempted to use an object before it was properly initialized.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Use a NullPointerException when a caller passes null for a parameter for which null values are prohibited.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Use IndexOutOfBoundsException on receiving an out-of-range value for a parameter representing an index into a sequence.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Use ConcurrentModificationException if an object designed for use b a single thread (or with external synchronization) is being concurrently modified.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Use UnSupportedOperationException if an object does not support an attempted operation.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;Item 61 Throw exceptions appropriate to the abstraction.&lt;/h3&gt;
+
+&lt;h3&gt;tem 62  Document all exceptions thrown by each method.&lt;/h3&gt;
+
+&lt;h3&gt;Item 63 Include failure-capture information in detail messages.&lt;/h3&gt;
+
+&lt;h3&gt;Item 64  Strive for failure atomicity.&lt;/h3&gt;
+
+&lt;h3&gt;Item 65  Don&#39;t ignore exceptions.&lt;/h3&gt;
+
+&lt;h1&gt;Concurrency&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;h3&gt;Item 66:  Synchronize access to shared mutable data.&lt;/h3&gt;
+
+&lt;h3&gt;Item 67:  Avoid excessive synchronization.&lt;/h3&gt;
+
+&lt;h3&gt;Item 68:  Prefer executors and tasks to threads.&lt;/h3&gt;
+
+&lt;h3&gt;Item 69:  Prefer concurrency utilities to wait and notify.&lt;/h3&gt;
+
+&lt;h3&gt;Item 70:  Document thread safety.&lt;/h3&gt;
+
+&lt;h3&gt;Item 71:  Use lazy initialization judiciously.&lt;/h3&gt;
+
+&lt;h3&gt;Item 72:  Don&#39;t depend on the thread scheduler.&lt;/h3&gt;
+
+&lt;h3&gt;Item 73:  Avoid thread groups.&lt;/h3&gt;
+
+&lt;h1&gt;Serialization&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;h3&gt;Item 74:  Implement Serializable judiciously.&lt;/h3&gt;
+
+&lt;h3&gt;Item 75:  Consider using a custom serialized form.&lt;/h3&gt;
+
+&lt;h3&gt;Item 76:  Write readObject methods defensively.&lt;/h3&gt;
+
+&lt;h3&gt;Item 77:  For instance control, prefer enum types to readResolve.&lt;/h3&gt;
+
+&lt;h3&gt;Item 78:  Consider serialization proxies instead of serialized instances.&lt;/h3&gt;
 </content>
  </entry>
  
@@ -1258,6 +1706,250 @@ Please rate/review and check out other work by Solo Team. Enjoy!&lt;/li&gt;
 &lt;h2&gt;&lt;a href=&quot;http://www.amazon.com/The-Little-Book-Talent-Improving-ebook/dp/B007JC1RM2&quot;&gt;The Little Book of Talent: 52 Tips for Improving Your Skills&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;ASIN: B007JC1RM2 READ: 2014-02-10 RATING: 7/10&lt;/p&gt;
+
+&lt;p&gt;This book is a manual for building a faster brain and a better you.It is an easy-to-read and easy-to-use handbook of scientifically proven,field-tested methods to improve skills-your skills,your kids&#39; skills,your organization&#39;s skills-in movie,art,music,sports,and business.&lt;/p&gt;
+
+&lt;h1&gt;GETTING STARTED&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Stare,Steal,and Be Willing to Be Stupid.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;To create the spark,and to use the fuel for deep pratice.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;TIP #1 Stare at who you want to become&lt;/h3&gt;
+
+&lt;h3&gt;TIP #2 Spend fifteen minutes a day engraving on you brain&lt;/h3&gt;
+
+&lt;p&gt;The key to effective engraving is to create an intense connection: to watch and listen so closely that you can imagine the feeling of performing the skill. For physical skills, project yourself inside the performer’s body. Become aware of the movement, the rhythm; try to feel the interior shape of the moves. For mental skills, simulate the skill by re-creating the expert’s decision patterns. Chess players achieve this by replaying classic games, move by move; public speakers do it by regiving great speeches complete with original inflections; musicians cover their favorite songs; some writers I know achieve this effect by retyping passages verbatim from great works. (It sounds kind of Zen,but it works).&lt;/p&gt;
+
+&lt;h3&gt;TIP #3 Steal without apology&lt;/h3&gt;
+
+&lt;p&gt;All improvement is about absorbing and applying new information,and the best source of information is top performers.So steal it.&lt;/p&gt;
+
+&lt;h3&gt;TIP #4 Buy a notebook&lt;/h3&gt;
+
+&lt;h3&gt;TIP #5 Be willing to be stupid&lt;/h3&gt;
+
+&lt;h3&gt;TIP #6 Choose spartan over luxurious&lt;/h3&gt;
+
+&lt;h3&gt;TIP #7 Before you start,figure out if it&#39;s a hard skill or a soft skill&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;HARD, HIGH-PRECISION SKILLS are actions that are performed as correctly and consistently as possible, every time.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;SOFT, HIGH-FLEXIBILITY SKILLS , on the other hand, are those that have many paths to a good result, not just one.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;TIP #8 To build hard skills,work like a careful carpenter&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;To develop reliable hard skills, you need to connect the right wires in your brain. In this, it helps to be careful, slow, and keenly attuned to errors. To work like a careful carpenter.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;When you learn hard skills, be precise and measured.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Pay attention to errors, and fix them, particularly at the start.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;TIP #9 To build soft skills,play like a skateboarder&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;When you practice a soft skill, focus on making a high number of varied reps, and on getting clear feedback. Don’t worry too much about making errors—the important thing is to explore.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Soft skills are often more fun to practice, but they’re also tougher because they demand that you coach yourself.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;After each session ask yourself, What worked? What didn’t? And why?&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;TIP #10 Honor hard skills&lt;/h3&gt;
+
+&lt;p&gt;To picture your talent as a big oak tree—a massive, thick trunk of hard skills with a towering canopy of flexible soft skills up above. First build the trunk. Then work on the branches.&lt;/p&gt;
+
+&lt;h3&gt;TIP #11 Don&#39;t fall for the prodigy myth&lt;/h3&gt;
+
+&lt;p&gt;If you have early success,do your best to ignore the praise and keep pushing yourself to the edges of your ability,where improment happens.If you don&#39;t have early success,don&#39;t quit.Instead,treat your early efforts as experiments,not as verdicts.Remenber,this is a marathon,not a sprint.&lt;/p&gt;
+
+&lt;h3&gt;TIP #12 Five ways to pick a high-quality teacher or coach&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;1)Avoid Someone Who Reminds You of a Courteous Waiter&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;2)Seek Someone Who Scares You a Little&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;3)Seek Someone Who Gives Short,Clear Directions&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;4)Seek Someone who Loves Teaching Fundamentals&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;5)Other Things Being Equal,Pick the Older Person&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h1&gt;IMPROVING SKILLS&lt;/h1&gt;
+
+&lt;p&gt;Find the sweet spot,then reach.&lt;/p&gt;
+
+&lt;h3&gt;TIP #13 Find the sweet spot&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;There is a place, right on the edge of your ability, where you learn best and fastest.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Comfort Zone,Sweet Spot,Survival Zone&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;TIP #14 Take off your watch&lt;/h3&gt;
+
+&lt;p&gt;Deep practice is not measured in minutes or hours, but in the number of high-quality reaches and repetitions you make—basically, how many new connections you form in your brain.&lt;/p&gt;
+
+&lt;h3&gt;TIP #15 Break every move down into chunks&lt;/h3&gt;
+
+&lt;h3&gt;TIP #16 Each day,try build one perfect chunk&lt;/h3&gt;
+
+&lt;h3&gt;TIP #17 Embrace struggle&lt;/h3&gt;
+
+&lt;h3&gt;TIP #18 Choose five minutes a day over an hour a week&lt;/h3&gt;
+
+&lt;h3&gt;TIP #19 Don&#39;t do &quot;drills&quot;,instead,play small,addictive games&lt;/h3&gt;
+
+&lt;h3&gt;TIP #20 Pratice alone&lt;/h3&gt;
+
+&lt;h3&gt;TIP #21 Think in images&lt;/h3&gt;
+
+&lt;p&gt;Whenever possible, create a vivid image for each chunk you want to learn. The images don’t have to be elaborate, just easy to see and feel.&lt;/p&gt;
+
+&lt;h3&gt;TIP #22 Pay attention immediately after you make a mistake&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Mistakes are our guideposts for improvement.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Don’t wince, don’t close your eyes; look straight at them and see what really happened, and ask yourself what you can do next to improve.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;TIP #23 Visualize the wires of your brain forming new connections&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Every time you practice deeply—the wires of your brain get faster.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;TIP #24 Visual the wires of your brain getting faster&lt;/h3&gt;
+
+&lt;h3&gt;TIP #25 Shrink the space&lt;/h3&gt;
+
+&lt;h3&gt;TIP #26 Slow it down(Ever slow than you think)&lt;/h3&gt;
+
+&lt;h3&gt;TIP #27 Close your eyes&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Closing your eyes is a swift way to nudge you to the edges of your ability, to get you into your sweet spot.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;It sweeps away distraction and engages your other senses to provide new feedback.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;t helps you engrave the blueprint of a task on your brain by making even a familiar skill seem strange and fresh.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;TIP #28 MIME it&lt;/h3&gt;
+
+&lt;h3&gt;TIP #29 When you get it right,mark the spot&lt;/h3&gt;
+
+&lt;h3&gt;TIP #30 Take a nap&lt;/h3&gt;
+
+&lt;h3&gt;TIP #31 To learn a new move,exaggerate it&lt;/h3&gt;
+
+&lt;h3&gt;TIP #32 Make positive reaches&lt;/h3&gt;
+
+&lt;h3&gt;TIP #33 To learn from a book,close the book&lt;/h3&gt;
+
+&lt;h3&gt;TIP #34 Use the sandwich technique&lt;/h3&gt;
+
+&lt;p&gt;One way is to employ the sandwich technique. It goes like this:
+* 1. Make the correct move.
+* 2. Make the incorrect move.
+* 3. Make the correct move again.&lt;/p&gt;
+
+&lt;h3&gt;TIP #35 Use the 3x10 technique&lt;/h3&gt;
+
+&lt;p&gt;To learn something most effectively, practice it three times, with ten-minute breaks between each rep.&lt;/p&gt;
+
+&lt;h3&gt;TIP #36 Invent daily tests&lt;/h3&gt;
+
+&lt;h3&gt;TIP #37 To choose the best practice method,use the R.E.P.S gause&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;R: Reaching and Repeating&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;E: Engagement&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;P: Purposefulness&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;S: Strong, Speedy Feedback.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;TIP #38 Stop before you&#39;re exhausted&lt;/h3&gt;
+
+&lt;h3&gt;TIP #39 Practice immediately after performance&lt;/h3&gt;
+
+&lt;h3&gt;TIP #40 Just before sleep,watch s mental movie&lt;/h3&gt;
+
+&lt;h3&gt;TIP #41 End on a positive note&lt;/h3&gt;
+
+&lt;h3&gt;TIP #42 Six ways to be a better teacher or coach&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;1)Use the first few seconds to connect on an emotional level&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;2)Avoid giving long speeches,instead,deliver vivid chunks of information&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;3)Be allergic to mushy language&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;4)Make a scorecard for learning&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;5)Maximize &quot;Reachfulness&quot;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;6)Aim to create independent learners&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h1&gt;SUSRAINING PROGRESS&lt;/h1&gt;
+
+&lt;p&gt;Embrace repetition,cultive grit,and keep big goals secret&lt;/p&gt;
+
+&lt;h3&gt;TIP #43 Embrace repetition&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Repetition is the single most powerful lever we have to improve our skills, because it uses the built-in mechanism for making the wires of our brains faster and more accurate.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Embracing repetition means changing your mindset; instead of viewing it as a chore, view it as your most powerful tool.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;TIP #44 Have a blue-collar mindset&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;As the artist Chuck Close says, “Inspiration is for amateurs.”&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;TIP #45 For every hour of competition,spend five hours practicing&lt;/h3&gt;
+
+&lt;h3&gt;TIP #46 Don&#39;t waste time trying to break bad habits,instead,build new ones&lt;/h3&gt;
+
+&lt;h3&gt;TIP #47 To learn it more deeply,teach it&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;This works because when you communicate a skill to someone, you come to understand it more deeply yourself.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;TIP #48 Give a new skill a minimum of eight weeks&lt;/h3&gt;
+
+&lt;h3&gt;TIP #49 When you get stuck,make a shift&lt;/h3&gt;
+
+&lt;h3&gt;TIP #50 Cultivate your grit&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Grit is that mix of passion, perseverance, and self-discipline that keeps us moving forward in spite of obstacles.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;TIP #51 Keep your big goals secret&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Keeping our big goals to ourselves is one of the smartest goals we can set.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;TIP #52 Think like a gardener,work like a carpenter&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;We all want to improve our skills quickly—today, if not sooner. But the truth is, talent grows slowly. You would not criticize a seedling because it was not yet a tall oak tree; nor should you get upset because your skill circuitry is in the growth stage. Instead, build it with daily deep practice.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Think patiently, without judgment. Work steadily, strategically, knowing that each piece connects to a larger whole.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 </content>
  </entry>
  

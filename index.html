@@ -3,6 +3,42 @@ layout: default
 title: Geek4IT
 ---
 
+<head>
+  <title>Timeline | Basic demo</title>
+
+  <style type="text/css">
+    body, html {
+      font-family: sans-serif;
+    }
+  </style>
+
+  <script src="http://visjs.org/dist/vis.js"></script>
+  <link href="http://visjs.org/dist/vis.css" rel="stylesheet" type="text/css" />
+
+  <style type="text/css">
+    body, html {
+      font-family: sans-serif;
+    }
+  </style>
+  
+</head>
+<body>
+<div id="visualization"></div>
+
+<script type="text/javascript">
+  var container = document.getElementById('visualization');
+  var items = [
+    {id: 1, content: '拉斐尔原来可以这样看', start: '2014-03-15'},
+    {id: 2, content: '毕加索原来可以这样看', start: '2014-03-16'},
+    {id: 3, content: 'Effective Java', start: '2014-03-30'},
+    {id: 4, content: 'Ant', start: '2014-04-5'},
+    {id: 5, content: 'The Pragmatic Programmer', start: '2014-04-13'},
+    {id: 6, content: 'Rework', start: '2014-04-20'}
+  ];
+  var options = {};
+  var timeline = new vis.Timeline(container, items, options);
+</script>
+</body>
 
 <div id="home">
   <h1>Blog</h1>

@@ -43,9 +43,31 @@ var WRInitTime=(new Date()).getTime();
 
 <p>ISBN: 0321356683 READ: 2014-03-30 RATING: 9/10</p>
 
-<p>I spent a week on this book,nice read：）,it gives you the best practices,every chapter focus on
+<p>I spent two weeks on this book,nice read：）,it gives you the best practices,every chapter focus on
 different best pratice about java,if you have known the basic of java,you should definitly read this book.There are
 a lot of advises how to make your code more correct and perfect.</p>
+
+<p>The book is structured in 11 Chapters containing 78 items.There items covers these themes:</p>
+
+<blockquote><p>Creating and Destroying Objects</p>
+
+<p>Methods Common to All Objects</p>
+
+<p>Classes and Interfaces</p>
+
+<p>Generics</p>
+
+<p>Enum and Annitations</p>
+
+<p>Methods</p>
+
+<p>General Programming</p>
+
+<p>Exceptions</p>
+
+<p>Concurrency</p>
+
+<p>Serialization</p></blockquote>
 
 <h1>Creating and Destroying Objects</h1>
 
@@ -280,15 +302,6 @@ protected.</p></li>
 
 <h3>Item 23: Don’t use raw types in new code</h3>
 
-<ul>
-<li><p>List<String> is a sub type of the List but not of the parameterized type List<Object>.</p></li>
-<li><p>If you want to use a generic type but don't know or care what the
-actual type parameter is you can use a question mark instead ex:Set&lt;?></p></li>
-<li><p>Generic type information is erased at runtime</p></li>
-<li><p>You must use raw types in class literals(List.class,String[].class, and int.classare all legal, but List<String>.class and List&lt;?>.class are not.)</p></li>
-</ul>
-
-
 <h3>Item 24: Eliminate unchecked warnings</h3>
 
 <ul>
@@ -317,6 +330,54 @@ annotation.</p></li>
 
 <h3>Item 28: Use bounded wildcards to increase API flexibility</h3>
 
+<h1>Enums and Annotations</h1>
+
+<hr />
+
+<h3>Item 30: Use enums instead of int constants.</h3>
+
+<h3>Item 31:  Use instance fields instead of ordinals.</h3>
+
+<h3>Item 32:  Use EnumSet instead of bit fields.</h3>
+
+<h3>Item 33:  Use EnumMap instead of ordinal indexing.</h3>
+
+<h3>Item 34:  Emulate extensible enums with interfaces.</h3>
+
+<h3>Item 35:  Prefer annotations to naming patterns.</h3>
+
+<h3>Item 36: Consistently use the override annotation.</h3>
+
+<h3>Item 37:  Use marker interfaces to define types.</h3>
+
+<h1>Methods</h1>
+
+<hr />
+
+<h3>Item 38: Check parameters for validity.</h3>
+
+<h3>Item 39: Make defensive copies when needed.</h3>
+
+<h3>Item 40: Design method signatures carefully.</h3>
+
+<h3>Item 41:  Use overloading judiciously.</h3>
+
+<h3>Item 42:  Use varargs judiciously.</h3>
+
+<h3>Item 43: Return empty arrays or collections, not nulls.</h3>
+
+<h3>Item 44: Write doc comments for all exposed API elements.</h3>
+
+<ul>
+<li><p>Use @param, @return and @throws tags.  You can use HTML tags in your comment.</p></li>
+<li><p>Use @code instead of <code> because it eliminates the need to escape HTML metacharacters.</p></li>
+<li><p>The first sentence of each doc comment becomes the summary description of the element. No two members or constructors should have the same summary description.</p></li>
+<li><p>When documenting a generic type or method, be sure to document all type parameters.</p></li>
+<li><p>When documenting an enum type, be sure to document the constants as well as the type and all public methods.</p></li>
+<li><p>When documenting an annotation type, be sure to document any members as well as the type itself.</p></li>
+</ul>
+
+
 <h1>General Programming</h1>
 
 <hr />
@@ -343,7 +404,125 @@ annotation.</p></li>
 
 <h3>Item 49: Prefer primitive types to boxed primitives</h3>
 
+<ul>
+<li><p>Applying the == operator to boxed primitives is almost always wrong.</p></li>
+<li><p>There are three differences between the primitives and the boxed primitives.</p></li>
+</ul>
+
+
+<blockquote><p>1).Primitives only have their values, boxed primitives have their identities distinct from values.</p>
+
+<p>2).Boxed primitive have only non-functional value - null.</p>
+
+<p>3).Primitives are generally time and space efficient as compared to boxed primitives.</p></blockquote>
+
 <h3>Item 50: Avoid strings where other types are more appropriate</h3>
+
+<ul>
+<li><p>Using string concatenation operator repeatedly to concatenate n
+strings requires time quadratic in n use StringBuilder instead.</p></li>
+<li><p>Strings are more cumbersome, less flexible, slower and error-prone than other types, if they are used inappropriately.  Do not use strings in place of primitive types, enums and aggregate types.</p></li>
+</ul>
+
+
+<h3>Item 51: Beware the performance of string concatenation</h3>
+
+<h3>Item 52: Refer to objects by their interfaces</h3>
+
+<ul>
+<li><p>If appropriate interface types exist, then parameters, return values, variables, and fields should all be declared using interface types.</p></li>
+<li><p>It is entirely appropriate to refer to an object by a class rather than aninterface if no appropriate interface exists.</p></li>
+</ul>
+
+
+<h3>Item 53: Prefer interfaces to reflection</h3>
+
+<h3>Item 54: Use native methods judiciously</h3>
+
+<ul>
+<li><p>Objects should not be accessed reflectively in normal applications at runtime. Reflection uses verbose code and does not perform well.</p></li>
+<li><p>It is rarely advisable to use native methods for improved performance.</p></li>
+</ul>
+
+
+<h3>Item 55: Optimize judiciously</h3>
+
+<ul>
+<li><p>Strive to write good programs rather than fast ones.</p></li>
+<li><p>Strive to avoid design decisions that would limit performance</p></li>
+<li><p>It is a very bad idea to warp an API to achieve good performance.</p></li>
+</ul>
+
+
+<h3>Item 56: Adhere to generally accepted naming conventions</h3>
+
+<p>See <a href="http://docs.oracle.com/javase/specs/jls/se8/html/jls-6.html#jls-6.7">Java Language Specification,Chapter 6. Names</a></p>
+
+<h1>Exceptions</h1>
+
+<hr />
+
+<h3>Item 57:  Use exceptions only for exceptional conditions.</h3>
+
+<h3>Item 58: Use checked exceptions for recoverable conditions and runtime exceptions for programming errors.</h3>
+
+<h3>Item 59: Avoid unnecessary use of checked exceptions.</h3>
+
+<h3>Item 60: Favor the use of standard exceptions.</h3>
+
+<ul>
+<li><p>Use IllegalArgumentException when you are passed an argument whose value is inappropriate.</p></li>
+<li><p>Use IllegalStateException when you the caller attempted to use an object before it was properly initialized.</p></li>
+<li><p>Use a NullPointerException when a caller passes null for a parameter for which null values are prohibited.</p></li>
+<li><p>Use IndexOutOfBoundsException on receiving an out-of-range value for a parameter representing an index into a sequence.</p></li>
+<li><p>Use ConcurrentModificationException if an object designed for use b a single thread (or with external synchronization) is being concurrently modified.</p></li>
+<li><p>Use UnSupportedOperationException if an object does not support an attempted operation.</p></li>
+</ul>
+
+
+<h3>Item 61 Throw exceptions appropriate to the abstraction.</h3>
+
+<h3>tem 62  Document all exceptions thrown by each method.</h3>
+
+<h3>Item 63 Include failure-capture information in detail messages.</h3>
+
+<h3>Item 64  Strive for failure atomicity.</h3>
+
+<h3>Item 65  Don't ignore exceptions.</h3>
+
+<h1>Concurrency</h1>
+
+<hr />
+
+<h3>Item 66:  Synchronize access to shared mutable data.</h3>
+
+<h3>Item 67:  Avoid excessive synchronization.</h3>
+
+<h3>Item 68:  Prefer executors and tasks to threads.</h3>
+
+<h3>Item 69:  Prefer concurrency utilities to wait and notify.</h3>
+
+<h3>Item 70:  Document thread safety.</h3>
+
+<h3>Item 71:  Use lazy initialization judiciously.</h3>
+
+<h3>Item 72:  Don't depend on the thread scheduler.</h3>
+
+<h3>Item 73:  Avoid thread groups.</h3>
+
+<h1>Serialization</h1>
+
+<hr />
+
+<h3>Item 74:  Implement Serializable judiciously.</h3>
+
+<h3>Item 75:  Consider using a custom serialized form.</h3>
+
+<h3>Item 76:  Write readObject methods defensively.</h3>
+
+<h3>Item 77:  For instance control, prefer enum types to readResolve.</h3>
+
+<h3>Item 78:  Consider serialization proxies instead of serialized instances.</h3>
 
 </div>
 
@@ -367,11 +546,11 @@ annotation.</p></li>
   <h2>Related Posts</h2>
   <ul class="posts">
     
-      <li><span>16 Mar 2014</span> &raquo; <a href="/2014/03/16/%E6%AF%95%E5%8A%A0%E7%B4%A2%E5%8E%9F%E6%9D%A5%E5%8F%AF%E4%BB%A5%E8%BF%99%E6%A0%B7%E7%9C%8B.html">Summary:毕加索原来可以这样看</a></li>
+      <li><span>20 Apr 2014</span> &raquo; <a href="/2014/04/20/Rework.html">Summary:Rework</a></li>
     
-      <li><span>15 Mar 2014</span> &raquo; <a href="/2014/03/15/%E6%8B%89%E6%96%90%E5%B0%94%E5%8E%9F%E6%9D%A5%E5%8F%AF%E4%BB%A5%E8%BF%99%E6%A0%B7%E7%9C%8B.html">Summary:拉斐尔原来可以这样看</a></li>
+      <li><span>13 Apr 2014</span> &raquo; <a href="/2014/04/13/The-Pragmatic-Programmer.html">Summary:The Pragmatic Programmer</a></li>
     
-      <li><span>09 Mar 2014</span> &raquo; <a href="/2014/03/09/The-Algorithm-Design-Manual.html">Summary:The Algorithm Design Manual</a></li>
+      <li><span>05 Apr 2014</span> &raquo; <a href="/2014/04/05/Using-Ant-To-Build-Android-Applications-Automatically.html">Using Ant to build Android applications automatically</a></li>
     
   </ul>
 </div>
