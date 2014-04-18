@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Summary:Design Pattern: Elements of Reusable Object-Oriented Software
+title: Summary:Design Pattern
 ---
 
 {{ page.title }}
