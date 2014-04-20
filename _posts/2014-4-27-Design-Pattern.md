@@ -15,10 +15,47 @@ title: Summary:Design Pattern
 
 ISBN: 0201633612 READ: 2014-04-27 RATING: */10
 
+In this book,the GOF(Gang Of Four) depicts design patterns as "description of communicating objects and classes that are customized to solve a general design problem in a particular context".  
+
 ###What Is a Design Pattern?
+
+A "Pattern" is a named,well-understood solution to a common problem in the special context.
+
 
 “Each pattern describes a problem which occurs over and over again in our environment, and then
 describes the core of the solution to that problem,in such a way that you can use this solution a million times over, without ever doing the same thing twice.” -Christopher Alexander
+
+Each pattern is a three-part rule, which expresses a relation between a certain context, a problem, and a solution. 
+
+###Describing Design Patterns
+
+> .Name and Classification
+
+> .Intent
+
+> .Also Known As
+
+> .Motivation
+
+> .Applicability
+
+> .Structure
+
+> .Participants 
+
+> .Collaborations 
+
+> .Consequences 
+
+> .Implementation 
+
+> .Sample Code and Usage
+
+> .Known Uses
+
+> . Related Patterns
+
+
 
 ###A pattern has four essential elements:
 
