@@ -46,7 +46,6 @@ Design patterns are descriptions of communicating objects and classes that are c
 - Related Patterns
 
 
-
 ### A pattern has four essential elements:
 
 - The pattern name that we use to describe a design problem,
