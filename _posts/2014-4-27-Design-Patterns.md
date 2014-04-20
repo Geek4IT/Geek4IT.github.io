@@ -16,7 +16,7 @@ title: Summary:Design Patterns
 
 ISBN: 0201633612 READ: 2014-04-27 RATING: */10
 
-In this book,the GOF(Gang Of Four) depicts design patterns as "description of communicating objects and classes that are customized to solve a general design problem in a particular context".  
+This book is written in 1996 by the GOF(Gang Of Four) literally started the whole pattern movement.This book depicts design patterns as "description of communicating objects and classes that are customized to solve a general design problem in a particular context".  
 
 ### What Is a Design Pattern?
 
@@ -73,4 +73,35 @@ Design patterns are descriptions of communicating objects and classes that are c
 
 	These design patterns are specifically concerned with communication between objects.
 
+### Creational Patterns
 
+- Abstract Factory
+- Builder
+- Factory Method
+- Prototype 
+- Singleton
+
+
+###	Structural Patterns
+
+- Adapter 
+- Bridge
+- Composite
+- Decorator
+- Facade
+- Flyweight
+- Proxy
+
+### Behaviour Patterns
+
+- Chain of Responsibility
+- Command
+- Interpreter
+- Iterator
+- Mediator
+- Memento
+- Observer
+- State
+- Strategy
+- Template Method
+- Visitor
