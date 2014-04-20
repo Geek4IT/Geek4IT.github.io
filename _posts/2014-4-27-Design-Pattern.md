@@ -14,3 +14,22 @@ title: Summary:Design Pattern
 
 
 ISBN: 0201633612 READ: 2014-04-27 RATING: */10
+
+###What Is a Design Pattern?
+
+“Each pattern describes a problem which occurs over and over again in our environment, and then
+describes the core of the solution to that problem,in such a way that you can use this solution a million times over, without ever doing the same thing twice.” -Christopher Alexander
+
+###A pattern has four essential elements:
+
+> .The pattern name that we use to describe a design problem,
+
+> .The problem that describes when to apply the pattern,
+
+> .The solution that describes the elements that make up the design, and
+
+> .The consequences that are the results and trade-offs of applying the pattern.
+
+###Design Patterns Are Not About Design
+
+Design patterns are descriptions of communicating objects and classes that are customized to solve a general design problem in a particular context.
