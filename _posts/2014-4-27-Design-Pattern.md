@@ -27,6 +27,8 @@ describes the core of the solution to that problem,in such a way that you can us
 
 Each pattern is a three-part rule, which expresses a relation between a certain context, a problem, and a solution. 
 
+Design patterns are descriptions of communicating objects and classes that are customized to solve a general design problem in a particular context.
+
 ###Describing Design Patterns
 
 > .Name and Classification
@@ -84,9 +86,3 @@ Each pattern is a three-part rule, which expresses a relation between a certain 
 	These design patterns are specifically concerned with communication between objects.
 
 
-
-
-
-###Design Patterns Are Not About Design
-
-Design patterns are descriptions of communicating objects and classes that are customized to solve a general design problem in a particular context.
