@@ -60,16 +60,16 @@ Design patterns are descriptions of communicating objects and classes that are c
 
 ### Types of Design Pattern
 
-> .Creational Patterns
+- Creational Patterns
 
 	These design patterns provides way to create objects while hiding the creation logic, rather than instantiating objects directly using new opreator. This gives program more flexibility in deciding which objects need to be created for a given use case.
 
 
-> .Structural Patterns
+- Structural Patterns
 	
 	These design patterns concern class and object composition. Concept of inheritance is used to compose interfaces and define ways to compose objects to obtain new functionalities.
 
-> .Behavioral Patterns
+- Behavioral Patterns
 
 	These design patterns are specifically concerned with communication between objects.
 
