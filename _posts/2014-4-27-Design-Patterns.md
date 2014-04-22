@@ -104,3 +104,7 @@ Design patterns are descriptions of communicating objects and classes that are c
 - Strategy
 - Template Method
 - Visitor
+
+
+
+
