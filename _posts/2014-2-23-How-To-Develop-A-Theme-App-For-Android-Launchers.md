@@ -60,3 +60,7 @@ For you guys,If you are a designer,I will guide you how to turn your designed ic
 
 __Steps to build your favorite theme__
 --------
+
+
+[Solo Theme Template In Github](https://github.com/Geek4IT/SoloTheme_Template)
+
