@@ -123,7 +123,11 @@ Design patterns are descriptions of communicating objects and classes that are c
 	Encapsulate a request as an object, thereby letting you parameterizeclients with different requests, queue or log requests, and supportundoable operations.
 
 - Interpreter
+ 
 - Iterator
+
+	Provide a way to access the elements of an aggregate object sequentially without exposing its underlying representation.
+
 - Mediator
 - Memento
 - Observer
