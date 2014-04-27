@@ -84,17 +84,44 @@ Design patterns are descriptions of communicating objects and classes that are c
 ###	Structural Patterns
 
 - Adapter 
+
+	Convert the interface of a class into another interface clients expect. Adapter lets classes work together that couldn't otherwise because of incompatible interfaces.
+
 - Bridge
+	
+	Decouple an abstraction from its implementation so that the two can vary independently.
+	
 - Composite
+	
+	Compose objects into tree structures to represent part-whole hierarchies. Composite lets clients treat individual objects and compositions of objects uniformly.
+	
 - Decorator
+
+	Attach additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality.
+	
 - Facade
+
+	Provide a unified interface to a set of interfaces in a subsystem. Facade defines a higher-level interface that makes the subsystem easier to use.
+
 - Flyweight
+
+	Use sharing to support large numbers of fine-grained objects efficiently.
+
 - Proxy
+	
+	Provide a surrogate or placeholder for another object to control access to it.
 
 ### Behaviour Patterns
 
 - Chain of Responsibility
+
+	Avoid coupling the sender of a request to its receiver by giving morethan one object a chance to handle the request. Chain the receivingobjects and pass the request along the chain until an objecthandles it.
+	
+
 - Command
+
+	Encapsulate a request as an object, thereby letting you parameterizeclients with different requests, queue or log requests, and supportundoable operations.
+
 - Interpreter
 - Iterator
 - Mediator
