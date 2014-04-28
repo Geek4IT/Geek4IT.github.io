@@ -141,4 +141,13 @@ Design patterns are descriptions of communicating objects and classes that are c
 
 
 
+###Userful Resources
+- [Design Patterns Card](file:///Users/Geek4IT/EBooks/CS/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/Cheat%20Sheet/designpatternscard.pdf)
+- [.NET Design Patterns](http://www.dofactory.com/Patterns/Patterns.aspx)
+
+###Statement
+These pics come from [Mcdonaldland' Design Patterns Card](http://www.mcdonaldland.info/files/designpatterns/)
+
+
+
 
