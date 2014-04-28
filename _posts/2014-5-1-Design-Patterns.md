@@ -6,14 +6,14 @@ title: Summary:Design Patterns
 {{ page.title }}
 ================
 
-<p class="meta">27 April 2014 - Beijing</p>
+<p class="meta">1 May 2014 - Beijing</p>
  
 <img src="http://ecx.images-amazon.com/images/I/51szD9HC9pL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg" width="200" />
 
 [Design Patterns: Elements of Reusable Object-Oriented Software](http://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_1?ie=UTF8&qid=1397993114&sr=8-1&keywords=design+pattern)
 
 
-ISBN: 0201633612 READ: 2014-04-27 RATING: */10
+ISBN: 0201633612 READ: 2014-05-1 RATING: */10
 
 This book is written in 1996 by the GOF(Gang Of Four) literally started the whole pattern movement.This book depicts design patterns as "description of communicating objects and classes that are customized to solve a general design problem in a particular context".  
 
