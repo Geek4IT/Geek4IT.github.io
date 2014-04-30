@@ -75,8 +75,19 @@ Design patterns are descriptions of communicating objects and classes that are c
 ### Creational Patterns
 
 - Abstract Factory
+
+	Provide an interface for creating families of related or dependent objects without specifying their concrete classes.
+
+	<img src="/images/designpatterns/AbstractFactory.png" width="400" />
+
 - Builder
+
+	Separate the construction of a complex object from its representation so that the same construction process can create different representations.
+
 - Factory Method
+
+	Define an interface for creating an object, but let subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses.
+	
 - Prototype 
 - Singleton
 
@@ -86,6 +97,8 @@ Design patterns are descriptions of communicating objects and classes that are c
 - Adapter 
 
 	Convert the interface of a class into another interface clients expect. Adapter lets classes work together that couldn't otherwise because of incompatible interfaces.
+
+	<img src="/images/designpatterns/Adapter.png" width="400" />
 
 - Bridge
 	
@@ -118,9 +131,13 @@ Design patterns are descriptions of communicating objects and classes that are c
 	Avoid coupling the sender of a request to its receiver by giving morethan one object a chance to handle the request. Chain the receivingobjects and pass the request along the chain until an objecthandles it.
 	
 
+	<img src="/images/designpatterns/ChainOfRespinsibility.png" width="400" />
+
 - Command
 
 	Encapsulate a request as an object, thereby letting you parameterizeclients with different requests, queue or log requests, and supportundoable operations.
+
+	<img src="/images/designpatterns/Command.png" width="400" />
 
 - Interpreter
  
@@ -128,12 +145,20 @@ Design patterns are descriptions of communicating objects and classes that are c
 
 	Provide a way to access the elements of an aggregate object sequentially without exposing its underlying representation.
 
+	<img src="/images/designpatterns/Iterator.png" width="400" />
+
 - Mediator
 
 	Define an object that encapsulates how a set of objects interact.Mediator promotes loose coupling by keeping objects from referring toeach other explicitly, and it lets you vary their interactionindependently.
 
 - Memento
 - Observer
+
+	Define a one-to-many dependency between objects so that when oneobject changes state, all its dependents are notified and updatedautomatically.
+
+	<img src="/images/designpatterns/Observer.png" width="400" />
+	
+
 - State
 - Strategy
 - Template Method
@@ -146,7 +171,7 @@ Design patterns are descriptions of communicating objects and classes that are c
 - [.NET Design Patterns](http://www.dofactory.com/Patterns/Patterns.aspx)
 
 ###Statement
-These pics come from [Mcdonaldland' Design Patterns Card](http://www.mcdonaldland.info/files/designpatterns/)
+These ablove pics come from [Mcdonaldland' Design Patterns Card](http://www.mcdonaldland.info/files/designpatterns/designpatternscard.pdf)
 
 
 
