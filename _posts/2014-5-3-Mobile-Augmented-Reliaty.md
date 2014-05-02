@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mobile Augmented Reliaty
+title: Mobile Augmented Reality
 ---
 
 {{ page.title }}
