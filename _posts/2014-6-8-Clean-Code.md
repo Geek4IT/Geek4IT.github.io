@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Clean Code:A Handbook Of Agile Software Craftsmanship
+title: Summary:Clean Code:A Handbook Of Agile Software Craftsmanship
 ---
 
 {{ page.title }}
