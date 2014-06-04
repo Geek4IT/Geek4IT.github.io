@@ -14,6 +14,9 @@ title: Summary:Clean Code:A Handbook Of Agile Software Craftsmanship
 
 ISBN: 0132350882 READ: 2014-06-8 RATING: */10
 
+This is a book talking about writing clean,readable,functional and best practice pattren codes.
+
+
 ###Chapter 1: Clean code
 - Straightforward to make it hard for bugs to hide
 - First make it work -> Make it clean and work
@@ -35,8 +38,13 @@ ISBN: 0132350882 READ: 2014-06-8 RATING: */10
 - Class Names should usually be Nouns.
 - Method names should usually be Verbs.
 
+
 ###Chapter 3: Functions
 - Do One Thing
 - Have No Side Effects
 - Don't Repeat Yourself
+
+###Chapter 4: Comments
+Comments are not like Schindler’s List. They are not “pure good.” Indeed, comments are, at best, a necessary evil. If our programming languages were expressive enough, or if we had the talent to subtly wield those languages to express our intent, we would not need
+comments very much—perhaps not at all.
 
