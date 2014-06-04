@@ -13,3 +13,15 @@ title: Summary:Clean Code:A Handbook Of Agile Software Craftsmanship
 
 
 ISBN: 0132350882 READ: 2014-06-8 RATING: */10
+
+###Chapter 2: Meaningful Names
+- Use Intention-Revealing Names
+- Use Pronounceable Names
+- Don't Be Cute
+- Pick One Word per Concept
+
+###Chapter 3: Functions
+- Do One Thing
+- Have No Side Effects
+- Don't Repeat Yourself
+
