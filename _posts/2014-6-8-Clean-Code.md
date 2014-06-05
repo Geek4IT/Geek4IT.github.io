@@ -50,5 +50,43 @@ comments very much—perhaps not at all.
 
 - It is just plain silly to have a rule that says that every function must have a javadoc, or every variable must have a comment. Comments like this just clutter up the code, propa- gate lies, and lend to general confusion and disorganization.
 
+- It is a pity when a comment needs its own explanation.
+
+#####Good Comments
+- Legal Comments
+- Informative Comments
+- Explanation of Intent
+- Clarification
+- Warning of Consequences
+- TODO Comments
+- Amplification
+- Javadocs in Public APIs
+
+####Bad Comments
+- Mumbling
+- Redundant Comments
+- Misleading Comments
+- Mandated Comments
+- Journal Comments
+- Noise Comments
+- Scary Noise
+- Don’t Use a Comment When You Can Use a Function or a Variable
+- Position Markers
+<!--lang=java -->
+	// Actions //////////////////////////////////
+
+- Closing Brace Comments
+- Attributions and Bylines
+<!--lang=java -->
+		/* Added by Rick */
+- Commented-Out Code
+- HTML Comments
+- Nonlocal Information
+- Too Much Information
+- Inobvious Connection
+- Function Headers
+- Javadocs in Nonpublic Code
+
+
 
 
