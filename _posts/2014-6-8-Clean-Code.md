@@ -82,6 +82,24 @@ comments very much—perhaps not at all.
 - Function Headers
 - Javadocs in Nonpublic Code
 
+###Chapter 5: Formatting
+－ Code formatting is about communication, and communication is the professional developer’s first order of business.
+
+####Vertical Formatting
+- The Newspaper Metaphor
+- Vertical Openness Between Concepts
+- Vertical Density
+- Vertical Distance
+- Conceptual Affinity
+- Vertical Ordering
+
+####Horizontal Formatting
+- Horizontal Openness and Density
+- Horizontal Alignment
+- Indentation
+- Dummy Scopes
+
+
 
 
 
