@@ -114,6 +114,7 @@ comments very much—perhaps not at all.
 - Objects expose behavior and hide data.
 - Data structures expose data and have no significant behavior.
 
+###Chapter 7: Error Handling
 
 
 
