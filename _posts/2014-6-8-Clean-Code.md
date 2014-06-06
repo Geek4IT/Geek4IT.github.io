@@ -108,5 +108,12 @@ comments very much—perhaps not at all.
 
 
 ###Chapter 6: Objects and Data Structures
+- Objects hide their data behind abstractions and expose functions that operate on that data. Data struc- ture expose their data and have no meaningful functions. 
+- The Law of Demeter
+- The quintessential form of a data structure is a class with public variables and no func- tions. 
+- Objects expose behavior and hide data.
+- Data structures expose data and have no significant behavior.
+
+
 
 
