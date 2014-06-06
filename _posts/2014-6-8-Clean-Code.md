@@ -99,6 +99,14 @@ comments very much—perhaps not at all.
 - Indentation
 - Dummy Scopes
 
+####Uncle Bob’s Formatting Rules
+
+<img src="http://media-cache-ak0.pinimg.com/originals/30/c6/93/30c693309d0b4c04b0be911020e39c6d.jpg"  width="400" />
+
+<img src="http://media-cache-ec0.pinimg.com/originals/66/fa/30/66fa3056d0e6f53d10b1ba7dd65f8b4d.jpg
+"  width="400" />
+
+
 ###Chapter 6: Objects and Data Structures
 
 
