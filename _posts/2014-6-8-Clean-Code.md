@@ -99,7 +99,6 @@ comments very much—perhaps not at all.
 - Indentation
 - Dummy Scopes
 
-
-
+###Chapter 6: Objects and Data Structures
 
 
