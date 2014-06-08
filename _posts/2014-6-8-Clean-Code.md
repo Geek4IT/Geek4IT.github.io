@@ -115,6 +115,18 @@ comments very much—perhaps not at all.
 - Data structures expose data and have no significant behavior.
 
 ###Chapter 7: Error Handling
+- Write Your Try-Catch-Finally Statement First
+- Use Unchecked Exceptions
+- Provide Context with Exceptions
+- Define Exception Classes in Terms of a Caller’s Needs
+- Don’t Return Null
+- Don’t Pass Null
 
+
+###Chapter 10: Classes
+- Encapsulation
+- Classes Should Be Small!
+- The Single Responsibility Principle
+- 
 
 
