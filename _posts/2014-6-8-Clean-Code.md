@@ -127,6 +127,11 @@ comments very much—perhaps not at all.
 - Encapsulation
 - Classes Should Be Small!
 - The Single Responsibility Principle
-- 
+
+###Chapter 16: Refactoring SerialDate
+- First, Make It Work
+- Then Make It Right
+
+
 
 
