@@ -23,56 +23,56 @@ the bright star in my Laputa.
 
 ![Alt text](/images/geek4love_brightstar.png)
 
-爱，在寂寞中花开 
+爱，在寂寞中花开
 =============
 
 我抬头，你是繁星如沸的星空
- 
-你回头，我却是躲藏在人间的纤尘
-                  
+
+你回眸，我却是躲藏在人间的纤尘
+
 微笑是你唇间的代言
-                   
+
 悸动是我必备的功课
 
 我是你沿途的擦肩而过
-               
+
 你却铺就了我所有的青春年少
- 
+
 爱，原本只是一排无声的音节
-                     
+
 我却将它拼成了旋律
-                   
+
 爱，原本只是宁静的一湾
-                 
+
 我却幻化成了逶迤奔腾的江河
-              
+
 爱，原本只是美酒佳酿
-            
+
 我却碰到了一杯愁思
-          
+
 爱，原本只是两个人的故事
-      
+
 我却一个人在旅行
- 
+
 在时空的荒野里，我撒下寂寞的种子
-        
+
 你不经意的轻风一拂
-         
+
 我的春天摇曳而出
- 
+
 北有你的归宿
-             
+
 南才是我的方向
-             
+
 有我，就有你
-             
+
 有你，却没有我
- 
+
 我潇洒扬鞭。打马而过。不再回头。
-             
+
 忽然间明白，暗恋是一颗最洁净的泪滴~
-             
-             
+
+
 ![Alt text](/images/geek4love_moon.png)
 当月光洒满了一地澄澈
 =============
@@ -154,7 +154,7 @@ the bright star in my Laputa.
 寻得奇葩
 
 她就能我的乌托邦
- 
+
 我开始了流星赶月的探幽生涯
 
 在山间挥霍过我的年华
@@ -166,7 +166,7 @@ the bright star in my Laputa.
 落日与我同醉
 
 月色同我辉映
- 
+
 一个不知名的早晨
 
 滂沱大雨冲破了静谧
@@ -182,7 +182,7 @@ the bright star in my Laputa.
 何处不是奇葩，请卫戍你的激情
 
 ![Alt text](/images/geek4love_bluesky.png)
-遗失 
+遗失
 =============
 
 神采飞扬的我们遗失了那份乳嗅未干的稚气,
@@ -237,7 +237,7 @@ the bright star in my Laputa.
 
 忽然间~
 
-热泪盈眶~ 
+热泪盈眶~
 
 她埋下的是开出的一串串星光~照亮前行的路
 
@@ -261,4 +261,3 @@ Geek means the passion,love and concentration for something.
 IT represents the thing that want to do when I wake up in the morning.
 
 Geek4Love means the passion when fall in love
-
