@@ -19,8 +19,9 @@ Just as the below picture shows, when posting in Facebook's input box, the updat
 <img src="http://media-cache-ak0.pinimg.com/736x/71/b4/d4/71b4d457a55acf61825c228901f37002.jpg" alt="GitHub" title="GitHub,Social Coding" width="680" />
 
 ####Demo #2:HITP in Evernote(Mac Application)
-Writing in Evernote that supports HITP protocol, this feature is very convinient for thoese users who would like to insert images when editting. 
+Writing in Evernote that supports HITP protocol, this feature is very convinient for these users who would like to insert images when editting. 
 
 <img src="http://media-cache-ak0.pinimg.com/originals/1c/00/e1/1c00e135debf4710c88986557c8134ac.jpg" alt="GitHub" title="GitHub,Social Coding" width="680" />
 
 ####Demo #3:HITP in Path(Mobile Application)
+
