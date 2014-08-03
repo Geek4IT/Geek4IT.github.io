@@ -8,7 +8,7 @@ title: A new idea about HITP
 
 <p class="meta">27 July 2014 - Beijing</p>
 
-The Hypeimage Transfer Protocaol(HITP) is an application protocol for inserting image in all kinds of Editor that support the HITP. It can be used in Web Browser, PC Application, Mobile Application, HITP is currently just an ideal model in my mind now and has not any implementation yet.
+The HypeImage Transfer Protocaol(HITP) is an application protocol for inserting image in all kinds of Editor that support the HITP. It can be used in Web Browser, PC Application, Mobile Application, HITP is currently just an ideal model in my mind now and has not any implementation yet.
 
 I will list several demos here:
 
