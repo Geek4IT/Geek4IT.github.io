@@ -11,7 +11,7 @@ title: World's first argumented reliaty note app -ARNote
 
 <img src="/images/arnote/banner.jpg" width="600" />
 
-*ARNote*  means AR+Note,maybe the world's first Note app with Augmented Reality feature.I wrote this demo almost two years ago and it was hidden in my laptop for a long time.All UI and code were done by myself in a month,the crazy Month,and now I think I should share with you guys.
+*ARNote*  means AR+Note, maybe the world's first Note app with Augmented Reality feature. I wrote this demo almost two years ago and it was hidden in my laptop for a long time.All UI and code were done by myself in a month,the crazy Month, and now I think I should share with you guys.
 
 [Introduction PDF in Slide Share](http://www.slideshare.net/chunjianye/ar-note)
 
