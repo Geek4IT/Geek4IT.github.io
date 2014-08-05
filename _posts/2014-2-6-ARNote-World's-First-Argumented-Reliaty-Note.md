@@ -18,7 +18,7 @@ title: World's first argumented reliaty note app -ARNote
 [Vedio in Youtube](https://www.youtube.com/watch?v=48ZjmsYss5c)
 
 ![Alt text](/images/arnote/logo.png)
-
+![Alt text](/images/arnote/banner.jpg)
 ![Alt text](/images/arnote/arnote_01.jpg)
 ![Alt text](/images/arnote/arnote_02.jpg)
 ![Alt text](/images/arnote/arnote_03.jpg)
