@@ -76,16 +76,18 @@ Some utility classes like java.lang.Math or java.util.Arrays are not designed to
 - An object can always be reused if it is immutable.
 - Ex: Do not do this BAD String s = new String("string"); Do
 this instead String s = "string";String appending, Boxed primitives
+- Prefer primitives toboxed primitives, and watch out for unintentional autoboxing
 
 ###Item 6:  Eliminate obsolete object references.
 
 - Although Java has garbage collector, memory leak can still happen. GC reclaims the memory by inspecting the references of objects.
+- The fix for this sort of problem is simple: null out references once they become obsolete
 - Nulling out object references should be the exception rather than the norm.
 - Common source of memory leaks, whenever a class manages its
 own memory, caches,listeners and other callbacks.
 - Common memory leak scenarios: Objects constructed inside classes, Cache, Callbacks
-
-
+- Generally speaking, whenever a class manages its own memory, the pro-grammer should be alert for memory leaks. Whenever an element is freed, any object references contained in the element should be nulled out.
+- The best way to ensure that callbacks are garbage collected promptly is to store only weak refer-ences to them, for instance, by storing them only as keys in a WeakHashMap.
 ###Item 7:  Avoid finalizers
 
 - Severe performance penalty for using finalizers.
