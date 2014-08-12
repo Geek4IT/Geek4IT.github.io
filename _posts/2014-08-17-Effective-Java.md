@@ -16,9 +16,9 @@ title: Summary:Effective Java
 ISBN: 0321356683 READ: 2014-08-17 RATING: 9/10
 
 
-I spent two weeks on this book,nice read：）,it gives you the best practices,every chapter focus on
-different best pratice about java,if you have known the basic of java,you should definitly read this book.There are
-a lot of advises how to make your code more correct and perfect.
+I spent two weeks on this book, nice read：）, it gives you the best practices, every chapter focus on
+different best practice about java, if you have known the basic of java, you should definitely read this book. There are
+a lot of advises on how to make your code more correct and perfect.
 
 The book is structured in 11 Chapters containing 78 items.There items covers these themes:
 
