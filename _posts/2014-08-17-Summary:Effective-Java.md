@@ -26,7 +26,7 @@ The book is structured in 11 Chapters containing 78 items.There items covers the
 - Methods Common to All Objects
 - Classes and Interfaces
 - Generics
-- Enum and Annitations
+- Enum and Annotations
 - Methods
 - General Programming
 - Exceptions
@@ -35,7 +35,6 @@ The book is structured in 11 Chapters containing 78 items.There items covers the
 
 
 #Creating and Destroying Objects
---------------
 
 ###Item 1:  Consider static factory methods instead of constructors.
 
