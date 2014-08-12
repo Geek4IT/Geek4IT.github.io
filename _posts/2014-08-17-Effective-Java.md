@@ -7,17 +7,17 @@ title: Summary:Effective Java
 ================
 
 <p class="meta">30 Mar 2014 - Beijing</p>
- 
+
 <img src="http://ecx.images-amazon.com/images/I/51Om5Z2IiML._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg" width="200" />
 
 #[Effective Java](http://www.amazon.com/Effective-Java-Edition-Joshua-Bloch/dp/0321356683/ref=sr_1_1?ie=UTF8&qid=1395706824&sr=8-1&keywords=effective+java)
 
 
-ISBN: 0321356683 READ: 2014-03-30 RATING: 9/10
+ISBN: 0321356683 READ: 2014-08-17 RATING: 9/10
 
 
 I spent two weeks on this book,nice read：）,it gives you the best practices,every chapter focus on
-different best pratice about java,if you have known the basic of java,you should definitly read this book.There are 
+different best pratice about java,if you have known the basic of java,you should definitly read this book.There are
 a lot of advises how to make your code more correct and perfect.
 
 The book is structured in 11 Chapters containing 78 items.There items covers these themes:
@@ -32,7 +32,7 @@ The book is structured in 11 Chapters containing 78 items.There items covers the
 - Exceptions
 - Concurrency
 - Serialization
- 
+
 
 #Creating and Destroying Objects
 --------------
@@ -90,6 +90,8 @@ own memory, caches,listeners and other callbacks.
 
 - Severe performance penalty for using finalizers.
 - No guarantee that it will actually run.
+
+<!--
 
 #Methods Common to All Objects
 --------------
@@ -150,7 +152,7 @@ nested class, you could expose its data fields
 ###Item 15:  Minimize mutability.
 
 - Do not have a public static final array of things (cause it is not immutable).In general make sure public static final fields are immutable
-- Immutable objects are inherently thread-safe; they require no synchronization 
+- Immutable objects are inherently thread-safe; they require no synchronization
 - Classes should be immutable unless there is a very good reason to make them mutable
 - If a class cannot be made immutable, limit its mutability as much as possible
 - Make every field final unless there is a compelling reason to make it nonfinal
@@ -160,7 +162,7 @@ nested class, you could expose its data fields
 
 - Inheritance violates encapsulation, subclass depend on internals of
 super class.Use composition and forwarding instead
-- Inheritance is appropriate only in circumstances where the subclass really is a subtype of the superclass. 
+- Inheritance is appropriate only in circumstances where the subclass really is a subtype of the superclass.
 
 ###Item 17: Design and document for inheritance or else prohibit it
 
@@ -181,7 +183,7 @@ protected.
 - Interfaces are ideal for defining mixins.  Mixin is a type that a class can implement in addition to its primary type to show that it can provide additional behaviour.
 - Interfaces allow the construction of non-hierarchial type frameworks.  If you use abstract classes, you risk a combinatorial explosion of classes to take care of each choice.
 - Interfaces enable safe, powerful functionality enhancements via the wrapper class idiom.
-   
+
 - Abstract classes have one advantage over interfaces in that they are easier to evolve.  In general, once an interface is published, it is not possible to change it any more.
 
 ###Item 19: Use interfaces only to define types
@@ -291,7 +293,7 @@ annotation.
 
 * Prefer for loop to whie loops.
 
-* Keep methods small and focused. 
+* Keep methods small and focused.
 
 
 ###Item 46: Prefer for-each loops to traditional for loops
@@ -420,8 +422,4 @@ See [Java Language Specification,Chapter 6. Names](http://docs.oracle.com/javase
 ###Item 77:  For instance control, prefer enum types to readResolve.
 
 ###Item 78:  Consider serialization proxies instead of serialized instances.
-
-
-
-
-
+-->
