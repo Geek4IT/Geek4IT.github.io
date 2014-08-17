@@ -21,12 +21,15 @@ Amazon 为用户推荐相关书籍：
 <img src="http://media-cache-ec0.pinimg.com/originals/eb/4d/a5/eb4da505383e2f3cbd602a2c1aa7f425.jpg"  width="600" />
 
 Douban FM 为用户推荐相关的音乐：
+
 <img src="http://media-cache-ec0.pinimg.com/originals/49/18/74/491874c1c5c9428e781c31604f20abe5.jpg"  width="600" />
 
 Youtube 为用户推荐视频：
+
 <img src="http://media-cache-ec0.pinimg.com/originals/da/83/ec/da83eca738231e1f0115f359b233e38c.jpg"  width="600" />
 
 Twitter 为用户推荐好友：
+
 <img src="http://media-cache-ec0.pinimg.com/originals/06/14/5c/06145c8b0541b1ec02345e615da6e821.jpg"  width="600" />
 
 从以上的截图中可以看到智能推荐系统已经被广泛应用在各个领域里。《智能推荐系统》一书中主要描述了“什么是推荐系统”，“推荐系统的应用”，“推荐系统的实现方式”这个三个问题。
