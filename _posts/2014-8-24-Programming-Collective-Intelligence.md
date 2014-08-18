@@ -13,3 +13,5 @@ title: Summary:Programming Collective Intelligence: Building Smart Web 2.0 Appli
 
 
 ISBN: 0596529325 READ: 2014-08-24 RATING: */10
+
+
