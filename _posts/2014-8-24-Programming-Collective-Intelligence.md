@@ -6,7 +6,6 @@ title: Summary:Programming Collective Intelligence: Building Smart Web 2.0 Appli
 {{ page.title }}
 ================
 
-
 <p class="meta">24 Aug 2014 - Beijing</p>
 
 
