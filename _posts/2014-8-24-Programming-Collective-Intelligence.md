@@ -13,3 +13,6 @@ title: Summary:Programming Collective Intelligence
 
 
 ISBN: 0596529325 READ: 2014-08-24 RATING: */10
+
+
+[Item-Based Collaborative Filtering Recommendation Algorithms](http://files.grouplens.org/papers/www10_sarwar.pdf)
