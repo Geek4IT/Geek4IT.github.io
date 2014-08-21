@@ -27,8 +27,6 @@ ISBN: 0596529325 READ: 2014-08-24 RATING: */10
 ##Euclidean Distance
 [Euclidean Distance](http://en.wikipedia.org/wiki/Euclidean_distance) finds the distance between two points in multidimensional space, which is the kind of distance you measure with a ruler. If the points are written as (p1, p2, p3, p4, ...) and (q1, q2, q3, q4, ...), then the formula for Euclidean distance can be expressed as shown：
 
- `
- 
  	def euclidean(p,q): 	 	       sumSq=0.0       # add up the squared differences       for i in range(len(p)):         sumSq+=(p[i]-q[i])**2       # take the square root       return (sumSq**0.5)
- `
+
 
