@@ -44,3 +44,5 @@ indicates no correlation, and –1 means they are perfectly inversely correlated
 
 ![Alt text](/images/recommander/Correlation_examples2.svg.png)
 
+<img src="/images/recommander/Correlation_examples2.svg.png" width="200" />
+
