@@ -63,6 +63,7 @@ This is done by adding the following below an <activity> tag in your `AndroidMan
     <intent-filter>
         <action android:name="com.novalauncher.THEME" />
     </intent-filter>
+    def euclidean(p,q): 	 	 	       sumSq=0.0          # add up the squared differences       for i in range(len(p)):         sumSq+=(p[i]-q[i])**2       # take the square root	return (sumSq**0.5)
 
 Automatic App Icon Theming
 --------------------------
