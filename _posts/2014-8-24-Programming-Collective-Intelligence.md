@@ -29,7 +29,8 @@ ISBN: 0596529325 READ: 2014-08-24 RATING: */10
 
 ![Alt text](/images/recommander/diagram_euclidean_distance_metric.gif)
 
+```
 	def euclidean(p,q): 	 	 	       sumSq=0.0          # add up the squared differences       for i in range(len(p)):         sumSq+=(p[i]-q[i])**2       # take the square root     return (sumSq**0.5)
-
+```
 
 
