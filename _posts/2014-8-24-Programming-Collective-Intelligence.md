@@ -34,15 +34,12 @@ Recommendation of anything to you based on the item you are watching. Eg:- Amazo
 ##Euclidean Distance
 [Euclidean Distance](http://en.wikipedia.org/wiki/Euclidean_distance) finds the distance between two points in multidimensional space, which is the kind of distance you measure with a ruler. If the points are written as (p1, p2, p3, p4, ...) and (q1, q2, q3, q4, ...), then the formula for Euclidean distance can be expressed as shown：
 
-![Alt text](/images/recommander/diagram_euclidean_distance_metric.png)
+<img src="/images/recommander/diagram_euclidean_distance_metric.png" width="500" />
 
 ##Pearson Correlation Coefficient
 [Pearson Correlation Coefficient](http://en.wikipedia.org/wiki/Pearson_product-moment_correlation_coefficient) is a measure of how highly correlated two variables are. It is a value between 1 and –1, where 1 indicates that the variables are per- fectly correlated, 0 
 indicates no correlation, and –1 means they are perfectly inversely correlated.
 
-![Alt text](/images/recommander/Correlation_coefficient.gif)
-
-![Alt text](/images/recommander/Correlation_examples2.svg.png)
-
-<img src="/images/recommander/Correlation_examples2.svg.png" width="200" />
+<img src="/images/recommander/Correlation_coefficient.gif" width="500" />
+<img src="/images/recommander/Correlation_examples2.svg.png" width="500" />
 
