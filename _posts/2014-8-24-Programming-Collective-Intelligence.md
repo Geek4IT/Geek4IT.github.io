@@ -50,7 +50,8 @@ indicates no correlation, and –1 means they are perfectly inversely correlated
 <img src="/images/recommander/Correlation_examples2.svg.png" width="500" />
 
 
-##Chapter #2 Discovering Group
+##Chapter #3 Discovering Group
+
 
 
 
