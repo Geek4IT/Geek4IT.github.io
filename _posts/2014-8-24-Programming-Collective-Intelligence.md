@@ -52,6 +52,16 @@ indicates no correlation, and –1 means they are perfectly inversely correlated
 
 ##Chapter #3 Discovering Group
 
+##Chapter #4 Searching and Ranking
+
+##Chapter #5 Optimization
+
+##Chapter #6 Document Filterling
+
+##Chapter #7 Modeling with Decision Tree
+
+##Chapter #8 Build Price Model
+
 
 
 
