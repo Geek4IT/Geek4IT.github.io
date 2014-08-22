@@ -18,6 +18,9 @@ title: Summary:Programming Collective Intelligence
 
 ISBN: 0596529325 READ: 2014-08-24 RATING: */10
 
+
+##Chapter #2 Making Recommendations
+
 Recommendation Engine are of two types:
 
 ####User based
@@ -42,4 +45,6 @@ indicates no correlation, and –1 means they are perfectly inversely correlated
 
 <img src="/images/recommander/Correlation_coefficient.gif" width="500" />
 <img src="/images/recommander/Correlation_examples2.svg.png" width="500" />
+
+
 
