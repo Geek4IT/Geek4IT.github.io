@@ -6,7 +6,7 @@ title: Summary:Programming Collective Intelligence
 {{ page.title }}
 ================
 
-<p class="meta">24 Aug 2014 - Beijing</p>
+<p class="meta">31 Aug 2014 - Beijing</p>
 
 
 
