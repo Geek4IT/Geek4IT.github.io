@@ -25,7 +25,7 @@ Steps to build a Recommendation System:
 
 - Collecting data about the things people like;
 - Find a way to determine how similar people are in their tastes: Euclidean distance and Pearson correlation;
-- 
+- Now that you have functions for comparing two people, you can create a function that scores everyone against a given person and finds the closest matches.
 
 Recommendation Engine are of two types:
 
