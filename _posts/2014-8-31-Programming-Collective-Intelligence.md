@@ -6,7 +6,7 @@ title: Summary:Programming Collective Intelligence
 {{ page.title }}
 ================
 
-<p class="meta">31 Aug 2014 - Beijing</p>
+<p class="meta">24 Aug 2014 - Beijing</p>
 
 
 
@@ -20,6 +20,12 @@ ISBN: 0596529325 READ: 2014-08-24 RATING: */10
 
 
 ##Chapter #2 Making Recommendations
+
+Steps to build a Recommendation System:
+
+- Collecting data about the things people like;
+- Find a way to determine how similar people are in their tastes: Euclidean distance and Pearson correlation;
+- 
 
 Recommendation Engine are of two types:
 
