@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Summary:A Programmer's guide to data mining
+title: Summary:A Programmer's Guide to Data Mining
 ---
 
 {{ page.title }}
@@ -10,12 +10,12 @@ title: Summary:A Programmer's guide to data mining
 
 
 
-<img src="http://media-cache-ec0.pinimg.com/736x/a0/04/d2/a004d2aa900ac248f670d403e2487ea5.jpg" width="200" />
+<img src="http://guidetodatamining.com/wp-content/uploads/2012/10/mozi.jpeg" width="200" />
 
 
-#[Summary:A Programmer's guide to data mining](http://guidetodatamining.com/)
+#[Summary:A Programmer's Guide to Data Mining](http://guidetodatamining.com/)
 
-ISBN: 0596529325 READ: 2014-08-24 RATING: */10
+READ: 2014-09-7 RATING: */10
 
 How to find stuff?
 
