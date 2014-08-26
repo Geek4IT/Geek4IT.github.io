@@ -9,7 +9,6 @@ title: [Summary:A Programmer's guide to data mining](http://guidetodatamining.co
 <p class="meta">24 Sep 2014 - Beijing</p>
 
 
-
 How to find stuff?
 
 - Years ago, in that small town, our friends helped us find stuff. 
