@@ -1,13 +1,21 @@
 ---
 layout: post
-title: [Summary:A Programmer's guide to data mining](http://guidetodatamining.com/)
+title: Summary:A Programmer's guide to data mining
 ---
 
 {{ page.title }}
 ================
 
-<p class="meta">24 Sep 2014 - Beijing</p>
+<p class="meta">7 Sep 2014 - Beijing</p>
 
+
+
+<img src="http://media-cache-ec0.pinimg.com/736x/a0/04/d2/a004d2aa900ac248f670d403e2487ea5.jpg" width="200" />
+
+
+#[Summary:A Programmer's guide to data mining](http://guidetodatamining.com/)
+
+ISBN: 0596529325 READ: 2014-08-24 RATING: */10
 
 How to find stuff?
 
