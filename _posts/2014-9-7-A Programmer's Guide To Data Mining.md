@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Summary:A Programmer's guide to data mining
+title: [Summary:A Programmer's guide to data mining](http://guidetodatamining.com/)
 ---
 
 {{ page.title }}
@@ -8,9 +8,6 @@ title: Summary:A Programmer's guide to data mining
 
 <p class="meta">24 Sep 2014 - Beijing</p>
 
-
-
-<img src="http://media-cache-ec0.pinimg.com/736x/a0/04/d2/a004d2aa900ac248f670d403e2487ea5.jpg" width="200" />
 
 
 How to find stuff?
