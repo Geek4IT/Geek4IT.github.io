@@ -42,3 +42,5 @@ These methods of finding relevant stuff— friends, experts, the thing itself—
 ## [Manhattan Distance](http://en.wikipedia.org/wiki/Manhattan_distance)
 <img src="/images/A Programmer's Guide To Data Mining/ManhattanDistance.jpg" width="300" />
 
+## [Euclidean Distance]()
+
