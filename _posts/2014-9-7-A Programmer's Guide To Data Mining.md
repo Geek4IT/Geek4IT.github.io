@@ -52,10 +52,18 @@ These methods of finding relevant stuff— friends, experts, the thing itself—
 - Implicit Ratings: For implicit ratings, we don't ask users to give any ratings—we just observe their behavior. An example of this is keeping track of what a user clicks on in the online New York Times.
 
 
-- Problems with explicit ratings
+- Problems with explicit ratings:
 
 Problem 1: People are lazy and don't rate items.
 
 Problem 2: People may lie or give only partial information.
 
 Problem 3: People don't update their ratings.
+
+- Problem with User-based filtering:
+
+1.
+Scalability. As we have just discussed, the computation increases as the number of users increases. User-based methods work fine for thousands of users, but scalability gets to be a problem when we have a million users.
+
+2.
+Sparsity. Most recommendation systems have many users and many products but the average user rates a small fraction of the total products. For example, Amazon carries millions of books but the average user rates just a handful of books. Because of this the algorithms we covered in chapter 2 may not find any nearest neighbors.
