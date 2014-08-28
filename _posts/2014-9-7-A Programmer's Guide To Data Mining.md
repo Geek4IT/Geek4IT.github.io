@@ -42,5 +42,12 @@ These methods of finding relevant stuff— friends, experts, the thing itself—
 ## [Manhattan Distance](http://en.wikipedia.org/wiki/Manhattan_distance)
 <img src="/images/A Programmer's Guide To Data Mining/ManhattanDistance.jpg" width="300" />
 
-## [Euclidean Distance]()
+## [Euclidean Distance](http://en.wikipedia.org/wiki/Euclidean_distance)
+
+## [Pearson Correlation Coefficient]()
+
+# Chapter 3: Implicit ratings and item based filtering
+
+- Explicit ratings: Explicit ratings are when the user herself explicitly rates the item. One example of this is the thumbs up / thumbs down rating on sites such as Pandora and YouTube.
+- Implicit Ratings: For implicit ratings, we don't ask users to give any ratings—we just observe their behavior. An example of this is keeping track of what a user clicks on in the online New York Times.
 
