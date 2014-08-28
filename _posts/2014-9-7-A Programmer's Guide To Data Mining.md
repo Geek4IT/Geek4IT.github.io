@@ -51,3 +51,11 @@ These methods of finding relevant stuff— friends, experts, the thing itself—
 - Explicit ratings: Explicit ratings are when the user herself explicitly rates the item. One example of this is the thumbs up / thumbs down rating on sites such as Pandora and YouTube.
 - Implicit Ratings: For implicit ratings, we don't ask users to give any ratings—we just observe their behavior. An example of this is keeping track of what a user clicks on in the online New York Times.
 
+
+- Problems with explicit ratings
+
+Problem 1: People are lazy and don't rate items.
+
+Problem 2: People may lie or give only partial information.
+
+Problem 3: People don't update their ratings.
