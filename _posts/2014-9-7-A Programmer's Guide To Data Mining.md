@@ -65,3 +65,9 @@ These methods of finding relevant stuff— friends, experts, the thing itself—
 	- Scalability. As we have just discussed, the computation increases as the number of users increases. User-based methods work fine for thousands of users, but scalability gets to be a problem when we have a million users.
 
 	- Sparsity. Most recommendation systems have many users and many products but the average user rates a small fraction of the total products. For example, Amazon carries millions of books but the average user rates just a handful of books. 
+	
+- Cosine Similarity
+
+<img src="/images/A Programmer's Guide To Data Mining/Cosine Similarity.jpg" width="300" />
+	
+  - This formula is from a seminal article in collaborative filtering: “Item-based collaborative filtering recommendation algorithms” by Badrul Sarwar, George Karypis, Joseph Konstan, and John Reidl (http://www.grouplens.org/papers/pdf/www10_sarwar.pdf)
