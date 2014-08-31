@@ -8,7 +8,7 @@ title: My Hacked Design - Solo Weather
 
 <p class="meta">24 Jan 2014 - Beijing</p>
 
-[Solo Battery Saver](https://play.google.com/store/apps/details?id=home.solo.plugin.batterysaver)
+[Solo Weather](https://play.google.com/store/apps/details?id=home.solo.plugin.weather)
 
 <img src="http://media-cache-ec0.pinimg.com/originals/cf/50/80/cf5080a37d7849ce58b7f6140ca36c12.jpg"  width="800" />
 
