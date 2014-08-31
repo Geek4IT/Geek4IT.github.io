@@ -8,6 +8,7 @@ title: My Hacked Design
 
 <p class="meta">24 Jan 2014 - Beijing</p>
 
+[Solo Battery Saver](https://play.google.com/store/apps/details?id=home.solo.plugin.batterysaver)
 
 <img src="http://media-cache-ec0.pinimg.com/originals/e2/35/52/e235527ac6ca99d1db1c1e3be41234f2.jpg"  width="800" />
 
