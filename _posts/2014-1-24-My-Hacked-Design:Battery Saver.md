@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Hacked Design: Battery Saver
+title: My Hacked Design - Battery Saver
 ---
 
 {{ page.title }}
