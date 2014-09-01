@@ -74,4 +74,13 @@ This formula is from a seminal article in collaborative filtering: [“Item-base
 
 Chapter #4: Classification based on item attributes
 
+- A classifier is a program that uses an object’s attributes to determine what group or class it belongs to.A classifier uses a set of objects that are already labeled with the class they belong to. It uses that set to classify new, unlabeled objects. 
 
+- Classifiers can be used in a wide range of applications:
+	- Twitter Sentiment Classification
+	- Automatic identification of people in photos.
+	- Classification for Targeted Political Ads
+	- Targeted Marketing
+- Normalizing data is critical when attributes have drastically different scales (for example, income and age). In order to get accurate distance measurements, we should rescale the attributes so they all have the same scale.
+
+- Recall that one way to normalize an attribute on a scale between 0 and 1 is to find the minimum (min) and maximum (max) values of that attribute. The normalized value of a value is then value − min/max− min Let’s compare the accuracy of a classifer that uses this formula over one that uses the Modified Standard
