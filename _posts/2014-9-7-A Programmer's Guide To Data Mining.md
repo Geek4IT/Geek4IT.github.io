@@ -70,4 +70,8 @@ These methods of finding relevant stuff— friends, experts, the thing itself—
 
 <img src="/images/A Programmer's Guide To Data Mining/Cosine Similarity.jpg" width="300" />
 	
-This formula is from a seminal article in collaborative filtering: [“Item-based collaborative filtering recommendation algorithms”](http://www.grouplens.org/papers/pdf/www10_sarwar.pdf)
+This formula is from a seminal article in collaborative filtering: [“Item-based collaborative filtering recommendation algorithms”](http://www.grouplens.org/papers/pdf/www10_sarwar.pdf)
+
+Chapter #4: Classification based on item attributes
+
+
