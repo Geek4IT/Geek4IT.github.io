@@ -83,4 +83,4 @@ Chapter #4: Classification based on item attributes
 	- Targeted Marketing
 - Normalizing data is critical when attributes have drastically different scales (for example, income and age). In order to get accurate distance measurements, we should rescale the attributes so they all have the same scale.
 
-- Recall that one way to normalize an attribute on a scale between 0 and 1 is to find the minimum (min) and maximum (max) values of that attribute. The normalized value of a value is then value − min/max− min Let’s compare the accuracy of a classifer that uses this formula over one that uses the Modified Standard
+- Recall that one way to normalize an attribute on a scale between 0 and 1 is to find the minimum (min) and maximum (max) values of that attribute. The normalized value of a value is then value − min/max− min
