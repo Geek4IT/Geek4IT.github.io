@@ -88,3 +88,8 @@ This formula is from a seminal article in collaborative filtering: [“Item-base
 
 
 [Chapter 5: Further Explorations in Classification](http://guidetodatamining.com/chapter-5/)
+
+
+[Chapter 6: Naïve Bayes](http://guidetodatamining.com/chapter-6/)
+
+[Chapter 7: Naïve Bayes and unstructured text](http://guidetodatamining.com/chapter-7/)
