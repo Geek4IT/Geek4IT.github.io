@@ -17,7 +17,7 @@ title: Summary:A Programmer's Guide to Data Mining
 
 READ: 2014-09-7 RATING: */10
 
-# Chapter 1: Introduction
+[# Chapter 1: Introduction](http://guidetodatamining.com/chapter-1/)
 
 How to find stuff?
 
@@ -29,7 +29,7 @@ How to find stuff?
 
 These methods of finding relevant stuff— friends, experts, the thing itself—are still present today but we need some computational help to transform them into the 21st century where we have billions of choices.
 
-# Chapter 2: Getting Started with Recommendation Systems
+[# Chapter 2: Getting Started with Recommendation Systems](http://guidetodatamining.com/chapter-2/)
 - How a recommendation system works.
 - How social filtering works
 - How to find similar items
@@ -46,7 +46,7 @@ These methods of finding relevant stuff— friends, experts, the thing itself—
 
 ## [Pearson Correlation Coefficient]()
 
-# Chapter 3: Implicit ratings and item based filtering
+[# Chapter 3: Implicit ratings and item based filtering](http://guidetodatamining.com/chapter-3/)
 
 - Explicit ratings: Explicit ratings are when the user herself explicitly rates the item. One example of this is the thumbs up / thumbs down rating on sites such as Pandora and YouTube.
 - Implicit Ratings: For implicit ratings, we don't ask users to give any ratings—we just observe their behavior. An example of this is keeping track of what a user clicks on in the online New York Times.
@@ -72,7 +72,7 @@ These methods of finding relevant stuff— friends, experts, the thing itself—
 	
 This formula is from a seminal article in collaborative filtering: [“Item-based collaborative filtering recommendation algorithms”](http://www.grouplens.org/papers/pdf/www10_sarwar.pdf)
 
-Chapter #4: Classification based on item attributes
+[#Chapter 4: Classification based on item attributes](http://guidetodatamining.com/chapter-4/)
 
 - A classifier is a program that uses an object’s attributes to determine what group or class it belongs to.A classifier uses a set of objects that are already labeled with the class they belong to. It uses that set to classify new, unlabeled objects. 
 
@@ -84,3 +84,6 @@ Chapter #4: Classification based on item attributes
 - Normalizing data is critical when attributes have drastically different scales (for example, income and age). In order to get accurate distance measurements, we should rescale the attributes so they all have the same scale.
 
 - Recall that one way to normalize an attribute on a scale between 0 and 1 is to find the minimum (min) and maximum (max) values of that attribute. The normalized value of a value is then value − min/max− min
+
+
+[#Chapter 5: Further Explorations in Classification](http://guidetodatamining.com/chapter-5/)
