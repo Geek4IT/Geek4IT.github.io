@@ -102,6 +102,8 @@ This formula is from a seminal article in collaborative filtering: [“Item-base
 	- Step 2, we iterate through the following steps ten times:
 	- Step 3, we sum up the results.
 
+- Leave-One-Out: In the machine learning literature, n-fold cross validation (where n is the number of samples in our data set) is called leave-one-out. We already mentioned one benefit of leave-one-out— at every iteration we are using the largest possible amount of our data for training. The other benefit is that it is deterministic.
+
 [Chapter 6: Naïve Bayes](http://guidetodatamining.com/chapter-6/)
 
 [Chapter 7: Naïve Bayes and unstructured text](http://guidetodatamining.com/chapter-7/)
