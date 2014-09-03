@@ -97,6 +97,11 @@ This formula is from a seminal article in collaborative filtering: [“Item-base
 
 - 10-fold Cross Validation: With this method we have one data set which we divide randomly into 10 parts. We use 9 of those parts for training and reserve one tenth for testing. We repeat this procedure 10 times each time reserving a different tenth for testing.
 
+- Ten-fold cross validation example:
+	- Step 1, we equally divide the data into 10 buckets:
+	- Step 2, we iterate through the following steps ten times:
+	- Step 3, we sum up the results.
+
 [Chapter 6: Naïve Bayes](http://guidetodatamining.com/chapter-6/)
 
 [Chapter 7: Naïve Bayes and unstructured text](http://guidetodatamining.com/chapter-7/)
