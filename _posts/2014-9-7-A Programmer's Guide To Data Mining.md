@@ -89,6 +89,13 @@ This formula is from a seminal article in collaborative filtering: [“Item-base
 
 [Chapter 5: Further Explorations in Classification](http://guidetodatamining.com/chapter-5/)
 
+- We divided each of these datasets in turn into two subsets. One subset we used to construct the classifier. This data set is called the training set. The other set was used to evaluate the classifier. That data is called the test set. Training set and test set are common terms in data mining.
+
+- People in data mining never test with the data they used to train the system.
+
+- The accuracy based on a single test set may not reflect the true accuracy when our classifier is used with new data. A solution to this problem might be to repeat the process a number of times and average the results. 
+
+- 10-fold Cross Validation: With this method we have one data set which we divide randomly into 10 parts. We use 9 of those parts for training and reserve one tenth for testing. We repeat this procedure 10 times each time reserving a different tenth for testing.
 
 [Chapter 6: Naïve Bayes](http://guidetodatamining.com/chapter-6/)
 
