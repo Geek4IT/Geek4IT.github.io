@@ -1,13 +1,13 @@
 ###[Geek4IT's blog](http://www.geek4it.com)
-About Software Engineering, Computer Science, Technology, News,Ideas...
+About Software Engineering, Computer Science, Technology, News, Ideas...
 
 Geek4IT = Geek for IT
 
-__*Geek*__ means the passion,love and concentration for something.
+__*Geek*__ means the passion, love and concentration for something.
 
 __*IT*__   represents the thing that want to do when I wake up in the morning.
 
-__*Phonetics*__:[ɡi:k'fɔrit]
+__*Phonetics*__: [ɡi:k'fɔrit]
 
 ###License
 
