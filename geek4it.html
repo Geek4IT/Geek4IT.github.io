@@ -23,34 +23,56 @@ title: Geek4IT
 
 </style>
 
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Flare Dendrogram</title>
+<style>
+
+.node circle {
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+.node {
+  font: 10px sans-serif;
+}
+
+.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 1.5px;
+}
+
+</style>
+<body>
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script>
-var diameter = 960;
 
-var tree = d3.layout.tree()
-    .size([360, diameter / 2 - 120])
-    .separation(function(a, b) { return (a.parent == b.parent ? 1 : 2) / a.depth; });
+var radius = 960 / 2;
+
+var cluster = d3.layout.cluster()
+    .size([360, radius - 120]);
 
 var diagonal = d3.svg.diagonal.radial()
     .projection(function(d) { return [d.y, d.x / 180 * Math.PI]; });
 
 var svg = d3.select("body").append("svg")
-    .attr("width", diameter)
-    .attr("height", diameter - 150)
+    .attr("width", radius * 2)
+    .attr("height", radius * 2)
   .append("g")
-    .attr("transform", "translate(" + diameter / 2 + "," + diameter / 2 + ")");
+    .attr("transform", "translate(" + radius + "," + radius + ")");
 
 d3.json("/data/geek4it.json", function(error, root) {
-  var nodes = tree.nodes(root),
-      links = tree.links(nodes);
+  var nodes = cluster.nodes(root);
 
-  var link = svg.selectAll(".link")
-      .data(links)
+  var link = svg.selectAll("path.link")
+      .data(cluster.links(nodes))
     .enter().append("path")
       .attr("class", "link")
       .attr("d", diagonal);
 
-  var node = svg.selectAll(".node")
+  var node = svg.selectAll("g.node")
       .data(nodes)
     .enter().append("g")
       .attr("class", "node")
@@ -66,6 +88,6 @@ d3.json("/data/geek4it.json", function(error, root) {
       .text(function(d) { return d.name; });
 });
 
-d3.select(self.frameElement).style("height", diameter - 150 + "px");
+d3.select(self.frameElement).style("height", radius * 2 + "px");
 
 </script>
