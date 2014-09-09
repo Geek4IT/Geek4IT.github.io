@@ -2,30 +2,31 @@
  "name": "Geek4IT",
  "children": [
   {
-   "name": "CS",
+   "name": "analytics",
    "children": [
     {
-     "name": "Algorithms",
+     "name": "cluster",
      "children": [
-      {"name": "Programming Pearls", "size": 3938},
-      {"name": "Algorithms", "size": 3812},
-      {"name": "The Algorithms Design Manual", "size": 6714},
-      {"name": "Introduction Of Algorithms", "size": 743}
+      {"name": "AgglomerativeCluster", "size": 3938},
+      {"name": "CommunityStructure", "size": 3812},
+      {"name": "HierarchicalCluster", "size": 6714},
+      {"name": "MergeEdge", "size": 743}
      ]
     },
     {
-     "name": "IDE",
+     "name": "graph",
      "children": [
-      {"name": "Sublime", "size": 3534},
-      {"name": "Eclipse", "size": 5731},
-      {"name": "Markdown", "size": 7840},
-      {"name": "Vim", "size": 5914},
+      {"name": "BetweennessCentrality", "size": 3534},
+      {"name": "LinkDistance", "size": 5731},
+      {"name": "MaxFlowMinCut", "size": 7840},
+      {"name": "ShortestPaths", "size": 5914},
+      {"name": "SpanningTree", "size": 3416}
      ]
     },
     {
-     "name": "Language",
+     "name": "optimization",
      "children": [
-      {"name": "Java", "size": 7074}
+      {"name": "AspectRatioBanker", "size": 7074}
      ]
     }
    ]
