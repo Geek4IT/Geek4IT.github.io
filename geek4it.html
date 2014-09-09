@@ -4,10 +4,7 @@ title: Geek4IT
 ---
 
 <header>
-  <title>My Todos</title>
-  <link rel="stylesheet" href="/css/todos.css" type="text/css"/>
-  <script type="text/javascript" src="/js/todos.js"></script>
-
+  <p>Geek4IT</p>
 </header>
 <style>
 
@@ -31,7 +28,6 @@ title: Geek4IT
 <body>
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script>
-
 var diameter = 960;
 
 var tree = d3.layout.tree()
@@ -76,3 +72,4 @@ d3.json("/data/geek4it.json", function(error, root) {
 d3.select(self.frameElement).style("height", diameter - 150 + "px");
 
 </script>
+</body>
