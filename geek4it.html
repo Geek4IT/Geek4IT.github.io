@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 <head>
    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-   <title>{{ page.title }}</title>
+   <title>Geek4IT</title>
    <meta name="author" content="Geek4IT" />
    <link href="http://feeds.feedburner.com/geek4it" rel="alternate" title="Geek4IT" type="application/atom+xml" />
    <meta name="readability-verification" content="QCzSs992GxmRYRKVpPeZ6LE2tS8aYKxsSSQKV8YM"/>
@@ -18,8 +18,6 @@
    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 </head>
 
-<body>
-<!-- ClickTale Top part -->
 <script type="text/javascript">
 var WRInitTime=(new Date()).getTime();
 </script>
@@ -30,7 +28,7 @@ var WRInitTime=(new Date()).getTime();
     <a href="/">Geek4IT</a>
     <!--<a class="extra" href="/">Home</a> -->
     <a class="extra" href="/">Wisdom is a virtue.</a>
-  </div>
+</div>
   
 <!-- ClickTale Bottom part -->
 <div id="ClickTaleDiv" style="display: none;"></div>
@@ -41,19 +39,6 @@ if(document.location.protocol!='https:')
 <script type="text/javascript">
 if(typeof ClickTale=='function') ClickTale(206,0.3,"www03");
 </script>
-<!-- ClickTale end of Bottom part -->
-
-<!-- Google Analytics -->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-6016902-1");
-pageTracker._trackPageview();
-</script>
-<!-- Google Analytics end -->
-
 
 <div id="post">
 
@@ -97,8 +82,7 @@ pageTracker._trackPageview();
 
 </style>
 <body>
-<!DOCTYPE html>
-<meta charset="utf-8">
+
 <style>
 
 .node circle {
@@ -166,8 +150,6 @@ d3.select(self.frameElement).style("height", height + "px");
 
 </script>
 
-
-  
   <div class="footer">
     <div class="contact">
       <p>
@@ -185,9 +167,6 @@ d3.select(self.frameElement).style("height", height + "px");
     </div>
     
   </div>
-</div>
-
-</div>
 
 <div id="disqus_thread"></div>
 <script type="text/javascript">
@@ -204,14 +183,5 @@ d3.select(self.frameElement).style("height", height + "px");
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 
-
-<div id="related">
-  <h2>Related Posts</h2>
-  <ul class="posts">
-    {% for post in site.related_posts limit:3 %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
 </body>
 </html>
