@@ -86,7 +86,7 @@ var svg = d3.select("body").append("svg")
   .append("g")
     .attr("transform", "translate(40,0)");
 
-d3.json("/d/4063550/flare.json", function(error, json) {
+d3.json("/data/geek4it.json", function(error, json) {
   var nodes = tree.nodes(json),
       links = tree.links(nodes);
 
