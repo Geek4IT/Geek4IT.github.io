@@ -7,20 +7,23 @@
     {
      "name": "Algorithms",
      "children": [
-      {"name": "AgglomerativeCluster", "size": 3938},
-      {"name": "CommunityStructure", "size": 3812},
-      {"name": "HierarchicalCluster", "size": 6714},
-      {"name": "MergeEdge", "size": 743}
+      {"name": "Programming Pearls", "size": 3938},
+      {"name": "Algorithms", "size": 3812},
+      {"name": "The Algorithms Design Manual", "size": 6714},
+      {"name": "Introduction Of Algorithms", "size": 743},
+      {"name": "Cracking the Codding Interview", "size": 743},
      ]
     },
     {
-     "name": "graph",
+     "name": "Software Engineering",
      "children": [
-      {"name": "BetweennessCentrality", "size": 3534},
-      {"name": "LinkDistance", "size": 5731},
-      {"name": "MaxFlowMinCut", "size": 7840},
-      {"name": "ShortestPaths", "size": 5914},
-      {"name": "SpanningTree", "size": 3416}
+      {"name": "The Pragmatic Programmer", "size": 3534},
+      {"name": "Refactoring", "size": 5731},
+      {"name": "Code Complete", "size": 7840},
+      {"name": " Peopleware", "size": 5914},
+      {"name": "Clean Code", "size": 3416},
+      {"name": "The Mythical Man Month and Other Essays on Software Engineering", "size": 3416},
+      {"name": "Unit Test", "size": 3416}
      ]
     },
     {
