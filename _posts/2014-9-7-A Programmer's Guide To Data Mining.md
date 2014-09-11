@@ -107,3 +107,4 @@ This formula is from a seminal article in collaborative filtering: [“Item-base
 [Chapter 6: Naïve Bayes](http://guidetodatamining.com/chapter-6/)
 
 [Chapter 7: Naïve Bayes and unstructured text](http://guidetodatamining.com/chapter-7/)
+[Bayes' theorem](http://en.wikipedia.org/wiki/Bayes'_theorem)
