@@ -62,10 +62,10 @@ indicates no correlation, and –1 means they are perfectly inversely correlated
 
 What’s in a Search Engine?
 
-	- 1.Creating a search engine is to develop a way to collect the docu- ments. In some cases, this will involve crawling (starting with a small set of documents and following links to others) and in other cases it will begin with a fixed collection of documents, perhaps from a corporate intranet.
-	- 2.After you collect the documents, they need to be indexed. This usually involves cre- ating a big table of the documents and the locations of all the different words.
-	- 3.Returning a ranked list of documents from a query.
-	- 4.Build a neural network for ranking queries. The neural network will learn to associate searches with results based on what links people click on after they get a list of search results. 
+- 1.Creating a search engine is to develop a way to collect the docu- ments. In some cases, this will involve crawling (starting with a small set of documents and following links to others) and in other cases it will begin with a fixed collection of documents, perhaps from a corporate intranet.
+- 2.After you collect the documents, they need to be indexed. This usually involves cre- ating a big table of the documents and the locations of all the different words.
+- 3.Returning a ranked list of documents from a query.
+- 4.Build a neural network for ranking queries. The neural network will learn to associate searches with results based on what links people click on after they get a list of search results. 
 	
 ##Chapter #5 Optimization
 
