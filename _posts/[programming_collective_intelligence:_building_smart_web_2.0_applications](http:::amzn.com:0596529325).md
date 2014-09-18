@@ -1,80 +1,183 @@
 ---
-layout: post
-title: Summary:Programming Collective Intelligence
+layout: default
+title: Geek4IT
 ---
 
-{{ page.title }}
-================
-
-<p class="meta">24 Aug 2014 - Beijing</p>
-
-
-
-<img src="http://media-cache-ec0.pinimg.com/736x/a0/04/d2/a004d2aa900ac248f670d403e2487ea5.jpg" width="200" />
+<header>
+    <p>I’m a voracious reader, yep, reading the classic books is the one of the best thing in the world.
+      I pick up reading seriously again fro 2013, and have make it a daily habit. Here are some books I’ve finished recently.</p>
+    <p>This page will constantly update as I read more, so bookmark it if you want to check back in a few months. Fell free to send give me any recommendations!<strong> Keep calm & be cool.</strong></p>
 
 
-#[Programming Collective Intelligence: Building Smart Web 2.0 Applications](http://amzn.com/0596529325)
+  <style type="text/css">
+    body, html {
+      font-family: sans-serif;
+    }
+  </style>
 
 
-ISBN: 0596529325 READ: 2014-08-24 RATING: */10
+  <link href="http://visjs.org/dist/vis.css" rel="stylesheet" type="text/css" />
+  <script src="http://visjs.org/dist/vis.js"></script>
+</header>
 
 
-##Chapter #2 Making Recommendations
+<div id="mytimeline"></div>
 
-Steps to build a Recommendation System:
+  <script type="text/javascript">
+    // DOM element where the Timeline will be attached
+    var container = document.getElementById('mytimeline');
 
-- Collecting data about the things people like;
-- Find a way to determine how similar people are in their tastes: Euclidean distance and Pearson correlation;
-- Now that you have functions for comparing two people, you can create a function that scores everyone against a given person and finds the closest matches.
+    // Create a DataSet with data (enables two way data binding)
+    var data = new vis.DataSet([
+      {id: 1, content: '沸腾十五年', start: '2014-06-29',},
+      {id: 2, content: '阮一峰博客文集1：如何变得有思想？', start: '2014-07-29'},
+      {id: 3, content: '世界是数字的', start: '2014-08-03'},
+      {id: 4, content: '结网', start: '2014-08-04'},
+      {id: 5, content: '推荐系统实践' , start:'2014-08-17' },
+      {id: 6, content: 'Programming Collective Intelligence' , start:'2014-08-24' },
+      {id: 7, content: '周鸿祎自述:我的互联网方法论' , start:'2014-08-24' },
+      {id: 8, content: 'A Programmer\'s Guide To Data Mining' , start:'2014-09-07' },
+      {id: 9, content: '免费：商业的未来', start:'2014-09-08'}
+      {id: 10, content: '设计诗', start:'2014-09-14'}
+    ]);
 
-Recommendation Engine are of two types:
+    // Configuration for the Timeline
+    var options = {};
 
-####User based
-Recommendation of anything to you based on your data or your profile, like Facebook recommending you friends(though it is more of a collective intelligence) or Gmail displaying ad on the basis of your mails. It can also be collaborative. Collaborative is when other users are also taken into consideration for your recommendation, not only your profile.
-
-####Item based 
-Recommendation of anything to you based on the item you are watching. Eg:- Amazon recommending you books when you were going through the books related to collective intelligence or recommendations.
-
-
-[Item-Based Collaborative Filtering Recommendation Algorithms](http://files.grouplens.org/papers/www10_sarwar.pdf)
-
-
-
-##Euclidean Distance
-[Euclidean Distance](http://en.wikipedia.org/wiki/Euclidean_distance) finds the distance between two points in multidimensional space, which is the kind of distance you measure with a ruler. If the points are written as (p1, p2, p3, p4, ...) and (q1, q2, q3, q4, ...), then the formula for Euclidean distance can be expressed as shown：
-
-<img src="/images/recommander/diagram_euclidean_distance_metric.png" width="500" />
-<img src="/images/recommander/code_euclidean_distance.png" width="500" />
-
-##Pearson Correlation Coefficient
-[Pearson Correlation Coefficient](http://en.wikipedia.org/wiki/Pearson_product-moment_correlation_coefficient) is a measure of how highly correlated two variables are. It is a value between 1 and –1, where 1 indicates that the variables are per- fectly correlated, 0 
-indicates no correlation, and –1 means they are perfectly inversely correlated.
-
-<img src="/images/recommander/pearson_correlation_coefficient.png" width="500" />
-<img src="/images/recommander/code_pearson_distance.png" width="500" />
-<img src="/images/recommander/Correlation_coefficient.gif" width="500" />
-<img src="/images/recommander/Correlation_examples2.svg.png" width="500" />
+    // Create a Timeline
+    var timeline = new vis.Timeline(container, data, options);
+  </script>
 
 
-##Chapter #3 Discovering Group
+  <p>
+  <p>
 
-##Chapter #4 Searching and Ranking
+  
+    
 
-What’s in a Search Engine?
-
-- 1.Creating a search engine is to develop a way to collect the docu- ments. In some cases, this will involve crawling (starting with a small set of documents and following links to others) and in other cases it will begin with a fixed collection of documents, perhaps from a corporate intranet.
-- 2.After you collect the documents, they need to be indexed. This usually involves cre- ating a big table of the documents and the locations of all the different words.
-- 3.Returning a ranked list of documents from a query.
-- 4.Build a neural network for ranking queries. The neural network will learn to associate searches with results based on what links people click on after they get a list of search results. 
-	
-##Chapter #5 Optimization
-
-##Chapter #6 Document Filterling
-
-##Chapter #7 Modeling with Decision Tree
-
-##Chapter #8 Build Price Model
+  <section id="allbooks">
 
 
+      <h1>Computer Science</h1>
 
+      <h2><a href="http://amzn.com/0201657880">Programming Pearls</a></h2>
 
+      <h2><a href="http://amzn.com/1849967202">The Algorithms Design Manual</a></h2>
+
+      <h2><a href="http://amzn.com/0262033844">Introduction Of Algorithms</a></h2>
+
+      <h2><a href="http://amzn.com/098478280X">Cracking the Coding Interview</a></h2>
+
+      <h2><a href="http://amzn.com/020161622X">The Pragmatic Programmer: From Journeyman to Master</a></h2>
+
+      <h2><a href="http://amzn.com/0201633612">Design Patterns: Elements of Reusable Object-Oriented Software</a></h2>
+
+      <h2><a href="http://amzn.com/0136108040">Computer System: A Programmer’s perspective</a></h2>
+      <h2><a href="http://amzn.com/0131103628">The C Programming Language</a></h>
+
+      <h2><a href="http://www.greenteapress.com/thinkos/thinkos.pdf">Think OS:A Brief Introduction Of Operation Systems</a></h2>
+
+      <h2><a href="http://amzn.com/0132350882">Clean Code: A Handbook of Agile Software Craftsmanship</a></h2>
+
+      <h2><a href="http://amzn.com/143023945X">Pro Android Augmented Reality</a></h2>
+
+      <h2><a href="http://www.diveintopython.net/">Dive into Python</a></h2>
+
+      <h2><a href="http://www.amazon.cn/dp/B009RSXIB4">编码：隐匿在计算机后面的软硬语言</a></h2>
+
+      <h2><a href="http://www.amazon.cn/dp/B00EYSPGYE">汇编语言</a></h2>
+
+      <h2><a href="http://www.duokan.com/book/41805">深入理解java虚拟机：JVM高级特性与最佳实践</a></h2>
+
+      <h2><a href="http://www.duokan.com/book/39764">改变世界的九大算法</a></h2>
+
+      <h2><a href="http://www.amazon.cn/dp/B0011425T8">C程序设计语言</a></h2>
+      <h2><a href="http://amzn.com/098146730X">Two Scoops of Django: Best Practices For Django 1.5</a></h2>
+      <h2><a href="http://gsl.mit.edu/media/programs/mexico-summer-2013/materials/djangobook.pdf">The Django Book</a></h2>
+      <h2><a href="http://www.amazon.cn/dp/B00DSQZBDE">世界是数字的</a></h2>
+      <h2><a href="http://amzn.com/0321356683">Effecttive Java</a></h2>
+      <h2><a href="http://www.duokan.com/book/12892">推荐系统实践</a></h2>
+      <h2><a href="http://amzn.com/0596529325">Programming Collective Intelligence: Building Smart Web 2.0 Applications</a></h2>
+      <h2><a href="http://guidetodatamining.com/">A Programmer's Guide To Data Mining</2></h2>
+
+      </p>
+      <h1>IT/Startup/Tech</h1>
+
+      <h2><a href="http://amzn.com/0307463745">Rework</a></h2>
+
+      <h2><a href="http://amzn.com/0307887898">Lean Startup</a></h2>
+
+      <h2><a href="http://www.duokan.com/book/11407">上帝掷骰子吗：量子物理史话</a></h2>
+
+      <h2><a href="http://www.duokan.com/book/25077">每天读点时间简史</a></h2>
+
+      <h2><a href="http://www.duokan.com/book/41419">黑客</a></h2>
+
+      <h2><a href="http://www.duokan.com/book/246">黑客与画家</a></h2>
+
+      <h2><a href="http://www.amazon.cn/dp/B00B2HDEB2">硅谷之光</a></h2>
+
+      <h2><a href="http://www.duokan.com/book/15162">沸腾十五年</a></h2>
+
+      <h2><a href="http://www.amazon.cn/dp/B00D73BJWK">浪潮之巅</a></h2>
+
+      <h2><a href="http://www.amazon.cn/dp/B0084ASO7E">数学之美</a></h2>
+
+      <h2><a href="http://www.duokan.com/book/42974">信息简史</a></h2>
+
+      <h2><a href="http://www.duokan.com/book/41692">最佳商业模式</a></h2>
+      <h2><a href="">人物</a></h2>
+      <h2><a href="http://www.duokan.com/book/10892">人人都是产品经理</a></h2>
+      <h2><a href="http://www.duokan.com/book/571">结网</a></h2>
+      <h2><a href="http://www.amazon.cn/dp/B00LO3SVSA">周鸿祎自述:我的互联网方法论</a></h2>
+      <h2><a href="http://www.duokan.com/book/14182">免费：商业的未来</a></h2>
+      
+     </p>
+     <h1>Design/Art</h1>
+     <h2><a href="http://amzn.com/0789723107">Don't Make Me Think</a></h2>
+
+     <h2><a href="http://amzn.com/0465067107">The design of everyday thing</a></h2>
+
+     <h2><a href="http://www.slideshare.net/intelleto/designing-with-lean-ux-rapid-product-design-ux-lisbon-2014">Designing with Lean UI</a></h2>
+
+     <h2><a href="http://www.duokan.com/book/2127">写给大家看的设计书</a></h2>
+
+     <h2><a href="http://www.duokan.com/book/12852">西方美术简史</a></h2>
+
+     <h2><a href="http://www.amazon.cn/dp/B00CW7HDQI">毕加索原来可以这样看</a></h2>
+
+     <h2><a href="http://www.amazon.cn/dp/B00CW7HDX6">梵高原来可以这样看</a></h2>
+
+    <h2><a href="http://www.amazon.cn/dp/B00CW7HE2Q">弗里达原来可以这样看</a></h2>
+
+    <h2><a href="http://www.amazon.cn/dp/B00CW7HCJG">拉斐尔原来这样看</a></h2>
+    <h2><a href="http://www.duokan.com/book/17217">设计诗</a></h2>
+
+    </p>
+    <h1>Wisdom</h1>
+
+    <h2><a href="http://amzn.com/0761169253">Steal Like an Artist: 10 Things Nobody Told You About Being Creative</a></h2>
+
+    <h2><a href="http://amzn.com/034553025X">The talent code of 52 tips</a></h2>
+
+    <h2><a href="http://amzn.com/1455528714">Things a Little Bird Told Me: Confessions of the Creative Mind</a></h2>
+
+    <h2><a href="http://www.slideshare.net/bunky34/produce-like-picasso-mastering-design-delivery-sxsw">Produce Like Picasso: Mastering Design Delivery(SXSW)</a></h2>
+    <h2><a href="http://www.duokan.com/book/48508">阮一峰博客文集 1：如何变得有思想?</a></h2>
+    <!--
+    <h2><a href="http://www.duokan.com/book/48501">阮一峰博客文集 2：一个寻找作者的读者</a></h2>
+    -->
+    </p>
+    <h1>Literature/Novel/ETC...</h1>
+
+    <h2><a href="http://book.douban.com/subject/1815640/">王小波杂文第一卷</a></h2>
+
+    <h2><a href="http://book.douban.com/subject/2567698/">三体</a></h2>
+
+    <h2><a href="http://book.douban.com/subject/2340609/">2001太空漫游</a></h2>
+
+    <h2><a href="http://www.duokan.com/book/41972">世界经典电影大记录</a></h2>
+
+    <h2><a href="http://www.duokan.com/book/41755"> 奥黛丽·赫本：落入凡间的天使</a></h2>
+
+  </section>
