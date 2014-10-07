@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Summary:Peace Is Every Step: The Path of Mindfulness in Everyday Life 
+title: Summary:Peace Is Every Step
 ---
 
 {{ page.title }}
