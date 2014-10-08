@@ -86,6 +86,24 @@ ISBN: 0804139296 READ: 2014-10-8 RATING: */10
 
 - You’ve probably heard about “first mover advantage”: if you’re the first entrant into a market, you can capture significant market share while competitors scramble to get started. But moving first is a tactic, not a goal.
 
+- Startup messed up at its foundation cannot be fixed.
+
+- When you start something, the first and most crucial decision you make is whom to start it with. Choosing a co-founder is like getting married, and founder conflict is just as ugly as divorce.
+
+- •Ownership: who legally owns a company’s equity?
+• Possession: who actually runs the company on a day-to-day basis?
+• Control: who formally governs the company’s affairs?
+
+- In the boardroom, less is more. The smaller the board, the easier it is for the directors to communicate, to reach consensus, and to exercise effective oversight.
+
+- If you want that kind of free rein from your board, blow it up to giant size. If you want an effective board, keep it small.
+
+- A startup is a team of people on a mission, and a good culture is just what that looks like on the inside.
+
+- From the outside, everyone in your company should be different in the same way. On the inside, every individual should be sharply distinguished by her work.
+
+- The best thing I did as a manager at PayPal was to make every person in the company responsible for doing just one thing.
+
 
 
 
