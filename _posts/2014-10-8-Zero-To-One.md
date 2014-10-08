@@ -16,6 +16,8 @@ ISBN: 0804139296 READ: 2014-10-8 RATING: */10
 
 [Peter Thiel](https://en.wikipedia.org/wiki/Peter_Thiel) cofounded PayPal, Palantir and is a legendary entrepreneur and investor. In this book, he shows how we can find singular ways to create those new things. 
 
+[Business Strategy and Monopoly Theory](http://startupclass.samaltman.com/courses/lec05/)
+
 - EVERY MOMENT IN BUSINESS happens only once. The next Bill Gates will not build an operating system. The next Larry Page or Sergey Brin won’t make a search engine. And the next Mark Zuckerberg won’t create a social network. If you are copying these guys, you aren’t learning from them.
 
 - Of course, it’s easier to copy a model than to make something new. Doing what we already know how to do takes the world from 1 to n, adding more of something familiar. But every time we create something new, we go from 0 to 1. The act of creation is singular, as is the moment of creation, and the result is something fresh and strange.
@@ -58,16 +60,31 @@ ISBN: 0804139296 READ: 2014-10-8 RATING: */10
 
 - All happy companies are different: each one earns a monopoly by solving a unique problem. All failed companies are the same: they failed to escape competition.
 
+- This is a simple truth, but we’ve all been trained to ignore it. Our educational system both drives and reflects our obsession with competition. Grades themselves allow precise measurement of each student’s competitiveness; pupils with the highest marks receive status and credentials. 
 
+- Just as war cost the Montagues and Capulets their children, it cost Microsoft and Google their dominance: Apple came along and overtook them all. In January 2013, Apple’s market capitalization was $500 billion, while Google and Microsoft combined were worth $467 billion. Just three years before, Microsoft and Google were each more valuable than Apple. War is costly business.
 
+- Rivalry causes us to overemphasize old opportunities and slavishly copy what has worked in the past. 
 
+- For a company to be valuable it must grow and endure, but many entrepreneurs focus only on short-term growth.
 
+- Every monopoly is unique, but they usually share some combination of the following characteristics: proprietary technology, network effects, economies of scale, and branding.
 
+- As a good rule of thumb, proprietary technology must be at least 10 times better than its closest substitute in some important dimension to lead to a real monopolistic advantage. 
 
+- This is why successful network businesses rarely get started by MBA types: the initial markets are so small that they often don’t even appear to be business opportunities at all.
 
+- A monopoly business gets stronger as it gets bigger: the fixed costs of creating a product (engineering, management, office space) can be spread out over ever greater quantities of sales. Software startups can enjoy especially dramatic economies of scale because the marginal cost of producing another copy of the product is close to zero.
 
+- When Steve Jobs returned to Apple, didn’t just make Apple a cool place to work; he slashed product lines to focus on the handful of opportunities for 10x improvements. No technology company can be built on branding alone.
 
+- The perfect target market for a startup is a small group of particular people concentrated together and served by few or no competitors. Any big market is a bad choice, and a big market already served by competing companies is even worse.
 
+- The most successful companies make the core progression—to first dominate a specific niche and then scale to adjacent markets—a part of their founding narrative.
+
+- As you craft a plan to expand to adjacent markets, don’t disrupt: avoid competition as much as possible.
+
+- You’ve probably heard about “first mover advantage”: if you’re the first entrant into a market, you can capture significant market share while competitors scramble to get started. But moving first is a tactic, not a goal.
 
 
 
