@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Summary: Effective Java
+title: Summary:Effective Java
 ---
 
 {{ page.title }}

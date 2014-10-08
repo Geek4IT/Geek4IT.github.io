@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Summary: Zero to One
+title: Summary:Zero to One
 ---
 
 {{ page.title }}
