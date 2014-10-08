@@ -44,7 +44,7 @@ ISBN: 0804139296 READ: 2014-10-8 RATING: */10
 
 - But it’s hard to blame people for dancing when the music was playing.
 
-- “ four big lessons from the dot-com crash”:1. Make incremental advances;2. Stay lean and flexible;3. Improve on the competition;4. Focus on product, not sales.
+- Four big lessons from the dot-com crash: 1. Make incremental advances;2. Stay lean and flexible;3. Improve on the competition;4. Focus on product, not sales.
 
 - The most contrarian thing of all is not to oppose the crowd but to think for yourself.
 
