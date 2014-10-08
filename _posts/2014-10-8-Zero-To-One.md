@@ -14,6 +14,8 @@ title: Summary:Zero to One
 
 ISBN: 0804139296 READ: 2014-10-8 RATING: */10
 
+[Peter Thiel](https://en.wikipedia.org/wiki/Peter_Thiel) cofounded PayPal, Palantir.
+
 - EVERY MOMENT IN BUSINESS happens only once. The next Bill Gates will not build an operating system. The next Larry Page or Sergey Brin won’t make a search engine. And the next Mark Zuckerberg won’t create a social network. If you are copying these guys, you aren’t learning from them.
 
 - Of course, it’s easier to copy a model than to make something new. Doing what we already know how to do takes the world from 1 to n, adding more of something familiar. But every time we create something new, we go from 0 to 1. The act of creation is singular, as is the moment of creation, and the result is something fresh and strange.
