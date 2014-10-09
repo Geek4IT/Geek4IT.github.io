@@ -16,7 +16,7 @@ ISBN: 0804139296 READ: 2014-10-8 RATING: */10
 
 [Peter Thiel](https://en.wikipedia.org/wiki/Peter_Thiel) cofounded PayPal, Palantir and is a legendary entrepreneur and investor. In this book, he shows how we can find singular ways to create those new things. 
 
-[Business Strategy and Monopoly Theory](http://startupclass.samaltman.com/courses/lec05/)
+Here is his talk in YC' How to Start a Startup: [Business Strategy and Monopoly Theory](http://startupclass.samaltman.com/courses/lec05/)
 
 - EVERY MOMENT IN BUSINESS happens only once. The next Bill Gates will not build an operating system. The next Larry Page or Sergey Brin won’t make a search engine. And the next Mark Zuckerberg won’t create a social network. If you are copying these guys, you aren’t learning from them.
 
