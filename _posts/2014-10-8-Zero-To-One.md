@@ -104,6 +104,15 @@ Here is his talk in YC' How to Start a Startup: [Business Strategy and Monopoly 
 
 - The best thing I did as a manager at PayPal was to make every person in the company responsible for doing just one thing.
 
+- Nerds are used to transparency. They add value by becoming expert at a technical skill like computer programming. In engineering disciplines, a solution either works or it fails. You can evaluate someone else’s work with relative ease, as surface appearances don’t matter much. Sales is the opposite: an orchestrated campaign to change surface appearances without changing the underlying reality. This strikes engineers as trivial if not fundamentally dishonest. They know their own jobs are hard, so when they look at salespeople laughing on the phone with a customer or going to two-hour lunches, they suspect that no real work is being done. If anything, people overestimate the relative difficulty of science and engineering, because the challenges of those fields are obvious. What nerds miss is that it takes hard work to make sales look easy.
+
+- All salesmen are actors: their priority is persuasion, not sincerity.
+
+- Like acting, sales works best when hidden.
+
+- A product is viral if its core functionality encourages users to invite their friends to become users too.
+
+- Properly understood, technology is the one way for us to escape competition in a globalizing world.
 
 
 
