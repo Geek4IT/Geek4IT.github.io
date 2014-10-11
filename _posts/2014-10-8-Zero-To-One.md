@@ -114,6 +114,16 @@ Here is his talk in YC' How to Start a Startup: [Business Strategy and Monopoly 
 
 - Properly understood, technology is the one way for us to escape competition in a globalizing world.
 
+- Why do so many people miss the power of complementarity? It starts in school. Software engineers tend to work on projects that replace human efforts because that’s what they’re trained to do. Academics make their reputations through specialized research; their primary goal is to publish papers, and publication means respecting the limits of a particular discipline. For computer scientists, that means reducing human capabilities into specialized tasks that computers can be trained to conquer one by one.
 
-
-
+- Most cleantech companies crashed because they neglected one or more of the seven questions that every business must answer:
+	- The Engineering Question: Can you create breakthrough technology instead of incremental improvements?
+	- The Timing Question: Is now the right time to start your particular business?
+	- The Monopoly Question: Are you starting with a big share of a small market?
+	- The People Question: Do you have the right team?
+	- The Distribution Question: Do you have a way to not just create but deliver your product?
+	- The Durability Question: Will your market position be defensible 10 and 20 years into the future?
+	- The Secret Question: Have you identified a unique opportunity that others don’t see?
+	- Great companies have secrets: specific reasons for success that other people don’t see.
+	
+- Doing something different is what’s truly good for society—and it’s also what allows a business to profit by monopolizing a new market. The best projects are likely to be overlooked, not trumpeted by a crowd; the best problems to work on are often the ones nobody else even tries to solve.
