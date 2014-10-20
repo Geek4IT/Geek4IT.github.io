@@ -12,7 +12,7 @@ title: Summary:Zero to One
 
 ##[Zero to One: Notes on Startups, or How to Build the Future](http://amzn.com/0804139296)
 
-ISBN: 0804139296 READ: 2014-10-8 RATING: */10
+ISBN: 0804139296 READ: 2014-10-8 RATING: 9/10
 
 [Peter Thiel](https://en.wikipedia.org/wiki/Peter_Thiel) cofounded PayPal, Palantir and is a legendary entrepreneur and investor. In this book, he shows how we can find singular ways to create those new things. 
 
