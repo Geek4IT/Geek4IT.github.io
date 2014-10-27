@@ -7,78 +7,66 @@ title: Geek4IT
   <title>My Todos</title>
   <link rel="stylesheet" href="/css/todos.css" type="text/css"/>
   <script type="text/javascript" src="/js/todos.js"></script>
+  <script src="http://fb.me/react-0.11.2.js"></script>
+  <script src="http://fb.me/JSXTransformer-0.11.2.js"></script>
+  <script src="http://code.jquery.com/jquery-1.10.0.min.js"></script>
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/showdown/0.3.1/showdown.min.js"></script>
 
 </header>
 
 <body>
-<div class='todo-app'>
 
-  <header id='header'>
-    <!-- we bind to the custom 'enter' event as well as 'change', for the benefit of IE -->
-    <input id='new-todo' on-enter-change='new_todo' placeholder='What needs to be done?' autofocus>
-  </header>
-
-  {{#items.length}} <!-- only show when there are one or more items -->
-    <section id='main'>
-
-      <!-- 'toggle all' button -->
-      <label for='toggle-all'>Mark all as complete</label>
-      <input
-        id='toggle-all'
-        type='checkbox'
-        on-click-change='toggle_all'
-        checked='{{ items.length === completedTodos() }}'
-        intro='fade'
-        outro='fade'
-      >
-
-      <!-- the actual list -->
-      <ul id='todo-list'>
-        {{#items:i}}
-          {{>item}}
-        {{/items}}
-      </ul>
-    </section>
-
-    <div id='footer' intro='fade' outro='slide'>
-      <span id='todo-count'>
-        <strong>{{ activeTodos() }}</strong> {{ activeTodos() === 1 ? 'item' : 'items' }} left
-      </span>
-
-      <!-- switch filters -->
-      <ul id='filters'>
-        <li class='{{ currentFilter === "all" ? "selected" : "" }}' on-tap='set_filter:all'>All</li>
-        <li class='{{ currentFilter === "active" ? "selected" : "" }}' on-tap='set_filter:active'>Active</li>
-        <li class='{{ currentFilter === "completed" ? "selected" : "" }}' on-tap='set_filter:completed'>Completed</li>
-      </ul>
-
-      <!-- hidden if no completed items are left -->
-      {{# completedTodos() }}
-        <button id='clear-completed' on-tap='clear_completed'>
-          Clear completed ({{ completedTodos() }})
-        </button>
-      {{/ completedTodos() }}
-    </div>
-  {{/items.length}}
-
-</div>
-
-
-<!-- {{>item}} -->
-{{# filter( this ) }}
-<li intro='slide:fast' outro='slide:fast' class='{{ .completed ? "completed" : "" }} {{ .editing ? "editing" : "" }}'>
-  <div class='view'>
-    <input class='toggle' type='checkbox' checked='{{.completed}}'>
-    <label on-dblclick='edit'>{{description}}</label>
-    <button on-tap='remove:{{i}}' class='destroy'></button>
-  </div>
-
-  {{#.editing}}
-    <div class='edit-container'>
-      <input intro='select' class='edit' value='{{description}}' on-blur-enter='submit'>
-    </div>
-  {{/.editing}}
-</li>
-{{/ end of todo item }}
-<!-- {{/item}} -->
+<div id="content"></div>
+    <script type="text/jsx">
+      /** @jsx React.DOM */
+      // The above declaration must remain intact at the top of the script.
+      // Your code here
+  var CommentBox = React.createClass({
+    loadCommentsFromServer: function() {
+      $.ajax({
+        url: this.props.url,
+        dataType: 'json',
+        success: function(data) {
+          this.setState({data: data});
+        }.bind(this),
+        error: function(xhr, status, err) {
+          console.error(this.props.url, status, err.toString());
+        }.bind(this)
+      });
+    },
+    handleCommentSubmit: function(comment) {
+      var comments = this.state.data;
+      var newComments = comments.concat([comment]);
+      this.setState({data: newComments});
+      $.ajax({
+        url: this.props.url,
+        dataType: 'json',
+        type: 'POST',
+        data: comment,
+        success: function(data) {
+          this.setState({data: data});
+        }.bind(this),
+        error: function(xhr, status, err) {
+          console.error(this.props.url, status, err.toString());
+        }.bind(this)
+      });
+    },
+    getInitialState: function() {
+      return {data: []};
+    },
+    componentDidMount: function() {
+      this.loadCommentsFromServer();
+      setInterval(this.loadCommentsFromServer, this.props.pollInterval);
+    },
+    render: function() {
+      return (
+        <div className="commentBox">
+          <h1>Comments</h1>
+          <CommentList data={this.state.data} />
+          <CommentForm onCommentSubmit={this.handleCommentSubmit} />
+        </div>
+      );
+    }
+  });
+    </script>
 </body>
