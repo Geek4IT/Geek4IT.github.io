@@ -11,62 +11,29 @@ title: Geek4IT
   <script src="http://fb.me/JSXTransformer-0.11.2.js"></script>
   <script src="http://code.jquery.com/jquery-1.10.0.min.js"></script>
   <script src="http://cdnjs.cloudflare.com/ajax/libs/showdown/0.3.1/showdown.min.js"></script>
-
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="bower_components/todomvc-common/base.css">
 </header>
 
 <body>
+    <section id="todoapp"></section>
+    <footer id="info">
+      <p>Double-click to edit a todo</p>
+      <p>Created by <a href="http://github.com/petehunt/">petehunt</a></p>
+      <p>Part of <a href="http://todomvc.com">TodoMVC</a></p>
+    </footer>
 
-<div id="content"></div>
-    <script type="text/jsx">
-      /** @jsx React.DOM */
-      // The above declaration must remain intact at the top of the script.
-      // Your code here
-  var CommentBox = React.createClass({
-    loadCommentsFromServer: function() {
-      $.ajax({
-        url: this.props.url,
-        dataType: 'json',
-        success: function(data) {
-          this.setState({data: data});
-        }.bind(this),
-        error: function(xhr, status, err) {
-          console.error(this.props.url, status, err.toString());
-        }.bind(this)
-      });
-    },
-    handleCommentSubmit: function(comment) {
-      var comments = this.state.data;
-      var newComments = comments.concat([comment]);
-      this.setState({data: newComments});
-      $.ajax({
-        url: this.props.url,
-        dataType: 'json',
-        type: 'POST',
-        data: comment,
-        success: function(data) {
-          this.setState({data: data});
-        }.bind(this),
-        error: function(xhr, status, err) {
-          console.error(this.props.url, status, err.toString());
-        }.bind(this)
-      });
-    },
-    getInitialState: function() {
-      return {data: []};
-    },
-    componentDidMount: function() {
-      this.loadCommentsFromServer();
-      setInterval(this.loadCommentsFromServer, this.props.pollInterval);
-    },
-    render: function() {
-      return (
-        <div className="commentBox">
-          <h1>Comments</h1>
-          <CommentList data={this.state.data} />
-          <CommentForm onCommentSubmit={this.handleCommentSubmit} />
-        </div>
-      );
-    }
-  });
-    </script>
+    <script src="bower_components/todomvc-common/base.js"></script>
+    <script src="bower_components/react/react-with-addons.js"></script>
+    <script src="bower_components/react/JSXTransformer.js"></script>
+    <script src="bower_components/director/build/director.js"></script>
+
+    <script src="js/utils.js"></script>
+    <script src="js/todoModel.js"></script>
+    <!-- jsx is an optional syntactic sugar that transforms methods in React's
+    `render` into an HTML-looking format. Since the two models above are
+    unrelated to React, we didn't need those transforms. -->
+    <script type="text/jsx" src="js/todoItem.jsx"></script>
+    <script type="text/jsx" src="js/footer.jsx"></script>
+    <script type="text/jsx" src="js/app.jsx"></script>
 </body>
