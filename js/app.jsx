@@ -152,7 +152,6 @@ var app = app || {};
 			return (
 				<div>
 					<header id="header">
-						<h1>TODOS</h1>
 						<input
 							ref="newField"
 							id="new-todo"
