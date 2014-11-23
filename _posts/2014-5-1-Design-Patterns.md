@@ -1,12 +1,12 @@
 ---
 date: 2014-2-1 13:24:1+00:00
 layout: post
-title: Summary:Design Patterns
+title: Summary: Design Patterns
 thread: 18
 categories: Reading
 tags: Reading CS
 ---
- 
+
 <img src="http://ecx.images-amazon.com/images/I/51szD9HC9pL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg" width="200" />
 
 [Design Patterns: Elements of Reusable Object-Oriented Software](http://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_1?ie=UTF8&qid=1397993114&sr=8-1&keywords=design+pattern)
@@ -24,7 +24,7 @@ A "Pattern" is a named,well-understood solution to a common problem in the speci
 > “Each pattern describes a problem which occurs over and over again in our environment, and then
 describes the core of the solution to that problem,in such a way that you can use this solution a million times over, without ever doing the same thing twice.” -Christopher Alexander
 
-Each pattern is a three-part rule, which expresses a relation between a certain context, a problem, and a solution. 
+Each pattern is a three-part rule, which expresses a relation between a certain context, a problem, and a solution.
 
 Design patterns are descriptions of communicating objects and classes that are customized to solve a general design problem in a particular context.
 
@@ -36,10 +36,10 @@ Design patterns are descriptions of communicating objects and classes that are c
 - Motivation
 - Applicability
 - Structure
-- Participants 
-- Collaborations 
-- Consequences 
-- Implementation 
+- Participants
+- Collaborations
+- Consequences
+- Implementation
 - Sample Code and Usage
 - Known Uses
 - Related Patterns
@@ -64,7 +64,7 @@ Design patterns are descriptions of communicating objects and classes that are c
 
 
 - Structural Patterns
-	
+
 	These design patterns concern class and object composition. Concept of inheritance is used to compose interfaces and define ways to compose objects to obtain new functionalities.
 
 - Behavioral Patterns
@@ -86,31 +86,31 @@ Design patterns are descriptions of communicating objects and classes that are c
 - Factory Method
 
 	Define an interface for creating an object, but let subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses.
-	
-- Prototype 
+
+- Prototype
 - Singleton
 
 
 ###	Structural Patterns
 
-- Adapter 
+- Adapter
 
 	Convert the interface of a class into another interface clients expect. Adapter lets classes work together that couldn't otherwise because of incompatible interfaces.
 
 	<img src="/images/designpatterns/Adapter.png" width="400" />
 
 - Bridge
-	
+
 	Decouple an abstraction from its implementation so that the two can vary independently.
-	
+
 - Composite
-	
+
 	Compose objects into tree structures to represent part-whole hierarchies. Composite lets clients treat individual objects and compositions of objects uniformly.
-	
+
 - Decorator
 
 	Attach additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality.
-	
+
 - Facade
 
 	Provide a unified interface to a set of interfaces in a subsystem. Facade defines a higher-level interface that makes the subsystem easier to use.
@@ -120,7 +120,7 @@ Design patterns are descriptions of communicating objects and classes that are c
 	Use sharing to support large numbers of fine-grained objects efficiently.
 
 - Proxy
-	
+
 	Provide a surrogate or placeholder for another object to control access to it.
 
 ### Behaviour Patterns
@@ -128,7 +128,7 @@ Design patterns are descriptions of communicating objects and classes that are c
 - Chain of Responsibility
 
 	Avoid coupling the sender of a request to its receiver by giving morethan one object a chance to handle the request. Chain the receivingobjects and pass the request along the chain until an objecthandles it.
-	
+
 
 	<img src="/images/designpatterns/ChainOfRespinsibility.png" width="400" />
 
@@ -139,7 +139,7 @@ Design patterns are descriptions of communicating objects and classes that are c
 	<img src="/images/designpatterns/Command.png" width="400" />
 
 - Interpreter
- 
+
 - Iterator
 
 	Provide a way to access the elements of an aggregate object sequentially without exposing its underlying representation.
@@ -156,7 +156,7 @@ Design patterns are descriptions of communicating objects and classes that are c
 	Define a one-to-many dependency between objects so that when oneobject changes state, all its dependents are notified and updatedautomatically.
 
 	<img src="/images/designpatterns/Observer.png" width="400" />
-	
+
 
 - State
 - Strategy
@@ -171,7 +171,3 @@ Design patterns are descriptions of communicating objects and classes that are c
 
 ###Statement
 These ablove pics come from [Mcdonaldland' Design Patterns Card](http://www.mcdonaldland.info/files/designpatterns/designpatternscard.pdf)
-
-
-
-

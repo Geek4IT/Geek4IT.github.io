@@ -1,7 +1,7 @@
 ---
 date: 2014-6-1 23:1:22+00:00
 layout: post
-title: Summary:Think OS:A Brief Introduction Of Operation Systems
+title: Summary: Think OS:A Brief Introduction Of Operation Systems
 thread: 22
 categories: Reading
 tags: Reading CS
@@ -56,7 +56,7 @@ READ: 2014-06-1 RATING: 7/10
 - Cache performance
 - Locality
 - Measuring cache performance
-- Programming for cache performance 
+- Programming for cache performance
 - The memory hierarchy
 - Caching policy
 
@@ -76,27 +76,3 @@ READ: 2014-06-1 RATING: 7/10
 ####10 Synchronization in C
 - Mutual exclusion
 - Make your own semaphores
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

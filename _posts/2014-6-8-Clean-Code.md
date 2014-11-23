@@ -1,7 +1,7 @@
 ---
 date: 2014-6-8 21:13:12+00:00
 layout: post
-title: Summary:Clean Code:A Handbook Of Agile Software Craftsmanship
+title: Summary: Clean Code:A Handbook Of Agile Software Craftsmanship
 thread: 23
 categories: Reading
 tags: Reading CS
@@ -22,14 +22,14 @@ This is a book talking about writing clean,readable,functional and best practice
 
 ###Chapter 2: Meaningful Names
 - Use Intention-Revealing Names
-- Avoid “noise” words in variable names. 
+- Avoid “noise” words in variable names.
 
 	Instead of ProductInfo or ProductData, just use Product. “Info” and “Data” don’t provide real meaning or anything more specific.
 
 - Use Pronounceable Names
-- Think about the “search friendliness” of a name. 
+- Think about the “search friendliness” of a name.
 
-	you had to come back in 6 months and find this code, what would you search for? Using constants instead of numbers can also help. 
+	you had to come back in 6 months and find this code, what would you search for? Using constants instead of numbers can also help.
 
 - Don't Be Cute
 - Pick One Word per Concept
@@ -106,9 +106,9 @@ comments very much—perhaps not at all.
 
 
 ###Chapter 6: Objects and Data Structures
-- Objects hide their data behind abstractions and expose functions that operate on that data. Data struc- ture expose their data and have no meaningful functions. 
+- Objects hide their data behind abstractions and expose functions that operate on that data. Data struc- ture expose their data and have no meaningful functions.
 - The Law of Demeter
-- The quintessential form of a data structure is a class with public variables and no func- tions. 
+- The quintessential form of a data structure is a class with public variables and no func- tions.
 - Objects expose behavior and hide data.
 - Data structures expose data and have no significant behavior.
 
@@ -129,7 +129,3 @@ comments very much—perhaps not at all.
 ###Chapter 16: Refactoring SerialDate
 - First, Make It Work
 - Then Make It Right
-
-
-
-

@@ -1,7 +1,7 @@
 ---
 date: 2014-2-10 23:03:30+00:00
 layout: post
-title: Summary:The Little Book of Talent
+title: Summary: The Little Book of Talent
 thread: 7
 categories: Reading
 tags:  Reading

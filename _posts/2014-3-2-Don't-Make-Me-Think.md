@@ -1,7 +1,7 @@
 ---
 date: 2014-3-2 22:20:12+00:00
 layout: post
-title: Summary:Don't make me think
+title: Summary: Don't make me think
 thread: 12
 categories: Reading
 tags:  Reading Design

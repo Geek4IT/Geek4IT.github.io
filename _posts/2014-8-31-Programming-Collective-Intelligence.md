@@ -1,7 +1,7 @@
 ---
 date: 2014-8-31 23:23:33+00:00
 layout: post
-title: Summary:Programming Collective Intelligence
+title: Summary: Programming Collective Intelligence
 thread: 30
 categories: Reading
 tags: Reading CS
