@@ -1,12 +1,12 @@
 ---
+date: 2014-1-24 13:2:30+00:00
 layout: post
 title: My Hacked Design - Battery Saver
+thread: 2
+categories: Work
+tags:  Work Design
 ---
 
-{{ page.title }}
-================
-
-<p class="meta">24 Jan 2014 - Beijing</p>
 
 [Solo Battery Saver](https://play.google.com/store/apps/details?id=home.solo.plugin.batterysaver)
 

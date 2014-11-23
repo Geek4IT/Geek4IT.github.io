@@ -1,12 +1,11 @@
 ---
+date: 2014-1-24 14:23:40+00:00
 layout: post
 title: My Hacked Design - Solo Weather
+thread: 3
+categories: Work
+tags:  Work Design
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">24 Jan 2014 - Beijing</p>
 
 [Solo Weather](https://play.google.com/store/apps/details?id=home.solo.plugin.weather)
 
