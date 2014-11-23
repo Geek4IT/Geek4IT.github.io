@@ -6,9 +6,6 @@ comments: no
 
 <div id="page">
   <h1>About Me</h1>
-  <p style="width: 161px; margin: 0px 5px 20px 15px; float: right; display: inline;">
-      <img width="160" height="165" alt="Corin Cole" src="/images/avatar.png" /><br />
-  </p>
   <p>Hi, I'm twenty-something boy, ambitious futurist, avid-student of life, start-up guy in Tech, and live in Beijing now.
   <p>This is my personal blog about Software Engineering, Computer Science, Technology, News, Ideas...<p>
   <p>I hate the word: "success", and always looking for the "Aha moment"! Building stuff is one of the most excited things in the world. I am eager to learn more, explore more and do more! Keep calm & be cool!</p>
