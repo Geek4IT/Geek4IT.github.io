@@ -1,12 +1,11 @@
 ---
+date: 2014-2-1 13:24:1+00:00
 layout: post
 title: Summary:Design Patterns
+thread: 18
+categories: Reading
+tags: Reading CS
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">1 May 2014 - Beijing</p>
  
 <img src="http://ecx.images-amazon.com/images/I/51szD9HC9pL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg" width="200" />
 

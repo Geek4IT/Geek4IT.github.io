@@ -1,13 +1,11 @@
 ---
+date: 2014-6-8 21:13:12+00:00
 layout: post
 title: Summary:Clean Code:A Handbook Of Agile Software Craftsmanship
+thread: 23
+categories: Reading
+tags: Reading CS
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">8 Jun 2014 - Beijing</p>
-
 
 [Clean Code:A Handbook Of Agile Software Craftsmanship](http://amzn.com/0132350882)
 

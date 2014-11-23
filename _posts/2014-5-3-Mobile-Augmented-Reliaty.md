@@ -1,12 +1,11 @@
 ---
+date: 2014-5-3 23:14:1+00:00
 layout: post
 title: Mobile Augmented Reality
+thread: 19
+categories: Tech
+tags: Tech
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">3 May 2014 - Beijing</p>
 
 ##Content
 - What's Augmented Reality

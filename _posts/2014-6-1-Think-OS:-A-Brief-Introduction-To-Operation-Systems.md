@@ -1,13 +1,11 @@
 ---
+date: 2014-6-1 23:1:22+00:00
 layout: post
 title: Summary:Think OS:A Brief Introduction Of Operation Systems
+thread: 22
+categories: Reading
+tags: Reading CS
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">1 Jun 2014 - Beijing</p>
- 
 
 #[Think OS:A Brief Introduction Of Operation Systems](http://www.greenteapress.com/thinkos/index.html)
 

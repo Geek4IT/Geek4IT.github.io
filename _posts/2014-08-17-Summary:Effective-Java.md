@@ -1,12 +1,11 @@
 ---
+date: 2014-8-17 23:12:23+00:00
 layout: post
 title: Summary:Effective Java
+thread: 27
+categories: Reading
+tags: Reading CS
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">30 Mar 2014 - Beijing</p>
 
 <img src="http://ecx.images-amazon.com/images/I/51Om5Z2IiML._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg" width="200" />
 
