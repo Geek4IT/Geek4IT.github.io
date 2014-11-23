@@ -23,7 +23,7 @@ comments: no
 ###Contact：
 
 {% if site.qq %}
-ＱＱ：[{{ site.qq }}](tencent://message/?uin={{ site.qq }})
+Twitter：[{{ site.twitter }}](https://twitter.com/{{ site.twitter }})
 {% endif %}
 Blog：[{{ site.name }}]({{ site.url }})
 
