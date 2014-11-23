@@ -1,20 +1,19 @@
 ---
+date: 2014-10-8 23:33:23+00:00
 layout: post
 title: Summary:Zero to One
+thread: 35
+categories: Reading
+tags: Reading Startup
 ---
 
-{{ page.title }}
-================
-
-<p class="meta">8 Oct 2014 - Beijing</p>
- 
 <img src="http://ecx.images-amazon.com/images/I/411YBdZVAPL.jpg" width="200" />
 
 ##[Zero to One: Notes on Startups, or How to Build the Future](http://amzn.com/0804139296)
 
 ISBN: 0804139296 READ: 2014-10-8 RATING: 9/10
 
-[Peter Thiel](https://en.wikipedia.org/wiki/Peter_Thiel) cofounded PayPal, Palantir and is a legendary entrepreneur and investor. In this book, he shows how we can find singular ways to create those new things. 
+[Peter Thiel](https://en.wikipedia.org/wiki/Peter_Thiel) cofounded PayPal, Palantir and is a legendary entrepreneur and investor. In this book, he shows how we can find singular ways to create those new things.
 
 Here is his talk in YC' How to Start a Startup: [Business Strategy and Monopoly Theory](http://startupclass.samaltman.com/courses/lec05/)
 
@@ -28,7 +27,7 @@ Here is his talk in YC' How to Start a Startup: [Business Strategy and Monopoly 
 
 - If you take one typewriter and build 100, you have made horizontal progress. If you have a typewriter and build a word processor, you have made vertical progress.
 
-- At the macro level, the single word for horizontal progress is globalization—taking things that work somewhere and making them work everywhere. 
+- At the macro level, the single word for horizontal progress is globalization—taking things that work somewhere and making them work everywhere.
 
 - The single word for vertical, 0 to 1 progress is technology.
 
@@ -36,13 +35,13 @@ Here is his talk in YC' How to Start a Startup: [Business Strategy and Monopoly 
 
 - New technology tends to come from new ventures—startups.
 
-- The easiest explanation for this is negative: it’s hard to develop new things in big organizations, and it’s even harder to do it by yourself. Bureaucratic hierarchies move slowly, and entrenched interests shy away from risk. 
+- The easiest explanation for this is negative: it’s hard to develop new things in big organizations, and it’s even harder to do it by yourself. Bureaucratic hierarchies move slowly, and entrenched interests shy away from risk.
 
 -  At the other extreme, a lone genius might create a classic work of art or literature, but he could never create an entire industry. Startups operate on the principle that you need to work with other people to get stuff done, but you also need to stay small enough so that you actually can.
 
 - Startups operate on the principle that you need to work with other people to get stuff done, but you also need to stay small enough so that you actually can.
 
-- Dot-com mania was intense but short—18 months of insanity from September 1998 to March 2000. 
+- Dot-com mania was intense but short—18 months of insanity from September 1998 to March 2000.
 
 - But it’s hard to blame people for dancing when the music was playing.
 
@@ -60,17 +59,17 @@ Here is his talk in YC' How to Start a Startup: [Business Strategy and Monopoly 
 
 - All happy companies are different: each one earns a monopoly by solving a unique problem. All failed companies are the same: they failed to escape competition.
 
-- This is a simple truth, but we’ve all been trained to ignore it. Our educational system both drives and reflects our obsession with competition. Grades themselves allow precise measurement of each student’s competitiveness; pupils with the highest marks receive status and credentials. 
+- This is a simple truth, but we’ve all been trained to ignore it. Our educational system both drives and reflects our obsession with competition. Grades themselves allow precise measurement of each student’s competitiveness; pupils with the highest marks receive status and credentials.
 
 - Just as war cost the Montagues and Capulets their children, it cost Microsoft and Google their dominance: Apple came along and overtook them all. In January 2013, Apple’s market capitalization was $500 billion, while Google and Microsoft combined were worth $467 billion. Just three years before, Microsoft and Google were each more valuable than Apple. War is costly business.
 
-- Rivalry causes us to overemphasize old opportunities and slavishly copy what has worked in the past. 
+- Rivalry causes us to overemphasize old opportunities and slavishly copy what has worked in the past.
 
 - For a company to be valuable it must grow and endure, but many entrepreneurs focus only on short-term growth.
 
 - Every monopoly is unique, but they usually share some combination of the following characteristics: proprietary technology, network effects, economies of scale, and branding.
 
-- As a good rule of thumb, proprietary technology must be at least 10 times better than its closest substitute in some important dimension to lead to a real monopolistic advantage. 
+- As a good rule of thumb, proprietary technology must be at least 10 times better than its closest substitute in some important dimension to lead to a real monopolistic advantage.
 
 - This is why successful network businesses rarely get started by MBA types: the initial markets are so small that they often don’t even appear to be business opportunities at all.
 
@@ -125,5 +124,5 @@ Here is his talk in YC' How to Start a Startup: [Business Strategy and Monopoly 
 	- The Durability Question: Will your market position be defensible 10 and 20 years into the future?
 	- The Secret Question: Have you identified a unique opportunity that others don’t see?
 	- Great companies have secrets: specific reasons for success that other people don’t see.
-	
+
 - Doing something different is what’s truly good for society—and it’s also what allows a business to profit by monopolizing a new market. The best projects are likely to be overlooked, not trumpeted by a crowd; the best problems to work on are often the ones nobody else even tries to solve.

@@ -1,14 +1,11 @@
 ---
+date: 2014-8-31 23:23:33+00:00
 layout: post
 title: Summary:Programming Collective Intelligence
+thread: 30
+categories: Reading
+tags: Reading CS
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">24 Aug 2014 - Beijing</p>
-
-
 
 <img src="http://media-cache-ec0.pinimg.com/736x/a0/04/d2/a004d2aa900ac248f670d403e2487ea5.jpg" width="200" />
 
@@ -32,7 +29,7 @@ Recommendation Engine are of two types:
 ####User based
 Recommendation of anything to you based on your data or your profile, like Facebook recommending you friends(though it is more of a collective intelligence) or Gmail displaying ad on the basis of your mails. It can also be collaborative. Collaborative is when other users are also taken into consideration for your recommendation, not only your profile.
 
-####Item based 
+####Item based
 Recommendation of anything to you based on the item you are watching. Eg:- Amazon recommending you books when you were going through the books related to collective intelligence or recommendations.
 
 
@@ -47,7 +44,7 @@ Recommendation of anything to you based on the item you are watching. Eg:- Amazo
 <img src="/images/recommander/code_euclidean_distance.png" width="500" />
 
 ##Pearson Correlation Coefficient
-[Pearson Correlation Coefficient](http://en.wikipedia.org/wiki/Pearson_product-moment_correlation_coefficient) is a measure of how highly correlated two variables are. It is a value between 1 and –1, where 1 indicates that the variables are per- fectly correlated, 0 
+[Pearson Correlation Coefficient](http://en.wikipedia.org/wiki/Pearson_product-moment_correlation_coefficient) is a measure of how highly correlated two variables are. It is a value between 1 and –1, where 1 indicates that the variables are per- fectly correlated, 0
 indicates no correlation, and –1 means they are perfectly inversely correlated.
 
 <img src="/images/recommander/pearson_correlation_coefficient.png" width="500" />
@@ -65,8 +62,8 @@ What’s in a Search Engine?
 - 1.Creating a search engine is to develop a way to collect the docu- ments. In some cases, this will involve crawling (starting with a small set of documents and following links to others) and in other cases it will begin with a fixed collection of documents, perhaps from a corporate intranet.
 - 2.After you collect the documents, they need to be indexed. This usually involves cre- ating a big table of the documents and the locations of all the different words.
 - 3.Returning a ranked list of documents from a query.
-- 4.Build a neural network for ranking queries. The neural network will learn to associate searches with results based on what links people click on after they get a list of search results. 
-	
+- 4.Build a neural network for ranking queries. The neural network will learn to associate searches with results based on what links people click on after they get a list of search results.
+
 ##Chapter #5 Optimization
 
 ##Chapter #6 Document Filterling
@@ -74,7 +71,3 @@ What’s in a Search Engine?
 ##Chapter #7 Modeling with Decision Tree
 
 ##Chapter #8 Build Price Model
-
-
-
-

@@ -1,12 +1,11 @@
 ---
+date: 2014-9-7 22:13:20+00:00
 layout: post
 title: Summary:A Programmer's Guide to Data Mining
+thread: 31
+categories: Reading
+tags: Reading CS
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">7 Sep 2014 - Beijing</p>
 
 <img src="http://guidetodatamining.com/wp-content/uploads/2012/10/mozi.jpeg" width="200" />
 
@@ -18,11 +17,11 @@ READ: 2014-09-7 RATING: 8/10
 
 How to find stuff?
 
-- Years ago, in that small town, our friends helped us find stuff. 
+- Years ago, in that small town, our friends helped us find stuff.
 
 - We used experts to help us find stuff.
 
-- We also use the thing itself to help us find stuff. 
+- We also use the thing itself to help us find stuff.
 
 These methods of finding relevant stuff— friends, experts, the thing itself—are still present today but we need some computational help to transform them into the 21st century where we have billions of choices.
 
@@ -62,17 +61,17 @@ These methods of finding relevant stuff— friends, experts, the thing itself—
 
 	- Scalability. As we have just discussed, the computation increases as the number of users increases. User-based methods work fine for thousands of users, but scalability gets to be a problem when we have a million users.
 
-	- Sparsity. Most recommendation systems have many users and many products but the average user rates a small fraction of the total products. For example, Amazon carries millions of books but the average user rates just a handful of books. 
-	
+	- Sparsity. Most recommendation systems have many users and many products but the average user rates a small fraction of the total products. For example, Amazon carries millions of books but the average user rates just a handful of books.
+
 - Cosine Similarity
 
 <img src="/images/A Programmer's Guide To Data Mining/Cosine Similarity.jpg" width="300" />
-	
+
 This formula is from a seminal article in collaborative filtering: [“Item-based collaborative filtering recommendation algorithms”](http://www.grouplens.org/papers/pdf/www10_sarwar.pdf)
 
 [Chapter 4: Classification based on item attributes](http://guidetodatamining.com/chapter-4/)
 
-- A classifier is a program that uses an object’s attributes to determine what group or class it belongs to.A classifier uses a set of objects that are already labeled with the class they belong to. It uses that set to classify new, unlabeled objects. 
+- A classifier is a program that uses an object’s attributes to determine what group or class it belongs to.A classifier uses a set of objects that are already labeled with the class they belong to. It uses that set to classify new, unlabeled objects.
 
 - Classifiers can be used in a wide range of applications:
 	- Twitter Sentiment Classification
@@ -90,7 +89,7 @@ This formula is from a seminal article in collaborative filtering: [“Item-base
 
 - People in data mining never test with the data they used to train the system.
 
-- The accuracy based on a single test set may not reflect the true accuracy when our classifier is used with new data. A solution to this problem might be to repeat the process a number of times and average the results. 
+- The accuracy based on a single test set may not reflect the true accuracy when our classifier is used with new data. A solution to this problem might be to repeat the process a number of times and average the results.
 
 - 10-fold Cross Validation: With this method we have one data set which we divide randomly into 10 parts. We use 9 of those parts for training and reserve one tenth for testing. We repeat this procedure 10 times each time reserving a different tenth for testing.
 
