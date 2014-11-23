@@ -1,12 +1,11 @@
 ---
+date: 2014-2-5 9:23:10+00:00
 layout: post
 title: Some works in 2013
+thread: 5
+categories: Stuff
+tags:  2013 Work
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">5 Feb 2014 - Hainan</p>
 
 ![Mou icon](https://lh3.ggpht.com/AZWCml2bESwI89oDFuJFh4F4tazX0yPuk4bEakNCUuctARE-rtEgimxWg-MTIn90JA=w125-rw)
 ###[Solo Launcher](https://play.google.com/store/apps/details?id=home.solo.launcher.free)

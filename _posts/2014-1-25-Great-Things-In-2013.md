@@ -1,12 +1,11 @@
 ---
+date: 2014-1-25 0:0:40+00:00
 layout: post
 title: Great things in 2013
+thread: 4
+categories: Stuff
+tags:  2013 Stuff
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">25 Jan 2014 - Beijing</p>
 
 There is a quote in the end of the *Into The Wild* :Happiness only real when shared,and in *Great thing in 2013* ,I would like to begin with:Knowledge can be happiness when shared.
 ####Content

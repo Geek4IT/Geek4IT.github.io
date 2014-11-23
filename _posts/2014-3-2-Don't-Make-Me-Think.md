@@ -1,13 +1,12 @@
 ---
+date: 2014-3-2 22:20:12+00:00
 layout: post
 title: Summary:Don't make me think
+thread: 12
+categories: Reading
+tags:  Reading Design
 ---
 
-{{ page.title }}
-================
-
-<p class="meta">2 Mar 2014 - Beijing</p>
- 
 <img src="http://media-cache-ec0.pinimg.com/736x/6b/9a/bd/6b9abd3db65f8d000b68662cd5876796.jpg" alt="GitHub" title="GitHub,Social Coding" width="200" />
 
 ##[Don't Make Me Think: A Common Sense Approach to Web Usability (2nd Edition)](http://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?ie=UTF8&qid=1394328375&sr=8-1&keywords=don%27t+make+me+think)
@@ -22,7 +21,7 @@ Don't make me think? refers to the idea that when a web site makes you stop and 
 
 ###Chapter 1 Don't make me think!
 
-Acts as an introduction to the rest of the book. It also explains the two types of thinking your users engage in and why one of them is bad. 
+Acts as an introduction to the rest of the book. It also explains the two types of thinking your users engage in and why one of them is bad.
 Hint: if your users are busy thinking about how to navigate though your site, they aren't thinking about buying your product or service.
 
 Dozens of other things that visitors to a site shouldn’t spend their time
@@ -87,9 +86,9 @@ much of your site as possible.
 ####Create a clear visual hierarchy
 
 * The more important something is, the more prominent it is.
-	
+
 * Things that are related logically are also related visually
-	
+
 * Things are “nested” visually to show what’s part of what
 
 ####Conventions are you friends
@@ -97,7 +96,7 @@ Conventions enable users to figure out a lot about a Web page, even if they
 can’t understand a word of it.
 
 * They’re very useful
-	
+
 * Designers are often reluctant to take advantage of them.
 
 ####Try and avoid noise
@@ -115,7 +114,7 @@ that everything is visual noise until proven otherwise.
 
 ###Chapter 4 Animal, vegetable, or mineral?
 
-Over the years, web designers and usability professionals have spent lots of time debating 
+Over the years, web designers and usability professionals have spent lots of time debating
 how many clicks you should expect a user to go through to get what they want without getting too frustrated…many designers in fact have rules specifying the maximum number of clicks to get to any page on a site.
 
 Krug thinks numbers aren’t so important though – while it seems like a useful criteria to him, it’s generally safe to assume most users don’t mind a lot of clicks as long as they’re effortless.
@@ -134,9 +133,9 @@ Vigorous writing is concise. A sentence should contain no unnecessary words, a p
 Omitting needless words has several benefits, including:
 
    * Reducing noise level on a page
-   
+
    * Making useful content more prominent
-   
+
    * Making pages shorter, which allows users to see more of the page without having to scroll
 
 Therefore, if you’re going to omit needless words, all the happy talk (i.e. self-congratulatory promotional writing) must go. You can tell when you’re reading some. In the back of your head, you hear voices saying, “Blah, blah, blah, blah, blah…”
@@ -145,24 +144,24 @@ Therefore, if you’re going to omit needless words, all the happy talk (i.e. se
 ###Chapter 6 Street signs and Breadcrumbs
 Krug explains how he finds driving in LA an absolute pleasure compared to Boston because the signage is so good - never any question about where you currently are and where you can go next. As he puts it, he is not forced to think. It's the same with web pages and sites, as this chapter demonstrates.
 
-Breadcrumb trails are analysed, broken apart and generally tested to see how effective they are (not so when they double up as page titles), while tabs get a very thorough look at. 
+Breadcrumb trails are analysed, broken apart and generally tested to see how effective they are (not so when they double up as page titles), while tabs get a very thorough look at.
 
 Almost half of the chapter appears to be devoted to Amazon and why they are doing things right. Admittedly, Amazon's site has changed somewhat since this book was published but the basic theory still exists on their site.
 
-'the trunk test'. Krug gives the metaphor that you have been bundled blindfolded into the trunk of a car driven about a bit then landed on a web page. 
+'the trunk test'. Krug gives the metaphor that you have been bundled blindfolded into the trunk of a car driven about a bit then landed on a web page.
 
 Well designed pages answer the following questions without hesitation:
 
    * What site is this? (Site ID)
-   
+
    * What page am I on? (Page name)
-   
+
    * What are the major sections of this site (Sections)
-   
+
    * What are my options at this level? (Local navigation)
-   
+
    * Where am I in the scheme of things? (“You are here” indicators)
-   
+
    * How can I search?
 
 Very rarely do information architects, web designers or project managers think much beyond the third tier of navigation, an area where much of the browsing takes place. This is usally borne out when you try the trunk test on some of the lower level pages of many sites - they just scream 'afterthought'!
@@ -182,5 +181,3 @@ This is prime real estate - it's where everybody wants to be, and therein lies y
 ###Chapter 11 Accessibility, Cascading StyleSheets, and you
 
 ###Chapter 12 Help! My boss wants me to ________
-
-

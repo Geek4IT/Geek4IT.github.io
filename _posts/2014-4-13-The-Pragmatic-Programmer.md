@@ -1,14 +1,12 @@
 ---
----
+date: 2014-4-13 13:24:14+00:00
 layout: post
 title: Summary:The Pragmatic Programmer
+thread: 17
+categories: Reading
+tags: Reading CS
 ---
 
-{{ page.title }}
-================
-
-<p class="meta">13 April 2014 - Beijing</p>
- 
 <img src="http://ecx.images-amazon.com/images/I/41BKx1AxQWL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg" width="200" />
 
 #[The Pragmatic Programmer: From Journeyman to Master](http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=sr_1_1?ie=UTF8&qid=1396931270&sr=8-1&keywords=the+pragmatic+programmer)
@@ -193,7 +191,7 @@ Prove your assumptions in the actual environment – with real data and boundary
 
 ###Tip 61: Don’t use manual procedures.
 
-###Tip 62: Test early. Test often. Test automatically.	
+###Tip 62: Test early. Test often. Test automatically.
 
 ###Tip 63: Coding aren’t done until all the tests run.
 
@@ -235,24 +233,3 @@ Great programmers produce software they’re pround of, and they’re responsibl
 > .The requirements evolve.
 
 > .You need to improve performance.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

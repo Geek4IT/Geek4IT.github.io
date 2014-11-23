@@ -1,12 +1,12 @@
 ---
+date: 2014-2-23 23:10:32+00:00
 layout: post
 title: How to develop a theme app for Android launchers
+thread: 11
+categories: Code
+tags:  Code
 ---
 
-{{ page.title }}
-================
-
-<p class="meta">23 Feb 2014 - Beijing</p>
 Here I am going to guide you through all the steps to build your favourite theme.
 
 
@@ -63,4 +63,3 @@ __Steps to build your favorite theme__
 
 
 [Solo Theme Template In Github](https://github.com/Geek4IT/SoloTheme_Template)
-

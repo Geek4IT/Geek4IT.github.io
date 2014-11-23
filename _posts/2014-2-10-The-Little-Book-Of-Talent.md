@@ -1,13 +1,12 @@
 ---
+date: 2014-2-10 23:03:30+00:00
 layout: post
 title: Summary:The Little Book of Talent
+thread: 7
+categories: Reading
+tags:  Reading
 ---
 
-{{ page.title }}
-================
-
-<p class="meta">10 Feb 2014 - Airplane</p>
- 
 <img src="http://ecx.images-amazon.com/images/I/41cVsbHoXEL._BO2,204,203,200_PIsitb-sticker-v3-big,TopRight,0,-55_SX278_SY278_PIkin4,BottomRight,1,22_AA300_SH20_OU01_.jpg" width="200" />
 
 ##[The Little Book of Talent: 52 Tips for Improving Your Skills](http://www.amazon.com/The-Little-Book-Talent-Improving-ebook/dp/B007JC1RM2)
@@ -40,7 +39,7 @@ All improvement is about absorbing and applying new information,and the best sou
 
 ###TIP #7 Before you start,figure out if it's a hard skill or a soft skill
 
-* HARD, HIGH-PRECISION SKILLS are actions that are performed as correctly and consistently as possible, every time. 
+* HARD, HIGH-PRECISION SKILLS are actions that are performed as correctly and consistently as possible, every time.
 
 * SOFT, HIGH-FLEXIBILITY SKILLS , on the other hand, are those that have many paths to a good result, not just one.
 
@@ -49,16 +48,16 @@ All improvement is about absorbing and applying new information,and the best sou
 
 * To develop reliable hard skills, you need to connect the right wires in your brain. In this, it helps to be careful, slow, and keenly attuned to errors. To work like a careful carpenter.
 
-* When you learn hard skills, be precise and measured. 
+* When you learn hard skills, be precise and measured.
 
-* Pay attention to errors, and fix them, particularly at the start. 
+* Pay attention to errors, and fix them, particularly at the start.
 
 
 ###TIP #9 To build soft skills,play like a skateboarder
 
-* When you practice a soft skill, focus on making a high number of varied reps, and on getting clear feedback. Don’t worry too much about making errors—the important thing is to explore. 
+* When you practice a soft skill, focus on making a high number of varied reps, and on getting clear feedback. Don’t worry too much about making errors—the important thing is to explore.
 
-* Soft skills are often more fun to practice, but they’re also tougher because they demand that you coach yourself. 
+* Soft skills are often more fun to practice, but they’re also tougher because they demand that you coach yourself.
 
 
 * After each session ask yourself, What worked? What didn’t? And why?
@@ -90,7 +89,7 @@ Find the sweet spot,then reach.
 
 ###TIP #13 Find the sweet spot
 
-* There is a place, right on the edge of your ability, where you learn best and fastest. 
+* There is a place, right on the edge of your ability, where you learn best and fastest.
 
 * Comfort Zone,Sweet Spot,Survival Zone
 
@@ -120,12 +119,12 @@ Whenever possible, create a vivid image for each chunk you want to learn. The im
 
 * Mistakes are our guideposts for improvement.
 
-* Don’t wince, don’t close your eyes; look straight at them and see what really happened, and ask yourself what you can do next to improve. 
+* Don’t wince, don’t close your eyes; look straight at them and see what really happened, and ask yourself what you can do next to improve.
 
 
 ###TIP #23 Visualize the wires of your brain forming new connections
 
-* Every time you practice deeply—the wires of your brain get faster. 
+* Every time you practice deeply—the wires of your brain get faster.
 
 ###TIP #24 Visual the wires of your brain getting faster
 
@@ -137,7 +136,7 @@ Whenever possible, create a vivid image for each chunk you want to learn. The im
 
 * Closing your eyes is a swift way to nudge you to the edges of your ability, to get you into your sweet spot.
 
-* It sweeps away distraction and engages your other senses to provide new feedback. 
+* It sweeps away distraction and engages your other senses to provide new feedback.
 
 * t helps you engrave the blueprint of a task on your brain by making even a familiar skill seem strange and fresh.
 
@@ -163,13 +162,13 @@ One way is to employ the sandwich technique. It goes like this:
 
 ###TIP #35 Use the 3x10 technique
 
-To learn something most effectively, practice it three times, with ten-minute breaks between each rep. 
+To learn something most effectively, practice it three times, with ten-minute breaks between each rep.
 
 ###TIP #36 Invent daily tests
 
 ###TIP #37 To choose the best practice method,use the R.E.P.S gause
 
-* R: Reaching and Repeating 
+* R: Reaching and Repeating
 
 * E: Engagement
 * P: Purposefulness
@@ -219,7 +218,7 @@ Embrace repetition,cultive grit,and keep big goals secret
 
 ###TIP #47 To learn it more deeply,teach it
 
-* This works because when you communicate a skill to someone, you come to understand it more deeply yourself. 
+* This works because when you communicate a skill to someone, you come to understand it more deeply yourself.
 
 ###TIP #48 Give a new skill a minimum of eight weeks
 
@@ -238,7 +237,3 @@ Embrace repetition,cultive grit,and keep big goals secret
 * We all want to improve our skills quickly—today, if not sooner. But the truth is, talent grows slowly. You would not criticize a seedling because it was not yet a tall oak tree; nor should you get upset because your skill circuitry is in the growth stage. Instead, build it with daily deep practice.
 
 * Think patiently, without judgment. Work steadily, strategically, knowing that each piece connects to a larger whole.
-
-
-
-

@@ -1,12 +1,11 @@
 ---
+date: 2014-2-18 12:13:10+00:00
 layout: post
 title: When I am Geek4Love
+thread: 10
+categories: Poem
+tags:  Poem Work
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">18 Feb 2014 - Beijing</p>
 
 ![Alt text](/images/geek4love.png)
 

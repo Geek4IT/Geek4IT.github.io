@@ -1,13 +1,11 @@
 ---
+date: 2014-2-6 12:23:10+00:00
 layout: post
 title: World's first argumented reliaty note app -ARNote
+thread: 6
+categories: Work
+tags:  Work
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">6 Feb 2014 - Beijing</p>
-
 
 <img src="/images/arnote/banner.jpg" width="600" />
 

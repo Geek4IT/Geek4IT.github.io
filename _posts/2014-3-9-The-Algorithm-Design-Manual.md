@@ -1,18 +1,17 @@
 ---
+date: 2014-3-9 23:12:34+00:00
 layout: post
 title: Summary:The Algorithm Design Manual
+thread: 13
+categories: Reading
+tags:  Reading CS
 ---
 
-{{ page.title }}
-================
-
-<p class="meta">9 Mar 2014 - Beijing</p>
- 
 <img src="http://media-cache-ec0.pinimg.com/736x/38/de/86/38de868837cb6409e13f90b307033fa0.jpg" width="200" />
 
 ##[The Algorithm Design Manual](http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693/ref=sr_1_1?ie=UTF8&qid=1394328274&sr=8-1&keywords=the+algorithm+design+manual)
 
-ISBN: 1848000693 READ: 2014-03-9 RATING: 
+ISBN: 1848000693 READ: 2014-03-9 RATING:
 
 ##I Practical Algorithm Design 1
 
