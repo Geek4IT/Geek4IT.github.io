@@ -1,0 +1,32 @@
+---
+layout: default
+title: Geek4IT
+---
+
+<header>
+  <link rel="stylesheet" href="/css/todos.css" type="text/css"/>
+  <script type="text/javascript" src="/js/todos.js"></script>
+  <script src="http://fb.me/react-0.11.2.js"></script>
+  <script src="http://fb.me/JSXTransformer-0.11.2.js"></script>
+  <script src="http://code.jquery.com/jquery-1.10.0.min.js"></script>
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/showdown/0.3.1/showdown.min.js"></script>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="bower_components/todomvc-common/base.css">
+</header>
+
+<body>
+    <section id="todoapp"></section>
+    <script src="bower_components/todomvc-common/base.js"></script>
+    <script src="bower_components/react/react-with-addons.js"></script>
+    <script src="bower_components/react/JSXTransformer.js"></script>
+    <script src="bower_components/director/build/director.js"></script>
+
+    <script src="js/utils.js"></script>
+    <script src="js/todoModel.js"></script>
+    <!-- jsx is an optional syntactic sugar that transforms methods in React's
+    `render` into an HTML-looking format. Since the two models above are
+    unrelated to React, we didn't need those transforms. -->
+    <script type="text/jsx" src="js/todoItem.jsx"></script>
+    <script type="text/jsx" src="js/footer.jsx"></script>
+    <script type="text/jsx" src="js/app.jsx"></script>
+</body>

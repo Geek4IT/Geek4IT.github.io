@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="author" content="{{ site.author }}" />
+    <title>{% if page.path == 'index.html' %}{{ site.name }}{% else %}{% unless page.id %}{{ site.name }} - {% endunless %}{{ page.title }}{% endif %}</title>
+    <link href="/feed/" rel="alternate" title="{{ site.author }}" type="application/atom+xml" />
+    <link rel="stylesheet" href="/media/css/style.css" />
+    <link rel="stylesheet" href="/media/css/highlight.css" />
+    <script type="text/javascript" src="/media/js/jquery-1.7.1.min.js"></script>
+    <link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-57012852-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+  </head>
+  <body>
+    <div id="container">
+      <div id="main" role="main">
+        <header>
+        <h1>{{ page.title }}</h1>
+        </header>
+        <nav>
+        <span><a title="网站首页" class="" href="/">Home</a></span>
+        <span><a title="文章分类" class="" href="/categories/">Category</a></span>
+        <span><a title="标签索引" class="" href="/tags/">Tag Cloud</a></span>
+        <span><a title="阅读书单" class="" href="/reading/">Reading</a></span>
+        <span><a title="关于站长" class="" href="/about/">About</a></span>
+        <span><a title="留言交流" class="" href="/guestbook/">Comment</a></span>
+        <span><a title="种子订阅" class="" href="/feed/" target="_blank">Subscribe</a></span>
+        </nav>
+        <article class="content">
+        {{ content }}
+        </article>
+      </div>
+
+    <footer>
+        <p><small>
+            <a href="http://github.com/{{ site.github }}/tree/master/_posts" target="_blank" title="撰写文章">Po</a>wer<a href="http://github.com/{{ site.github }}/NET/edit/gh-pages/{{ page.path }}" target="_blank" title="Edit Page">ed</a> by <a href="http://jekyllrb.com" target="_blank">Jekyll</a> @ <a href="http://github.com/{{ site.github }}/" target="_blank" title="Host">GitHub</a>
+             | <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/cn/" target="_blank" title="License">©</a> 2004 - {{site.time | date:"%Y"}} <a href="/about/">{{ site.author }}</a>
+         </small></p>
+    </footer>
+
+    </div>
+  </body>
+</html>

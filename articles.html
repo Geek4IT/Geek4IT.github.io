@@ -1,0 +1,68 @@
+---
+---
+layout: default
+title: Geek4IT 
+---
+
+<header>
+    <h1>I’m a voracious reader,here are some books I’ve finished recently</h1>
+    <p><strong>This page will constantly update as I read more</strong>, so bookmark it if you want to check back in a few months.</p>
+
+
+     <style type="text/css">
+    body, html {
+      font-family: sans-serif;
+    }
+  </style>
+
+  <script src="http://visjs.org/dist/vis.js"></script>
+  <link href="http://visjs.org/dist/vis.css" rel="stylesheet" type="text/css" />
+
+  <style type="text/css">
+    body, html {
+      font-family: sans-serif;
+    }
+  </style>
+
+</header>
+
+<body>
+<div id="visualization"></div>
+
+<script type="text/javascript">
+  var container = document.getElementById('visualization');
+  var items = [
+    {id: 1, content: '拉斐尔原来可以这样看', start: '2014-03-15'},
+    {id: 2, content: '毕加索原来可以这样看', start: '2014-03-16'},
+    {id: 3, content: 'Effective Java', start: '2014-03-30'},
+    {id: 4, content: 'Ant', start: '2014-04-5'},
+    {id: 5, content: 'The Pragmatic Programmer', start: '2014-04-13'},
+    {id: 6, content: 'Rework', start: '2014-04-20'}
+    {id: 7, content: 'Think OS', start: '2014-06-1'}
+  ];
+  var options = {};
+  var timeline = new vis.Timeline(container, items, options);
+</script>
+</body>
+
+
+
+  <p id="sorters">Sort by
+    <a href="#booklist" id="sort-rating">rating</a>,
+    <a href="#booklist" id="sort-title">title</a> or
+    <a href="#booklist" id="sort-date">date</a>.</p>
+
+  <section id="allbooks">
+      <a href="http://media-cache-ec0.pinimg.com/736x/38/de/86/38de868837cb6409e13f90b307033fa0.jpg">
+        <img src="http://media-cache-ec0.pinimg.com/736x/38/de/86/38de868837cb6409e13f90b307033fa0.jpg" width="200" /></a>
+        <h2><a href="http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693/ref=sr_1_1?ie=UTF8&qid=1394328274&sr=8-1&keywords=the+algorithm+design+manual">The Algorithm Design Manual</a></h2>
+        <p>ISBN: 978-1848000698</p>
+      <p>Summary</p>
+ 
+      <a href="http://media-cache-ec0.pinimg.com/736x/38/de/86/38de868837cb6409e13f90b307033fa0.jpg">
+        <img src="http://media-cache-ec0.pinimg.com/736x/6b/9a/bd/6b9abd3db65f8d000b68662cd5876796.jpg" width="200" /></a>
+        <h2><a href="http://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?ie=UTF8&qid=1394328375&sr=8-1&keywords=don%27t+make+me+think">Don't Make Me Think</a></h2>
+        <p>ISBN: 978-0321965516</p>
+      <p>Summary</p>
+  </section>
+
