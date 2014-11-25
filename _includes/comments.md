@@ -1,5 +1,4 @@
-{% if site.duoshuo %}
-	{% if page.thread %}
+{% if page.thread %}
 <div id="disqus_thread"></div>
 <script type="text/javascript">
 				/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
