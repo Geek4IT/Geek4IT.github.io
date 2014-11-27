@@ -1,7 +1,7 @@
 ---
 date: 2014-10-8 23:33:23+00:00
 layout: post
-title: Summary:Zero to One
+title: Zero to One(R)
 thread: 35
 categories: Reading
 tags: Reading Startup
