@@ -1,7 +1,7 @@
 ---
 date: 2014-9-7 22:13:20+00:00
 layout: post
-title: Summary: A Programmer's Guide to Data Mining
+title: A Programmer's Guide to Data Mining(R)
 thread: 31
 categories: Reading
 tags: Reading CS
