@@ -1,7 +1,7 @@
 ---
 date: 2014-2-12 12:33:10+00:00
 layout: post
-title: Hacking-SICP in 2014
+title: Hacking-SICP in 2014(R)
 thread: 8
 categories: Reading
 tags:  Reading

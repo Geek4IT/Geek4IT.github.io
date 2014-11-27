@@ -1,7 +1,7 @@
 ---
 date: 2014-3-9 23:12:34+00:00
 layout: post
-title: Summary:The Algorithm Design Manual
+title: The Algorithm Design Manual(R)
 thread: 13
 categories: Reading
 tags:  Reading CS
