@@ -1,7 +1,7 @@
 ---
 date: 2014-6-8 21:13:12+00:00
 layout: post
-title: Summary: Clean Code:A Handbook Of Agile Software Craftsmanship
+title: Clean Code:A Handbook Of Agile Software Craftsmanship(R)
 thread: 23
 categories: Reading
 tags: Reading CS

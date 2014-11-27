@@ -1,7 +1,7 @@
 ---
 date: 2014-2-1 13:24:1+00:00
 layout: post
-title: Summary: Design Patterns
+title: Design Patterns(R)
 thread: 18
 categories: Reading
 tags: Reading CS

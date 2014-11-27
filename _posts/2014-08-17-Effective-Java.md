@@ -1,7 +1,7 @@
 ---
 date: 2014-8-17 23:12:23+00:00
 layout: post
-title: Summary: Effective Java
+title: Effective Java(R)
 thread: 27
 categories: Reading
 tags: Reading CS

@@ -1,7 +1,7 @@
 ---
 date: 2014-6-1 23:1:22+00:00
 layout: post
-title: Summary: Think OS:A Brief Introduction Of Operation Systems
+title: Think OS:A Brief Introduction Of Operation Systems(R)
 thread: 22
 categories: Reading
 tags: Reading CS

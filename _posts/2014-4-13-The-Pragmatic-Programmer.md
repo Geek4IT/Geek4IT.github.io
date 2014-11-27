@@ -1,7 +1,7 @@
 ---
 date: 2014-4-13 13:24:14+00:00
 layout: post
-title: Summary: The Pragmatic Programmer
+title: The Pragmatic Programmer(R)
 thread: 17
 categories: Reading
 tags: Reading CS
