@@ -1,5 +1,5 @@
 ---
-date: 2014-1-24 13:2:30+00:00
+date: 2014-11-30 13:2:30+00:00
 layout: post
 title: My Hacked Design - Solo Notifier
 thread: 2
