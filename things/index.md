@@ -5,11 +5,11 @@ comments: yes
 thread: 617
 ---
 
-- ##[Video](#video)
-- ##[Quotes](#quotes)
-- ##[Artical](#artical)
+- [Video](#video)
+- [Quotes](#quotes)
+- [Artical](#artical)
 
-## Video
+# Video
 - ###Computer Science & Technology
 * [What We Learned from 5 Million Books, Erez Lieberman Aiden and Jean-Baptiste Michel](https://www.ted.com/talks/lang/en/what_we_learned_from_5_million_books.html)
 * [The Future of Programming, Bret Victor](https://www.youtube.com/watch?v=8pTEmbeENF4)
@@ -36,7 +36,7 @@ thread: 617
 * [Learn Faster with The Feynman Technique, Scott Young](https://www.youtube.com/watch?v=FrNqSLPaZLc)
 
 
-## Quotes
+# Quotes
 
 
-## Artical
+# Artical
