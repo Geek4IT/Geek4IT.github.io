@@ -2,11 +2,11 @@ markdown: rdiscount
 permalink: /:title/
 url: http://geek4it.com
 name: GEEK4IT
-author: GEEK4IT | SEEKING WISDOM
+author: GEEK4IT
 twitter: Geek4IT
 email: chunjianye@gmail.com
 duoshuo: Geek4IT
-github: Geek4IT
+github: Geek4IT | SEEKING WISDOM
 pygments: true
 safe: true
 paginate: 20
