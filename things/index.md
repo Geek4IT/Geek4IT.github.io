@@ -5,16 +5,11 @@ comments: yes
 thread: 617
 ---
 
-<header>
-<p>I’m a voracious reader, reading the classic books is the one of the best things in the world.
-I pick up reading seriously again from 2013, and have made it a daily habit. Here are some books I’ve finished recently.</p>
-<p>This page will constantly update as I read more, so bookmark it if you want to check back in a few months. Fell free to give me any recommendations.<strong> Keep calm & be cool.</strong></p>
+- ##[Video](#video)
+- ##[Quotes](#quotes)
+- ##[Artical](#artical)
 
-- [Video](#video)
-- [Quotes](#quotes)
-- [Artical](#artical)
-
-# Video
+## Video
 - ###Computer Science & Technology
 * [What We Learned from 5 Million Books, Erez Lieberman Aiden and Jean-Baptiste Michel](https://www.ted.com/talks/lang/en/what_we_learned_from_5_million_books.html)
 * [The Future of Programming, Bret Victor](https://www.youtube.com/watch?v=8pTEmbeENF4)
@@ -41,7 +36,7 @@ I pick up reading seriously again from 2013, and have made it a daily habit. Her
 * [Learn Faster with The Feynman Technique, Scott Young](https://www.youtube.com/watch?v=FrNqSLPaZLc)
 
 
-# Quotes
+## Quotes
 
 
-# Artical
+## Artical
