@@ -17,7 +17,7 @@ tags: Work Design
 - Compatible with Solo Launcher.
 Let Solo Notifier be your messenger and never miss your important messages again. To use this notification feature, you need to download the latest Solo Launcher.
 
-<img src="http://media-cache-ec0.pinimg.com/originals/e2/35/52/e235527ac6ca99d1db1c1e3be41234f2.jpg"  width="800" />
+<img src="/images/notifier/promotion1.png"  width="800" />
 
 
 <img src="http://media-cache-ec0.pinimg.com/originals/01/b2/ed/01b2edf9009d0e147a2f8e263fc61243.jpg"  width="800" />
