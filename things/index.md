@@ -38,6 +38,19 @@ thread: 617
 
 # Artical
 
+* [How to be successful](https://medium.com/@kidbombay/how-to-be-successful-93590719e800)
+* [How To Get Smarter](http://www.farnamstreetblog.com/2013/05/the-buffett-formula-how-to-get-smarter/)
+* [Find The Thing You're Most Passionate About, Then Do It On Nights And Weekends For The Rest Of Your Life](http://www.theonion.com/articles/find-the-thing-youre-most-passionate-about-then-do,31742/)
+* [Iconic Images: What images will change the way a person sees the world after viewing them?](http://www.quora.com/Iconic-Images/What-images-will-change-the-way-a-person-sees-the-world-after-viewing-them)
+* [Feynman Algorithm](http://c2.com/cgi/wiki?FeynmanAlgorithm)
+* [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
+* [What is the single most influential book every programmer should read?](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read/238388#238388)
+* [平凡而又神奇的贝叶斯方法](http://mindhacks.cn/2008/09/21/the-magical-bayesian-method/)
+* [Recommended Reading for Developers](http://blog.codinghorror.com/recommended-reading-for-developers/)
+* [How To Become a Better Programmer by Not Programming](http://blog.codinghorror.com/how-to-become-a-better-programmer-by-not-programming/)
+* [Want to start a startup?](http://www.paulgraham.com/startupideas.html)
+* [Five Founders](http://paulgraham.com/5founders.html)
+
 # Quotes
 
 * The best way to predict the future is to invent it. - <a href="http://en.wikipedia.org/wiki/Alan_Kay">Alan Kay</a>
