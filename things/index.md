@@ -8,6 +8,10 @@ thread: 617
 - [Video](#video)
 - [Artical](#artical)
 - [Quotes](#quotes)
+- [Software](#software)
+- [Website](#website)
+- [Blog](#blog)
+- [Music](#music)
 
 # Video
 - ###Computer Science & Technology
@@ -112,6 +116,43 @@ attain it, it is nothing special. - <a href="http://en.wikipedia.org/wiki/Shunry
 canvas to our imagination - <a href="https://en.wikipedia.org/wiki/Henry_David_Thoreau">Henry David Thoreau</a>
 
 * Would you like you, if you met you?
+
+# Software
+
+* [Alfred](http://www.alfredapp.com/)
+* [Reeder](http://reederapp.com/mac/)
+* [Sketch](http://www.bohemiancoding.com/sketch/)
+
+# Website
+
+* [HN News](http://news.ycombinator.com/)
+* [Quora](http://quora.com/)
+* [Medium](https://medium.com/)
+* [Product Hunt](http://www.producthunt.com/)
+* [Full Stack Python](http://www.fullstackpython.com/)
+* [tuts+](http://tutsplus.com/)
+* [Good Reads](https://www.goodreads.com)
+* [Tinypng(Advanced lossy compression for PNG images that preserves full alpha transparency.)](https://tinypng.com/)
+* [BookZZ(The world's largest ebook library)](http://bookzz.org/)
+* [How to Start a Startup](http://startupclass.samaltman.com/)
+
+# Blog
+
+* [Aaron Swartz](http://www.aaronsw.com/)
+* [andrewchen](http://andrewchen.co/)
+* [Paul Graham](http://www.paulgraham.com/)
+* [levelsio](https://levels.io/)
+
+# Music
+
+* [The Lodlows](http://cn.last.fm/music/James+Horner/_/The+Ludlows)
+* [Hallelujah](http://www.pandora.com/brian-crain/piano-light/hallelujah)
+* [Heart Ask Pleasure First](http://www.pandora.com/mike-strickland/piano/heart-asks-pleasure-1st)
+
+
+
+
+
 
 
 
