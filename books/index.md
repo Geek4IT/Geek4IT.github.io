@@ -79,6 +79,7 @@ comments: no
 * [Mobile UI Design Pattern 2014](http://uxpin.com/mobile-design-patterns.html)
 * [色彩设计的原理](http://www.amazon.cn/dp/B005XI936G)
 * [七日掌握设计配色基础](http://book.douban.com/subject/1291969/)
+* [体验.度 简单可依赖的用户体验](http://book.douban.com/subject/26128084/)
 
 # Wisdom
 
