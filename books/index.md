@@ -40,6 +40,7 @@ comments: no
 * [推荐系统实践](http://www.duokan.com/book/12892)
 * [Programming Collective Intelligence: Building Smart Web 2.0 Applications](http://amzn.com/0596529325)
 * [A Programmer's Guide To Data Mining](http://guidetodatamining.com/)
+* [Introduction to Tornado](http://maemual-share.qiniudn.com/Oreilly.Introduction.to.Tornado.Mar.2012.pdf)
 
 # IT/Startup/Tech
 
