@@ -63,6 +63,7 @@ comments: no
 * [老二非死不可：关于投资、商业、互联网的碎片化思考](http://www.duokan.com/book/43384)
 * [Zero to One: Notes on Startups, or How to Build the Future](http://amzn.com/0804139296)
 * [奇点临近](http://book.douban.com/subject/6855803/)
+* [Hooked: How to Build Habit-Forming Products](http://amzn.com/1591847788)
 
 # Art/Design
 
