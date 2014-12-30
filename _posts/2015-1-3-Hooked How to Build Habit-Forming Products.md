@@ -1,7 +1,7 @@
 ---
 date: 2015-1-3 22:30:12+00:00
 layout: post
-title: Hooked How to Build Habit-Forming Products(R)
+title: Hooked: How to Build Habit-Forming Products(R)
 thread: 40
 categories: Reading
 tags:  Reading Startup
@@ -12,7 +12,6 @@ tags:  Reading Startup
 ##[Hooked: How to Build Habit-Forming Products]( http://amzn.com/1591847788)
 
 ISBN: 1591847788: 2015-01-3 RATING: */10
-
 
 - Through consecutive Hook cycles, successful products reach their ultimate goal of unprompted user engagement, bringing users back repeatedly, without depending on costly advertising or aggressive messaging.
 
