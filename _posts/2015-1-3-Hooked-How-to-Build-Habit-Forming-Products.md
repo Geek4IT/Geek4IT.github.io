@@ -1,5 +1,5 @@
 ---
-date: 2015-1-3 22:30:12+00:00
+date: 2014-12-31 23:32:24+00:00
 layout: post
 title: Hooked: How to Build Habit-Forming Products(R)
 thread: 40
