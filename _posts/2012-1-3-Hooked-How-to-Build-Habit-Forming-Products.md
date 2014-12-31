@@ -13,6 +13,8 @@ tags:  Reading Startup
 
 ISBN: 1591847788: 2015-01-3 RATING: */10
 
+## The Habit Zone
+
 - Through consecutive Hook cycles, successful products reach their ultimate goal of unprompted user engagement, bringing users back repeatedly, without depending on costly advertising or aggressive messaging.
 
 - A trigger is the actuator of behavior—the spark plug in the engine. Triggers come in two types: external and internal. Habit-forming products start by alerting users with external triggers like an e-mail, a Web site link, or the app icon on a phone.
@@ -30,6 +32,20 @@ The Hook Model describes an experience designed to connect the user’s problem 
 - Like nail biting, many of our daily decisions are made simply because that was the way we have found resolution in the past. The brain automatically deduces that if the decision was a good one yesterday, then it is a safe bet again today and the action becomes a routine.
 
 - Fostering consumer habits is an effective way to increase the value of a company by driving higher customer lifetime value (CLTV): the amount of money made from a customer before that person switches to a competitor, stops using the product, or dies. User habits increase how long and how frequently customers use a product, resulting in higher CLTV.
+
+- The more frequently the new behavior occurred, the stronger the habit became.
+
+- So why haven’t more Google users switched to Bing? Habits keep users loyal. If a user is familiar with the Google interface, switching to Bing requires cognitive effort.
+
+- A company can begin to determine its product’s habit-forming potential by plotting two factors: frequency (how often the behavior occurs) and perceived utility (how useful and rewarding the behavior is in the user’s mind over alternative solutions).
+
+- A 2010 study found that some habits can be formed in a matter of weeks while others can take more than five months. The researchers also found that the complexity of the behavior and how important the habit was to the person greatly affected how quickly the routine was formed
+
+## Trigger
+
+## Action
+
+## Variable Reward
 
 
 
