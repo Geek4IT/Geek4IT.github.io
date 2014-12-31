@@ -30,3 +30,8 @@ The Hook Model describes an experience designed to connect the user’s problem 
 - Like nail biting, many of our daily decisions are made simply because that was the way we have found resolution in the past. The brain automatically deduces that if the decision was a good one yesterday, then it is a safe bet again today and the action becomes a routine.
 
 - Fostering consumer habits is an effective way to increase the value of a company by driving higher customer lifetime value (CLTV): the amount of money made from a customer before that person switches to a competitor, stops using the product, or dies. User habits increase how long and how frequently customers use a product, resulting in higher CLTV.
+
+
+
+
+
