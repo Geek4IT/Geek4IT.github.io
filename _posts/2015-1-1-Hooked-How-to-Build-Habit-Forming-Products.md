@@ -122,4 +122,18 @@ Negative emotions frequently serve as internal triggers.
 
 - Naturally, all three parts of B = MAT must be present for a singular user action to occur; without a clear trigger and sufficient motivation there will be no behavior. However, for companies building technology solutions, the greatest return on investment generally comes from increasing a product’s ease of use.
 
+- The action is the simplest behavior in anticipation of reward.
+
+- For any behavior to occur, a trigger must be present at the same time as the user has sufficient ability and motivation to take action.
+
+- To increase the desired behavior, ensure a clear trigger is present; next, increase ability by making the action easier to do; finally, align with the right motivator.
+
+Excerpt From: Nir Eyal. “Hooked.” iBooks. 
+
+
+Excerpt From: Nir Eyal. “Hooked.” iBooks. 
+
+Excerpt From: Nir Eyal. “Hooked.” iBooks. 
+
+
 ### Variable Reward
