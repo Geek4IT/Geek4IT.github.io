@@ -11,9 +11,9 @@ tags:  Reading Startup
 
 ##[Hooked: How to Build Habit-Forming Products]( http://amzn.com/1591847788)
 
-ISBN: 1591847788: 2015-01-1 RATING: */10
+ISBN: 1591847788: 2015-1-1 RATING: */10
 
-## The Habit Zone
+### The Habit Zone
 
 - Through consecutive Hook cycles, successful products reach their ultimate goal of unprompted user engagement, bringing users back repeatedly, without depending on costly advertising or aggressive messaging.
 
@@ -57,8 +57,53 @@ The Hook Model describes an experience designed to connect the user’s problem 
 
 - Habit-forming products create associations in users’ minds—and that the solution to their pain may be found in your product’s use.
 
-## Trigger
+- “I don’t have a problem or anything. I just use it whenever I see something cool. I feel I need to grab it before it’s gone.” - a Instagram user.
 
-## Action
+### Trigger
 
-## Variable Reward
+- Habits are like pearls. Oysters create natural pearls by accumulating layer upon layer of a nacre called mother-of-pearl, eventually forming the smooth treasure over several years. But what causes the nacre to begin forming a pearl? The arrival of a tiny irritant, such as a piece of grit or an unwelcome parasite, triggers the oyster’s system to begin blanketing the invader with layers of shimmery coating.
+
+- External triggers are embedded with information, which tells the user what to do next.
+
+- PayPal knew that once account holders started sending other users money online they would realize the tremendous value of the service. The allure that someone just sent you money was a huge incentive to open an account, and PayPal’s growth spread because it was both viral and useful.
+
+- Proper use of relationship triggers requires building an engaged user base that is enthusiastic about sharing the benefits of the product with others.
+
+- Internal triggers manifest automatically in your mind. Connecting internal triggers with a product is the brass ring of consumer technology.
+
+- When bored, many people seek excitement and turn to dramatic news headlines. When we feel overly stressed, we seek serenity, perhaps finding relief in sites like Pinterest. When we feel lonely, destinations like Facebook and Twitter provide instant social connections.
+
+- In the case of internal triggers, the information about what to do next is encoded as a learned association in the user’s memory.
+
+- Products that successfully create habits soothe the user’s pain by laying claim to a particular feeling. To do so, product designers must know their user’s internal triggers—that is, the pain they seek to solve.
+
+- Do people really send text messages? Why do they take photos? What role does watching television or sports play in their lives? Ask yourself what pain these habits solve and what the user might be feeling right before one of these actions.
+
+- "If you want to build a product that is relevant to folks, you need to put yourself in their shoes and you need to write a story from their side. So, we spend a lot of time writing what’s called user narratives." - Jack Dorsey
+
+- When it comes to figuring out why people use habit-forming products, internal triggers are the root cause, and “Why?” is a question that can help drill right to the core.
+
+- Why #1: Why would Julie want to use e-mail?
+Answer: So she can send and receive messages.
+Why #2: Why would she want to do that?
+Answer: Because she wants to share and receive information quickly.
+Why #3: Why does she want to do that?
+Answer: To know what’s going on in the lives of her coworkers, friends, and family.
+Why #4: Why does she need to know that?
+Answer: To know if someone needs her.
+Why #5: Why would she care about that?
+Answer: She fears being out of the loop.
+Now we’ve got something! Fear is a powerful internal trigger and we can design our solution to help calm Julie’s fear.
+
+- With repeated use, Instagram formed strong associations with internal triggers, and what was once a brief distraction became an intraday routine for many users.
+It is the fear of losing a special moment that instigates a pang of stress. This negative emotion is the internal trigger that brings Instagram users back to the app to alleviate this pain by capturing a photo. As users continue to use the service, new internal triggers form.
+
+- Triggers cue the user to take action and are the first step in the Hook Model.
+Triggers come in two types—external and internal. External triggers tell the user what to do next by placing information within the user’s environment. Internal triggers tell the user what to do next through associations stored in the user’s memory.
+Negative emotions frequently serve as internal triggers.
+
+- To build a habit-forming product, makers need to understand which user emotions may be tied to internal triggers and know how to leverage external triggers to drive the user to action.
+
+### Action
+
+### Variable Reward
