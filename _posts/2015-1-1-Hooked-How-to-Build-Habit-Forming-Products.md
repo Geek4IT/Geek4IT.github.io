@@ -1,5 +1,5 @@
 ---
-date: 2014-12-31 23:32:24+00:00
+date: 2014-1-1 23:32:24+00:00
 layout: post
 title: Hooked: How to Build Habit-Forming Products(R)
 thread: 40
@@ -11,7 +11,7 @@ tags:  Reading Startup
 
 ##[Hooked: How to Build Habit-Forming Products]( http://amzn.com/1591847788)
 
-ISBN: 1591847788: 2015-01-3 RATING: */10
+ISBN: 1591847788: 2015-01-1 RATING: */10
 
 ## The Habit Zone
 
