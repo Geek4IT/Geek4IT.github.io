@@ -106,4 +106,20 @@ Negative emotions frequently serve as internal triggers.
 
 ### Action
 
+- Remember, a habit is a behavior done with little or no conscious thought. The more effort—either physical or mental—required to perform the desired action, the less likely it is to occur.
+
+- There are three ingredients required to initiate any and all behaviors: (1) the user must have sufficient motivation; (2) the user must have the ability to complete the desired action; and (3) a trigger must be present to activate the behavior.
+
+- The Fogg Behavior Model is represented in the formula B = MAT, which represents that a given behavior will occur when motivation, ability, and a trigger are present at the same time and in sufficient degrees.1 If any component of this formula is missing or inadequate, the user will not cross the “Action Line” and the behavior will not occur.
+
+- These and countless other ads use the voyeuristic promise of pleasure to capture attention and motivate action.
+
+- Consequently, any technology or product that significantly reduces the steps to complete a task will enjoy high adoption rates by the people it assists.
+
+- Take a human desire, preferably one that has been around for a really long time . . . Identify that desire and use modern technology to take out steps.
+
+- Ability is the capacity to do a particular behavior.
+
+- Naturally, all three parts of B = MAT must be present for a singular user action to occur; without a clear trigger and sufficient motivation there will be no behavior. However, for companies building technology solutions, the greatest return on investment generally comes from increasing a product’s ease of use.
+
 ### Variable Reward
