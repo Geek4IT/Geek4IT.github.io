@@ -128,12 +128,4 @@ Negative emotions frequently serve as internal triggers.
 
 - To increase the desired behavior, ensure a clear trigger is present; next, increase ability by making the action easier to do; finally, align with the right motivator.
 
-Excerpt From: Nir Eyal. “Hooked.” iBooks. 
-
-
-Excerpt From: Nir Eyal. “Hooked.” iBooks. 
-
-Excerpt From: Nir Eyal. “Hooked.” iBooks. 
-
-
 ### Variable Reward
