@@ -148,9 +148,7 @@ Negative emotions frequently serve as internal triggers.
 
 - Most habit-forming products and services utilize one or more of the three variable rewards types: the tribe, the hunt, and the self.
 
-
 - Variable reward is the third phase of the Hook Model, and there are three types of variable rewards: the tribe, the hunt, and the self. Rewards of the tribe is the search for social rewards fueled by connectedness with other people. Rewards of the hunt is the search for material resources and information. Rewards of the self is the search for intrinsic rewards of mastery, competence, and completion.
-
 
 
 
