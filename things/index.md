@@ -5,6 +5,7 @@ comments: yes
 thread: 617
 ---
 
+- [Awesome## Serials](#awesome## serials)
 - [Video](#video)
 - [Artical](#artical)
 - [Quotes](#quotes)
@@ -12,6 +13,11 @@ thread: 617
 - [Website](#website)
 - [Blog](#blog)
 - [Music](#music)
+
+# Awesome## Serials
+*[Awesome Startup](https://github.com/Geek4IT/awesome-startup)
+*[Awesome Design](https://github.com/Geek4IT/awesome-design)
+*[Awesome Recommender System](https://github.com/Geek4IT/awesome-recommender-system)
 
 # Video
 - ###Computer Science & Technology
