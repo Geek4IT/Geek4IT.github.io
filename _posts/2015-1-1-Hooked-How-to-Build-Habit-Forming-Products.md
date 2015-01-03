@@ -129,3 +129,41 @@ Negative emotions frequently serve as internal triggers.
 - To increase the desired behavior, ensure a clear trigger is present; next, increase ability by making the action easier to do; finally, align with the right motivator.
 
 ### Variable Reward
+
+- The third step in the Hook Model is the variable reward phase, in which you reward your users by solving a problem, reinforcing their motivation for the action taken in the previous phase.
+
+- The study revealed that what draws us to act is not the sensation we receive from the reward itself, but the need to alleviate the craving for that reward.
+
+- To hold our attention, products must have an ongoing degree of novelty.
+
+- Overflow works because, like all of us, software engineers find satisfaction in contributing to a community they care about.
+
+- The need to acquire physical objects, such as food and other supplies that aid our survival, is part of our brain’s operating system.
+
+- To relieve their curiosity, all users have to do is scroll to reveal the full picture. As more images load on the page, the endless search for variable rewards of the hunt continues.
+
+- Only by understanding what truly matters to users can a company correctly match the right variable reward to their intended behavior.
+
+- Platforms like YouTube, Facebook, Pinterest, and Twitter all leverage user-generated content to provide visitors with a never-ending stream of newness.
+
+- Most habit-forming products and services utilize one or more of the three variable rewards types: the tribe, the hunt, and the self.
+
+
+- Variable reward is the third phase of the Hook Model, and there are three types of variable rewards: the tribe, the hunt, and the self. Rewards of the tribe is the search for social rewards fueled by connectedness with other people. Rewards of the hunt is the search for material resources and information. Rewards of the self is the search for intrinsic rewards of mastery, competence, and completion.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
