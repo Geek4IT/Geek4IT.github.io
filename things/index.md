@@ -5,19 +5,19 @@ comments: yes
 thread: 617
 ---
 
-- [Awesome## Serials](#awesome## serials)
+- [Awesome Serials](#awesome serials)
 - [Video](#video)
-- [Artical](#artical)
-- [Quotes](#quotes)
 - [Software](#software)
 - [Website](#website)
 - [Blog](#blog)
 - [Music](#music)
+- [Artical](#artical)
+- [Quotes](#quotes)
 
-# Awesome## Serials
-*[Awesome Startup](https://github.com/Geek4IT/awesome-startup)
-*[Awesome Design](https://github.com/Geek4IT/awesome-design)
-*[Awesome Recommender System](https://github.com/Geek4IT/awesome-recommender-system)
+# Awesome Serials
+* [Awesome Startup](https://github.com/Geek4IT/awesome-startup)
+* [Awesome Design](https://github.com/Geek4IT/awesome-design)
+* [Awesome Recommender System](https://github.com/Geek4IT/awesome-recommender-system)
 
 # Video
 - ###Computer Science & Technology
@@ -45,9 +45,35 @@ thread: 617
 * [The first 20 hours -- how to learn anything, Josh Kaufman](https://www.youtube.com/watch?v=5MgBikgcWnY)
 * [Learn Faster with The Feynman Technique, Scott Young](https://www.youtube.com/watch?v=FrNqSLPaZLc)
 
+# Software
+* [Alfred](http://www.alfredapp.com/)
+* [Reeder](http://reederapp.com/mac/)
+* [Sketch](http://www.bohemiancoding.com/sketch/)
+
+# Website
+* [HN News](http://news.ycombinator.com/)
+* [Quora](http://quora.com/)
+* [Medium](https://medium.com/)
+* [Product Hunt](http://www.producthunt.com/)
+* [Full Stack Python](http://www.fullstackpython.com/)
+* [tuts+](http://tutsplus.com/)
+* [Good Reads](https://www.goodreads.com)
+* [Tinypng(Advanced lossy compression for PNG images that preserves full alpha transparency.)](https://tinypng.com/)
+* [BookZZ(The world's largest ebook library)](http://bookzz.org/)
+* [How to Start a Startup](http://startupclass.samaltman.com/)
+
+# Blog
+* [Aaron Swartz](http://www.aaronsw.com/)
+* [andrewchen](http://andrewchen.co/)
+* [Paul Graham](http://www.paulgraham.com/)
+* [levelsio](https://levels.io/)
+
+# Music
+* [The Lodlows](http://cn.last.fm/music/James+Horner/_/The+Ludlows)
+* [Hallelujah](http://www.pandora.com/brian-crain/piano-light/hallelujah)
+* [Heart Ask Pleasure First](http://www.pandora.com/mike-strickland/piano/heart-asks-pleasure-1st)
 
 # Artical
-
 * [How to be successful](https://medium.com/@kidbombay/how-to-be-successful-93590719e800)
 * [How To Get Smarter](http://www.farnamstreetblog.com/2013/05/the-buffett-formula-how-to-get-smarter/)
 * [Find The Thing You're Most Passionate About, Then Do It On Nights And Weekends For The Rest Of Your Life](http://www.theonion.com/articles/find-the-thing-youre-most-passionate-about-then-do,31742/)
@@ -62,7 +88,6 @@ thread: 617
 * [Five Founders](http://paulgraham.com/5founders.html)
 
 # Quotes
-
 * The best way to predict the future is to invent it. - <a href="http://en.wikipedia.org/wiki/Alan_Kay">Alan Kay</a>
 
 * You know you're in love when you can't fall asleep because reality is finally better than your dreams. - <a href="http://en.wikipedia.org/wiki/Dr._Seuss">Dr. Seuss</a>
@@ -122,39 +147,6 @@ attain it, it is nothing special. - <a href="http://en.wikipedia.org/wiki/Shunry
 canvas to our imagination - <a href="https://en.wikipedia.org/wiki/Henry_David_Thoreau">Henry David Thoreau</a>
 
 * Would you like you, if you met you?
-
-# Software
-
-* [Alfred](http://www.alfredapp.com/)
-* [Reeder](http://reederapp.com/mac/)
-* [Sketch](http://www.bohemiancoding.com/sketch/)
-
-# Website
-
-* [HN News](http://news.ycombinator.com/)
-* [Quora](http://quora.com/)
-* [Medium](https://medium.com/)
-* [Product Hunt](http://www.producthunt.com/)
-* [Full Stack Python](http://www.fullstackpython.com/)
-* [tuts+](http://tutsplus.com/)
-* [Good Reads](https://www.goodreads.com)
-* [Tinypng(Advanced lossy compression for PNG images that preserves full alpha transparency.)](https://tinypng.com/)
-* [BookZZ(The world's largest ebook library)](http://bookzz.org/)
-* [How to Start a Startup](http://startupclass.samaltman.com/)
-
-# Blog
-
-* [Aaron Swartz](http://www.aaronsw.com/)
-* [andrewchen](http://andrewchen.co/)
-* [Paul Graham](http://www.paulgraham.com/)
-* [levelsio](https://levels.io/)
-
-# Music
-
-* [The Lodlows](http://cn.last.fm/music/James+Horner/_/The+Ludlows)
-* [Hallelujah](http://www.pandora.com/brian-crain/piano-light/hallelujah)
-* [Heart Ask Pleasure First](http://www.pandora.com/mike-strickland/piano/heart-asks-pleasure-1st)
-
 
 
 
