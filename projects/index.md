@@ -4,7 +4,7 @@ title: Maker
 thread: 618
 ---
 
-##Sketch Everywee
+##Sketch Everyweek
 
-3/1/2015, 30 minutes.
+iOS9, 3/1/2015, 30 minutes, [Download](http://goo.gl/6MQrD9).
 ![Alt text](/images/sketch/iOS9.png)
