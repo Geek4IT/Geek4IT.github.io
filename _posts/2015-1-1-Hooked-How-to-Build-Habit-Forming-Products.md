@@ -11,7 +11,7 @@ tags:  Reading Startup
 
 ##[Hooked: How to Build Habit-Forming Products]( http://amzn.com/1591847788)
 
-ISBN: 1591847788: 2015-1-1 RATING: */10
+ISBN: 1591847788: 2015-1-1 RATING: 9/10
 
 ### The Habit Zone
 
@@ -150,18 +150,24 @@ Negative emotions frequently serve as internal triggers.
 
 - Variable reward is the third phase of the Hook Model, and there are three types of variable rewards: the tribe, the hunt, and the self. Rewards of the tribe is the search for social rewards fueled by connectedness with other people. Rewards of the hunt is the search for material resources and information. Rewards of the self is the search for intrinsic rewards of mastery, competence, and completion.
 
+### Investment
 
+- The frequency of a new behavior is a leading factor in forming a new habit, the second most important factor in habit formation is a change in the participant’s attitude about the behavior.
 
+- Investments are about the anticipation of longer-term rewards, not immediate gratification.
 
+- Unlike physical goods in the real world, the software that runs our technology products can adapt itself to our needs.
 
+- The collection of memories and experiences, in aggregate, becomes more valuable over time and the service becomes harder to leave as users’ personal investment in the site grows.
 
+- The company found that the more information users invested in the site, the more committed they became to it.
 
+- If we could get users to enter just a little information, they were much more likely to return. The more data collected, the more the service’s stored value increases.
 
+- The cycle increases the value of the service for both sides the more the service is used. For many users, switching services means abandoning years of investment and starting over. No one wants to rebuild a loyal following they have worked hard to acquire and nurture.
 
+- The more users invest in a product through tiny bits of work, the more valuable the product becomes in their lives and the less they question its use.
 
+- Investments increase the likelihood of users returning by improving the service the more it is used. They enable the accrual of stored value in the form of content, data, followers, reputation, or skill.
 
-
-
-
-
-
+- Investments increase the likelihood of users passing through the Hook again by loading the next trigger to start the cycle all over again.
