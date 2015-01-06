@@ -171,3 +171,19 @@ Negative emotions frequently serve as internal triggers.
 - Investments increase the likelihood of users returning by improving the service the more it is used. They enable the accrual of stored value in the form of content, data, followers, reputation, or skill.
 
 - Investments increase the likelihood of users passing through the Hook again by loading the next trigger to start the cycle all over again.
+
+- The Hook Model is designed to connect the user’s problem with the designer’s solution frequently enough to form a habit.
+
+- Let’s admit it: We are all in the persuasion business. Innovators build products meant to persuade people to do what we want them to do. We call these people users and even if we don’t say it aloud, we secretly wish every one of them would become fiendishly hooked to whatever we’re making.
+
+- Facilitators “build the change they want to see in the world.”
+
+- Peddlers tend to lack the empathy and insights needed to create something users truly want.
+
+- Facilitators use their own product and believe it can materially improve people’s lives. They have the highest chance of success because they most closely understand the needs of their users.
+
+- Peddlers believe their product can materially improve people’s lives but do not use it themselves. They must beware of the hubris and inauthenticity that comes from building solutions for people they do not understand firsthand.
+
+- Entertainers use their product but do not believe it can improve people’s lives. They can be successful, but without making the lives of others better in some way, the entertainer’s products often lack staying power.
+
+- Dealers neither use the product nor believe it can improve people’s lives. They have the lowest chance of finding long-term success and often find themselves in morally precarious positions.
