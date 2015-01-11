@@ -8,5 +8,8 @@ thread: 618
 
 I am a programmer, but I am enthusiastic at designing some stuff in my spare time. Here are some pratice work to share with you guys, just for fun. :)
 
+[iPad Air2](http://goo.gl/mvkPUh), 11/1/2015, 25 minutes.
+![Alt text](/images/sketch/iPadAir.png)
+
 [iOS9](http://goo.gl/mvkPUh), 3/1/2015, 30 minutes.
 ![Alt text](/images/sketch/iOS9.png)
