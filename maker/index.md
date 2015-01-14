@@ -8,7 +8,7 @@ thread: 618
 
 I am a programmer, but I am enthusiastic at designing some stuff in my spare time. Here are some pratice work to share with you guys, just for fun. :)
 
-[iPhone Icons](http://goo.gl/3aWYzl), 14/1/2015, 80 minutes.
+[iPhone Icons](http://goo.gl/jikjDc), 14/1/2015, 80 minutes.
 ![Alt text](/images/sketch/iPhoneIcons.png)
 
 [BIDI Login Form](http://goo.gl/3aWYzl), 13/1/2015, 20 minutes.
