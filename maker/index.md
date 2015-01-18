@@ -8,7 +8,7 @@ thread: 618
 
 I am a programmer, but I am enthusiastic at designing some stuff in my spare time. Here are some pratice work to share with you guys, you can download all these FREE sketch resources throught [Dropbox](http://goo.gl/awKAfD), just for fun. :)
 
-[Code Hunt](http://goo.gl/TXuzyb), Inspired by [Product Hunt](http://www.producthunt.com/) 18/1/2015, 70 minutes.
+[Code Hunt](http://goo.gl/TXuzyb), Inspired by [Product Hunt](http://www.producthunt.com/), 18/1/2015, 70 minutes.
 ![Alt text](/images/sketch/Code Hunt.png)
 
 [iPhone Icons](http://goo.gl/jikjDc), 14/1/2015, 80 minutes.
