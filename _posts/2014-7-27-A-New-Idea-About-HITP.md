@@ -24,5 +24,4 @@ Writing in Evernote that supports HITP protocol, this feature is very convinient
 
 ####Demo #3:HITP in Google Plus(Mobile Application)
 
-<img src="http://media-cache-ec0.pinimg.com/736x/9f/b8/e0/9fb8e065931cbda12ad373a55c9ec445.jpg
-" alt="GitHub" title="GitHub,Social Coding" width="680" />
+<img src="http://media-cache-ec0.pinimg.com/474x/9f/b8/e0/9fb8e065931cbda12ad373a55c9ec445.jpg" alt="GitHub" title="GitHub,Social Coding" width="680" />
