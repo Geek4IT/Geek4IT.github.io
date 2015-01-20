@@ -18,6 +18,7 @@ thread: 617
 * [Awesome Startup](https://github.com/Geek4IT/awesome-startup)
 * [Awesome Design](https://github.com/Geek4IT/awesome-design)
 * [Awesome Recommender System](https://github.com/Geek4IT/awesome-recommender-system)
+* [Awesome Sketch](https://github.com/Geek4IT/awesome-sketch)
 
 # Video
 - ###Computer Science & Technology
@@ -106,9 +107,9 @@ thread: 617
 
 * Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity. - <a href="http://en.wikipedia.org/wiki/Aaron_Swartz">Aaron Swartz</a>
 
-* If you continue this simple practice every day, you 
-will obtain some wonderful power. Before you 
-attain it, it is something wonderful, but after you 
+* If you continue this simple practice every day, you
+will obtain some wonderful power. Before you
+attain it, it is something wonderful, but after you
 attain it, it is nothing special. - <a href="http://en.wikipedia.org/wiki/Shunryu_Suzuki">Shunryu Suzuki</a>,《Zen Mind, Beginner's Mind》
 
 * Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn't really do it, they just saw something. It seemed obvious to them after a while. That's because they were able to connect experiences they've had and synthesize new things. - <a href="http://en.wikipedia.org/wiki/Steve_Jobs">Steve Jobs</a>
@@ -128,8 +129,8 @@ attain it, it is nothing special. - <a href="http://en.wikipedia.org/wiki/Shunry
 * Think deeply about things. Don’t just go along because that’s the way things are or that’s what your friends say. Consider the effects, consider the alternatives, but most importantly, just think. - <a href="http://en.wikipedia.org/wiki/Aaron_Swartz">Aaron Swartz</a>
 
 * The more things you are interested in, the better your work will be. - <a href="http://blog.codinghorror.com/how-to-become-a-better-programmer-by-not-programming/">Jeff Atwood</a>
-                     
-* Working on something good will pull you along a path where good things keep happening to you.  (In fact, this effect is so strong that there’s a danger of getting sucked into too many interesting things and getting distracted from what you really want to do.) - <a href="http://blog.samaltman.com/advice-for-ambitious-19-year-olds">Sam Altman</a>       
+
+* Working on something good will pull you along a path where good things keep happening to you.  (In fact, this effect is so strong that there’s a danger of getting sucked into too many interesting things and getting distracted from what you really want to do.) - <a href="http://blog.samaltman.com/advice-for-ambitious-19-year-olds">Sam Altman</a>
 
 * Everything should be made as simple as possible, but no simpler. - <a href="https://en.wikipedia.org/wiki/Albert_Einstein">Albert Einstein</a>
 
@@ -143,14 +144,7 @@ attain it, it is nothing special. - <a href="http://en.wikipedia.org/wiki/Shunry
 
 * We read to know that we are not alone - <a href="https://en.wikipedia.org/wiki/C._S._Lewis">C.S. Lewis</a>
 
-* The world is but a 
+* The world is but a
 canvas to our imagination - <a href="https://en.wikipedia.org/wiki/Henry_David_Thoreau">Henry David Thoreau</a>
 
 * Would you like you, if you met you?
-
-
-
-
-
-
-
