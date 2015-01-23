@@ -58,12 +58,13 @@ comments: no
 * [最佳商业模式](http://www.duokan.com/book/41692)
 * [人人都是产品经理](http://www.duokan.com/book/10892)
 * [结网](http://www.duokan.com/book/571)
-* [周鸿祎自述:我的互联网方法论](http://www.amazon.cn/dp/B00LO3SVSA)
+* [周鸿祎自述: 我的互联网方法论](http://www.amazon.cn/dp/B00LO3SVSA)
 * [免费：商业的未来](http://www.duokan.com/book/14182)
-* [老二非死不可：关于投资、商业、互联网的碎片化思考](http://www.duokan.com/book/43384)
+* [老二非死不可: 关于投资、商业、互联网的碎片化思考](http://www.duokan.com/book/43384)
 * [Zero to One: Notes on Startups, or How to Build the Future](http://amzn.com/0804139296)
 * [奇点临近](http://book.douban.com/subject/6855803/)
 * [Hooked: How to Build Habit-Forming Products](http://amzn.com/1591847788)
+* [腾讯方法: 一个市值1500亿美元公司的产品真经](http://book.douban.com/subject/26272662/)
 
 # Art/Design
 
