@@ -6,7 +6,7 @@ thread: 618
 
 ##[Sketch](http://bohemiancoding.com/) Every Week
 
-I am a programmer, but I am enthusiastic at designing some stuff in my spare time. Here are some pratice work to share with you guys, you can download all these FREE sketch resources throught [Dropbox](http://goo.gl/awKAfD), just for fun. :)
+I am a programmer, but I am enthusiastic at designing some stuff in my spare time. Here are some pratice work to share with you guys, you can download all these sketch resources for FREE from [Dropbox](http://goo.gl/awKAfD), just for fun. :)
 
 [BIDI Music V1.0](http:geek4it/maker), BIDI = Binary Digit, 25/1/2015, 5 Hours.
 ![Alt text](/images/sketch/BIDI Music.png)
