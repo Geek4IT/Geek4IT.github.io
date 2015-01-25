@@ -21,7 +21,7 @@ I am a programmer, but I am enthusiastic at designing some stuff in my spare tim
 ![Alt text](/images/sketch/Login.png)
 ![Alt text](/images/sketch/Login2.png)
 
-[iPad Air2](http://goo.gl/3aWYzl), 11/1/2015, 25 minutes.
+[iPad Air2 Mockup](http://goo.gl/3aWYzl), 11/1/2015, 25 minutes.
 ![Alt text](/images/sketch/iPadAir2.png)
 
 [iOS9 Concept](http://goo.gl/mvkPUh), 3/1/2015, 30 minutes.
