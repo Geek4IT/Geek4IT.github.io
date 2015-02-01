@@ -8,6 +8,9 @@ thread: 618
 
 I am a programmer, but I am enthusiastic at designing some stuff in my spare time. Here are some pratice work to share with you guys, you can download all these sketch resources for FREE from [Dropbox](http://goo.gl/awKAfD), just for fun. :)
 
+[BIDI Video Player](http://goo.gl/Nu5xPu), BIDI = Binary Digit, 1/2/2015, 23 minutes, at Beijing.
+![Alt text](/images/sketch/BIDI Video Player.png)
+
 [BIDI Music V1.0](http:geek4it/maker), BIDI = Binary Digit, 25/1/2015, 5 Hours, at Beijing.
 ![Alt text](/images/sketch/BIDI Music.png)
 
