@@ -8,6 +8,9 @@ thread: 618
 
 I am a programmer, but I am enthusiastic at designing some stuff in my spare time. Here are some pratice work to share with you guys, you can download all these sketch resources for FREE from [Dropbox](http://goo.gl/awKAfD), just for fun. :)
 
+[Material Design, Clock/Moto 360 Watch/Calendar](http://goo.gl/Nu5xPu), 8/2/2015, 6 hours, at Beijing.
+![Alt text](/images/sketch/Material Design.png)
+
 [BIDI Video Player](http://goo.gl/Nu5xPu), BIDI = Binary Digit, 1/2/2015, 23 minutes, at Beijing.
 ![Alt text](/images/sketch/BIDI Video Player.png)
 
