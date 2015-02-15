@@ -8,6 +8,9 @@ thread: 618
 
 I am a programmer, but I am enthusiastic at designing some stuff in my spare time. Here are some pratice work to share with you guys, you can download all these sketch resources for FREE from [Dropbox](http://goo.gl/awKAfD), just for fun. :)
 
+[PHOTOER](http://goo.gl/DsqBQd), 15/2/2015, 30 Minutes, at Beijing.
+![Alt text](/images/sketch/PHOTOER.png)
+
 [Material Design, Clock/Moto 360 Watch/Calendar](http://goo.gl/DsqBQd), 8/2/2015, 6 hours, at Beijing.
 ![Alt text](/images/sketch/Material Design.png)
 
