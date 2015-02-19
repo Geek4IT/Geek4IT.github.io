@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Good Things happens everywhere.
+title: Great things happens here.
 comments: yes
 thread: 617
 ---
