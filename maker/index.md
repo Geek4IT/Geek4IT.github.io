@@ -8,6 +8,9 @@ thread: 618
 
 I am a programmer, but I am enthusiastic at designing some stuff in my spare time. Here are some pratice work to share with you guys, you can download all these sketch resources for FREE from [Dropbox](http://goo.gl/awKAfD), just for fun. :)
 
+[Safari OS X Yosemite](http://goo.gl/cqTzih), 1/3/2015, 60 Minutes, at Beijing.
+![Alt text](/images/sketch/safari.png)
+
 [PHOTOER](http://goo.gl/cqTzih), 15/2/2015, 30 Minutes, at Beijing.
 ![Alt text](/images/sketch/PHOTOER.png)
 
