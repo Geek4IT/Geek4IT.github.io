@@ -17,7 +17,8 @@ html, body {
 
 body {
   background-color: white;
-  font: 13.34px helvetica, arial, clean, sans-serif;
+  /*font: 13.34px helvetica, arial, clean, sans-serif;*/
+  font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
   *font-size: small;
   text-align: center;
 }
@@ -68,7 +69,7 @@ ul.posts {
 
   ul.posts span {
     color: #aaa;
-    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
     font-size: 80%;
   }
 
