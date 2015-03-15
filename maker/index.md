@@ -8,7 +8,7 @@ thread: 618
 
 I am a programmer, but I am enthusiastic at designing some stuff in my spare time. Here are some pratice work to share with you guys, you can download all these sketch resources for FREE from [Dropbox](http://goo.gl/awKAfD), just for fun. :)
 
-[Apple Watch](http://goo.gl/kqdBnZ), 15/3/2015, 360 Minutes, at Beijing.
+[Apple Watch](http://bit.ly/1AFUgdw), 15/3/2015, 360 Minutes, at Beijing.
 ![Alt text](/images/sketch/Apple Watch.png)
 
 [Safari OS X Yosemite](http://goo.gl/AV5LzN), 1/3/2015, 60 Minutes, at Beijing.
