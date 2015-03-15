@@ -65,6 +65,7 @@ comments: no
 * [奇点临近](http://book.douban.com/subject/6855803/)
 * [Hooked: How to Build Habit-Forming Products](http://amzn.com/1591847788)
 * [腾讯方法: 一个市值1500亿美元公司的产品真经](http://book.douban.com/subject/26272662/)
+* [十亿美金的教训](http://book.douban.com/subject/6511603/)
 
 # Art/Design
 
