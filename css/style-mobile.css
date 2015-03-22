@@ -137,3 +137,29 @@
 	#main {
 		padding: 2em 0 2em 0;
 	}
+
+/*********************************************************************************/
+/* Carousel                                                                      */
+/*********************************************************************************/
+
+	.carousel
+	{
+		padding: 0.5em 0 0.5em 0;
+	}
+
+		.carousel .reel
+		{
+			padding: 0 0.5em 0 0.5em;
+		}
+	
+		.carousel article
+		{
+			width: 14em;
+			padding-bottom: 2em;
+			margin: 0 0.5em 0 0;
+		}
+
+			.carousel article .image
+			{
+				margin-bottom: 2em;
+			}
