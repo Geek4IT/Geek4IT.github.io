@@ -1,7 +1,7 @@
 ---
-date: 2015-3-29 11:53:00+00:00
+date: 2015-3-29 23:32:24+00:00
 layout: post
-title: Age of Context: Mobile, Sensors, Data and the Future of Privacy (R)
+title: Age of Context(R)
 thread: 41
 categories: Reading
 tags:  Reading
