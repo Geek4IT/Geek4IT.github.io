@@ -8,7 +8,10 @@ thread: 618
 
 I am a programmer, but I am enthusiastic at designing some stuff in my spare time. Here are some pratice work to share with you guys, you can download all these sketch resources for FREE from [Dropbox](http://goo.gl/awKAfD), just for fun. :)
 
-[Medium](https://www.dropbox.com/s/8rs61x90lp9h38g/Medium_20150322.zip?dl=0), [meidum.com](https://medium.com/), 22/3/2015, 80 Minutes, at Beijing.
+[App Store](http://bit.ly/1MhV83Q), 29/3/2015, 70 Minutes, at Beijing.
+![Alt text](/images/sketch/App Store.png)
+
+[Medium](http://bit.ly/1F58n1g), [meidum.com](https://medium.com/), 22/3/2015, 80 Minutes, at Beijing.
 ![Alt text](/images/sketch/Medium.png)
 
 [Apple Watch](http://bit.ly/1AFUgdw), 15/3/2015, 360 Minutes, at Beijing.
