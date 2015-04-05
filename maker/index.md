@@ -9,7 +9,7 @@ thread: 618
 I am a programmer, but I am enthusiastic at designing some stuff in my spare time. Here are some pratice work to share with you guys, you can download all these sketch resources for FREE from [Dropbox](http://goo.gl/awKAfD), just for fun. :)
 
 
-[Dash](http://bit.ly/1bYMo2q), Inspired by [Dash](https://kapeli.com/dash) 5/4/2015, 15 Minutes, at Beijing.
+[Dash](http://bit.ly/1bYMo2q), Inspired by [Dash](https://kapeli.com/dash), 5/4/2015, 15 Minutes, at Beijing.
 ![Alt text](/images/sketch/Dash.png)
 
 [App Store](http://bit.ly/1MhV83Q), 29/3/2015, 70 Minutes, at Beijing.
