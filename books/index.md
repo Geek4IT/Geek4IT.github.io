@@ -93,7 +93,7 @@ comments: no
 * [Things a Little Bird Told Me: Confessions of the Creative Mind](http://amzn.com/1455528714)
 * [Produce Like Picasso: Mastering Design Delivery(SXSW)](http://www.slideshare.net/bunky34/produce-like-picasso-mastering-design-delivery-sxsw)
 * [Peace Is Every Step: The Path of Mindfulness in Everyday Life](http://amzn.com/0553351397)
-＊ [禅与摩托车的维修艺术](http://amzn.to/1G6vaLj)
+* [禅与摩托车的维修艺术](http://amzn.to/1G6vaLj)
 
 # Literature/Novel/ETC...
 * [王小波杂文第一卷](http://book.douban.com/subject/1815640/)
