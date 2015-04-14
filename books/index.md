@@ -67,6 +67,7 @@ comments: no
 * [腾讯方法: 一个市值1500亿美元公司的产品真经](http://book.douban.com/subject/26272662/)
 * [十亿美金的教训](http://book.douban.com/subject/6511603/)
 * [Age of Context: Mobile, Sensors, Data and the Future of Privacy](http://amzn.com/1492348430)
+* [如何创造思维:人类思想所揭示出的奥秘](http://amzn.to/1H1jLgk)
 
 # Art/Design
 
