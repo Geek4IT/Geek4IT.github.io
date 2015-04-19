@@ -8,6 +8,9 @@ thread: 618
 
 I am a programmer, but I am enthusiastic at designing some stuff in my spare time. Here are some pratice work to share with you guys, you can download all these sketch resources for FREE from [Dropbox](http://goo.gl/awKAfD), just for fun. :)
 
+[Flipboard](http://bit.ly/1EZhken), 19/4/2015, 30 Minutes.
+![Alt text](/images/sketch/Flipboard.png)
+
 [FaceTime](http://bit.ly/1Q3OptN), 19/4/2015, 20 Minutes.
 ![Alt text](/images/sketch/FaceTime.png)
 
