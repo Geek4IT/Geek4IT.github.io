@@ -4,7 +4,7 @@ title: Maker
 thread: 618
 ---
 
-##[Sketch](http://bohemiancoding.com/) Every Week
+##[Happy Sketching](http://bohemiancoding.com/)
 
 I am a programmer, but I am enthusiastic at designing some stuff in my spare time. Here are some pratice work to share with you guys, you can download all these sketch resources for FREE from [Dropbox](http://goo.gl/awKAfD), just for fun. :)
 
