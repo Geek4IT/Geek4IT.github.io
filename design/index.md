@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Maker
+title: Design
 thread: 618
 ---
 
