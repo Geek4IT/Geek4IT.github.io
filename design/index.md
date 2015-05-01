@@ -8,7 +8,7 @@ thread: 618
 
 I am a programmer, but I am enthusiastic at designing some stuff in my spare time. Here are some pratice work to share with you guys, you can download all these sketch resources for FREE from [Dropbox](http://goo.gl/awKAfD), just for fun. :)
 
-[Lock Screen](http://bit.ly/1EZhken), 1/5/2015, 70 Minutes.
+[Lock Screen](https://www.dropbox.com/s/qk578x9bianvlac/Lock%20Screen_20150501.zip?dl=0), 1/5/2015, 70 Minutes.
 ![Alt text](/images/sketch/Lock Screen.png)
 
 [Photos](http://bit.ly/1EZhken), 26/4/2015, 40 Minutes.
