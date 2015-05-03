@@ -7,8 +7,8 @@ categories: Reading
 tags:  Reading
 ---
 
-<img src="http://ecx.images-amazon.com/images/I/616xvCRPA%2BL.jpg" width="200" />
+<img src="http://ecx.images-amazon.com/images/I/51RucbMZqDL.jpg" width="200" />
 
-##[如何创造思维:人类思想所揭示出的奥秘](http://amzn.to/1H1jLgk)
+##[MongoDB: The Definitive Guide](http://amzn.com/1449381561)
 
-ISBN: 9787213058646: 2015-4-19 RATING: */10
+ISBN: 1449381561: 2015-5-3 RATING: */10
