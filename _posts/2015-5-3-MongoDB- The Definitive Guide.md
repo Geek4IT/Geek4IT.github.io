@@ -1,7 +1,7 @@
 ---
 date: 2015-5-3 23:00:00+00:00
 layout: post
-title: MongoDB: The Definitive Guide(R)
+title: MongoDB The Definitive Guide(R)
 thread: 44
 categories: Reading
 tags:  Reading

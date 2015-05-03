@@ -41,6 +41,7 @@ comments: no
 * [Programming Collective Intelligence: Building Smart Web 2.0 Applications](http://amzn.com/0596529325)
 * [A Programmer's Guide To Data Mining](http://guidetodatamining.com/)
 * [Introduction to Tornado](http://maemual-share.qiniudn.com/Oreilly.Introduction.to.Tornado.Mar.2012.pdf)
+* [MongoDB: The Definitive Guide](http://amzn.com/1449381561)
 
 # IT/Startup/Tech
 
