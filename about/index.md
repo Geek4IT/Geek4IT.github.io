@@ -11,6 +11,7 @@ comments: no
   <p>I hate the word: "success", and always looking for the "Aha moment"! Building stuff is one of the most excited things in the world. I am eager to learn more, explore more and do more! Keep calm & be cool!</p>
   <p>I <a href="http://geek4it.com/books.html">Read</a><p>
   <p>I <a href="https://github.com/Geek4IT">Code</a><p>
+  <p>I <a href="http://geek4it.com/design/">Design</a><p>
   <p>I <a href="http://geek4it.com">Write</a><p>
   <p>Geek4IT = Geek for IT<p>
   <p>Geek means the passion, love and concentration for something.<p>
