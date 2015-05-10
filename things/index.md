@@ -37,6 +37,7 @@ thread: 617
 * [Speech - Teen Choice Awards, Ashton Kutcher](https://www.youtube.com/watch?v=FNXwKGZHmDc)
 * [Forget what you know, Jacob Barnett](https://www.youtube.com/watch?v=Uq-FOOQ1TpE)
 * [The mind behind Tesla, SpaceX, SolarCity, Elon Musk](https://www.ted.com/talks/elon_musk_the_mind_behind_tesla_spacex_solarcity)
+* [Cory House - Becoming an Outlier: Career Reboot for the Developer Mind](https://vimeo.com/97415346)
 
 - ###Startup
 * [The Learn Startup, Eric Rises](https://www.youtube.com/watch?v=FRR_jEDAfoo)
