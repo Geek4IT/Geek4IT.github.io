@@ -33,7 +33,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [So you want to be a full-stack developer? How to build a full-stack python, Kate Heddleston](http://pyvideo.org/video/2591/so-you-want-to-be-a-full-stack-developer-how-to)
 
 - ###Inspiration & Innovation
-* [When we build](http://vimeo.com/34017777)
+* [When we build, Wilson Miner](http://vimeo.com/34017777)
 * [How to live before you die, Stev Jobs](http://www.ted.com/talks/steve_jobs_how_to_live_before_you_die)
 * [I Don't Believe in Genius, Fritz Grobe](http://vimeo.com/85364131)
 * [Steal Like An Artist, Austin Kleon](https://www.youtube.com/watch?v=oww7oB9rjgw)
@@ -41,7 +41,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Speech - Teen Choice Awards, Ashton Kutcher](https://www.youtube.com/watch?v=FNXwKGZHmDc)
 * [Forget what you know, Jacob Barnett](https://www.youtube.com/watch?v=Uq-FOOQ1TpE)
 * [The mind behind Tesla, SpaceX, SolarCity, Elon Musk](https://www.ted.com/talks/elon_musk_the_mind_behind_tesla_spacex_solarcity)
-* [Cory House - Becoming an Outlier: Career Reboot for the Developer Mind](https://vimeo.com/97415346)
+* [Becoming an Outlier: Career Reboot for the Developer Mind, Cory House](https://vimeo.com/97415346)
 
 - ###Startup
 * [The Learn Startup, Eric Rises](https://www.youtube.com/watch?v=FRR_jEDAfoo)
