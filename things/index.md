@@ -5,6 +5,10 @@ comments: yes
 thread: 617
 ---
 
+There are a lot of screencasts, recordings of user group gatherings and conference talks available online. I try to commit myself watching at least two new talks every week, and I've been doing this for quite some time now. I created this list of online talks that I really enjoyed watching. I'll also be updating this list whenever I've watched another awesome talk that is worthy enough. Suggestions are always appreciated through a pull request. So without further ado ...
+
+(In no particular order)
+
 - [Awesome Serials](#awesome serials)
 - [Video](#video)
 - [Software](#software)
