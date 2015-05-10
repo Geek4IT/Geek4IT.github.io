@@ -63,6 +63,7 @@ thread: 617
 * [Tinypng(Advanced lossy compression for PNG images that preserves full alpha transparency.)](https://tinypng.com/)
 * [BookZZ(The world's largest ebook library)](http://bookzz.org/)
 * [How to Start a Startup](http://startupclass.samaltman.com/)
+* [Awesome talks](https://github.com/JanVanRyswyck/awesome-talks)
 
 # Blog
 * [Aaron Swartz](http://www.aaronsw.com/)
