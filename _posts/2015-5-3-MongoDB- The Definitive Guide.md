@@ -11,4 +11,4 @@ tags:  Reading
 
 ##[MongoDB: The Definitive Guide](http://amzn.com/1449381561)
 
-ISBN: 1449381561: 2015-5-3 RATING: */10
+ISBN: 1449381561: 2015-5-3 RATING: 6/10
