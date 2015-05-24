@@ -8,6 +8,10 @@ thread: 618
 
 I am a programmer, but I am enthusiastic at designing some stuff in my spare time. Here are some pratice work to share with you guys, you can download all these sketch resources for FREE from [Dropbox](http://goo.gl/awKAfD), just for fun. :)
 
+[News](), 24/5/2015, 60 Minutes.
+![Alt text](/images/sketch/Solo News - Home Screen.png)
+![Alt text](/images/sketch/Solo News - Settings.png)
+
 [Maps](https://www.dropbox.com/s/m51uvfpkjvyry4k/Maps_20150517.zip?dl=0), 17/5/2015, 40 Minutes.
 ![Alt text](/images/sketch/Maps.png)
 
