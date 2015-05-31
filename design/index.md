@@ -10,7 +10,6 @@ I am a programmer, but I am enthusiastic at designing some stuff in my spare tim
 
 [Calendar](https://www.dropbox.com/s/9m4hvsje66do7nq/Calendar_20150531.zip?dl=0), 31/5/2015, 20 Minutes.
 ![Alt text](/images/sketch/Calendar.png)
-![
 
 [News](), 24/5/2015, 60 Minutes.
 ![Alt text](/images/sketch/Solo News - Home Screen.png)
