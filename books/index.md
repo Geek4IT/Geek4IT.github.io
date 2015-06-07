@@ -42,6 +42,7 @@ comments: no
 * [A Programmer's Guide To Data Mining](http://guidetodatamining.com/)
 * [Introduction to Tornado](http://maemual-share.qiniudn.com/Oreilly.Introduction.to.Tornado.Mar.2012.pdf)
 * [MongoDB: The Definitive Guide](http://amzn.com/1449381561)
+* [代码的未来](http://amzn.to/1RV4G44)
 
 # IT/Startup/Tech
 
@@ -87,6 +88,7 @@ comments: no
 * [色彩设计的原理](http://www.amazon.cn/dp/B005XI936G)
 * [七日掌握设计配色基础](http://book.douban.com/subject/1291969/)
 * [体验.度 简单可依赖的用户体验](http://book.douban.com/subject/26128084/)
+* [绝对自由的创造:毕加索作品欣赏](http://www.amazon.cn/gp/product/B00KGRA0DO?psc=1&ref_=oh_aui_detailpage_o00_s00)
 
 # Wisdom
 
@@ -97,6 +99,7 @@ comments: no
 * [Peace Is Every Step: The Path of Mindfulness in Everyday Life](http://amzn.com/0553351397)
 * [禅与摩托车的维修艺术](http://amzn.to/1G6vaLj)
 * [穷查理宝典](http://www.amazon.cn/gp/product/B00LF54E10?selectObb=new)
+* [富兰克林自传](http://book.douban.com/subject/1313181/)
 
 # Literature/Novel/ETC...
 * [王小波杂文第一卷](http://book.douban.com/subject/1815640/)
