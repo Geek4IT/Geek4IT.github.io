@@ -6,7 +6,7 @@ thread: 618
 
 ##[Happy Sketching](http://bohemiancoding.com/)
 
-I am a programmer, but I am enthusiastic at designing some stuff in my spare time. Here are some pratice work to share with you guys, you can download all these sketch resources for FREE from [Dropbox](http://goo.gl/awKAfD), just for fun. :)
+I am a programmer, but I am enthusiastic at designing some stuff in my spare time. Here are some practice work to share with you guys, you can download all these sketch resources for FREE from [Dropbox](http://goo.gl/awKAfD), just for fun. :)
 
 [WhatsApp](https://www.dropbox.com/s/qyafpqrce7mjxzs/WhatsApp_20150614.zip?dl=0), 14/6/2015, 60 Minutes.
 ![Alt text](/images/sketch/WhatsApp.png)
