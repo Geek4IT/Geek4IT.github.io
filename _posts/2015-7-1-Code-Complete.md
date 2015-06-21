@@ -2,7 +2,7 @@
 date: 2015-7-1 23:00:00+00:00
 layout: post
 title: Code Complete(R)
-thread: 48
+thread: 49
 categories: Reading
 tags:  Reading
 ---
