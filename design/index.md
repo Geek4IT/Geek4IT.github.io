@@ -8,6 +8,9 @@ thread: 618
 
 I am a programmer, but I am enthusiastic at designing some stuff in my spare time. Here are some practice work to share with you guys, you can download all these sketch resources for FREE from [Dropbox](http://goo.gl/awKAfD), just for fun. :)
 
+[Love Wins](https://www.dropbox.com/s/8kp3dfzrjgoou9k/LoveWins_20150628.zip?dl=0), 28/6/2015, 65 Minutes.
+![Alt text](/images/sketch/LoveWins.png)
+
 [Android Gallery](https://www.dropbox.com/s/j4f3qzr01ucrd7y/Android%20Gallery_20150621.zip?dl=0), 21/6/2015, 30 Minutes.
 ![Alt text](/images/sketch/Android Gallery.png)
 
