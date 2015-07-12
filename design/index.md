@@ -8,6 +8,9 @@ thread: 618
 
 I am a programmer, but I am enthusiastic at designing some stuff in my spare time. Here are some practice work to share with you guys, you can download all these sketch resources for FREE from [Dropbox](http://goo.gl/awKAfD), just for fun. :)
 
+[Braun T3](https://www.dropbox.com/s/ru8wqkxr8h8r8kn/Braun_20150712.zip?dl=0), 12/7/2015, 60 Minutes.
+![Alt text](/images/sketch/Braun.png)
+
 [Search](https://www.dropbox.com/s/ub0nivv2d2i9nww/Search_20150705.zip?dl=0), 5/7/2015, 30 Minutes.
 ![Alt text](/images/sketch/Search.png)
 
