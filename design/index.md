@@ -8,6 +8,9 @@ thread: 618
 
 I am a programmer, but I am enthusiastic at designing some stuff in my spare time. Here are some practice work to share with you guys, you can download all these sketch resources for FREE from [Dropbox](http://goo.gl/awKAfD), just for fun. :)
 
+[The One](https://www.dropbox.com/s/njw94sq84acw9yt/The%20One_20150719.zip?dl=0), Read all news in One app, 19/7/2015, 90 Minutes.
+![Alt text](/images/sketch/The One.png)
+
 [Braun T3](https://www.dropbox.com/s/ru8wqkxr8h8r8kn/Braun_20150712.zip?dl=0), 12/7/2015, 60 Minutes.
 ![Alt text](/images/sketch/Braun.png)
 
