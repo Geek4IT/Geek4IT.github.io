@@ -8,6 +8,9 @@ thread: 618
 
 I am a programmer, but I am enthusiastic at designing some stuff in my spare time. Here are some practice work to share with you guys, you can download all these sketch resources for FREE from [Dropbox](http://goo.gl/awKAfD), just for fun. :)
 
+[Watermelon](https://www.dropbox.com/s/whhxhbbnzjhjkwb/Watermelon_20150726.zip?dl=0), 26/7/2015, 30 Minutes.
+![Alt text](/images/sketch/Watermelon.png)
+
 [The One](https://www.dropbox.com/s/njw94sq84acw9yt/The%20One_20150719.zip?dl=0), Read all news in One app, 19/7/2015, 90 Minutes.
 ![Alt text](/images/sketch/The One.png)
 
