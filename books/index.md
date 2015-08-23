@@ -70,6 +70,8 @@ comments: no
 * [十亿美金的教训](http://book.douban.com/subject/6511603/)
 * [Age of Context: Mobile, Sensors, Data and the Future of Privacy](http://amzn.com/1492348430)
 * [如何创造思维:人类思想所揭示出的奥秘](http://amzn.to/1H1jLgk)
+* [新经济，新规则](http://amzn.to/1Ms8BFO)
+* [看见未来]（http://amzn.to/1Phtp0l）
 
 # Art/Design
 
@@ -89,6 +91,7 @@ comments: no
 * [七日掌握设计配色基础](http://book.douban.com/subject/1291969/)
 * [体验.度 简单可依赖的用户体验](http://book.douban.com/subject/26128084/)
 * [绝对自由的创造:毕加索作品欣赏](http://www.amazon.cn/gp/product/B00KGRA0DO?psc=1&ref_=oh_aui_detailpage_o00_s00)
+* [生活的艺术家](http://amzn.com/0735619670)
 
 # Wisdom
 
