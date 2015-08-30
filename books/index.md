@@ -71,7 +71,8 @@ comments: no
 * [Age of Context: Mobile, Sensors, Data and the Future of Privacy](http://amzn.com/1492348430)
 * [如何创造思维:人类思想所揭示出的奥秘](http://amzn.to/1H1jLgk)
 * [新经济，新规则](http://amzn.to/1Ms8BFO)
-* [看见未来]（http://amzn.to/1Phtp0l）
+* [看见未来](http://amzn.to/1Phtp0l)
+* [增长黑客](http://amzn.to/1KuLOYk)
 
 # Art/Design
 
