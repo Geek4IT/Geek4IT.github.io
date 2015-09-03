@@ -8,7 +8,7 @@ thread: 618
 
 I am a programmer, but I am enthusiastic at designing some stuff in my spare time. Here are some practice work to share with you guys, you can download all these sketch resources for FREE from [Dropbox](http://goo.gl/awKAfD), just for fun. :)
 
-[Mercedes Benz](https://www.dropbox.com/s/ripfc9tz9v8dsam/Black%26White_20150802.zip?dl=0), 2/8/2015, 10 Minutes.
+[Mercedes Benz](https://www.dropbox.com/s/f5l4ynwlydzm7ah/Mercedes%20Benz_20150903.zip?dl=0), 3/9/2015, 60 Minutes.
 ![Alt text](/images/sketch/Mercedes Benz.png)
 
 [Black&White](https://www.dropbox.com/s/ripfc9tz9v8dsam/Black%26White_20150802.zip?dl=0), 2/8/2015, 10 Minutes.
