@@ -10,6 +10,7 @@ I am a programmer, but I am enthusiastic at designing some stuff in my spare tim
 
 [Mercedes Benz](https://www.dropbox.com/s/f5l4ynwlydzm7ah/Mercedes%20Benz_20150903.zip?dl=0), 3/9/2015, 60 Minutes.
 ![Alt text](/images/sketch/Mercedes Benz.png)
+![Alt text](/images/sketch/Mercedes Benz_Black.png)
 
 [Black&White](https://www.dropbox.com/s/ripfc9tz9v8dsam/Black%26White_20150802.zip?dl=0), 2/8/2015, 10 Minutes.
 ![Alt text](/images/sketch/Black&White.png)
