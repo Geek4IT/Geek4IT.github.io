@@ -93,6 +93,7 @@ comments: no
 * [体验.度 简单可依赖的用户体验](http://book.douban.com/subject/26128084/)
 * [绝对自由的创造:毕加索作品欣赏](http://www.amazon.cn/gp/product/B00KGRA0DO?psc=1&ref_=oh_aui_detailpage_o00_s00)
 * [生活的艺术家](http://amzn.com/0735619670)
+* [做衣服](http://amzn.to/1L9936i)
 
 # Wisdom
 
