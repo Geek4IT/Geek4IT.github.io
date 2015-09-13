@@ -95,6 +95,7 @@ comments: no
 * [生活的艺术家](http://amzn.com/0735619670)
 * [山本耀司·我投下一枚炸弹](http://amzn.to/1d9xzKn)
 * [做衣服](http://amzn.to/1L9936i)
+* [天才艺术家:雷诺阿](http://amzn.to/1FF8hfl)
 
 # Wisdom
 
