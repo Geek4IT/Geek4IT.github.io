@@ -96,6 +96,8 @@ comments: no
 * [山本耀司·我投下一枚炸弹](http://amzn.to/1d9xzKn)
 * [做衣服](http://amzn.to/1L9936i)
 * [天才艺术家:雷诺阿](http://amzn.to/1FF8hfl)
+* [设计中的设计](http://amzn.to/1PfR41v)
+* [日本的八个审美意识](http://amzn.to/1LphvUR)
 
 # Wisdom
 
