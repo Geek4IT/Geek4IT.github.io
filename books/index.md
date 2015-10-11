@@ -73,6 +73,7 @@ comments: no
 * [新经济，新规则](http://amzn.to/1Ms8BFO)
 * [看见未来](http://amzn.to/1Phtp0l)
 * [增长黑客](http://amzn.to/1KuLOYk)
+* [启示录：打造用户喜爱的产品](http://amzn.to/1FYFubv)
 
 # Art/Design
 
