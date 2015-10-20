@@ -74,6 +74,7 @@ comments: no
 * [看见未来](http://amzn.to/1Phtp0l)
 * [增长黑客](http://amzn.to/1KuLOYk)
 * [启示录：打造用户喜爱的产品](http://amzn.to/1FYFubv)
+* [格鲁夫给经理人的第一课](http://amzn.to/1GQ3eJM)
 
 # Art/Design
 
