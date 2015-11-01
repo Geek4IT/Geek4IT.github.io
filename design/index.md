@@ -8,8 +8,8 @@ thread: 618
 
 I am a programmer, but I am enthusiastic at designing some stuff in my spare time. Here are some practice work to share with you guys, you can download all these sketch resources for FREE from [Dropbox](http://goo.gl/awKAfD), just for fun. :)
 
-[HEY, share your moments.](https://www.dropbox.com/s/yrg263ebjv6v0n2/HEY_20151101.zip?dl=0), 01/11/2015, 90 Minutes.
-![Alt text](/images/sketch/HEY)
+[HEY, share your moments](https://www.dropbox.com/s/yrg263ebjv6v0n2/HEY_20151101.zip?dl=0), 01/11/2015, 90 Minutes.
+![Alt text](/images/sketch/HEY.png)
 
 [Choas, what can you see through the choas?](https://www.dropbox.com/s/7i03dwktaelqtmv/Choas_20151011.zip?dl=0), 11/10/2015, 40 Minutes.
 ![Alt text](/images/sketch/Choas.png)
