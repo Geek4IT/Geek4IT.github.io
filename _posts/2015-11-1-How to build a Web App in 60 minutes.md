@@ -16,10 +16,12 @@ tags:  Programming
 
 ## 1. Write a Web app with Tornaodo
 [Tornado](http://www.tornadoweb.org/) is a Python web framework. You can 
+easily write a web app with a few lines of code.
 
-[The one](https://github.com/Geek4IT/TheOne)
 
-### Directory Structure
+Here is the [The one](https://github.com/Geek4IT/TheOne) that crawls the feed of [Hacker News](https://news.ycombinator.com/)、[Medium](https://medium.com/)、[Product Hunt](http://www.producthunt.com/) and serves as an API. You can check the source code on [Github](https://github.com/Geek4IT/TheOne).
+
+### Structure
 
     the_one/
         handlers/
