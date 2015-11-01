@@ -52,10 +52,12 @@ Congratulations on selecting Linode as your cloud hosting provider, follow this 
 ### Install
 
 	1. Add Nginx Repository: sudo yum install epel-release
+	
 	2. Install Nginx: sudo yum install nginx
+	
 	3. Start Nginx: sudo systemctl start nginx
+	
 	4. Enable Nginx to start when your system boots: sudo systemctl enable nginx
-	5. 
 
  
  You can do a spot check right away to verify everything works well by visiting your server's public IP address in your browser.
@@ -70,6 +72,10 @@ Congratulations! nginx is now installed and running!
 
 ### Configuration
 
+The main Nginx configuration file is located at `/etc/nginx/nginx.conf`. This is where you can change settings like the user that runs the Nginx daemon processes, and the number of worker processes that get spawned when Nginx is running, among other things.
 
 
 ## 4. Configurate with Supervisor
+
+	1. Install: sudo pip install supervisor
+	2. Setup: echo_supervisord_conf > supervisord.conf
