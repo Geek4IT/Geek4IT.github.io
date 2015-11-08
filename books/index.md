@@ -8,20 +8,7 @@ comments: no
     <p>I’m a voracious reader, reading the classic books is the one of the best things in the world.
       I pick up reading seriously again from 2013, and have made it a daily habit. Here are some books I’ve finished recently.</p>
     <p>This page will constantly update as I read more, so bookmark it if you want to check back in a few months. Fell free to give me any recommendations.<strong> Keep calm & be cool.</strong></p>
-
-Book        | Time           | Rating     |
---------------------|------------------|-----------------------|
-[人类简史: 从动物到上帝](http://amzn.to/1NXBQOU) | 2015-11-08 - 2015-11-16    | 8/10  |
-[格鲁夫给经理人的第一课](http://amzn.to/1GQ3eJM)  | 2015-10-25 - 2015-11-07  | 9/10   |
-[启示录：打造用户喜爱的产品](http://amzn.to/1FYFubv)  | 2015-10-11 - 2015-10-18      | 8/10   |
-[日本的八个审美意识](http://amzn.to/1LphvUR)      | 2015-10-3 - 2015-10-7  | 9/10    |
-[设计中的设计](http://amzn.to/1PfR41v)           | 2015-9-20  - 2015-9-25  | 9/10  |
-[天才艺术家:雷诺阿](http://amzn.to/1FF8hfl)       | 2015-9-13 - 2015-9-20     | 6/10   |
-[创业维艰-如何完成比难更难的事](http://amzn.to/1hKhn4P)     | 2015-9-5  | 9/10  |
-[做衣服](http://amzn.to/1L9936i)    | 2015-9-4 | 6/10   |
-[增长黑客:创业公司的用户与收入增长秘籍](http://amzn.to/1KuLOYk)    | 2015-9-3 | 7/10   |
-
-
+    
 - [Computer Science](#computerscience)
 - [IT/Startup/Tech](#IT/Startup/Tech)
 - [Art/Design](#Art/Design)
