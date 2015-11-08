@@ -121,3 +121,4 @@ comments: no
 * [奥黛丽·赫本：落入凡间的天使](http://www.duokan.com/book/41755)
 * [阮一峰博客文集 1：如何变得有思想?](http://www.duokan.com/book/48508)
 * [阮一峰博客文集 2：一个寻找作者的读者](http://www.duokan.com/book/48501)
+* [人类简史: 从动物到上帝](http://amzn.to/1NXBQOU)
