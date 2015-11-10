@@ -44,6 +44,7 @@ comments: no
 * [MongoDB: The Definitive Guide](http://amzn.com/1449381561)
 * [代码的未来](http://amzn.to/1RV4G44)
 * [鸟哥的Linux私房菜](http://amzn.to/1WcjDz5)
+* [图解HTTP](http://amzn.to/1HDLRMs)
 
 # IT/Startup/Tech
 
