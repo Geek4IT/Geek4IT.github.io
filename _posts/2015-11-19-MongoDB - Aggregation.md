@@ -11,6 +11,8 @@ Aggregations operations process data records and return computed results. Aggreg
 
 ###Example:
 
+In the app collection, you will have the raw data like this:
+
 db.app.findOne()
 
 	{
@@ -28,7 +30,15 @@ db.app.findOne()
 			"device_name" : "XT1032",
 			"os_version" : "5.1"
 	}
-	
+
+
+| Expression  | Description  | Example |
+|:------------- |:---------------:| -------------:|
+| $sum      | Sums up the defined value from all documents in the collection. |         db.app.aggregate([{$group : {_id : "$app_id", num_tutorial : {$sum : "$is_organic"}}}]) |
+| $avg      | centered        |           $12 |
+| $min | are neat        |            $1 |
+
+
 Find
 
 	db.app.aggregate([
