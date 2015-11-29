@@ -7,6 +7,10 @@ categories: CS, Programming
 tags:  Programming
 ---
 
+Aggregations operations process data records and return computed results. Aggregation operations group values from multiple documents together, and can perform a variety of operations on the grouped data to return a single result. In sql count(*) and with group by is an equivalent of [MongoDB](https://www.mongodb.org/) aggregation.
+
+###Example:
+
 db.app.findOne()
 
 	{
@@ -62,12 +66,11 @@ Find
 
 	db.app.aggregate([
 	{'$match': {'datetime': {'$gte': '2015-11-23', '$lte': '2015-11-27'},
-	'app_id':'com.ztapps.lockermaster'}}, 
+	'app_id':'com.app.master'}}, 
 	{'$project':{'app_id': 1, 'datetime': 1, 'click':{'$cmp':['$click_time',  0]}, 
 	'install':{'$cmp':['$installed_at',  0]},'is_organic': 1}},
 	{'$group': {'_id': "$datetime", 'clicks':{'$sum': '$click'}, 
-	'installs':{'$sum': '$install'}, 
-	'organic':{'$sum': '$is_organic'}}}, 
+	'installs':{'$sum': '$install'}, 'organic':{'$sum': '$is_organic'}}}, 
 	{'$sort': {'clicks': -1, 'installs': -1, 'organics': -1}}])
 
 Result:
