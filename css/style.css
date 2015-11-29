@@ -11,9 +11,6 @@
 
 	body {
 		background: white;
-		/*
-		background: #f0f4f4;
-		color: #5b5b5b;*/
 	}
 
 		body.is-loading * {
