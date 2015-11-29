@@ -45,7 +45,7 @@ db.app.findOne()
 			"os_version" : "5.1"
 	}
 
-Find
+Find:
 
 	db.app.aggregate([
 	{'$match': {'datetime': '2015-11-23'}}, 
@@ -55,7 +55,7 @@ Find
 	'installs':{'$sum': '$install'}, 'organic':{'$sum': '$is_organic'}}}, 
 	{'$sort': {'clicks': -1, 'installs': -1, 	'organics': -1}}])
 	
-Result
+Result:
 
 	{ "_id" : "com.theme.lock", "clicks" : 105384, "installs" : 8149, "organic" : 1824 }
 	{ "_id" : "com.theme.love", "clicks" : 83628, "installs" : 8707, "organic" : 1125 }
@@ -70,15 +70,8 @@ Result
 	{ "_id" : "com.theme.coolice", "clicks" : 1704, "installs" : 387, "organic" : 182 }
 	{ "_id" : "com.theme.cutegirl", "clicks" : 1660, "installs" : 385, "organic" : 71 }
 	{ "_id" : "com.theme.beautifulcheetah", "clicks" : 1568, "installs" : 1422, "organic" : 913 }
-	{ "_id" : "com.theme.beigetemptation", "clicks" : 1552, "installs" : 619, "organic" : 157 }
-	{ "_id" : "com.theme.freshstyle", "clicks" : 1245, "installs" : 395, "organic" : 58 }
-	{ "_id" : "com.theme.flamefootball", "clicks" : 1006, "installs" : 404, "organic" : 185 }
-	{ "_id" : "com.theme.colorstar", "clicks" : 955, "installs" : 240, "organic" : 20 }
-	{ "_id" : "com.theme.christmasday", "clicks" : 944, "installs" : 237, "organic" : 28 }
-	{ "_id" : "com.theme.yose", "clicks" : 879, "installs" : 395, "organic" : 108 }
-	{ "_id" : "com.theme.pinkpattern", "clicks" : 810, "installs" : 297, "organic" : 60 }
 	
-Find
+Find:
 
 	db.app.aggregate([
 	{'$match': {'datetime': {'$gte': '2015-11-23', '$lte': '2015-11-27'},
@@ -96,6 +89,8 @@ Result:
 	{ "_id" : "2015-11-26", "clicks" : 0, "installs" : 37671, "organic" : 37671 }
 	{ "_id" : "2015-11-27", "clicks" : 0, "installs" : 36377, "organic" : 36377 }
 	{ "_id" : "2015-11-23", "clicks" : 0, "installs" : 22794, "organic" : 22794 }
+
+###Dashboard:
 
 ![Alt text](/images/MongoDB-dashboard.png)
 
