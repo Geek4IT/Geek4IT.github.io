@@ -57,4 +57,30 @@ Result
 	{ "_id" : "com.theme.christmasday", "clicks" : 944, "installs" : 237, "organic" : 28 }
 	{ "_id" : "com.theme.yose", "clicks" : 879, "installs" : 395, "organic" : 108 }
 	{ "_id" : "com.theme.pinkpattern", "clicks" : 810, "installs" : 297, "organic" : 60 }
+	
+Find
+
+	db.app.aggregate([
+	{'$match': {'datetime': {'$gte': '2015-11-23', '$lte': '2015-11-27'},
+	'app_id':'com.ztapps.lockermaster'}}, 
+	{'$project':{'app_id': 1, 'datetime': 1, 'click':{'$cmp':['$click_time',  0]}, 
+	'install':{'$cmp':['$installed_at',  0]},'is_organic': 1}},
+	{'$group': {'_id': "$datetime", 'clicks':{'$sum': '$click'}, 
+	'installs':{'$sum': '$install'}, 
+	'organic':{'$sum': '$is_organic'}}}, 
+	{'$sort': {'clicks': -1, 'installs': -1, 'organics': -1}}])
+
+Result:
+
+	{ "_id" : "2015-11-24", "clicks" : 0, "installs" : 40375, "organic" : 40375 }
+	{ "_id" : "2015-11-25", "clicks" : , "installs" : 38578, "organic" : 38578 }
+	{ "_id" : "2015-11-26", "clicks" : 0, "installs" : 37671, "organic" : 37671 }
+	{ "_id" : "2015-11-27", "clicks" : 0, "installs" : 36377, "organic" : 36377 }
+	{ "_id" : "2015-11-23", "clicks" : 0, "installs" : 22794, "organic" : 22794 }
+
+![Alt text](/images/MongoDB-dashboard.png)
+
+![Alt text](/images/MongoDB-dashboard2.png)
+
+![Alt text](/images/MongoDB-dashboard3.png)
 
