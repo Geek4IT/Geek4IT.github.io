@@ -9,6 +9,20 @@ tags:  Programming
 
 Aggregations operations process data records and return computed results. Aggregation operations group values from multiple documents together, and can perform a variety of operations on the grouped data to return a single result. In sql count(*) and with group by is an equivalent of [MongoDB](https://www.mongodb.org/) aggregation.
 
+Possible stages in aggregation framework are following:
+
+* $project: Used to select some specific fields from a collection.
+
+* $match: This is a filtering operation and thus this can reduce the amount of documents that are given as input to the next stage.
+
+* $group: This does the actual aggregation as discussed above.
+
+* $sort: Sorts the documents.
+
+* $skip: With this it is possible to skip forward in the list of documents for a given amount of documents.
+* $limit: This limits the amount of documents to look at by the given number starting from the current position.s
+$unwind: This is used to unwind document that are using arrays. when using an array the data is kind of pre-joinded and this operation will be undone with this to have individual documents again. Thus with this stage we will increase the amount of documents for the next stage.
+
 ###Example:
 
 In the app collection, you will have the raw data like this:
