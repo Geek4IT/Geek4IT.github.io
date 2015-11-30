@@ -98,3 +98,10 @@ Result:
 
 ![Alt text](/images/MongoDB-dashboard3.png)
 
+
+PS:
+
+
+
+	db.news.aggregate([{'$match': {created_at: {$gt: 1448726400000, $lt: 1448812800000}}}, {$project:{origin:1, title:1, viewed: 1}}, {$group: {_id: "$origin", viewed:{$sum: "$viewed"}}}, {$sort: {viewed: -1}}])
+
