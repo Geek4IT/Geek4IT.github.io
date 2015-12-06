@@ -8,6 +8,9 @@ thread: 618
 
 I am a programmer, but I am enthusiastic at designing some stuff in my spare time. Here are some practice work to share with you guys, you can download all these sketch resources for FREE from [Dropbox](http://goo.gl/awKAfD), just for fun. :)
 
+[HEY Camera, share your moments](https://www.dropbox.com/s/n0wjeb62ul97rm8/HEY_Search_20151129.zip?dl=0), 6/12/2015, 60 Minutes.
+![Alt text](/images/sketch/HEY Camera.png)
+
 [HEY Search, share your moments](https://www.dropbox.com/s/n0wjeb62ul97rm8/HEY_Search_20151129.zip?dl=0), 29/11/2015, 40 Minutes.
 ![Alt text](/images/sketch/HEY Search.png)
 
