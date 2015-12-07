@@ -45,6 +45,7 @@ comments: no
 * [代码的未来](http://amzn.to/1RV4G44)
 * [鸟哥的Linux私房菜](http://amzn.to/1WcjDz5)
 * [图解HTTP](http://amzn.to/1HDLRMs)
+* [Android源码设计模式解析与实战](http://www.amazon.cn/gp/product/B0176QDPUW?psc=1&ref_=oh_aui_detailpage_o00_s00)
 
 # IT/Startup/Tech
 
@@ -77,6 +78,7 @@ comments: no
 * [增长黑客](http://amzn.to/1KuLOYk)
 * [启示录：打造用户喜爱的产品](http://amzn.to/1FYFubv)
 * [格鲁夫给经理人的第一课](http://amzn.to/1GQ3eJM)
+* [大数据时代:生活、工作与思维的大变革](http://www.amazon.cn/gp/product/B00AIG0PGK?psc=1&ref_=oh_aui_detailpage_o00_s00)
 
 # Art/Design
 
