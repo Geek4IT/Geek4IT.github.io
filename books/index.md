@@ -78,7 +78,7 @@ comments: no
 * [增长黑客](http://amzn.to/1KuLOYk)
 * [启示录：打造用户喜爱的产品](http://amzn.to/1FYFubv)
 * [格鲁夫给经理人的第一课](http://amzn.to/1GQ3eJM)
-* [大数据时代:生活、工作与思维的大变革](http://www.amazon.cn/gp/product/B00AIG0PGK?psc=1&ref_=oh_aui_detailpage_o00_s00)
+* [大数据时代:生活、工作与思维的大变革](http://www.amazon.cn/gp/product/B00AIG0PGK?psc=1&ref_=oh_aui_detailpage_o00_s00we)
 
 # Art/Design
 
