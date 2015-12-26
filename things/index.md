@@ -154,3 +154,5 @@ attain it, it is nothing special. - <a href="http://en.wikipedia.org/wiki/Shunry
 canvas to our imagination - <a href="https://en.wikipedia.org/wiki/Henry_David_Thoreau">Henry David Thoreau</a>
 
 * Would you like you, if you met you?
+
+* “If you learn only methods, you’ll be tied to your methods. But if you learn principles, you can devise your own methods.” -  Ralph Waldo Emerson
