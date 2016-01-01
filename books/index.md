@@ -80,6 +80,9 @@ comments: no
 * [格鲁夫给经理人的第一课](http://amzn.to/1GQ3eJM)
 * [大数据时代:生活、工作与思维的大变革](http://www.amazon.cn/gp/product/B00AIG0PGK?psc=1&ref_=oh_aui_detailpage_o00_s00we)
 * [必然](http://amzn.to/1UrfSGK)
+* [数字乌托邦:从反主流文化到赛博文化](http://amzn.to/1ISc6DH)
+* [创业维艰-如何完成比难更难的事](http://amzn.to/1hKhn4P)
+
 
 # Art/Design
 
@@ -105,6 +108,7 @@ comments: no
 * [天才艺术家:雷诺阿](http://amzn.to/1FF8hfl)
 * [设计中的设计](http://amzn.to/1PfR41v)
 * [日本的八个审美意识](http://amzn.to/1LphvUR)
+* [简约至上，交互设计四策略](http://amzn.to/1hf0RcO)
 
 # Wisdom
 
