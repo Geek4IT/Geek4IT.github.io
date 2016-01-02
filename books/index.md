@@ -46,6 +46,7 @@ comments: no
 * [鸟哥的Linux私房菜](http://amzn.to/1WcjDz5)
 * [图解HTTP](http://amzn.to/1HDLRMs)
 * [Android源码设计模式解析与实战](http://www.amazon.cn/gp/product/B0176QDPUW?psc=1&ref_=oh_aui_detailpage_o00_s00)
+* [[淘宝技术这十年](http://amzn.to/1YWSlOK)
 
 # IT/Startup/Tech
 
@@ -83,6 +84,7 @@ comments: no
 * [数字乌托邦:从反主流文化到赛博文化](http://amzn.to/1ISc6DH)
 * [创业维艰-如何完成比难更难的事](http://amzn.to/1hKhn4P)
 * [淘宝产品十年事](http://amzn.to/1mnmuuJ)
+
 
 # Art/Design
 
