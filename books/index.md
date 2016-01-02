@@ -82,7 +82,7 @@ comments: no
 * [必然](http://amzn.to/1UrfSGK)
 * [数字乌托邦:从反主流文化到赛博文化](http://amzn.to/1ISc6DH)
 * [创业维艰-如何完成比难更难的事](http://amzn.to/1hKhn4P)
-
+* [淘宝产品十年事](http://amzn.to/1mnmuuJ)
 
 # Art/Design
 
