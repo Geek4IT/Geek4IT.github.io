@@ -1,4 +1,4 @@
-markdown: rdiscount
+markdown: kramdown
 permalink: /:title/
 url: http://geek4it.com
 name: GEEK4IT
