@@ -47,7 +47,7 @@ I’m a voracious reader, reading the classic books is the one of the best thing
 * [鸟哥的Linux私房菜](http://amzn.to/1WcjDz5)
 * [图解HTTP](http://amzn.to/1HDLRMs)
 * [Android源码设计模式解析与实战](http://www.amazon.cn/gp/product/B0176QDPUW?psc=1&ref_=oh_aui_detailpage_o00_s00)
-* [[淘宝技术这十年](http://amzn.to/1YWSlOK)
+* [淘宝技术这十年](http://amzn.to/1YWSlOK)
 
 ### IT/Startup/Tech
 
