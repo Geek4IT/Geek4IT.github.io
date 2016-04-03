@@ -4,18 +4,18 @@ layout: page
 comments: no
 ---
 
-<header>
-    <p>I’m a voracious reader, reading the classic books is the one of the best things in the world.
-      I pick up reading seriously again from 2013, and have made it a daily habit. Here are some books I’ve finished recently.</p>
-    <p>This page will constantly update as I read more, so bookmark it if you want to check back in a few months. Fell free to give me any recommendations.<strong> Keep calm & be cool.</strong></p>
-    
-- [Computer Science](#computerscience)
-- [IT/Startup/Tech](#IT/Startup/Tech)
-- [Art/Design](#Art/Design)
-- [Wisdom](#Wisdom)
-- [Literature/Novel/ETC...](#Literature/Novel/ETC...)
+--------------------------------------
+[TOC]
 
-# Computer Science
+I’m a voracious reader, reading the classic books is the one of the best things in the world. I pick up reading seriously again from 2013, and have made it a daily habit. Here are some books I’ve finished recently. This page will constantly update as I read more, so bookmark it if you want to check back in a few months. Fell free to give me any recommendations. **Keep calm & be cool.**
+    
+## [Computer Science](#computerscience)
+## [IT/Startup/Tech](#IT/Startup/Tech)
+## [Art/Design](#Art/Design)
+## [Wisdom](#Wisdom)
+## [Literature/Novel/ETC...](#Literature/Novel/ETC...)
+
+### Computer Science
 * [Programming Pearls](http://amzn.com/0201657880)
 * [The Algorithms Design Manual](http://amzn.com/1849967202)
 * [Introduction Of Algorithms](http://amzn.com/0262033844)
@@ -48,7 +48,7 @@ comments: no
 * [Android源码设计模式解析与实战](http://www.amazon.cn/gp/product/B0176QDPUW?psc=1&ref_=oh_aui_detailpage_o00_s00)
 * [[淘宝技术这十年](http://amzn.to/1YWSlOK)
 
-# IT/Startup/Tech
+### IT/Startup/Tech
 
 * [Lean Startup](http://amzn.com/0307887898)
 * [上帝掷骰子吗：量子物理史话](http://www.duokan.com/book/11407)
@@ -86,7 +86,7 @@ comments: no
 * [淘宝产品十年事](http://amzn.to/1mnmuuJ)
 
 
-# Art/Design
+### Art/Design
 
 * [Don't Make Me Think](http://amzn.com/0321344758)
 * [The design of everyday thing](http://amzn.com/0789723107)
@@ -112,7 +112,7 @@ comments: no
 * [日本的八个审美意识](http://amzn.to/1LphvUR)
 * [简约至上，交互设计四策略](http://amzn.to/1hf0RcO)
 
-# Wisdom
+### Wisdom
 
 * [Steal Like an Artist: 10 Things Nobody Told You About Being Creative](http://amzn.com/0761169253)
 * [The talent code of 52 tips](http://amzn.com/034553025X)
@@ -123,7 +123,7 @@ comments: no
 * [穷查理宝典](http://www.amazon.cn/gp/product/B00LF54E10?selectObb=new)
 * [富兰克林自传](http://book.douban.com/subject/1313181/)
 
-# Literature/Novel/ETC...
+### Literature/Novel/ETC...
 * [王小波杂文第一卷](http://book.douban.com/subject/1815640/)
 * [三体](http://book.douban.com/subject/2567698/)
 * [2001太空漫游](http://book.douban.com/subject/2340609/)
