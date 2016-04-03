@@ -7,9 +7,13 @@ comments: no
 I’m a voracious reader, reading the classic books is the one of the best things in the world. I pick up reading seriously again from 2013, and have made it a daily habit. Here are some books I’ve finished recently. This page will constantly update as I read more, so bookmark it if you want to check back in a few months. Fell free to give me any recommendations. **Keep calm & be cool.**
     
 # [Computer Science](#computerscience)
+
 # [IT/Startup/Tech](#IT/Startup/Tech)
+
 # [Art/Design](#Art/Design)
+
 # [Wisdom](#Wisdom)
+
 # [Literature/Novel/ETC...](#Literature/Novel/ETC...)
 
 ### Computer Science
@@ -81,7 +85,9 @@ I’m a voracious reader, reading the classic books is the one of the best thing
 * [数字乌托邦:从反主流文化到赛博文化](http://amzn.to/1ISc6DH)
 * [创业维艰-如何完成比难更难的事](http://amzn.to/1hKhn4P)
 * [淘宝产品十年事](http://amzn.to/1mnmuuJ)
-
+* [疯传:让你的产品、思想、行为像病毒一样入侵](http://amzn.to/1QMJejh)
+* [在家就能读MBA](http://amzn.to/212uWhH)
+* [裂变式创业](http://amzn.to/1WiQIKL)
 
 ### Art/Design
 
@@ -119,6 +125,8 @@ I’m a voracious reader, reading the classic books is the one of the best thing
 * [禅与摩托车的维修艺术](http://amzn.to/1G6vaLj)
 * [穷查理宝典](http://www.amazon.cn/gp/product/B00LF54E10?selectObb=new)
 * [富兰克林自传](http://book.douban.com/subject/1313181/)
+* [黑天鹅](http://amzn.to/1RapsOW)
+* [新生-七年就是一辈子](http://b.xinshengdaxue.com/)
 
 ### Literature/Novel/ETC...
 * [王小波杂文第一卷](http://book.douban.com/subject/1815640/)
@@ -129,3 +137,5 @@ I’m a voracious reader, reading the classic books is the one of the best thing
 * [阮一峰博客文集 1：如何变得有思想?](http://www.duokan.com/book/48508)
 * [阮一峰博客文集 2：一个寻找作者的读者](http://www.duokan.com/book/48501)
 * [人类简史: 从动物到上帝](http://amzn.to/1NXBQOU)
+* [耶路撒冷三千年](http://amzn.to/1QMJejh)
+* [生命是什么](http://amzn.to/1QMJejh)
