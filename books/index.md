@@ -4,16 +4,13 @@ layout: page
 comments: no
 ---
 
---------------------------------------
-[TOC]
-
 I’m a voracious reader, reading the classic books is the one of the best things in the world. I pick up reading seriously again from 2013, and have made it a daily habit. Here are some books I’ve finished recently. This page will constantly update as I read more, so bookmark it if you want to check back in a few months. Fell free to give me any recommendations. **Keep calm & be cool.**
     
-## [Computer Science](#computerscience)
-## [IT/Startup/Tech](#IT/Startup/Tech)
-## [Art/Design](#Art/Design)
-## [Wisdom](#Wisdom)
-## [Literature/Novel/ETC...](#Literature/Novel/ETC...)
+# [Computer Science](#computerscience)
+# [IT/Startup/Tech](#IT/Startup/Tech)
+# [Art/Design](#Art/Design)
+# [Wisdom](#Wisdom)
+# [Literature/Novel/ETC...](#Literature/Novel/ETC...)
 
 ### Computer Science
 * [Programming Pearls](http://amzn.com/0201657880)
