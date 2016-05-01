@@ -78,7 +78,7 @@ I’m a voracious reader, reading the classic books is the one of the best thing
 * [新经济，新规则](http://amzn.to/1Ms8BFO)
 * [看见未来](http://amzn.to/1Phtp0l)
 * [增长黑客](http://amzn.to/1KuLOYk)
-* [启示录：打造用户喜爱的产品](http://amzn.to/1FYFubv)
+* [启示录：打造用户喜爱的产品](http://amzn.to/1FYFubv)`
 * [格鲁夫给经理人的第一课](http://amzn.to/1GQ3eJM)
 * [大数据时代:生活、工作与思维的大变革](http://www.amazon.cn/gp/product/B00AIG0PGK?psc=1&ref_=oh_aui_detailpage_o00_s00we)
 * [必然](http://amzn.to/1UrfSGK)
@@ -88,6 +88,9 @@ I’m a voracious reader, reading the classic books is the one of the best thing
 * [疯传:让你的产品、思想、行为像病毒一样入侵](http://amzn.to/1QMJejh)
 * [在家就能读MBA](http://amzn.to/212uWhH)
 * [裂变式创业](http://amzn.to/1WiQIKL)
+* [超预测:遇见未来的艺术和科学](https://book.douban.com/subject/26749968/)
+* [技术元素](https://www.amazon.cn/%E6%8A%80%E6%9C%AF%E5%85%83%E7%B4%A0-%E5%87%AF%E6%96%87%E2%80%A2%E5%87%AF%E5%88%A9/dp/B007UWX814/ref=sr_1_1?ie=UTF8&qid=1462021086&sr=8-1&keywords=%E6%8A%80%E6%9C%AF%E5%85%83%E7%B4%A0)
+
 
 ### Art/Design
 
