@@ -6,6 +6,7 @@ author: GEEK4IT
 twitter: Geek4IT
 email: chunjianye@gmail.com
 github: Geek4IT
+highlighter: rouge
 pygments: true
 safe: true
 paginate: 20
