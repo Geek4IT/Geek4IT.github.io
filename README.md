@@ -5,7 +5,7 @@ Geek4IT = Geek for IT
 
 __*Geek*__ means the passion, love and concentration for something.
 
-__*IT*__   represents the thing that want to do when I wake up in the morning.
+__*IT*__  represents the thing that want to do when I wake up in the morning.
 
 __*Phonetics*__: [ɡi:k'fɔrit]
 
