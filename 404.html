@@ -14,13 +14,10 @@ var path = location.pathname;
 if(path.charAt(path.length - 1) == '/') path = path.substring(0, path.length - 1);
 var name = path.substring(path.lastIndexOf('/') + 1);
 var url = posts[name];
-if (url)
-{
+if (url){
 	document.write("您访问的文章已经转移到新网址，正在为您转跳到 <a href=" + url + ">" + url + "</a>");
 	location.href = url;
-}
-else
-{
+}else{
 	document.write("Couldn't find this artical, please visit <a href='/categories'>Category</a> or return to <a href='/'>Home</a>。Constact me via <a href='mailto:{{ site.email }}'>{{ site.email }}</a><iframe scrolling='no' frameborder='0' src='http://yibo.iyiyun.com/js/yibo404/key/7349' width='640' height='462' style='display:block;'></iframe>");
 }
 </script>
