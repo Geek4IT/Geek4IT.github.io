@@ -7,11 +7,11 @@ categories: Reading
 tags:  Reading
 ---
 
-<img src="/images/Shapchat/cover.png" width="200" />
+<img src="/images/Snapchat/cover.png" width="200" />
 
 ISBN: 2016-6-30 RATING: 8/10
 
-![Alt text](/images/Shapchat/age.png)
+![Alt text](/images/Snapchat/age.png)
 
 1. When Snapchat was launched, Facebook was where people went for updates on family and friends, Instagram was all about beautiful photo content, and Twitter was the realtime pulse of the web. Although these 3 giants dominated the social media space, Snapchat counterbalanced their strengths and created its blue ocean strategy by capturing the attention of a young audience (people aged between 16 and 30).
 
