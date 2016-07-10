@@ -50,6 +50,7 @@ I’m a voracious reader, reading the classic books is the one of the best thing
 * [淘宝技术这十年](http://amzn.to/1YWSlOK)
 * [大型网站技术架构：核心原理与案例分析](https://www.amazon.cn/%E5%A4%A7%E5%9E%8B%E7%BD%91%E7%AB%99%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84-%E6%A0%B8%E5%BF%83%E5%8E%9F%E7%90%86%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90-%E6%9D%8E%E6%99%BA%E6%85%A7/dp/B00F3Z26G8/ref=sr_1_1?ie=UTF8&qid=1466305059&sr=8-1&keywords=%E5%A4%A7%E5%9E%8B%E7%BD%91%E7%AB%99%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84+%E6%A0%B8%E5%BF%83%E5%8E%9F%E7%90%86%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90)
 * [软件架构模式:理解通用的架构模式和恰当的使用](https://bboyfeiyu.gitbooks.io/software-architecture-patterns/content/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E6%A8%A1%E5%BC%8F.html)
+* [Docker — 从入门到实践](https://www.gitbook.com/read/book/yeasy/docker_practice)
 
 ### IT/Startup/Tech
 
@@ -93,6 +94,7 @@ I’m a voracious reader, reading the classic books is the one of the best thing
 * [超预测:遇见未来的艺术和科学](https://book.douban.com/subject/26749968/)
 * [技术元素](https://www.amazon.cn/%E6%8A%80%E6%9C%AF%E5%85%83%E7%B4%A0-%E5%87%AF%E6%96%87%E2%80%A2%E5%87%AF%E5%88%A9/dp/B007UWX814/ref=sr_1_1?ie=UTF8&qid=1462021086&sr=8-1&keywords=%E6%8A%80%E6%9C%AF%E5%85%83%E7%B4%A0)
 * [硅谷钢铁侠](https://www.amazon.cn/%E7%A1%85%E8%B0%B7%E9%92%A2%E9%93%81%E4%BE%A0-%E5%9F%83%E9%9A%86%C2%B7%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E5%86%92%E9%99%A9%E4%BA%BA%E7%94%9F-%E9%98%BF%E4%BB%80%E5%88%A9%C2%B7%E4%B8%87%E6%96%AF/dp/B01DVVQVMK/ref=sr_1_1?ie=UTF8&qid=1466304953&sr=8-1&keywords=%E7%A1%85%E8%B0%B7%E9%92%A2%E9%93%81%E4%BE%A0)
+* [The Psychology of Snapchat Marketing](http://blog.swat.io/ebooks/the-psychology-of-snapchat-marketing/)
 
 ### Art/Design
 
@@ -119,6 +121,10 @@ I’m a voracious reader, reading the classic books is the one of the best thing
 * [设计中的设计](http://amzn.to/1PfR41v)
 * [日本的八个审美意识](http://amzn.to/1LphvUR)
 * [简约至上，交互设计四策略](http://amzn.to/1hf0RcO)
+* [安迪·沃霍尔]
+* [毕加索]
+* [夏加尔]
+* [梵高]
 
 ### Wisdom
 
