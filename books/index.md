@@ -121,10 +121,10 @@ I’m a voracious reader, reading the classic books is the one of the best thing
 * [设计中的设计](http://amzn.to/1PfR41v)
 * [日本的八个审美意识](http://amzn.to/1LphvUR)
 * [简约至上，交互设计四策略](http://amzn.to/1hf0RcO)
-* [安迪·沃霍尔]
-* [毕加索]
-* [夏加尔]
-* [梵高]
+* [安迪·沃霍尔]()
+* [毕加索]()
+* [夏加尔]()
+* [梵高]()
 
 ### Wisdom
 
