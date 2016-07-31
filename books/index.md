@@ -95,6 +95,7 @@ I’m a voracious reader, reading the classic books is the one of the best thing
 * [技术元素](https://www.amazon.cn/%E6%8A%80%E6%9C%AF%E5%85%83%E7%B4%A0-%E5%87%AF%E6%96%87%E2%80%A2%E5%87%AF%E5%88%A9/dp/B007UWX814/ref=sr_1_1?ie=UTF8&qid=1462021086&sr=8-1&keywords=%E6%8A%80%E6%9C%AF%E5%85%83%E7%B4%A0)
 * [硅谷钢铁侠](https://www.amazon.cn/%E7%A1%85%E8%B0%B7%E9%92%A2%E9%93%81%E4%BE%A0-%E5%9F%83%E9%9A%86%C2%B7%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E5%86%92%E9%99%A9%E4%BA%BA%E7%94%9F-%E9%98%BF%E4%BB%80%E5%88%A9%C2%B7%E4%B8%87%E6%96%AF/dp/B01DVVQVMK/ref=sr_1_1?ie=UTF8&qid=1466304953&sr=8-1&keywords=%E7%A1%85%E8%B0%B7%E9%92%A2%E9%93%81%E4%BE%A0)
 * [The Psychology of Snapchat Marketing](http://blog.swat.io/ebooks/the-psychology-of-snapchat-marketing/)
+* [极致:互联网时代的产品设计](http://amzn.to/2aqIxLN)
 
 ### Art/Design
 
