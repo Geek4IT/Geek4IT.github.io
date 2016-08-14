@@ -151,3 +151,5 @@ I’m a voracious reader, reading the classic books is the one of the best thing
 * [人类简史: 从动物到上帝](http://amzn.to/1NXBQOU)
 * [耶路撒冷三千年](http://amzn.to/1QMJejh)
 * [生命是什么](http://amzn.to/1QMJejh)
+* [文明之光第一册](https://www.amazon.cn/%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89-%E5%90%B4%E5%86%9B/dp/B00KYDXI70/ref=sr_1_2?ie=UTF8&qid=1471159002&sr=8-2&keywords=%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89)
+
