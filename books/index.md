@@ -51,6 +51,7 @@ I’m a voracious reader, reading the classic books is the one of the best thing
 * [大型网站技术架构：核心原理与案例分析](https://www.amazon.cn/%E5%A4%A7%E5%9E%8B%E7%BD%91%E7%AB%99%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84-%E6%A0%B8%E5%BF%83%E5%8E%9F%E7%90%86%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90-%E6%9D%8E%E6%99%BA%E6%85%A7/dp/B00F3Z26G8/ref=sr_1_1?ie=UTF8&qid=1466305059&sr=8-1&keywords=%E5%A4%A7%E5%9E%8B%E7%BD%91%E7%AB%99%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84+%E6%A0%B8%E5%BF%83%E5%8E%9F%E7%90%86%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90)
 * [软件架构模式:理解通用的架构模式和恰当的使用](https://bboyfeiyu.gitbooks.io/software-architecture-patterns/content/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E6%A8%A1%E5%BC%8F.html)
 * [Docker — 从入门到实践](https://www.gitbook.com/read/book/yeasy/docker_practice)
+* [MongoDB](MongoDB权威指南)
 
 ### IT/Startup/Tech
 
