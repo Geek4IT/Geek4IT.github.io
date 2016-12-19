@@ -5,16 +5,6 @@ comments: no
 ---
 
 I’m a voracious reader, reading the classic books is the one of the best things in the world. I pick up reading seriously again from 2013, and have made it a daily habit. Here are some books I’ve finished recently. This page will constantly update as I read more, so bookmark it if you want to check back in a few months. Fell free to give me any recommendations. **Keep calm & be cool.**
-    
-# [Computer Science](#computerscience)
-
-# [IT/Startup/Tech](#IT/Startup/Tech)
-
-# [Art/Design](#Art/Design)
-
-# [Wisdom](#Wisdom)
-
-# [Literature/Novel/ETC...](#Literature/Novel/ETC...)
 
 ### Computer Science
 * [Programming Pearls](http://amzn.com/0201657880)
@@ -37,7 +27,7 @@ I’m a voracious reader, reading the classic books is the one of the best thing
 * [Two Scoops of Django: Best Practices For Django 1.5](http://amzn.com/098146730X)
 * [The Django Book](http://gsl.mit.edu/media/programs/mexico-summer-2013/materials/djangobook.pdf)
 * [世界是数字的](http://www.amazon.cn/dp/B00DSQZBDE)
-* [Effecttive Java](http://amzn.com/0321356683)
+* [Effective Java](http://amzn.com/0321356683)
 * [推荐系统实践](http://www.duokan.com/book/12892)
 * [Programming Collective Intelligence: Building Smart Web 2.0 Applications](http://amzn.com/0596529325)
 * [A Programmer's Guide To Data Mining](http://guidetodatamining.com/)
@@ -52,7 +42,8 @@ I’m a voracious reader, reading the classic books is the one of the best thing
 * [软件架构模式:理解通用的架构模式和恰当的使用](https://bboyfeiyu.gitbooks.io/software-architecture-patterns/content/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E6%A8%A1%E5%BC%8F.html)
 * [Docker — 从入门到实践](https://www.gitbook.com/read/book/yeasy/docker_practice)
 * [MongoDB](MongoDB 权威指南)
-* [The little redis book](http://jsonformatter.curiousconcept.com)
+* [The little Redis book](http://jsonformatter.curiousconcept.com)
+* [图解TCP/IP](https://book.douban.com/subject/24737674/)
 
 ### IT/Startup/Tech
 
@@ -99,6 +90,7 @@ I’m a voracious reader, reading the classic books is the one of the best thing
 * [The Psychology of Snapchat Marketing](http://blog.swat.io/ebooks/the-psychology-of-snapchat-marketing/)
 * [极致:互联网时代的产品设计](http://amzn.to/2aqIxLN)
 * [智能时代](https://book.douban.com/subject/26838557/)
+* [智能主义:未来商业与社会的新生态](https://book.douban.com/subject/26897884/)
 
 ### Economic
 * [一本书读懂财务报表](https://book.douban.com/subject/25926542/)
@@ -132,6 +124,7 @@ I’m a voracious reader, reading the classic books is the one of the best thing
 * [毕加索]()
 * [夏加尔]()
 * [梵高]()
+* [深泽直人](https://www.amazon.cn/深泽直人-深泽直人/dp/B01M23OKCP/ref=sr_1_1?ie=UTF8&qid=1480182289)
 
 ### Wisdom
 
@@ -145,6 +138,7 @@ I’m a voracious reader, reading the classic books is the one of the best thing
 * [富兰克林自传](http://book.douban.com/subject/1313181/)
 * [黑天鹅](http://amzn.to/1RapsOW)
 * [新生-七年就是一辈子](http://b.xinshengdaxue.com/)
+* [把时间当作朋友](https://book.douban.com/subject/26897884/)
 
 ### Literature/Novel/ETC...
 * [王小波杂文第一卷](http://book.douban.com/subject/1815640/)
