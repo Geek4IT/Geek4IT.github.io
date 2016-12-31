@@ -25,7 +25,7 @@ Why Do People Snap?
 It creates artificial scarcity; users have to pay attention to each message as they open it and the message instantly feels more special, and more private because it is intended for them, them alone… and then it’s gone. The fact that Snapchat does not support upvotes, double taps, mentions and reactions as we have on Facebook and most other social media platforms, can increase users’ self esteem when posting and support their care- free snap lifestyle.
 
 6. The feeling of artistic creation：
-Yes, audiences fell in love with Snapchat because of its  lters, lenses and emojis. They use the latter to feel like artists by taking everyday situations and turning them into something hilarious.
+Yes, audiences fell in love with Snapchat because of its  filters, lenses and emojis. They use the latter to feel like artists by taking everyday situations and turning them into something hilarious.
 
 7. A feeling of security：
 The snaps are going to disappear and they won’t have to store/categorize/share/take responsibility for it. This is in stark contrast to Facebook, where users need to pay a certain amount of attention to what they post and who will see it, Snapchat takes that burden off users’ shoulders, enabling them to express themselves with ease and rest reassured that they won’t be held accountable for their photos or videos.

@@ -91,6 +91,7 @@ I’m a voracious reader, reading the classic books is the one of the best thing
 * [极致:互联网时代的产品设计](http://amzn.to/2aqIxLN)
 * [智能时代](https://book.douban.com/subject/26838557/)
 * [智能主义:未来商业与社会的新生态](https://book.douban.com/subject/26897884/)
+* [在线：数据改变商业本质，计算重塑经济未来](https://book.douban.com/subject/26885117/)
 
 ### Economic
 * [一本书读懂财务报表](https://book.douban.com/subject/25926542/)
