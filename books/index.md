@@ -93,6 +93,7 @@ I’m a voracious reader, reading the classic books is the one of the best thing
 * [智能主义:未来商业与社会的新生态][80]
 * [在线：数据改变商业本质，计算重塑经济未来][81]
 * [“分水岭”大时代][82]
+* [商业的本质][https://www.amazon.cn/dp/B01COZU1M0/ref=sr_1_1?ie=UTF8&qid=1483745161&sr=8-1&keywords=%E5%95%86%E4%B8%9A%E7%9A%84%E6%9C%AC%E8%B4%A8]
 
 ### Economic
 * [一本书读懂财务报表][83]
