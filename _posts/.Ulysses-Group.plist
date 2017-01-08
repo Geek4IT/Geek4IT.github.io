@@ -1176,18 +1176,24 @@
 					<integer>11</integer>
 				</dict>
 			</dict>
-			<key>Untitled.md</key>
+			<key>2017-01-07-商业的本质.md</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>504984686.353158</real>
 				<key>lastModification</key>
-				<real>504984686.353158</real>
+				<real>505557297.72942799</real>
 				<key>version</key>
 				<dict>
 					<key>c026491d14da156712adce60a0368d772fc96212709b9713ddac15677d29e593</key>
-					<integer>16</integer>
+					<integer>18</integer>
+				</dict>
+			</dict>
+			<key>2017-01-08-刻意练习.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>505557348.553913</real>
+				<key>version</key>
+				<dict>
+					<key>c026491d14da156712adce60a0368d772fc96212709b9713ddac15677d29e593</key>
+					<integer>21</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -1199,8 +1205,10 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
+			<string>2017-01-08-刻意练习.md</string>
+		</array>
+		<array>
 			<string>2017-01-01-分水岭大时代.md</string>
-			<string>Untitled.md</string>
 		</array>
 		<array>
 			<string>2013-12-5-Live-Wallpapers-For-Android-Users.md</string>
@@ -1550,6 +1558,9 @@
 		<array>
 			<string>2016-12-05-智能主义.md</string>
 		</array>
+		<array>
+			<string>2017-01-07-商业的本质.md</string>
+		</array>
 	</array>
 	<key>sheetOrder</key>
 	<string>title,descending</string>
@@ -1562,7 +1573,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>c026491d14da156712adce60a0368d772fc96212709b9713ddac15677d29e593</key>
-			<integer>16</integer>
+			<integer>22</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
