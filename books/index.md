@@ -93,7 +93,7 @@ I’m a voracious reader, reading the classic books is the one of the best thing
 * [智能主义:未来商业与社会的新生态][80]
 * [在线：数据改变商业本质，计算重塑经济未来][81]
 * [“分水岭”大时代][82]
-* [商业的本质][https://www.amazon.cn/dp/B01COZU1M0/ref=sr_1_1?ie=UTF8&qid=1483745161&sr=8-1&keywords=%E5%95%86%E4%B8%9A%E7%9A%84%E6%9C%AC%E8%B4%A8]
+* [商业的本质][https://www.amazon.cn/dp/B01COZU1M0/ref=sr\_1\_1?ie=UTF8&qid=1483745161&sr=8-1&keywords=%E5%95%86%E4%B8%9A%E7%9A%84%E6%9C%AC%E8%B4%A8]
 
 ### Economic
 * [一本书读懂财务报表][83]
@@ -142,19 +142,20 @@ I’m a voracious reader, reading the classic books is the one of the best thing
 * [黑天鹅][120]
 * [新生-七年就是一辈子][121]
 * [把时间当作朋友][122]
+* [刻意练习：如何从新手到大师][123]
 
 ### Literature/Novel/ETC...
-* [王小波杂文第一卷][123]
-* [三体][124]
-* [2001太空漫游][125]
-* [世界经典电影大记录][126]
-* [奥黛丽·赫本：落入凡间的天使][127]
-* [阮一峰博客文集 1：如何变得有思想?][128]
-* [阮一峰博客文集 2：一个寻找作者的读者][129]
-* [人类简史: 从动物到上帝][130]
-* [耶路撒冷三千年][131]
-* [生命是什么][132]
-* [文明之光第一册][133]
+* [王小波杂文第一卷][124]
+* [三体][125]
+* [2001太空漫游][126]
+* [世界经典电影大记录][127]
+* [奥黛丽·赫本：落入凡间的天使][128]
+* [阮一峰博客文集 1：如何变得有思想?][129]
+* [阮一峰博客文集 2：一个寻找作者的读者][130]
+* [人类简史: 从动物到上帝][131]
+* [耶路撒冷三千年][132]
+* [生命是什么][133]
+* [文明之光第一册][134]
 
 [1]:	http://amzn.com/0201657880
 [2]:	http://amzn.com/1849967202
@@ -274,14 +275,15 @@ I’m a voracious reader, reading the classic books is the one of the best thing
 [120]:	http://amzn.to/1RapsOW
 [121]:	http://b.xinshengdaxue.com/
 [122]:	https://book.douban.com/subject/26897884/
-[123]:	http://book.douban.com/subject/1815640/
-[124]:	http://book.douban.com/subject/2567698/
-[125]:	http://book.douban.com/subject/2340609/
-[126]:	http://www.duokan.com/book/41972
-[127]:	http://www.duokan.com/book/41755
-[128]:	http://www.duokan.com/book/48508
-[129]:	http://www.duokan.com/book/48501
-[130]:	http://amzn.to/1NXBQOU
-[131]:	http://amzn.to/1QMJejh
+[123]:	https://www.amazon.cn/dp/B01MYZABDX/ref=sr_1_2?ie=UTF8&qid=1483864575
+[124]:	http://book.douban.com/subject/1815640/
+[125]:	http://book.douban.com/subject/2567698/
+[126]:	http://book.douban.com/subject/2340609/
+[127]:	http://www.duokan.com/book/41972
+[128]:	http://www.duokan.com/book/41755
+[129]:	http://www.duokan.com/book/48508
+[130]:	http://www.duokan.com/book/48501
+[131]:	http://amzn.to/1NXBQOU
 [132]:	http://amzn.to/1QMJejh
-[133]:	https://www.amazon.cn/%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89-%E5%90%B4%E5%86%9B/dp/B00KYDXI70/ref=sr_1_2?ie=UTF8&qid=1471159002&sr=8-2&keywords=%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89
+[133]:	http://amzn.to/1QMJejh
+[134]:	https://www.amazon.cn/%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89-%E5%90%B4%E5%86%9B/dp/B00KYDXI70/ref=sr_1_2?ie=UTF8&qid=1471159002&sr=8-2&keywords=%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89
