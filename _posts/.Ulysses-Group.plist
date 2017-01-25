@@ -1196,6 +1196,16 @@
 					<integer>21</integer>
 				</dict>
 			</dict>
+			<key>2017-01-25-未来简史.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>507009965.67191201</real>
+				<key>version</key>
+				<dict>
+					<key>c026491d14da156712adce60a0368d772fc96212709b9713ddac15677d29e593</key>
+					<integer>25</integer>
+				</dict>
+			</dict>
 		</dict>
 		<key>sheetOrder</key>
 		<real>504937602.89605898</real>
@@ -1204,6 +1214,9 @@
 	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>2017-01-25-未来简史.md</string>
+		</array>
 		<array>
 			<string>2017-01-08-刻意练习.md</string>
 		</array>
@@ -1573,7 +1586,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>c026491d14da156712adce60a0368d772fc96212709b9713ddac15677d29e593</key>
-			<integer>22</integer>
+			<integer>26</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
