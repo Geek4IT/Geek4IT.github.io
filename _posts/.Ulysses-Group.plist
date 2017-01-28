@@ -1216,6 +1216,16 @@
 					<integer>29</integer>
 				</dict>
 			</dict>
+			<key>2017-01-30-构建高性能WEB站点.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>507289493.50383598</real>
+				<key>version</key>
+				<dict>
+					<key>c026491d14da156712adce60a0368d772fc96212709b9713ddac15677d29e593</key>
+					<integer>37</integer>
+				</dict>
+			</dict>
 		</dict>
 		<key>sheetOrder</key>
 		<real>504937602.89605898</real>
@@ -1224,6 +1234,9 @@
 	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>2017-01-30-构建高性能WEB站点.md</string>
+		</array>
 		<array>
 			<string>2017-01-26-大规模分布式储存系统.md</string>
 		</array>
@@ -1599,7 +1612,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>c026491d14da156712adce60a0368d772fc96212709b9713ddac15677d29e593</key>
-			<integer>30</integer>
+			<integer>38</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>

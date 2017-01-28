@@ -46,118 +46,122 @@ I’m a voracious reader, reading the classic books is the one of the best thing
 * [图解TCP/IP][36]
 * [App 后台开发运维和架构实践][37]
 * [大规模分布式储存系统][38]
+* [构建高性能WEB站点][39]
 
 ### IT/Startup/Tech
 
-* [Lean Startup][39]
-* [上帝掷骰子吗：量子物理史话][40]
-* [每天读点时间简史][41]
-* [黑客][42]
-* [黑客与画家][43]
-* [硅谷之光][44]
-* [沸腾十五年][45]
-* [浪潮之巅][46]
-* [数学之美][47]
-* [信息简史][48]
-* [Rework][49]
-* [最佳商业模式][50]
-* [人人都是产品经理][51]
-* [结网][52]
-* [周鸿祎自述: 我的互联网方法论][53]
-* [免费：商业的未来][54]
-* [老二非死不可: 关于投资、商业、互联网的碎片化思考][55]
-* [Zero to One: Notes on Startups, or How to Build the Future][56]
-* [奇点临近][57]
-* [Hooked: How to Build Habit-Forming Products][58]
-* [腾讯方法: 一个市值1500亿美元公司的产品真经][59]
-* [十亿美金的教训][60]
-* [Age of Context: Mobile, Sensors, Data and the Future of Privacy][61]
-* [如何创造思维:人类思想所揭示出的奥秘][62]
-* [新经济，新规则][63]
-* [看见未来][64]
-* [增长黑客][65]
-* [启示录：打造用户喜爱的产品][66]\`
-* [格鲁夫给经理人的第一课][67]
-* [大数据时代:生活、工作与思维的大变革][68]
-* [必然][69]
-* [数字乌托邦:从反主流文化到赛博文化][70]
-* [创业维艰-如何完成比难更难的事][71]
-* [淘宝产品十年事][72]
-* [疯传:让你的产品、思想、行为像病毒一样入侵][73]
-* [在家就能读MBA][74]
-* [裂变式创业][75]
-* [超预测:遇见未来的艺术和科学][76]
-* [技术元素][77]
-* [硅谷钢铁侠][78]
-* [The Psychology of Snapchat Marketing][79]
-* [极致:互联网时代的产品设计][80]
-* [智能时代][81]
-* [智能主义:未来商业与社会的新生态][82]
-* [在线：数据改变商业本质，计算重塑经济未来][83]
-* [“分水岭”大时代][84]
-* [商业的本质][85]
+* [Lean Startup][40]
+* [上帝掷骰子吗：量子物理史话][41]
+* [每天读点时间简史][42]
+* [黑客][43]
+* [黑客与画家][44]
+* [硅谷之光][45]
+* [沸腾十五年][46]
+* [浪潮之巅][47]
+* [数学之美][48]
+* [信息简史][49]
+* [Rework][50]
+* [最佳商业模式][51]
+* [人人都是产品经理][52]
+* [结网][53]
+* [周鸿祎自述: 我的互联网方法论][54]
+* [免费：商业的未来][55]
+* [老二非死不可: 关于投资、商业、互联网的碎片化思考][56]
+* [Zero to One: Notes on Startups, or How to Build the Future][57]
+* [奇点临近][58]
+* [Hooked: How to Build Habit-Forming Products][59]
+* [腾讯方法: 一个市值1500亿美元公司的产品真经][60]
+* [十亿美金的教训][61]
+* [Age of Context: Mobile, Sensors, Data and the Future of Privacy][62]
+* [如何创造思维:人类思想所揭示出的奥秘][63]
+* [新经济，新规则][64]
+* [看见未来][65]
+* [增长黑客][66]
+* [启示录：打造用户喜爱的产品][67]\`
+* [格鲁夫给经理人的第一课][68]
+* [大数据时代:生活、工作与思维的大变革][69]
+* [必然][70]
+* [数字乌托邦:从反主流文化到赛博文化][71]
+* [创业维艰-如何完成比难更难的事][72]
+* [淘宝产品十年事][73]
+* [疯传:让你的产品、思想、行为像病毒一样入侵][74]
+* [在家就能读MBA][75]
+* [裂变式创业][76]
+* [超预测:遇见未来的艺术和科学][77]
+* [技术元素][78]
+* [硅谷钢铁侠][79]
+* [The Psychology of Snapchat Marketing][80]
+* [极致:互联网时代的产品设计][81]
+* [智能时代][82]
+* [智能主义:未来商业与社会的新生态][83]
+* [在线：数据改变商业本质，计算重塑经济未来][84]
+* [“分水岭”大时代][85]
+* [商业的本质][86]
 
 ### Economic
-* [一本书读懂财务报表][86]
+* [一本书读懂财务报表][87]
 
 ### Art/Design
 
-* [Don't Make Me Think][87]
-* [The design of everyday thing][88]
-* [Designing with Lean UI][89]
-* [写给大家看的设计书][90]
-* [西方美术简史][91]
-* [毕加索原来可以这样看][92]
-* [梵高原来可以这样看][93]
-* [弗里达原来可以这样看][94]
-* [拉斐尔原来这样看][95]
-* [设计诗][96]
-* [Pixel Perfect Precision][97]
-* [Mobile UI Design Pattern 2014][98]
-* [色彩设计的原理][99]
-* [七日掌握设计配色基础][100]
-* [体验.度 简单可依赖的用户体验][101]
-* [绝对自由的创造:毕加索作品欣赏][102]
-* [生活的艺术家][103]
-* [山本耀司·我投下一枚炸弹][104]
-* [做衣服][105]
-* [天才艺术家:雷诺阿][106]
-* [设计中的设计][107]
-* [日本的八个审美意识][108]
-* [简约至上，交互设计四策略][109]
+* [Don't Make Me Think][88]
+* [The design of everyday thing][89]
+* [Designing with Lean UI][90]
+* [写给大家看的设计书][91]
+* [西方美术简史][92]
+* [毕加索原来可以这样看][93]
+* [梵高原来可以这样看][94]
+* [弗里达原来可以这样看][95]
+* [拉斐尔原来这样看][96]
+* [设计诗][97]
+* [Pixel Perfect Precision][98]
+* [Mobile UI Design Pattern 2014][99]
+* [色彩设计的原理][100]
+* [七日掌握设计配色基础][101]
+* [体验.度 简单可依赖的用户体验][102]
+* [绝对自由的创造:毕加索作品欣赏][103]
+* [生活的艺术家][104]
+* [山本耀司·我投下一枚炸弹][105]
+* [做衣服][106]
+* [天才艺术家:雷诺阿][107]
+* [设计中的设计][108]
+* [日本的八个审美意识][109]
+* [简约至上，交互设计四策略][110]
 * [安迪·沃霍尔]()
 * [毕加索]()
 * [夏加尔]()
 * [梵高]()
-* [深泽直人][114]
+* [深泽直人][115]
 
 ### Wisdom
 
-* [Steal Like an Artist: 10 Things Nobody Told You About Being Creative][115]
-* [The talent code of 52 tips][116]
-* [Things a Little Bird Told Me: Confessions of the Creative Mind][117]
-* [Produce Like Picasso: Mastering Design Delivery(SXSW)][118]
-* [Peace Is Every Step: The Path of Mindfulness in Everyday Life][119]
-* [禅与摩托车的维修艺术][120]
-* [穷查理宝典][121]
-* [富兰克林自传][122]
-* [黑天鹅][123]
-* [新生-七年就是一辈子][124]
-* [把时间当作朋友][125]
-* [刻意练习：如何从新手到大师][126]
+* [Steal Like an Artist: 10 Things Nobody Told You About Being Creative][116]
+* [The talent code of 52 tips][117]
+* [Things a Little Bird Told Me: Confessions of the Creative Mind][118]
+* [Produce Like Picasso: Mastering Design Delivery(SXSW)][119]
+* [Peace Is Every Step: The Path of Mindfulness in Everyday Life][120]
+* [禅与摩托车的维修艺术][121]
+* [穷查理宝典][122]
+* [富兰克林自传][123]
+* [黑天鹅][124]
+* [新生-七年就是一辈子][125]
+* [把时间当作朋友][126]
+* [刻意练习：如何从新手到大师][127]
+
+### History
+* [人类简史: 从动物到上帝][128]
+* [未来简史][129]
+*  [耶路撒冷三千年][130]
+* [生命是什么][131]
+* [文明之光第一册][132]
 
 ### Literature/Novel/ETC...
-* [王小波杂文第一卷][127]
-* [三体][128]
-* [2001太空漫游][129]
-* [世界经典电影大记录][130]
-* [奥黛丽·赫本：落入凡间的天使][131]
-* [阮一峰博客文集 1：如何变得有思想?][132]
-* [阮一峰博客文集 2：一个寻找作者的读者][133]
-* [人类简史: 从动物到上帝][134]
-* [耶路撒冷三千年][135]
-* [生命是什么][136]
-* [文明之光第一册][137]
+* [王小波杂文第一卷][133]
+* [三体][134]
+* [2001太空漫游][135]
+* [世界经典电影大记录][136]
+* [奥黛丽·赫本：落入凡间的天使][137]
+* [阮一峰博客文集 1：如何变得有思想?][138]
+* [阮一峰博客文集 2：一个寻找作者的读者][139]
 
 [1]:	http://amzn.com/0201657880
 [2]:	http://amzn.com/1849967202
@@ -197,98 +201,100 @@ I’m a voracious reader, reading the classic books is the one of the best thing
 [36]:	https://book.douban.com/subject/24737674/
 [37]:	https://www.amazon.cn/dp/B01F5SYZPC/ref=sr_1_1?s=books&ie=UTF8&qid=1484470792
 [38]:	%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%88%86%E5%B8%83%E5%BC%8F%E5%AD%98%E5%82%A8%E7%B3%BB%E7%BB%9F%EF%BC%9A%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90%E4%B8%8E%E6%9E%B6%E6%9E%84%E5%AE%9E%E6%88%98
-[39]:	http://amzn.com/0307887898
-[40]:	http://www.duokan.com/book/11407
-[41]:	http://www.duokan.com/book/25077
-[42]:	http://www.duokan.com/book/41419
-[43]:	http://www.duokan.com/book/246
-[44]:	http://www.amazon.cn/dp/B00B2HDEB2
-[45]:	http://www.duokan.com/book/15162
-[46]:	http://www.amazon.cn/dp/B00D73BJWK
-[47]:	http://www.amazon.cn/dp/B0084ASO7E
-[48]:	http://www.duokan.com/book/42974
-[49]:	http://amzn.com/0307463745
-[50]:	http://www.duokan.com/book/41692
-[51]:	http://www.duokan.com/book/10892
-[52]:	http://www.duokan.com/book/571
-[53]:	http://www.amazon.cn/dp/B00LO3SVSA
-[54]:	http://www.duokan.com/book/14182
-[55]:	http://www.duokan.com/book/43384
-[56]:	http://amzn.com/0804139296
-[57]:	http://book.douban.com/subject/6855803/
-[58]:	http://amzn.com/1591847788
-[59]:	http://book.douban.com/subject/26272662/
-[60]:	http://book.douban.com/subject/6511603/
-[61]:	http://amzn.com/1492348430
-[62]:	http://amzn.to/1H1jLgk
-[63]:	http://amzn.to/1Ms8BFO
-[64]:	http://amzn.to/1Phtp0l
-[65]:	http://amzn.to/1KuLOYk
-[66]:	http://amzn.to/1FYFubv
-[67]:	http://amzn.to/1GQ3eJM
-[68]:	http://www.amazon.cn/gp/product/B00AIG0PGK?psc=1&ref_=oh_aui_detailpage_o00_s00we
-[69]:	http://amzn.to/1UrfSGK
-[70]:	http://amzn.to/1ISc6DH
-[71]:	http://amzn.to/1hKhn4P
-[72]:	http://amzn.to/1mnmuuJ
-[73]:	http://amzn.to/1QMJejh
-[74]:	http://amzn.to/212uWhH
-[75]:	http://amzn.to/1WiQIKL
-[76]:	https://book.douban.com/subject/26749968/
-[77]:	https://www.amazon.cn/%E6%8A%80%E6%9C%AF%E5%85%83%E7%B4%A0-%E5%87%AF%E6%96%87%E2%80%A2%E5%87%AF%E5%88%A9/dp/B007UWX814/ref=sr_1_1?ie=UTF8&qid=1462021086&sr=8-1&keywords=%E6%8A%80%E6%9C%AF%E5%85%83%E7%B4%A0
-[78]:	https://www.amazon.cn/%E7%A1%85%E8%B0%B7%E9%92%A2%E9%93%81%E4%BE%A0-%E5%9F%83%E9%9A%86%C2%B7%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E5%86%92%E9%99%A9%E4%BA%BA%E7%94%9F-%E9%98%BF%E4%BB%80%E5%88%A9%C2%B7%E4%B8%87%E6%96%AF/dp/B01DVVQVMK/ref=sr_1_1?ie=UTF8&qid=1466304953&sr=8-1&keywords=%E7%A1%85%E8%B0%B7%E9%92%A2%E9%93%81%E4%BE%A0
-[79]:	http://blog.swat.io/ebooks/the-psychology-of-snapchat-marketing/
-[80]:	http://amzn.to/2aqIxLN
-[81]:	https://book.douban.com/subject/26838557/
-[82]:	https://book.douban.com/subject/26897884/
-[83]:	https://book.douban.com/subject/26885117/
-[84]:	https://zhuanlan.zhihu.com/p/24560493 "”分水岭“大时代"
-[85]:	[https://www.amazon.cn/dp/B01COZU1M0/ref=sr%5C_1%5C_1?ie=UTF8&qid=1483745161&sr=8-1&keywords=%E5%95%86%E4%B8%9A%E7%9A%84%E6%9C%AC%E8%B4%A8]
-[86]:	https://book.douban.com/subject/25926542/
-[87]:	http://amzn.com/0321344758
-[88]:	http://amzn.com/0789723107
-[89]:	http://www.slideshare.net/intelleto/designing-with-lean-ux-rapid-product-design-ux-lisbon-2014
-[90]:	http://www.duokan.com/book/2127
-[91]:	http://www.duokan.com/book/12852
-[92]:	http://www.amazon.cn/dp/B00CW7HDQI
-[93]:	http://www.amazon.cn/dp/B00CW7HDX6
-[94]:	http://www.amazon.cn/dp/B00CW7HE2Q
-[95]:	http://www.amazon.cn/dp/B00CW7HCJG
-[96]:	http://www.duokan.com/book/17217
-[97]:	http://cdn.ustwo.com/PPP/PP3.pdf
-[98]:	http://uxpin.com/mobile-design-patterns.html
-[99]:	http://www.amazon.cn/dp/B005XI936G
-[100]:	http://book.douban.com/subject/1291969/
-[101]:	http://book.douban.com/subject/26128084/
-[102]:	http://www.amazon.cn/gp/product/B00KGRA0DO?psc=1&ref_=oh_aui_detailpage_o00_s00
-[103]:	http://amzn.com/0735619670
-[104]:	http://amzn.to/1d9xzKn
-[105]:	http://amzn.to/1L9936i
-[106]:	http://amzn.to/1FF8hfl
-[107]:	http://amzn.to/1PfR41v
-[108]:	http://amzn.to/1LphvUR
-[109]:	http://amzn.to/1hf0RcO
-[114]:	https://www.amazon.cn/%E6%B7%B1%E6%B3%BD%E7%9B%B4%E4%BA%BA-%E6%B7%B1%E6%B3%BD%E7%9B%B4%E4%BA%BA/dp/B01M23OKCP/ref=sr_1_1?ie=UTF8&qid=1480182289
-[115]:	http://amzn.com/0761169253
-[116]:	http://amzn.com/034553025X
-[117]:	http://amzn.com/1455528714
-[118]:	http://www.slideshare.net/bunky34/produce-like-picasso-mastering-design-delivery-sxsw
-[119]:	http://amzn.com/0553351397
-[120]:	http://amzn.to/1G6vaLj
-[121]:	http://www.amazon.cn/gp/product/B00LF54E10?selectObb=new
-[122]:	http://book.douban.com/subject/1313181/
-[123]:	http://amzn.to/1RapsOW
-[124]:	http://b.xinshengdaxue.com/
-[125]:	https://book.douban.com/subject/26897884/
-[126]:	https://www.amazon.cn/dp/B01MYZABDX/ref=sr_1_2?ie=UTF8&qid=1483864575
-[127]:	http://book.douban.com/subject/1815640/
-[128]:	http://book.douban.com/subject/2567698/
-[129]:	http://book.douban.com/subject/2340609/
-[130]:	http://www.duokan.com/book/41972
-[131]:	http://www.duokan.com/book/41755
-[132]:	http://www.duokan.com/book/48508
-[133]:	http://www.duokan.com/book/48501
-[134]:	http://amzn.to/1NXBQOU
-[135]:	http://amzn.to/1QMJejh
-[136]:	http://amzn.to/1QMJejh
-[137]:	https://www.amazon.cn/%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89-%E5%90%B4%E5%86%9B/dp/B00KYDXI70/ref=sr_1_2?ie=UTF8&qid=1471159002&sr=8-2&keywords=%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89
+[39]:	https://www.amazon.cn/dp/B00A76JAEE/ref=sr_1_1?ie=UTF8&qid=1485596590&sr=8-1
+[40]:	http://amzn.com/0307887898
+[41]:	http://www.duokan.com/book/11407
+[42]:	http://www.duokan.com/book/25077
+[43]:	http://www.duokan.com/book/41419
+[44]:	http://www.duokan.com/book/246
+[45]:	http://www.amazon.cn/dp/B00B2HDEB2
+[46]:	http://www.duokan.com/book/15162
+[47]:	http://www.amazon.cn/dp/B00D73BJWK
+[48]:	http://www.amazon.cn/dp/B0084ASO7E
+[49]:	http://www.duokan.com/book/42974
+[50]:	http://amzn.com/0307463745
+[51]:	http://www.duokan.com/book/41692
+[52]:	http://www.duokan.com/book/10892
+[53]:	http://www.duokan.com/book/571
+[54]:	http://www.amazon.cn/dp/B00LO3SVSA
+[55]:	http://www.duokan.com/book/14182
+[56]:	http://www.duokan.com/book/43384
+[57]:	http://amzn.com/0804139296
+[58]:	http://book.douban.com/subject/6855803/
+[59]:	http://amzn.com/1591847788
+[60]:	http://book.douban.com/subject/26272662/
+[61]:	http://book.douban.com/subject/6511603/
+[62]:	http://amzn.com/1492348430
+[63]:	http://amzn.to/1H1jLgk
+[64]:	http://amzn.to/1Ms8BFO
+[65]:	http://amzn.to/1Phtp0l
+[66]:	http://amzn.to/1KuLOYk
+[67]:	http://amzn.to/1FYFubv
+[68]:	http://amzn.to/1GQ3eJM
+[69]:	http://www.amazon.cn/gp/product/B00AIG0PGK?psc=1&ref_=oh_aui_detailpage_o00_s00we
+[70]:	http://amzn.to/1UrfSGK
+[71]:	http://amzn.to/1ISc6DH
+[72]:	http://amzn.to/1hKhn4P
+[73]:	http://amzn.to/1mnmuuJ
+[74]:	http://amzn.to/1QMJejh
+[75]:	http://amzn.to/212uWhH
+[76]:	http://amzn.to/1WiQIKL
+[77]:	https://book.douban.com/subject/26749968/
+[78]:	https://www.amazon.cn/%E6%8A%80%E6%9C%AF%E5%85%83%E7%B4%A0-%E5%87%AF%E6%96%87%E2%80%A2%E5%87%AF%E5%88%A9/dp/B007UWX814/ref=sr_1_1?ie=UTF8&qid=1462021086&sr=8-1&keywords=%E6%8A%80%E6%9C%AF%E5%85%83%E7%B4%A0
+[79]:	https://www.amazon.cn/%E7%A1%85%E8%B0%B7%E9%92%A2%E9%93%81%E4%BE%A0-%E5%9F%83%E9%9A%86%C2%B7%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E5%86%92%E9%99%A9%E4%BA%BA%E7%94%9F-%E9%98%BF%E4%BB%80%E5%88%A9%C2%B7%E4%B8%87%E6%96%AF/dp/B01DVVQVMK/ref=sr_1_1?ie=UTF8&qid=1466304953&sr=8-1&keywords=%E7%A1%85%E8%B0%B7%E9%92%A2%E9%93%81%E4%BE%A0
+[80]:	http://blog.swat.io/ebooks/the-psychology-of-snapchat-marketing/
+[81]:	http://amzn.to/2aqIxLN
+[82]:	https://book.douban.com/subject/26838557/
+[83]:	https://book.douban.com/subject/26897884/
+[84]:	https://book.douban.com/subject/26885117/
+[85]:	https://zhuanlan.zhihu.com/p/24560493 "”分水岭“大时代"
+[86]:	[https://www.amazon.cn/dp/B01COZU1M0/ref=sr%5C_1%5C_1?ie=UTF8&qid=1483745161&sr=8-1&keywords=%E5%95%86%E4%B8%9A%E7%9A%84%E6%9C%AC%E8%B4%A8]
+[87]:	https://book.douban.com/subject/25926542/
+[88]:	http://amzn.com/0321344758
+[89]:	http://amzn.com/0789723107
+[90]:	http://www.slideshare.net/intelleto/designing-with-lean-ux-rapid-product-design-ux-lisbon-2014
+[91]:	http://www.duokan.com/book/2127
+[92]:	http://www.duokan.com/book/12852
+[93]:	http://www.amazon.cn/dp/B00CW7HDQI
+[94]:	http://www.amazon.cn/dp/B00CW7HDX6
+[95]:	http://www.amazon.cn/dp/B00CW7HE2Q
+[96]:	http://www.amazon.cn/dp/B00CW7HCJG
+[97]:	http://www.duokan.com/book/17217
+[98]:	http://cdn.ustwo.com/PPP/PP3.pdf
+[99]:	http://uxpin.com/mobile-design-patterns.html
+[100]:	http://www.amazon.cn/dp/B005XI936G
+[101]:	http://book.douban.com/subject/1291969/
+[102]:	http://book.douban.com/subject/26128084/
+[103]:	http://www.amazon.cn/gp/product/B00KGRA0DO?psc=1&ref_=oh_aui_detailpage_o00_s00
+[104]:	http://amzn.com/0735619670
+[105]:	http://amzn.to/1d9xzKn
+[106]:	http://amzn.to/1L9936i
+[107]:	http://amzn.to/1FF8hfl
+[108]:	http://amzn.to/1PfR41v
+[109]:	http://amzn.to/1LphvUR
+[110]:	http://amzn.to/1hf0RcO
+[115]:	https://www.amazon.cn/%E6%B7%B1%E6%B3%BD%E7%9B%B4%E4%BA%BA-%E6%B7%B1%E6%B3%BD%E7%9B%B4%E4%BA%BA/dp/B01M23OKCP/ref=sr_1_1?ie=UTF8&qid=1480182289
+[116]:	http://amzn.com/0761169253
+[117]:	http://amzn.com/034553025X
+[118]:	http://amzn.com/1455528714
+[119]:	http://www.slideshare.net/bunky34/produce-like-picasso-mastering-design-delivery-sxsw
+[120]:	http://amzn.com/0553351397
+[121]:	http://amzn.to/1G6vaLj
+[122]:	http://www.amazon.cn/gp/product/B00LF54E10?selectObb=new
+[123]:	http://book.douban.com/subject/1313181/
+[124]:	http://amzn.to/1RapsOW
+[125]:	http://b.xinshengdaxue.com/
+[126]:	https://book.douban.com/subject/26897884/
+[127]:	https://www.amazon.cn/dp/B01MYZABDX/ref=sr_1_2?ie=UTF8&qid=1483864575
+[128]:	http://amzn.to/1NXBQOU
+[129]:	https://www.amazon.cn/dp/B01MZ4Z5DQ/ref=sr_1_1?ie=UTF8&qid=1485317193
+[130]:	http://amzn.to/1QMJejh
+[131]:	http://amzn.to/1QMJejh
+[132]:	https://www.amazon.cn/%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89-%E5%90%B4%E5%86%9B/dp/B00KYDXI70/ref=sr_1_2?ie=UTF8&qid=1471159002&sr=8-2&keywords=%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89
+[133]:	http://book.douban.com/subject/1815640/
+[134]:	http://book.douban.com/subject/2567698/
+[135]:	http://book.douban.com/subject/2340609/
+[136]:	http://www.duokan.com/book/41972
+[137]:	http://www.duokan.com/book/41755
+[138]:	http://www.duokan.com/book/48508
+[139]:	http://www.duokan.com/book/48501
