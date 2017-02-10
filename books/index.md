@@ -146,22 +146,23 @@ I’m a voracious reader, reading the classic books is the one of the best thing
 * [新生-七年就是一辈子][125]
 * [把时间当作朋友][126]
 * [刻意练习：如何从新手到大师][127]
+* [好好学习：个人知识管理精进指南][128]
 
 ### History
-* [人类简史: 从动物到上帝][128]
-* [未来简史][129]
-*  [耶路撒冷三千年][130]
-* [生命是什么][131]
-* [文明之光第一册][132]
+* [人类简史: 从动物到上帝][129]
+* [未来简史][130]
+*  [耶路撒冷三千年][131]
+* [生命是什么][132]
+* [文明之光第一册][133]
 
 ### Literature/Novel/ETC...
-* [王小波杂文第一卷][133]
-* [三体][134]
-* [2001太空漫游][135]
-* [世界经典电影大记录][136]
-* [奥黛丽·赫本：落入凡间的天使][137]
-* [阮一峰博客文集 1：如何变得有思想?][138]
-* [阮一峰博客文集 2：一个寻找作者的读者][139]
+* [王小波杂文第一卷][134]
+* [三体][135]
+* [2001太空漫游][136]
+* [世界经典电影大记录][137]
+* [奥黛丽·赫本：落入凡间的天使][138]
+* [阮一峰博客文集 1：如何变得有思想?][139]
+* [阮一峰博客文集 2：一个寻找作者的读者][140]
 
 [1]:	http://amzn.com/0201657880
 [2]:	http://amzn.com/1849967202
@@ -286,15 +287,16 @@ I’m a voracious reader, reading the classic books is the one of the best thing
 [125]:	http://b.xinshengdaxue.com/
 [126]:	https://book.douban.com/subject/26897884/
 [127]:	https://www.amazon.cn/dp/B01MYZABDX/ref=sr_1_2?ie=UTF8&qid=1483864575
-[128]:	http://amzn.to/1NXBQOU
-[129]:	https://www.amazon.cn/dp/B01MZ4Z5DQ/ref=sr_1_1?ie=UTF8&qid=1485317193
-[130]:	http://amzn.to/1QMJejh
+[128]:	https://www.amazon.cn/dp/B01MZ6L4JS/ref=sr_1_1?ie=UTF8&qid=1486387258&sr=8-1
+[129]:	http://amzn.to/1NXBQOU
+[130]:	https://www.amazon.cn/dp/B01MZ4Z5DQ/ref=sr_1_1?ie=UTF8&qid=1485317193
 [131]:	http://amzn.to/1QMJejh
-[132]:	https://www.amazon.cn/%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89-%E5%90%B4%E5%86%9B/dp/B00KYDXI70/ref=sr_1_2?ie=UTF8&qid=1471159002&sr=8-2&keywords=%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89
-[133]:	http://book.douban.com/subject/1815640/
-[134]:	http://book.douban.com/subject/2567698/
-[135]:	http://book.douban.com/subject/2340609/
-[136]:	http://www.duokan.com/book/41972
-[137]:	http://www.duokan.com/book/41755
-[138]:	http://www.duokan.com/book/48508
-[139]:	http://www.duokan.com/book/48501
+[132]:	http://amzn.to/1QMJejh
+[133]:	https://www.amazon.cn/%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89-%E5%90%B4%E5%86%9B/dp/B00KYDXI70/ref=sr_1_2?ie=UTF8&qid=1471159002&sr=8-2&keywords=%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89
+[134]:	http://book.douban.com/subject/1815640/
+[135]:	http://book.douban.com/subject/2567698/
+[136]:	http://book.douban.com/subject/2340609/
+[137]:	http://www.duokan.com/book/41972
+[138]:	http://www.duokan.com/book/41755
+[139]:	http://www.duokan.com/book/48508
+[140]:	http://www.duokan.com/book/48501
