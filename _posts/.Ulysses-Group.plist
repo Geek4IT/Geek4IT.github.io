@@ -1246,6 +1246,16 @@
 					<integer>55</integer>
 				</dict>
 			</dict>
+			<key>2017-03-12-一分钟经理人.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>510941085.31351298</real>
+				<key>version</key>
+				<dict>
+					<key>c026491d14da156712adce60a0368d772fc96212709b9713ddac15677d29e593</key>
+					<integer>65</integer>
+				</dict>
+			</dict>
 			<key>2017-03-18-长征.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -1256,6 +1266,16 @@
 					<integer>59</integer>
 				</dict>
 			</dict>
+			<key>2017-03-5-从点子到产品.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>510941328.97866601</real>
+				<key>version</key>
+				<dict>
+					<key>c026491d14da156712adce60a0368d772fc96212709b9713ddac15677d29e593</key>
+					<integer>71</integer>
+				</dict>
+			</dict>
 		</dict>
 		<key>sheetOrder</key>
 		<real>504937602.89605898</real>
@@ -1264,6 +1284,12 @@
 	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>2017-03-5-从点子到产品.md</string>
+		</array>
+		<array>
+			<string>2017-03-12-一分钟经理人.md</string>
+		</array>
 		<array>
 			<string>2017-02-18-穷查理宝典.md</string>
 		</array>
@@ -1651,7 +1677,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>c026491d14da156712adce60a0368d772fc96212709b9713ddac15677d29e593</key>
-			<integer>60</integer>
+			<integer>72</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
