@@ -1256,6 +1256,18 @@
 					<integer>59</integer>
 				</dict>
 			</dict>
+			<key>2017-04-02-学会提问.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>512935169.61469603</real>
+				<key>version</key>
+				<dict>
+					<key>495d1442db2dce30bf8cd18e4fe08614851e25873b61826238c63900e54412c9</key>
+					<integer>8</integer>
+					<key>c026491d14da156712adce60a0368d772fc96212709b9713ddac15677d29e593</key>
+					<integer>60</integer>
+				</dict>
+			</dict>
 		</dict>
 		<key>sheetOrder</key>
 		<real>504937602.89605898</real>
@@ -1264,6 +1276,9 @@
 	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>2017-04-02-学会提问.md</string>
+		</array>
 		<array>
 			<string>2017-02-18-穷查理宝典.md</string>
 		</array>
@@ -1651,7 +1666,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>495d1442db2dce30bf8cd18e4fe08614851e25873b61826238c63900e54412c9</key>
-			<integer>1</integer>
+			<integer>9</integer>
 			<key>c026491d14da156712adce60a0368d772fc96212709b9713ddac15677d29e593</key>
 			<integer>60</integer>
 		</dict>
