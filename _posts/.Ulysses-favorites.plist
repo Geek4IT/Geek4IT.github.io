@@ -3,11 +3,26 @@
 <plist version="1.0">
 <dict>
 	<key>order</key>
-	<array/>
+	<array>
+		<string>2017-04-28-独角兽之路.md</string>
+	</array>
 	<key>resolutionData</key>
 	<dict>
 		<key>order</key>
-		<dict/>
+		<dict>
+			<key>2017-04-28-独角兽之路.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>515250443.68050498</real>
+				<key>version</key>
+				<dict>
+					<key>495d1442db2dce30bf8cd18e4fe08614851e25873b61826238c63900e54412c9</key>
+					<integer>13</integer>
+					<key>c026491d14da156712adce60a0368d772fc96212709b9713ddac15677d29e593</key>
+					<integer>54</integer>
+				</dict>
+			</dict>
+		</dict>
 	</dict>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
@@ -16,7 +31,7 @@
 		<key>order</key>
 		<dict>
 			<key>495d1442db2dce30bf8cd18e4fe08614851e25873b61826238c63900e54412c9</key>
-			<integer>11</integer>
+			<integer>15</integer>
 			<key>c026491d14da156712adce60a0368d772fc96212709b9713ddac15677d29e593</key>
 			<integer>54</integer>
 		</dict>
