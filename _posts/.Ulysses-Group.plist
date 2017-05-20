@@ -1336,14 +1336,14 @@
 					<integer>23</integer>
 				</dict>
 			</dict>
-			<key>2017-05-20-爆款是怎样炼成的-产品经理晋级宝典.md</key>
+			<key>2017-05-20-爆款是怎样炼成的：产品经理晋级宝典.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>516987852.17891401</real>
+				<real>516996385.650258</real>
 				<key>version</key>
 				<dict>
 					<key>495d1442db2dce30bf8cd18e4fe08614851e25873b61826238c63900e54412c9</key>
-					<integer>29</integer>
+					<integer>31</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -1353,7 +1353,7 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>2017-05-20-爆款是怎样炼成的-产品经理晋级宝典.md</string>
+			<string>2017-05-20-爆款是怎样炼成的：产品经理晋级宝典.md</string>
 		</array>
 		<array>
 			<string>2017-05-13-一网打尽.md</string>
@@ -1764,7 +1764,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>495d1442db2dce30bf8cd18e4fe08614851e25873b61826238c63900e54412c9</key>
-			<integer>30</integer>
+			<integer>32</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
