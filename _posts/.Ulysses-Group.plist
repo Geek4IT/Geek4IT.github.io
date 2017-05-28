@@ -1346,12 +1346,25 @@
 					<integer>31</integer>
 				</dict>
 			</dict>
+			<key>2017-05-28-精益数据分析.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>517639585.92587101</real>
+				<key>version</key>
+				<dict>
+					<key>495d1442db2dce30bf8cd18e4fe08614851e25873b61826238c63900e54412c9</key>
+					<integer>37</integer>
+				</dict>
+			</dict>
 		</dict>
 		<key>sheetOrder</key>
 		<real>515241404.33903903</real>
 	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>2017-05-28-精益数据分析.md</string>
+		</array>
 		<array>
 			<string>2017-05-20-爆款是怎样炼成的：产品经理晋级宝典.md</string>
 		</array>
@@ -1764,7 +1777,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>495d1442db2dce30bf8cd18e4fe08614851e25873b61826238c63900e54412c9</key>
-			<integer>32</integer>
+			<integer>38</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
