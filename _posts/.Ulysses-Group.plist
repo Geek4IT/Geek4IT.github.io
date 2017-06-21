@@ -1376,12 +1376,25 @@
 					<integer>47</integer>
 				</dict>
 			</dict>
+			<key>2017-06-21-Insanely Simple.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>519765491.48162502</real>
+				<key>version</key>
+				<dict>
+					<key>495d1442db2dce30bf8cd18e4fe08614851e25873b61826238c63900e54412c9</key>
+					<integer>53</integer>
+				</dict>
+			</dict>
 		</dict>
 		<key>sheetOrder</key>
 		<real>515241404.33903903</real>
 	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>2017-06-21-Insanely Simple.md</string>
+		</array>
 		<array>
 			<string>2017-06-11-HOOKED.md</string>
 		</array>
@@ -1803,7 +1816,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>495d1442db2dce30bf8cd18e4fe08614851e25873b61826238c63900e54412c9</key>
-			<integer>48</integer>
+			<integer>54</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
