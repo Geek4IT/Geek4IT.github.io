@@ -1406,12 +1406,25 @@
 					<integer>66</integer>
 				</dict>
 			</dict>
+			<key>2017-07-16-寻找光和影的原点.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>521884380.49168199</real>
+				<key>version</key>
+				<dict>
+					<key>495d1442db2dce30bf8cd18e4fe08614851e25873b61826238c63900e54412c9</key>
+					<integer>73</integer>
+				</dict>
+			</dict>
 		</dict>
 		<key>sheetOrder</key>
 		<real>515241404.33903903</real>
 	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>2017-07-16-寻找光和影的原点.md</string>
+		</array>
 		<array>
 			<string>2017-07-15-陌陌唐岩.md</string>
 		</array>
@@ -1842,7 +1855,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>495d1442db2dce30bf8cd18e4fe08614851e25873b61826238c63900e54412c9</key>
-			<integer>66</integer>
+			<integer>74</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
