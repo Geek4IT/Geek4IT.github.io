@@ -1452,12 +1452,27 @@
 					<integer>12</integer>
 				</dict>
 			</dict>
+			<key>2017-08-01-运营之光.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>523254665.50964397</real>
+				<key>version</key>
+				<dict>
+					<key>495d1442db2dce30bf8cd18e4fe08614851e25873b61826238c63900e54412c9</key>
+					<integer>81</integer>
+					<key>c026491d14da156712adce60a0368d772fc96212709b9713ddac15677d29e593</key>
+					<integer>12</integer>
+				</dict>
+			</dict>
 		</dict>
 		<key>sheetOrder</key>
 		<real>515241404.33903903</real>
 	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>2017-08-01-运营之光.md</string>
+		</array>
 		<array>
 			<string>2017-07-30-跃迁.md</string>
 		</array>
@@ -1900,7 +1915,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>495d1442db2dce30bf8cd18e4fe08614851e25873b61826238c63900e54412c9</key>
-			<integer>78</integer>
+			<integer>82</integer>
 			<key>c026491d14da156712adce60a0368d772fc96212709b9713ddac15677d29e593</key>
 			<integer>12</integer>
 		</dict>
