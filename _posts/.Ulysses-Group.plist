@@ -1476,12 +1476,39 @@
 					<integer>12</integer>
 				</dict>
 			</dict>
+			<key>2017-08-13-区块链世界.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>524357182.41720998</real>
+				<key>version</key>
+				<dict>
+					<key>495d1442db2dce30bf8cd18e4fe08614851e25873b61826238c63900e54412c9</key>
+					<integer>94</integer>
+					<key>c026491d14da156712adce60a0368d772fc96212709b9713ddac15677d29e593</key>
+					<integer>12</integer>
+				</dict>
+			</dict>
+			<key>2017-08-19-卓有成效的管理者.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>524357215.31834</real>
+				<key>version</key>
+				<dict>
+					<key>495d1442db2dce30bf8cd18e4fe08614851e25873b61826238c63900e54412c9</key>
+					<integer>101</integer>
+					<key>c026491d14da156712adce60a0368d772fc96212709b9713ddac15677d29e593</key>
+					<integer>12</integer>
+				</dict>
+			</dict>
 		</dict>
 		<key>sheetOrder</key>
 		<real>515241404.33903903</real>
 	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>2017-08-19-卓有成效的管理者.md</string>
+		</array>
 		<array>
 			<string>2017-08-05-杰克•韦尔奇自传.md</string>
 		</array>
@@ -1920,6 +1947,9 @@
 		<array>
 			<string>2017-04-23-社交红利.md</string>
 		</array>
+		<array>
+			<string>2017-08-13-区块链世界.md</string>
+		</array>
 	</array>
 	<key>sheetOrder</key>
 	<string>title,descending</string>
@@ -1930,7 +1960,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>495d1442db2dce30bf8cd18e4fe08614851e25873b61826238c63900e54412c9</key>
-			<integer>90</integer>
+			<integer>102</integer>
 			<key>c026491d14da156712adce60a0368d772fc96212709b9713ddac15677d29e593</key>
 			<integer>12</integer>
 		</dict>
