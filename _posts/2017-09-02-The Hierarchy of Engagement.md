@@ -1,19 +1,21 @@
 ---
 date: 2017-09-02    23:00:00+00:00
 layout: post
-title: The Hierarachy of Engagement(R)
-thread: 134
+title: The Hierarachy of Engagement
+thread: 133
 categories: Reading
 tags:  Reading
 ---
 
 
 
+产品的一些思考：
+
 
 
 产品的基础模型：用户增长；留存用户；正向循环。
 
-关注用户增长核心的点应该是完成产品所定义的核心行为的用户，而不是简单的下载量。比如 Facebook 是达成好友关系，Instagram 是 PO 图，微信是聊天，今日头条是阅读新闻。
+关注用户增长核心的点应该是完成产品所定义的核心行为的用户，而不是简单的下载量。比如 Facebook 是达成好友关系，Instagram 是 PO 图，微信是聊天，今日头条是阅读  Feed。
 
 但看总的下载量意义不大，说明不了什么核心问题，虽然能够让你自我感觉良好，容易陷入虚假繁荣。
 
