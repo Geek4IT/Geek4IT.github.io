@@ -1,7 +1,7 @@
 ---
 date: 2017-09-02    23:00:00+00:00
 layout: post
-title: The Hierarachy of Engagement
+title: The Hierarchy of Engagement
 thread: 133
 categories: Reading
 tags:  Reading
@@ -43,7 +43,5 @@ tags:  Reading
 > * 使用收益递增和离开损失递增：翻牌行为越多，匹配率越高；
 > * 正向循环：没有良好的正向循环，产品闭环没有打通，用户约会成功之后，往往将关系和互动迁移到常用的社交软件。
 
-
-
-
+产品的飞轮效应和人类历史中从狩猎采集活动转向粮食生产活动的过程类似，采纳粮食生产是一个在正反馈循环中自身催化的过程，这个过程一旦开始，速度就越来越快。
 
