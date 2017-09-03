@@ -11,7 +11,7 @@ tags:  Reading
 
 2017-06-21 RATING:  7/10
 
-[疯狂的简洁][1]
+[疯狂的简洁][https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B00J7JDRUK]
 
 作者：美[ Ken Segall]()
 
