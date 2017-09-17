@@ -44,11 +44,11 @@ border-radius:4px;
 p img {
 clear:both;
 display:block;
+max-width:100%;
+height:auto;
 margin-left:auto;
 margin-right:auto;
-border:0px solid #FFF;
--webkit-box-shadow:0 1px 3px #ccc;
--moz-box-shadow:0 1px 3px #ccc;
+border:0;
 }
 
 body {

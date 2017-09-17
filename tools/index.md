@@ -21,11 +21,13 @@ iPad Pro WLAN 32 G
 ![](/images/tools/iPadPro.png)
 
 iPhone 6 Plus 64G
-2015
+2015.10
+![](/images/tools/iPhone6Plus.jpg)
+
 
 MacBook Pro 15" 256G(2013)
 2014.0
-![](/images/tools/MacBookPro 2013.png)
+![](/images/tools/MacBookPro 2013.jpg)
 
 
 iPad 2 16 G
