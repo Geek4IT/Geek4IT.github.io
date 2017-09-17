@@ -14,7 +14,7 @@ thread: 618
 ![](/images/tools/乐视超级电视 X65S.jpg)
 
 小米笔记本Air 13.3 i5 256G
-![](/images/tools小米笔记本Air2.jpg)
+![](/images/tools/小米笔记本Air2.jpg)
 
 小米笔记本Air 13.3 256G
 ![](/images/tools/小米笔记本Air.jpg)
