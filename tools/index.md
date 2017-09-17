@@ -5,6 +5,14 @@ comments: yes
 thread: 618
 ---
 
+
+
+
+乐视超级电视 X65S
+2017.02
+![](/images/tools/乐视超级电视 X65S.jpg)
+
+
 iPad Air 2 128G
 2017.02.26
 
@@ -35,3 +43,6 @@ iPad 2 16 G
 
 ![](/images/tools/iPad2.jpg)
 
+RASPBERRY PI
+2014.07
+![](/images/tools/RASPBERRY PI.jpeg)
