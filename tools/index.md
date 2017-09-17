@@ -13,11 +13,17 @@ thread: 618
 乐视超级电视 X65S
 ![](/images/tools/乐视超级电视 X65S.jpg)
 
+小米笔记本Air 13.3 i5 256G
+![](/images/tools小米笔记本Air2.jpg)
+
+小米笔记本Air 13.3 256G
+![](/images/tools/小米笔记本Air.jpg)
 
 iPad Air 2 128G
 2017.02.26
 
 ![](/images/tools/iPadAir2.jpg)
+
 
 MacBook Pro 15" 512G(2016)
 2017.02.10
