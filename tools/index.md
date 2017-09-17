@@ -7,9 +7,10 @@ thread: 618
 
 
 
+小米电视4 55英寸
+![](/images/tools/小米电视4 55英寸.jpg)
 
 乐视超级电视 X65S
-2017.02
 ![](/images/tools/乐视超级电视 X65S.jpg)
 
 
