@@ -19,6 +19,10 @@ thread: 618
 小米笔记本Air 13.3 256G
 ![](/images/tools/小米笔记本Air.jpg)
 
+米家 LED 智能台灯
+![](/images/tools/小米智能台灯.jpg)
+
+
 iPad Air 2 128G
 2017.02.26
 
