@@ -112,6 +112,8 @@ I’m a voracious reader, reading the classic books is the one of the best thing
 * [上瘾:让用户养成使用习惯的四大产品逻辑][100]
 * [游戏改变世界](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B01M22C5TZ)
 * [鞋狗](https://www.amazon.cn/%E9%9E%8B%E7%8B%97-%E8%80%90%E5%85%8B%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%8F%B2%E5%B0%94%C2%B7%E5%A5%88%E7%89%B9%E4%BA%B2%E7%AC%94%E8%87%AA%E4%BC%A0-%E8%8F%B2%E5%B0%94%C2%B7%E5%A5%88%E7%89%B9/dp/B06XYZCFG2)
+* [Hacking Growth: How Today's Fastest-Growing Companies Drive Breakout Success](https://www.amazon.com/Hacking-Growth-Fastest-Growing-Companies-Breakout/dp/045149721X)
+* [将心注入](https://www.amazon.cn/dp/B011MRSRKO)
 
 ### Economic
 * [一本书读懂财务报表][101]
@@ -216,16 +218,16 @@ I’m a voracious reader, reading the classic books is the one of the best thing
   [27]:http://amzn.to/1RV4G44
   [28]:http://amzn.to/1WcjDz5
   [29]:http://amzn.to/1HDLRMs
-  [30]:http://www.amazon.cn/gp/product/B0176QDPUW?psc=1&amp;amp;amp;ref_=oh_aui_detailpage_o00_s00
+  [30]:http://www.amazon.cn/gp/product/B0176QDPUW?psc=1&amp;amp;amp;amp;amp;ref_=oh_aui_detailpage_o00_s00
   [31]:http://amzn.to/1YWSlOK
-  [32]:https://www.amazon.cn/%E5%A4%A7%E5%9E%8B%E7%BD%91%E7%AB%99%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84-%E6%A0%B8%E5%BF%83%E5%8E%9F%E7%90%86%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90-%E6%9D%8E%E6%99%BA%E6%85%A7/dp/B00F3Z26G8/ref=sr_1_1?ie=UTF8&amp;amp;amp;qid=1466305059&amp;amp;amp;sr=8-1&amp;amp;amp;keywords=%E5%A4%A7%E5%9E%8B%E7%BD%91%E7%AB%99%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84+%E6%A0%B8%E5%BF%83%E5%8E%9F%E7%90%86%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90
+  [32]:https://www.amazon.cn/%E5%A4%A7%E5%9E%8B%E7%BD%91%E7%AB%99%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84-%E6%A0%B8%E5%BF%83%E5%8E%9F%E7%90%86%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90-%E6%9D%8E%E6%99%BA%E6%85%A7/dp/B00F3Z26G8/ref=sr_1_1?ie=UTF8&amp;amp;amp;amp;amp;qid=1466305059&amp;amp;amp;amp;amp;sr=8-1&amp;amp;amp;amp;amp;keywords=%E5%A4%A7%E5%9E%8B%E7%BD%91%E7%AB%99%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84+%E6%A0%B8%E5%BF%83%E5%8E%9F%E7%90%86%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90
   [33]:https://bboyfeiyu.gitbooks.io/software-architecture-patterns/content/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E6%A8%A1%E5%BC%8F.html
   [34]:https://www.gitbook.com/read/book/yeasy/docker_practice
   [36]:http://jsonformatter.curiousconcept.com
   [37]:https://book.douban.com/subject/24737674/
-  [38]:https://www.amazon.cn/dp/B01F5SYZPC/ref=sr_1_1?s=books&amp;amp;amp;ie=UTF8&amp;amp;amp;qid=1484470792
+  [38]:https://www.amazon.cn/dp/B01F5SYZPC/ref=sr_1_1?s=books&amp;amp;amp;amp;amp;ie=UTF8&amp;amp;amp;amp;amp;qid=1484470792
   [39]:%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%88%86%E5%B8%83%E5%BC%8F%E5%AD%98%E5%82%A8%E7%B3%BB%E7%BB%9F%EF%BC%9A%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90%E4%B8%8E%E6%9E%B6%E6%9E%84%E5%AE%9E%E6%88%98
-  [40]:https://www.amazon.cn/dp/B00A76JAEE/ref=sr_1_1?ie=UTF8&amp;amp;amp;qid=1485596590&amp;amp;amp;sr=8-1
+  [40]:https://www.amazon.cn/dp/B00A76JAEE/ref=sr_1_1?ie=UTF8&amp;amp;amp;amp;amp;qid=1485596590&amp;amp;amp;amp;amp;sr=8-1
   [41]:http://amzn.com/0307887898
   [42]:http://www.duokan.com/book/11407
   [43]:http://www.duokan.com/book/25077
@@ -255,7 +257,7 @@ I’m a voracious reader, reading the classic books is the one of the best thing
   [67]:http://amzn.to/1KuLOYk
   [68]:http://amzn.to/1FYFubv
   [69]:http://amzn.to/1GQ3eJM
-  [70]:http://www.amazon.cn/gp/product/B00AIG0PGK?psc=1&amp;amp;amp;ref_=oh_aui_detailpage_o00_s00we
+  [70]:http://www.amazon.cn/gp/product/B00AIG0PGK?psc=1&amp;amp;amp;amp;amp;ref_=oh_aui_detailpage_o00_s00we
   [71]:http://amzn.to/1UrfSGK
   [72]:http://amzn.to/1ISc6DH
   [73]:http://amzn.to/1hKhn4P
@@ -264,15 +266,15 @@ I’m a voracious reader, reading the classic books is the one of the best thing
   [76]:http://amzn.to/212uWhH
   [77]:http://amzn.to/1WiQIKL
   [78]:https://book.douban.com/subject/26749968/
-  [79]:https://www.amazon.cn/%E6%8A%80%E6%9C%AF%E5%85%83%E7%B4%A0-%E5%87%AF%E6%96%87%E2%80%A2%E5%87%AF%E5%88%A9/dp/B007UWX814/ref=sr_1_1?ie=UTF8&amp;amp;amp;qid=1462021086&amp;amp;amp;sr=8-1&amp;amp;amp;keywords=%E6%8A%80%E6%9C%AF%E5%85%83%E7%B4%A0
-  [80]:https://www.amazon.cn/%E7%A1%85%E8%B0%B7%E9%92%A2%E9%93%81%E4%BE%A0-%E5%9F%83%E9%9A%86%C2%B7%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E5%86%92%E9%99%A9%E4%BA%BA%E7%94%9F-%E9%98%BF%E4%BB%80%E5%88%A9%C2%B7%E4%B8%87%E6%96%AF/dp/B01DVVQVMK/ref=sr_1_1?ie=UTF8&amp;amp;amp;qid=1466304953&amp;amp;amp;sr=8-1&amp;amp;amp;keywords=%E7%A1%85%E8%B0%B7%E9%92%A2%E9%93%81%E4%BE%A0
+  [79]:https://www.amazon.cn/%E6%8A%80%E6%9C%AF%E5%85%83%E7%B4%A0-%E5%87%AF%E6%96%87%E2%80%A2%E5%87%AF%E5%88%A9/dp/B007UWX814/ref=sr_1_1?ie=UTF8&amp;amp;amp;amp;amp;qid=1462021086&amp;amp;amp;amp;amp;sr=8-1&amp;amp;amp;amp;amp;keywords=%E6%8A%80%E6%9C%AF%E5%85%83%E7%B4%A0
+  [80]:https://www.amazon.cn/%E7%A1%85%E8%B0%B7%E9%92%A2%E9%93%81%E4%BE%A0-%E5%9F%83%E9%9A%86%C2%B7%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E5%86%92%E9%99%A9%E4%BA%BA%E7%94%9F-%E9%98%BF%E4%BB%80%E5%88%A9%C2%B7%E4%B8%87%E6%96%AF/dp/B01DVVQVMK/ref=sr_1_1?ie=UTF8&amp;amp;amp;amp;amp;qid=1466304953&amp;amp;amp;amp;amp;sr=8-1&amp;amp;amp;amp;amp;keywords=%E7%A1%85%E8%B0%B7%E9%92%A2%E9%93%81%E4%BE%A0
   [81]:http://blog.swat.io/ebooks/the-psychology-of-snapchat-marketing/
   [82]:http://amzn.to/2aqIxLN
   [83]:https://book.douban.com/subject/26838557/
   [84]:https://book.douban.com/subject/26897884/
   [85]:https://book.douban.com/subject/26885117/
   [86]:https://zhuanlan.zhihu.com/p/24560493 "”分水岭“大时代"
-  [87]:https://www.amazon.cn/dp/B01COZU1M0/ref=sr%5C_1%5C_1?ie=UTF8&amp;amp;amp;qid=1483745161&amp;amp;amp;sr=8-1&amp;amp;amp;keywords=%E5%95%86%E4%B8%9A%E7%9A%84%E6%9C%AC%E8%B4%A8
+  [87]:https://www.amazon.cn/dp/B01COZU1M0/ref=sr%5C_1%5C_1?ie=UTF8&amp;amp;amp;amp;amp;qid=1483745161&amp;amp;amp;amp;amp;sr=8-1&amp;amp;amp;amp;amp;keywords=%E5%95%86%E4%B8%9A%E7%9A%84%E6%9C%AC%E8%B4%A8
   [88]:https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B00E5YZOFI
   [89]:https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B00B4L6UQC
   [90]:https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B00E5YZOFI
@@ -302,7 +304,7 @@ I’m a voracious reader, reading the classic books is the one of the best thing
   [114]:http://www.amazon.cn/dp/B005XI936G
   [115]:http://book.douban.com/subject/1291969/
   [116]:http://book.douban.com/subject/26128084/
-  [117]:http://www.amazon.cn/gp/product/B00KGRA0DO?psc=1&amp;amp;amp;ref_=oh_aui_detailpage_o00_s00
+  [117]:http://www.amazon.cn/gp/product/B00KGRA0DO?psc=1&amp;amp;amp;amp;amp;ref_=oh_aui_detailpage_o00_s00
   [118]:http://amzn.com/0735619670
   [119]:http://amzn.to/1d9xzKn
   [120]:http://amzn.to/1L9936i
@@ -310,7 +312,7 @@ I’m a voracious reader, reading the classic books is the one of the best thing
   [122]:http://amzn.to/1PfR41v
   [123]:http://amzn.to/1LphvUR
   [124]:http://amzn.to/1hf0RcO
-  [129]:https://www.amazon.cn/%E6%B7%B1%E6%B3%BD%E7%9B%B4%E4%BA%BA-%E6%B7%B1%E6%B3%BD%E7%9B%B4%E4%BA%BA/dp/B01M23OKCP/ref=sr_1_1?ie=UTF8&amp;amp;amp;qid=1480182289
+  [129]:https://www.amazon.cn/%E6%B7%B1%E6%B3%BD%E7%9B%B4%E4%BA%BA-%E6%B7%B1%E6%B3%BD%E7%9B%B4%E4%BA%BA/dp/B01M23OKCP/ref=sr_1_1?ie=UTF8&amp;amp;amp;amp;amp;qid=1480182289
   [130]:https://book.douban.com/subject/25910219/
   [131]:https://www.amazon.cn/%E7%B4%A2%E5%B0%BC%E8%AE%BE%E8%AE%A1-%E5%A1%91%E9%80%A0%E7%8E%B0%E4%BB%A3-%E8%BF%AA%E8%80%B6-%E8%90%A8%E8%BF%AA%E5%A5%87/dp/B07233R96Y
   [132]:https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B00J7JDRUK
@@ -325,16 +327,16 @@ I’m a voracious reader, reading the classic books is the one of the best thing
   [141]:http://amzn.to/1RapsOW
   [142]:http://b.xinshengdaxue.com/
   [143]:https://book.douban.com/subject/26897884/
-  [144]:https://www.amazon.cn/dp/B01MYZABDX/ref=sr_1_2?ie=UTF8&amp;amp;amp;qid=1483864575
-  [145]:https://www.amazon.cn/dp/B01MZ6L4JS/ref=sr_1_1?ie=UTF8&amp;amp;amp;qid=1486387258&amp;amp;amp;sr=8-1
+  [144]:https://www.amazon.cn/dp/B01MYZABDX/ref=sr_1_2?ie=UTF8&amp;amp;amp;amp;amp;qid=1483864575
+  [145]:https://www.amazon.cn/dp/B01MZ6L4JS/ref=sr_1_1?ie=UTF8&amp;amp;amp;amp;amp;qid=1486387258&amp;amp;amp;amp;amp;sr=8-1
   [146]:https://www.amazon.cn/%E5%AD%A6%E4%BC%9A%E6%8F%90%E9%97%AE-%E5%B0%BC%E5%B0%94-%E5%B8%83%E6%9C%97/dp/B00AH8Z384
   [147]:https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B00B4L6UQC
   [148]:https://www.amazon.cn/dp/B073LJPDPY
   [149]:http://amzn.to/1NXBQOU
-  [150]:https://www.amazon.cn/dp/B01MZ4Z5DQ/ref=sr_1_1?ie=UTF8&amp;amp;amp;qid=1485317193
+  [150]:https://www.amazon.cn/dp/B01MZ4Z5DQ/ref=sr_1_1?ie=UTF8&amp;amp;amp;amp;amp;qid=1485317193
   [151]:http://amzn.to/1QMJejh
   [152]:http://amzn.to/1QMJejh
-  [153]:https://www.amazon.cn/%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89-%E5%90%B4%E5%86%9B/dp/B00KYDXI70/ref=sr_1_2?ie=UTF8&amp;amp;amp;qid=1471159002&amp;amp;amp;sr=8-2&amp;amp;amp;keywords=%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89
+  [153]:https://www.amazon.cn/%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89-%E5%90%B4%E5%86%9B/dp/B00KYDXI70/ref=sr_1_2?ie=UTF8&amp;amp;amp;amp;amp;qid=1471159002&amp;amp;amp;amp;amp;sr=8-2&amp;amp;amp;amp;amp;keywords=%E6%96%87%E6%98%8E%E4%B9%8B%E5%85%89
   [154]:http://book.douban.com/subject/1815640/
   [155]:http://book.douban.com/subject/2567698/
   [156]:http://book.douban.com/subject/2340609/
