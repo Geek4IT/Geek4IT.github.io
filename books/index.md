@@ -116,6 +116,7 @@ I’m a voracious reader, reading the classic books is the one of the best thing
 * [将心注入](https://www.amazon.cn/dp/B011MRSRKO)
 * [颠覆者](https://www.amazon.cn/%E9%A2%A0%E8%A6%86%E8%80%85-%E5%91%A8%E9%B8%BF%E7%A5%8E%E8%87%AA%E4%BC%A0-%E5%91%A8%E9%B8%BF%E7%A5%8E-%E8%8C%83%E6%B5%B7%E6%B6%9B/dp/B076LXD6BD)
 * [商战](https://www.amazon.cn/商战-阿尔•里斯/dp/B004TEI20S)
+* [干法](https://www.amazon.cn/%E5%B9%B2%E6%B3%95-%E7%A8%BB%E7%9B%9B%E5%92%8C%E5%A4%AB/dp/B010UZE6VS)
 
 ### Economic
 * [一本书读懂财务报表][101]
@@ -174,6 +175,7 @@ I’m a voracious reader, reading the classic books is the one of the best thing
 * [礼物][147]
 * [跃迁:成为高手的技术][148]
 * [先发影响力](https://www.amazon.cn/%E5%85%88%E5%8F%91%E5%BD%B1%E5%93%8D%E5%8A%9B-%E7%BD%97%E4%BC%AF%E7%89%B9%C2%B7B-%E8%A5%BF%E5%A5%A5%E8%BF%AA%E5%B0%BC/dp/B074R49STT)
+* [Principles](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021)
 
 ### History
 * [人类简史: 从动物到上帝][149]
