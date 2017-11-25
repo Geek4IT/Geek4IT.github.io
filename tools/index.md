@@ -6,6 +6,9 @@ thread: 618
 ---
 
 
+[iPhone X](https://www.apple.com/iphone-x/)
+![](/images/tools/iPhone X.jpg)
+
 [锤子坚果 Pro](http://www.smartisan.com/jianguopro/#/overview)
 ![](/images/tools/坚果Pro.jpeg)
 
