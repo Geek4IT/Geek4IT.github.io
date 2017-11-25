@@ -34,6 +34,12 @@ tags:  Reading
 
 
 
+![](/images/Principles/Ray Dalio.jpg)
+
+
+
+
+
 # **Part 1: The Importance of Principles**
 
 
