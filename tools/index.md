@@ -6,6 +6,8 @@ thread: 618
 ---
 
 
+[锤子坚果 Pro](http://www.smartisan.com/jianguopro/#/overview)
+![](/images/tools/坚果Pro.jpeg)
 
 小米电视4 55英寸
 ![](/images/tools/小米电视4 55英寸.jpg)
