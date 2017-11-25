@@ -13,7 +13,8 @@ tags:  Reading
 
 
 
-2017-11-19 RATING:  9/10
+2017-11-19  RATING:  **10/10**
+
 
 
 [Principles](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021)
@@ -524,6 +525,14 @@ The process goes better if you are as accurate as possible in all respects, incl
 
 
 
+
+
+
+PS:
+
+[TED: How The Economic Machine Works](https://www.youtube.com/watch?v=HXbsVbFAczg)
+
+[Tony Robbins interviews billionaire Ray Dalio - author of Principles](https://www.youtube.com/watch?v=uN7MNHoE6bM)
 
 
 
