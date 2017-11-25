@@ -34,6 +34,10 @@ tags:  Reading
 
 
 
+# **Part 1: The Importance of Principles**
+
+
+
 **Why are  principles  important？**
 
 * Esssiential for getting what we want out of life.
@@ -54,6 +58,10 @@ Allow your action consistent with your values.(values are about what you conside
 
 * Forge them by yourself from our own experiences and reflections on those experiences.
 * Accept others’ principles ,even holistic packaged principles.(it is not necessarily a bad thing to use others’ principles,but having others’ without much thought may lead a risk of inconsistency to your true values. )
+
+
+
+# Part 2: My Most Fundamental Life Principles
 
 
 
@@ -193,13 +201,229 @@ By and large, life will give you what you deserve and it doesn’t give a damn w
 
 
 
+## The 5 Steps Close-Up
+
+### 1) Setting Goals
+
+You can have virtually anything you want, but you can’t have everything you want.
+
+
+
+To achieve your goals you have to prioritize, and that includes rejecting good alternatives (so that you have the time and resources to pursue even better ones—time being probably your greatest limiting factor, though, through leverage, you can substantially reduce time’s constraints).
+
+
+
+Failing to make the distinction between goals and desires will lead you in the wrong direction, because you will be inclined to pursue things you want that will undermine your ability to get things you want more. In short, you can pursue anything you desire—just make sure that you know the consequences of what you are doing.
+
+
+
+Another common reason people fail at this stage is that they lose sight of their goals, getting caught up in day-to-day tasks.
+
+
+
+In other words, there is almost no reason not to succeed if you take the attitude of 1) total flexibility—good answers can come from anyone or anywhere (and in fact, as I have mentioned, there are far more good answers “out there” than there are in you) and 2) total accountability: regardless of where the good answers come from, it’s your job to find them.
+
+
+
+Generally speaking, goal-setting is best done by those who are good at big-picture conceptual thinking, synthesizing, visualizing, and prioritizing. But whatever your strengths and weaknesses are, don’t forget the big and really great news here: it is not essential that you have all of these qualities yourself, because you can supplement them with the help of others.
+
+
+
+In summary, in order to get what you want, the first step is to really know what you want, without confusing goals with desires, and without limiting yourself because of some imagined impediments that you haven’t thoroughly analyzed.
+
+
+
+You can ask the people around you for help—or even ask them to do the things you don’t do well.
+
+
+
+### 2) Identifying and Not Tolerating Problems
+
+
+
+**Most problems are potential improvements screaming at you.**
+
+
+
+The more painful the problem, the louder it is screaming.In order to be successful, you have to 1) perceive problems and 2) not tolerate them.
+
+
+
+It is essential to bring problems to the surface. Most people don’t like to do this. But most successful people know that they have to do this. The most common reasons people don’t successfully identify their problems are generally rooted either in a lack of will or in a lack of talent or skill.
+
+
+
+When identifying problems, it is important to remain centered and logical.
+
+
+
+Remember that the pains you are feeling are “growing pains” that will test your character and reward you if you push through them. Try to look at your problems as a detached observer would. Remember that identifying problems is like finding gems embedded in puzzles; if you solve the puzzles you will get the gems that will make your life much better. Doing this continuously will lead to your rapid evolution. So, if you’re logical, you really should get excited about finding problems because identifying them will bring you closer to your goals.
+
+
+
+Be very precise in specifying your problems.
+
+
+
+Don’t confuse problems with causes.
+
+
+
+Once you identify your problems, you must not tolerate them.
+
+
+
+People who are good at this step—identifying and not tolerating problems—tend to have strong abilities to perceive and synthesize a clear and accurate picture, as well as demonstrate a fierce intolerance of badness (regardless of the severity).
+
+
+
+### 3) Diagnosing the Problems
+
+
+
+**You will be much more effective if you focus on diagnosis and design rather than jumping to solutions.**
+
+
+
+**You must be calm and logical.**
+
+
+
+**You must get at the root causes.**
+
+
+
+Root causes, like principles, are things that manifest themselves over and over again as the deep-seated reasons behind the actions that cause problems.
+
+
+
+Identifying the real root causes of your problems is essential because you can eliminate your problems only by removing their root causes. In other words, you must understand, accept, and successfully deal with reality in order to move toward your goals.
+
+
+
+To be successful, you must be willing to look at your own behavior and the behavior of others as possible causes of problems.
+
+
+
+The most important qualities for successfully diagnosing problems are logic, the ability to see multiple possibilities, and the willingness to touch people’s nerves to overcome the ego barriers that stand in the way of truth.
+
+
+
+### 4) Designing the Plan (Determining the Solutions)
+
+
+
+Most of the movement toward your goals comes from designing how to remove the root causes of your problems. Problems are great because they are very specific impediments, so you know that you will move forward if you can identify and eliminate their root causes.
+
+
+
+**Creating a design is like writing a movie script in that you visualize who will do what through time in order to achieve the goal.**
+
+
+
+Then write down the plan so you don’t lose sight of it, and include who needs to do what and when. The list of tasks falls out from this story (i.e., the plan), but they are not the same. The story, or plan, is what connects your goals to the tasks. For you to succeed, you must not lose sight of the goals or the story while focusing on the tasks; you must constantly refer back and forth.
+
+
+
+When designing your plan, think about the timelines of various interconnected tasks. Sketch them out loosely and then refine them with the specific tasks. This is an iterative process, alternating between sketching out your broad steps (e.g., hire great people) and filling these in with more specific tasks with estimated timelines (e.g., in the next two weeks choose the headhunters to find the great people) that will have implications (e.g., costs, time, etc.). These will lead you to modify your design sketch until the design and tasks work well together. Being as specific as possible (e.g., specifying who will do what and when) allows you to visualize how the design will work at both a big-picture level and in detail. It will also give you and others the to-do lists and target dates that will help direct you.
+
+
+
+#### Remember: Designing precedes doing!
+
+
+
+### 5) Doing the Tasks 
+
+
+
+It is critical to know each day what you need to do and have the discipline to do it.
+
+
+
+People who are good at this stage can reliably execute a plan. They tend to be self-disciplined and proactive rather than reactive to the blizzard of daily tasks that can divert them from execution. They are results-oriented: they love to push themselves over the finish line to achieve the goal.
+
+
+
+As with the other steps, if you aren’t good at this step, get help. There are many successful, creative people who are good at the other steps but who would have failed because they aren’t good at execution. But they succeeded nonetheless because of great symbiotic relationships with highly reliable task-doers.
+
+
+
+#### The Relationships between These Steps
+
+
+
+Goals are the sole purpose of designs and tasks.
+
+
+
+To remember the connections between the tasks and the goals that they are meant to achieve, you just have to ask, “Why?” It is good to connect tasks to goals this way (with the “Why?”), because losing sight of the connections will prevent you from succeeding.
+
+
+
+Again, this 5-Step Process is iterative. This means that after completing one of the steps you will probably have acquired relevant information that leads you to modify the other steps.
+
+
+
+#### Weaknesses Don’t Matter if You Find Solutions
+
+
+
+To repeat, the best advice I can give you is to ask yourself what you want, then ask ‘what is true,’ and then ask yourself ‘what should be done about it.’ If you honestly ask and answer these questions you will move much faster towards what you want to get out of life than if you don’t!
+
+
+
+Most importantly, ask yourself what is your biggest weakness that stands in the way of what you want.
+
+
+
+When you encounter that pain, try to remember that you can get what you want out of life if you can open-mindedly reflect, with the help of others, on what is standing in your way and then deal with it.
+
+
+
+Being weak at any one of these steps is not a problem if you understand what you are weak at and successfully compensate for that weakness by seeking help.
+
+
+
+It is easy to find out what weaknesses are standing in your way by 1) identifying which steps you are failing at and 2) getting the feedback of people who are successful at doing what you are having problems with.
+
+
+
+![](/images/Principles/5 Steps Process.png)
 
 
 
 
 
+**In a nutshell, my 5-Step process for achieving what you want is: Values -> 1) Goals -> 2) Problems -> 3) Diagnoses -> 4) Designs -> 5) Tasks**
 
 
+
+Your values determine what you want, i.e., your goals. In trying to achieve your goals, you will encounter problems that have to be diagnosed. Only after determining the real root causes of these problems can you design a plan to get around them. Once you have a good plan, you have to muster the self-discipline to do what is required to make the plan succeed. Note that this process starts with your values, but it requires that you succeed at all five steps. While these steps require different abilities, you don’t have to be good at all of them. If you aren’t good at all of them (which is true for almost everyone), you need to know what you are bad at and how to compensate for your weaknesses. This requires you to put your ego aside, objectively reflect on your strengths and weaknesses, and seek the help from others.
+
+
+
+Life is like a game where you seek to overcome the obstacles that stand in the way of achieving your goals.
+
+You get better at this game through practice.
+
+The game consists of a series of choices that have consequences.
+
+You can’t stop the problems and choices from coming at you, so it’s better to learn how to deal with them.
+
+You have the freedom to make whatever choices you want, though it’s best to be mindful of their consequences.
+
+
+
+The pain of problems is a call to find solutions rather than a reason for unhappiness and inaction, so it’s silly, pointless, and harmful to be upset at the problems and choices that come at you (though it’s understandable).
+
+
+
+The process goes better if you are as accurate as possible in all respects, including assessing your strengths and weaknesses and adapting to them.
+
+
+
+# Part 3: My Management Principles
 
 
 
