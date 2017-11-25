@@ -96,6 +96,121 @@ Allow your action consistent with your values.(values are about what you conside
 
 
 
+**The Personal Evolutionary Process**
+
+
+
+The quality of our lives depends on the quality of the decisions we make.
+
+
+
+We aren’t born with the ability to make good decisions; we learn it.
+
+
+
+Reality + Dreams + Determination = A Successful Life
+
+
+
+What is essential is that you are clear about what you want and that you figure out how to get it.
+
+
+
+This basic principle suggests that you can follow one of two paths to happiness: 
+
+* Have high expectations and strive to exceed them;
+* Lower your expectations so that they are at or below your conditions.
+
+Most of us choose the first path, which means that to be happy we have to keep evolving.
+
+
+
+The quality of our lives depends on the quality of the decisions we make.
+
+
+
+Most learning comes from making mistakes, reflecting on the causes of the mistakes, and learning what to do differently in the future. Believe it or not, you are lucky to feel the pain if you approach it correctly, because it will signal that you need to find solutions and to progress.
+
+
+
+Pain + Reflection = Progress
+
+
+
+People who worry about looking good typically hide what they don’t know and hide their weaknesses, so they never learn how to properly deal with them and these weaknesses remain impediments in the future. 
+
+
+
+People who are interested in making the best possible decisions rarely are confident that they have the best possible answers.
+
+
+
+**Your Two Yous and Your Machine**
+
+
+
+Those who are most successful are capable of “higher level thinking”.
+
+
+
+ I call it “higher level thinking” because your perspective is of one who is looking down on at your machine and yourself objectively.
+
+
+
+![](/images/Principles/Thinking Machine.png)
+
+
+
+**Think of it as though there are two yous—you as the designer and overseer of the plan to achieve your goals (let’s call that one you(1)) and you as one of the participants in pursuing that mission (which we will call you(2)). You(2) are a resource that you(1) have to get what you(1) want, but by no means your only resource. To be successful you(1) have to be objective about you(2).**
+
+
+
+If you(1) see that you(2) are not capable of doing something, it is only sensible for you(1) to have someone else do it. In other words, you(1) should look down on you(2) and all the other resources at your(1) disposal and create a “machine” to achieve your(1) goals, remembering that you(1) don’t necessarily need to do anything other than to design and manage the machine to get what you(1) want. If you(1) find that you(2) can’t do something well fire yourself(2) and get a good replacement! You shouldn’t be upset that you found out that you(2) are bad at that—you(1) should be happy because you(1) have improved your(1) chances of getting what you(1) want. If you(1) are disappointed because you(2) can’t be the best person to do everything, you(1) are terribly naïve because nobody can do everything well.
+
+
+
+The biggest mistake most people make is to not see themselves and others objectively. If they could just get around this, they could live up to their potentials.
+
+
+
+**My 5-Step Process to Getting What You Want Out of Life**
+
+
+
+“The Process” consists of five distinct steps: a) Have clear goals. b) Identify and don’t tolerate the problems that stand in the way of achieving your goals. c) Accurately diagnose these problems. d) Design plans that explicitly lay out tasks that will get you around your problems and on to your goals. e) Implement these plans—i.e., do these tasks.
+
+
+
+A few general points about the process: a) You must approach these as distinct steps rather than blur them together. b) Each of these five steps requires different talents and disciplines. c) It is essential to approach this process in a very clear-headed, rational way rather than emotionally.
+
+
+
+Treat your life like a game or a martial art. Your mission is to figure out how to get around your challenges to get to your goals. In the process of playing the game or practicing this martial art, you will become more skilled. As you get better, you will progress to ever-higher levels of the game that will require—and teach you—greater skills.
+
+
+
+By and large, life will give you what you deserve and it doesn’t give a damn what you “like.” So it is up to you to take full responsibility to connect what you want with what you need to do to get it, and then to do those things—which often are difficult but produce good results—so that you’ll then deserve to get what you want.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
