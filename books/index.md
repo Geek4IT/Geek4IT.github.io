@@ -116,7 +116,7 @@ I’m a voracious reader, reading the classic books is the one of the best thing
 * [将心注入](https://www.amazon.cn/dp/B011MRSRKO)
 * [颠覆者](https://www.amazon.cn/%E9%A2%A0%E8%A6%86%E8%80%85-%E5%91%A8%E9%B8%BF%E7%A5%8E%E8%87%AA%E4%BC%A0-%E5%91%A8%E9%B8%BF%E7%A5%8E-%E8%8C%83%E6%B5%B7%E6%B6%9B/dp/B076LXD6BD)
 * [商战](https://www.amazon.cn/商战-阿尔•里斯/dp/B004TEI20S)
-* [干法](https://www.amazon.cn/%E5%B9%B2%E6%B3%95-%E7%A8%BB%E7%9B%9B%E5%92%8C%E5%A4%AB/dp/B010UZE6VS)
+
 
 ### Economic
 * [一本书读懂财务报表][101]
@@ -155,6 +155,8 @@ I’m a voracious reader, reading the classic books is the one of the best thing
 * [索尼设计，塑造现代][131]
 * [疯狂的简洁][132]
 * [世界美术名作二十讲](https://www.amazon.cn/%E4%B8%96%E7%95%8C%E7%BE%8E%E6%9C%AF%E5%90%8D%E4%BD%9C%E4%BA%8C%E5%8D%81%E8%AE%B2-%E5%82%85%E9%9B%B7/dp/B06XCWSSJW)
+* [创世纪](https://www.amazon.cn/Sebasti%C3%A3o-Salgado-GENESIS-%E5%A1%9E%E5%B7%B4%E6%96%AF%E6%8F%90%E5%A5%A5%C2%B7%E8%90%A8%E5%B0%94%E5%8A%A0%E5%A4%9A/dp/B00LUKIVO6)
+
 
 ### Wisdom
 
@@ -176,6 +178,8 @@ I’m a voracious reader, reading the classic books is the one of the best thing
 * [跃迁:成为高手的技术][148]
 * [先发影响力](https://www.amazon.cn/%E5%85%88%E5%8F%91%E5%BD%B1%E5%93%8D%E5%8A%9B-%E7%BD%97%E4%BC%AF%E7%89%B9%C2%B7B-%E8%A5%BF%E5%A5%A5%E8%BF%AA%E5%B0%BC/dp/B074R49STT)
 * [Principles](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021)
+* [干法](https://www.amazon.cn/%E5%B9%B2%E6%B3%95-%E7%A8%BB%E7%9B%9B%E5%92%8C%E5%A4%AB/dp/B010UZE6VS)
+* [活法](https://www.amazon.cn/活法-稻盛和夫/dp/B007QJEZEA)
 
 ### History
 * [人类简史: 从动物到上帝][149]
