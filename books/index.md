@@ -158,7 +158,7 @@ I’m a voracious reader, reading the classic books is the one of the best thing
 * [创世纪](https://www.amazon.cn/Sebasti%C3%A3o-Salgado-GENESIS-%E5%A1%9E%E5%B7%B4%E6%96%AF%E6%8F%90%E5%A5%A5%C2%B7%E8%90%A8%E5%B0%94%E5%8A%A0%E5%A4%9A/dp/B00LUKIVO6)
 
 
-### Wisdom
+### Seeking Wisdom/Evolve Yourself
 
 * [Steal Like an Artist: 10 Things Nobody Told You About Being Creative][133]
 * [The talent code of 52 tips][134]
@@ -180,6 +180,7 @@ I’m a voracious reader, reading the classic books is the one of the best thing
 * [Principles](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021)
 * [干法](https://www.amazon.cn/%E5%B9%B2%E6%B3%95-%E7%A8%BB%E7%9B%9B%E5%92%8C%E5%A4%AB/dp/B010UZE6VS)
 * [活法](https://www.amazon.cn/活法-稻盛和夫/dp/B007QJEZEA)
+* [清单革命](https://www.amazon.cn/%E6%B8%85%E5%8D%95%E9%9D%A9%E5%91%BD-%E5%A6%82%E4%BD%95%E6%8C%81%E7%BB%AD-%E6%AD%A3%E7%A1%AE-%E5%AE%89%E5%85%A8%E5%9C%B0%E6%8A%8A%E4%BA%8B%E6%83%85%E5%81%9A%E5%A5%BD-%E9%98%BF%E5%9B%BE%E2%80%A2%E8%91%9B%E6%96%87%E5%BE%B7/dp/B008BQ343U)
 
 ### History
 * [人类简史: 从动物到上帝][149]
