@@ -38,6 +38,8 @@ MacBook Pro 15" 512G(2016)
 2017.02.10
 ![](/images/tools/MacBookPro 2016.png)
 
+[HHKB](https://www.amazon.com/PFU-Hacking-Keyboard-Professional2-English/dp/B008GXQWOG)
+![](/images/tools/HHKB.jpg)
 
 iPad Pro WLAN 32 G
 2016.03.31
