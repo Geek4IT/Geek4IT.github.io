@@ -5,6 +5,8 @@ comments: yes
 thread: 618
 ---
 
+小米 AI 音箱
+![](/images/tools/小米AI音箱.jpeg) 
 
 [iPhone X](https://www.apple.com/iphone-x/)
 ![](/images/tools/iPhone X.jpg)
