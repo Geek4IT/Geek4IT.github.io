@@ -5,8 +5,8 @@ comments: yes
 thread: 618
 ---
 
-NanoS
-![](/images/tools/NanoS.jpeg)
+Ledger NanoS
+![](/images/tools/NanoS.png)
 
 OnePlus 5
 ![](/images/tools/OnePlus.jpeg)
