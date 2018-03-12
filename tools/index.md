@@ -1,9 +1,15 @@
 ---
 layout: page
-title: Cool Tools
+title: LOVE for Cool Tools
 comments: yes
 thread: 618
 ---
+
+NanoS
+![](/images/tools/NanoS.jpeg)
+
+OnePlus 5
+![](/images/tools/OnePlus.jpeg)
 
 小米 AI 音箱
 ![](/images/tools/小米AI音箱.jpeg) 
