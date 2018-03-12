@@ -13,23 +13,8 @@ comments: no
   <p>I <a href="https://github.com/Geek4IT">Code</a><p>
   <p>I <a href="http://geek4it.com/design/">Design</a><p>
   <p>I <a href="http://geek4it.com">Write</a><p>
-  <p>Geek4IT = Geek for IT<p>
-  <p>Geek means the passion, love and concentration for something.<p>
+  <p>GEEK4IT = GEEK for IT<p>
+  <p>GEEK means the passion, love and concentration for something.<p>
   <p>IT represents the thing that want to do when I wake up in the morning.<p>
   <p>Phonetics:[ɡi:k'fɔrit]<p>
 </div>
-
-----
-
-###Contact：
-
-
-Twitter：[{{ site.twitter }}](https://twitter.com/{{ site.twitter }})
-
-Blog：[{{ site.name }}]({{ site.url }})
-
-Mail：[{{ site.email }}](mailto:{{ site.email }})
-
-GitHub : [http://github.com/{{ site.github }}](http://github.com/{{ site.github }})
-
-----
